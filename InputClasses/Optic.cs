@@ -37,11 +37,13 @@ namespace Axis_ProdTimeDB.InputClasses
                 foreach (var row in newSort)
                 {
 
-                    InputClass.addProdFam(row.ProdFam, row.workcenter);
-                    int length = Int32.Parse(row.Length);
-                    InputClass.addOption(optionName, row.Sum, length);
+                   ProdFamTB.AddInstance(row.ProdFam, row.workcenter);
 
-                    InputClass.addParam("Optics", row.Optic);
+
+                    int length = Int32.Parse(row.Length);
+                    OptionTB.AddInstance(optionName, row.Sum, length);
+
+                    ParametersTB.AddInstance("Optics", row.Optic);
 
 
                     OptionTB.AddParam(optionName, row.Sum, "Optics", row.Optic);

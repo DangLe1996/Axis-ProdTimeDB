@@ -59,9 +59,9 @@ namespace Axis_ProdTimeDB.InputClasses
 
 
 
-                        InputClass.addProduct(prod, row.workcenter);
-                        InputClass.addOption(optionName, row.Sum);
-                        InputClass.addParam("SectionType", row.type);
+                        ProdTB.AddInstance(prod, row.workcenter);
+                        OptionTB.AddInstance(optionName, row.Sum);
+                        ParametersTB.AddInstance("SectionType", row.type);
                         ProdTB.AddOption(prod, row.workcenter, optionName, row.Sum);
                         OptionTB.AddParam(optionName, row.Sum, "SectionType", row.type);
 

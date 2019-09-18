@@ -48,9 +48,10 @@ namespace Axis_ProdTimeDB.InputClasses
                     }
 
 
-                    InputClass.addProduct(row.Product, row.workcenter);
-                    InputClass.addOption(optionName, row.Sum);
-                    InputClass.addParam("Mounting", mouting);
+                    ProdTB.AddInstance(row.Product, row.workcenter);
+                    
+                    OptionTB.AddInstance(optionName, row.Sum);
+                    ParametersTB.AddInstance("Mounting", mouting);
 
                     ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
 

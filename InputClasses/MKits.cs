@@ -40,9 +40,9 @@ namespace Axis_ProdTimeDB.InputClasses
                 foreach (var row in newSort)
                 {
 
-                    InputClass.addFixture(row.Fixture, row.workcenter);
-                    InputClass.addOption(optionName, row.Sum);
-                    InputClass.addParam("Mounting", row.mounting);
+                   FixtureTB.AddInstance(row.Fixture, row.workcenter);
+                    OptionTB.AddInstance(optionName, row.Sum);
+                    ParametersTB.AddInstance("Mounting", row.mounting);
 
                     OptionTB.AddParam(optionName, row.Sum, "Mounting", row.mounting);
                     FixtureTB.AddOption(row.Fixture, row.workcenter, optionName, row.Sum);

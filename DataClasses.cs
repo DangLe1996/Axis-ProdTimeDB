@@ -22,6 +22,24 @@ namespace Axis_ProdTimeDB
         public string OpDesc { get; set; }
         public string WorkCenter { get; set; }
 
+        public static void AddInstance(string prodCode, string workcenter)
+        {
+            
+                using (var db = new TimeContext())
+                {
+                    var prod = db.Prod.Where(item => item.ProdCode == prodCode && item.WorkCenter == workcenter).FirstOrDefault();
+                    if (prod == null)
+                    {
+                        db.Prod.Add(new ProdTB
+                        {
+                            ProdCode = prodCode,
+                            WorkCenter = workcenter
+                        });
+                    }
+                    db.SaveChanges();
+                }
+            
+        }
 
         private ICollection<OptionTB> _Options;
         public virtual ICollection<OptionTB> Options
@@ -83,8 +101,23 @@ namespace Axis_ProdTimeDB
         {
             Options.Add(option);
         }
-
-        public static void AddOption(string product, string workcenter, string optionName, double prodTime, int? SectionLength = null)
+        public static void AddInstance(string prodCode, string workCenter)
+        {
+            using (var db = new TimeContext())
+            {
+                var prod = db.Prod.Where(item => item.ProdCode == prodCode && item.WorkCenter == workCenter).FirstOrDefault();
+                if (prod == null)
+                {
+                    db.Prod.Add(new ProdTB
+                    {
+                        ProdCode = prodCode,
+                        WorkCenter = workCenter
+                    });
+                }
+                db.SaveChanges();
+            }
+        }
+            public static void AddOption(string product, string workcenter, string optionName, double prodTime, int? SectionLength = null)
         {
             using (var db = new TimeContext())
             {
@@ -127,6 +160,25 @@ namespace Axis_ProdTimeDB
         public string OpDesc { get; set; }
         public string WorkCenter { get; set; }
 
+        public static void AddInstance(string FixtureCode, string WorkCenter)
+        {
+            using (var db = new TimeContext())
+            {
+
+                var fixture = db.Fixtures.Where(item => item.FxCode == FixtureCode && item.WorkCenter == WorkCenter).FirstOrDefault();
+                if (fixture == null)
+                {
+                    db.Fixtures.Add(new FixtureTB
+                    {
+                        FxCode = FixtureCode,
+                        WorkCenter = WorkCenter
+                    });
+                }
+
+                db.SaveChanges();
+            }
+
+        }
 
 
         private ICollection<OptionTB> _Options;
@@ -238,6 +290,29 @@ namespace Axis_ProdTimeDB
             }
         }
 
+        public static void AddInstance(string optionName, double ProdTime, int? SectionLength = null)
+        {
+            using (var db = new TimeContext())
+            {
+                var optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == ProdTime
+                && item.sectionLength == SectionLength).FirstOrDefault();
+                if (optionindex == null)
+                {
+                    db.Options.Add(new OptionTB
+                    {
+                        OptionName = optionName,
+                        ProdTime = ProdTime,
+                        sectionLength = SectionLength
+
+                    });
+                }
+
+                db.SaveChanges();
+
+
+            }
+
+        }
 
 
 
@@ -270,6 +345,39 @@ namespace Axis_ProdTimeDB
         {
             Options.Add(Option);
         }
+
+
+        public static void addParam(string ParamName, string ParamValue)
+        {
+            using (var db = new TimeContext())
+            {
+                var paramindex = db.Params.Where(item => item.ParamName == ParamName && item.ParamValue == ParamValue).FirstOrDefault();
+                if (paramindex == null)
+                {
+                    db.Params.Add(new ParametersTB { ParamName = ParamName, ParamValue = ParamValue });
+                }
+
+                db.SaveChanges();
+            }
+
+        }
+
+        public static void AddInstance(string ParamName, string ParamValue)
+        {
+            using (var db = new TimeContext())
+            {
+                var paramindex = db.Params.Where(item => item.ParamName == ParamName && item.ParamValue == ParamValue).FirstOrDefault();
+                if (paramindex == null)
+                {
+                    db.Params.Add(new ParametersTB { ParamName = ParamName, ParamValue = ParamValue });
+                }
+
+                db.SaveChanges();
+            }
+
+        }
+
+
     }
 
 

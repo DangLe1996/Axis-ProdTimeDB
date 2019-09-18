@@ -27,30 +27,6 @@ namespace Axis_ProdTimeDB
             //Optic opticInput = new Optic(@"C:\Users\dangl\source\repos\Axis-ProdTimeDB\Data\Optic.csv");
             //CartBoard cartBoardInput = new CartBoard(@"C:\Users\dangl\Source\repos\Axis-ProdTimeDB\Data\CartridgeBoard.csv");
 
-            //using (var db = new TimeContext())
-            //{
-
-
-            //    //    //    string fxcode = "Grid";
-            //    //    //    string workcenter = "Double Saw";
-            //    //    //    var fixture = db.Fixtures.Where(r => r.FxCode == fxcode && r.WorkCenter == "Double Saw").FirstOrDefault();
-
-            //    string prodcode = "BBRLED";
-            //    string prodFam = "B4LED";
-            //    string fixture = "recessed";
-            //    string workcenter = "Drill";
-            //    var product = db.Prod.Where(r => r.ProdCode == prodcode && r.WorkCenter == workcenter).FirstOrDefault();
-            //    var productlist = db.Prod.Where(r => r.ProdCode == prodcode ).ToList();
-            //    var fixturelist = db.Fixtures.Where(r => r.FxCode == fixture).ToList();
-            //    var profamlist = db.ProdFam.Where(r => r.FamCode == prodFam).ToList();
-
-
-
-
-
-
-
-            //}
 
 
 
@@ -68,6 +44,9 @@ namespace Axis_ProdTimeDB
 
 
         }
+
+
+
         public DataTable ConvertCSVtoDataTable(string strFilePath)
         {
             StreamReader sr = new StreamReader(strFilePath);
