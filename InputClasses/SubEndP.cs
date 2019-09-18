@@ -46,53 +46,15 @@ namespace Axis_ProdTimeDB.InputClasses
                             mouting = "-";
                             break;
                     }
-                    var prod = db.Prod.Where(item => item.ProdCode == row.Product && item.WorkCenter == row.workcenter).FirstOrDefault();
-                    if (prod == null)
-                    {
-                        db.Prod.Add(new ProdTB
-                        {
-                            ProdCode = row.Product,
-                            WorkCenter = row.workcenter
-                        });
-                    }
-                    var optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == row.Sum).FirstOrDefault();
-                    if (optionindex == null)
-                    {
-                        db.Options.Add(new OptionTB
-                        {
-                            OptionName = optionName,
-                            ProdTime = row.Sum,
-
-                        });
-                    }
 
 
-                    var paramindex = db.Params.Where(item => item.ParamName == "Mounting" && item.ParamValue == mouting).FirstOrDefault();
-                    if (paramindex == null)
-                    {
-                        db.Params.Add(new ParametersTB { ParamName = "Mounting", ParamValue = mouting });
-                    }
+                    InputClass.addProduct(row.Product, row.workcenter);
+                    InputClass.addOption(optionName, row.Sum);
+                    InputClass.addParam("Mounting", mouting);
 
-                    db.SaveChanges();
+                    ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
 
-                     prod = db.Prod.Where(item => item.ProdCode == row.Product && item.WorkCenter == row.workcenter).FirstOrDefault();
-                     optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == row.Sum).FirstOrDefault();
-                  
-
-
-                    if (!prod.Options.Contains(optionindex))
-                    {
-                        prod.Options.Add(optionindex);
-                        db.SaveChanges();
-                    }
-
-                     paramindex = db.Params.Where(item => item.ParamName == "Mounting" && item.ParamValue == mouting).FirstOrDefault();
-                    if (!optionindex.Params.Contains(paramindex))
-                    {
-                        optionindex.Params.Add(paramindex);
-                        db.SaveChanges();
-                    }
-
+                    OptionTB.AddParam(optionName, row.Sum, "Mounting", mouting);
 
 
                 }
@@ -101,7 +63,7 @@ namespace Axis_ProdTimeDB.InputClasses
 
 
 
-            
+
         }
     }
 }

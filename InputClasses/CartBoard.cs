@@ -12,7 +12,7 @@ using System.Data;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class CartBoard: Program
+    class CartBoard : Program
     {
 
         public static Session epiSession = new Session("Dang", "Lebaodang96!", "net.tcp://EPICORERP/Epicor10Test", Session.LicenseType.Default, @"C:\Epicor\ERP10.1Client\Client\Config\Epicor10Test.sysconfig");
@@ -57,61 +57,15 @@ namespace Axis_ProdTimeDB.InputClasses
                     using (var db = new TimeContext())
                     {
 
-                        OptionTB optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == row.Sum).FirstOrDefault();
-                        ParametersTB paramindex = db.Params.Where(item => item.ParamName == "SectionType" && item.ParamValue == row.type).FirstOrDefault();
-                        ProdTB product = db.Prod.Where(item => item.ProdCode == prod && item.WorkCenter == row.workcenter).FirstOrDefault();
-
-                        if (paramindex == null)
-                        {
-                            db.Params.Add(new ParametersTB
-                            {
-                                ParamName = "SectionType",
-                                ParamValue = row.type
 
 
-                            });
-                            db.SaveChanges();
-                        }
-                        if (optionindex == null)
-                        {
-                            db.Options.Add(new OptionTB
-                            {
-                                OptionName = optionName,
-                                ProdTime = row.Sum
+                        InputClass.addProduct(prod, row.workcenter);
+                        InputClass.addOption(optionName, row.Sum);
+                        InputClass.addParam("SectionType", row.type);
+                        ProdTB.AddOption(prod, row.workcenter, optionName, row.Sum);
+                        OptionTB.AddParam(optionName, row.Sum, "SectionType", row.type);
 
 
-                            });
-                            db.SaveChanges();
-                        }
-
-                        
-                        if(product == null)
-                        {
-                           
-                            db.Prod.Add(new ProdTB
-                            {
-                                ProdCode = prod,
-                                WorkCenter = row.workcenter,
-                            });
-                            db.SaveChanges();
-                        }
-
-
-                         optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == row.Sum).FirstOrDefault();
-                         paramindex = db.Params.Where(item => item.ParamName == "SectionType" && item.ParamValue == row.type).FirstOrDefault();
-                         product = db.Prod.Where(item => item.ProdCode == prod && item.WorkCenter == row.workcenter).FirstOrDefault();
-
-
-                        if(!product.Options.Contains(optionindex))
-                        {
-                            product.Options.Add(optionindex);
-                            db.SaveChanges();
-                        }
-                        if (!optionindex.Params.Contains(paramindex))
-                        {
-                            optionindex.Params.Add(paramindex);
-                            db.SaveChanges();
-                        }
                     }
                 }
             }

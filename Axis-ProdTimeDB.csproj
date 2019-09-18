@@ -80,7 +80,13 @@
     <Compile Include="DAL\ProductClass.cs" />
     <Compile Include="DAL\TimeContext.cs" />
     <Compile Include="DataClasses.cs" />
+    <Compile Include="InputClasses\Ballast.cs" />
+    <Compile Include="InputClasses\CartBoard.cs" />
     <Compile Include="InputClasses\InputClass.cs" />
+    <Compile Include="InputClasses\MKits.cs" />
+    <Compile Include="InputClasses\MSTime.cs" />
+    <Compile Include="InputClasses\Optic.cs" />
+    <Compile Include="InputClasses\SubEndP.cs" />
     <Compile Include="Migrations\201909161855553_init.cs" />
     <Compile Include="Migrations\201909161855553_init.Designer.cs">
       <DependentUpon>201909161855553_init.cs</DependentUpon>

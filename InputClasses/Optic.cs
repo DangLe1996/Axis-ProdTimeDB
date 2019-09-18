@@ -36,55 +36,21 @@ namespace Axis_ProdTimeDB.InputClasses
             {
                 foreach (var row in newSort)
                 {
-                    var prodFam = db.ProdFam.Where(item => item.FamCode == row.ProdFam && item.WorkCenter == row.workcenter).FirstOrDefault();
-                    if (prodFam == null)
-                    {
-                        db.ProdFam.Add(new ProdFamTB
-                        {
-                            FamCode = row.ProdFam,
-                            WorkCenter = row.workcenter
-                        });
-                    }
+
+                    InputClass.addProdFam(row.ProdFam, row.workcenter);
                     int length = Int32.Parse(row.Length);
-                    var optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == row.Sum && item.sectionLength == length).FirstOrDefault();
-                    if (optionindex == null)
-                    {
-                        
-                        db.Options.Add(new OptionTB
-                        {
-                            OptionName = optionName,
-                            sectionLength = length,
-                            ProdTime = row.Sum
-                        });
-                    }
+                    InputClass.addOption(optionName, row.Sum, length);
 
-                    var paramindex = db.Params.Where(item => item.ParamName == "Optic" && item.ParamValue == row.Optic).FirstOrDefault();
-                    if (paramindex == null)
-                    {
-                        db.Params.Add(new ParametersTB { ParamName = "Optic", ParamValue = row.Optic });
-                    }
-                    db.SaveChanges();
+                    InputClass.addParam("Optics", row.Optic);
 
 
-
-
-                    prodFam = db.ProdFam.Where(item => item.FamCode == row.ProdFam && item.WorkCenter == row.workcenter).FirstOrDefault();
-                    optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == row.Sum && item.sectionLength == length).FirstOrDefault();
-                    paramindex = db.Params.Where(item => item.ParamName == "Optic" && item.ParamValue == row.Optic).FirstOrDefault();
-
-                    if (!prodFam.Options.Contains(optionindex))
-                        prodFam.Options.Add(optionindex);
-
-                    
-                    if (!optionindex.Params.Contains(paramindex))
-                        optionindex.Params.Add(paramindex);
-
-
+                    OptionTB.AddParam(optionName, row.Sum, "Optics", row.Optic);
+                    ProdFamTB.AddOption(row.ProdFam, row.workcenter, optionName, row.Sum, length);
 
                     db.SaveChanges();
                 }
 
-                
+
 
 
 

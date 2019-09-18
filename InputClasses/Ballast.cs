@@ -8,30 +8,27 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class MKits : Program
+    class Ballast : Program
     {
-        public MKits(string paramFilePath)
+        public Ballast(string paramFilePath)
         {
-            string optionName = "MKits";
+            string optionName = "Ballast";
 
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 
                            group row by new
                            {
-                               ID = row.Field<string>("Fixture Type"),
-                               Mouting = row.Field<string>("Mounting Suspension"),
+                               ID = row.Field<string>("Product ID"),
 
                                Workcenter = row.Field<string>("Work Center")
                            } into grp
                            //orderby grp.Key
                            select new
                            {
-                               Fixture = grp.Key.ID,
-                               mounting = grp.Key.Mouting,
-
+                               Product = grp.Key.ID,
                                workcenter = grp.Key.Workcenter,
-                               Sum = grp.Sum(r => Double.Parse(r.Field<string>("Total Time (min)")))
+                               Sum = grp.Sum(r => Double.Parse(r.Field<string>("UNIT TIME (MIN)")))
                            }).ToList();
 
 
@@ -40,14 +37,13 @@ namespace Axis_ProdTimeDB.InputClasses
                 foreach (var row in newSort)
                 {
 
-                    InputClass.addFixture(row.Fixture, row.workcenter);
+                    InputClass.addProduct(row.Product, row.workcenter);
                     InputClass.addOption(optionName, row.Sum);
-                    InputClass.addParam("Mounting", row.mounting);
-
-                    OptionTB.AddParam(optionName, row.Sum, "Mounting", row.mounting);
-                    FixtureTB.AddOption(row.Fixture, row.workcenter, optionName, row.Sum);
-
+                    ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
                 }
+
+
+
 
 
             }

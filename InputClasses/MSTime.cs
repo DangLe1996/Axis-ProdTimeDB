@@ -52,78 +52,16 @@ namespace Axis_ProdTimeDB.InputClasses
                             mouting = "-";
                             break;
                     }
+                    int length = Int32.Parse(row.length);
 
-                    using (var tran = db.Database.BeginTransaction())
-                    {
-                        var prod = db.Prod.Where(item => item.ProdCode == row.Product && item.WorkCenter == row.workcenter).FirstOrDefault();
-                    if (prod == null)
-                    {
-                        db.Prod.Add(new ProdTB
-                        {
-                            ProdCode = row.Product,
-                            WorkCenter = row.workcenter
-                        });
-                    }
-
-                    var optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == row.Sum).FirstOrDefault();
-                    if (optionindex == null)
-                    {
-                        db.Options.Add(new OptionTB
-                        {
-                            OptionName = optionName,
-                            ProdTime = row.Sum,
-                            sectionLength = Int32.Parse( row.length)
-                            
-                        });
-                    }
-
-                    
-                        var paramindex = db.Params.Where(item => item.ParamName == "Mounting" && item.ParamValue == mouting).FirstOrDefault();
-                        if (paramindex == null)
-                        {
-                            db.Params.Add(new ParametersTB { ParamName = "Mounting", ParamValue = mouting });
-                        }
-
-                        db.SaveChanges();
-                        tran.Commit();
-                    }
-
-                    using (var tran = db.Database.BeginTransaction())
-                    {
-                        var prod = db.Prod.Where(item => item.ProdCode == row.Product && item.WorkCenter == row.workcenter).FirstOrDefault();
-                        int length = Int32.Parse(row.length);
-                        var optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == row.Sum && item.sectionLength == length).FirstOrDefault();
-                        prod = db.Prod.Where(item => item.ProdCode == row.Product && item.WorkCenter == row.workcenter).FirstOrDefault();
-                        optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == row.Sum).FirstOrDefault();
-
-
-                        if (!prod.Options.Contains(optionindex))
-                        {
-                            prod.Options.Add(optionindex);
-                            db.SaveChanges();
-                        }
-                   
-                        var paramindex = db.Params.Where(item => item.ParamName == "Mounting" && item.ParamValue == mouting).FirstOrDefault();
-                        if (!optionindex.Params.Contains(paramindex))
-                        {
-                            optionindex.Params.Add(paramindex);
-                            db.SaveChanges();
-                        }
-                        tran.Commit();
-                    }
+                    InputClass.addProduct(row.Product, row.workcenter);
+                    InputClass.addOption(optionName, row.Sum, length);
+                    InputClass.addParam("Mounting", mouting);
+                    ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum, length);
+                    OptionTB.AddParam(optionName, row.Sum, "Mounting", mouting);
 
 
                 }
-
-
-
-
-
-
-
-
-
-
 
             }
         }
