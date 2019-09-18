@@ -1,0 +1,10 @@
+ Section , Fixture Type , Work Center , Option , ID , Task ,Time(min),,, Row Labels , Sum of Time(min) 
+ Complete Section , pendant , Drilling , endfoption2 , CAD -   , Set-up ,3.00,,, Complete Section ,9.00
+ Complete Section , surface , Drilling , endfoption2 , CAD -   , Set-up ,3.00,,, pendant ,3.00
+ Complete Section , wall , Drilling , endfoption2 , CAD -   , Set-up ,3.00,,, surface ,3.00
+ SR1 , pendant , Drilling , endfoption2 , CAD -   , Set-up ,3.00,,, wall ,3.00
+ SR1 , surface , Drilling , endfoption2 , CAD -   , Set-up ,3.00,,, SR1 ,9.00
+ SR1 , wall , Drilling , endfoption2 , CAD -   , Set-up ,3.00,,, pendant ,3.00
+,,,,,,,,, surface ,3.00
+,,,,,,,,, wall ,3.00
+,,,,,,,,, Grand Total ,18.00

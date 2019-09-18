@@ -1,0 +1,252 @@
+ Product ID , Work Center , Option , Task , Time(min) ,, Sum of Time(min) , Column Labels ,,,,
+ BS , Subassembly , subendc1 , Set-up ,0.00,, Row Labels , Drilling , Subassembly , Milling , Single Saw , Grand Total 
+ BSLED , Subassembly , subendc1 , Set-up ,0.00,, 101C ,5.00,,,,5.00
+ BSLEDPAT , Subassembly , subendc1 , Set-up ,0.00,, 101CA ,5.00,,,,5.00
+ BSPAT , Subassembly , subendc1 , Set-up ,0.00,, 101CS ,5.00,,,,5.00
+ BWD , Subassembly , subendc1 , Set-up ,0.00,, 101CW ,,,,3.00,3.00
+ BWDLED , Subassembly , subendc1 , Set-up ,0.00,, 101CWA ,,,,3.00,3.00
+ BWDLEDPAT , Subassembly , subendc1 , Set-up ,0.00,, 101F ,5.00,,,,5.00
+ BWDPAT , Subassembly , subendc1 , Set-up ,0.00,, 101FA ,5.00,,,,5.00
+ BWI , Subassembly , subendc1 , Set-up ,0.00,, 101FW ,,,,3.00,3.00
+ BWILED , Subassembly , subendc1 , Set-up ,0.00,, 101FWA ,,,,3.00,3.00
+ BWILEDPAT , Subassembly , subendc1 , Set-up ,0.00,, 202C ,5.00,,,,5.00
+ BWIPAT , Subassembly , subendc1 , Set-up ,0.00,, 202CA ,5.00,,,,5.00
+ BWLEDPAT , Subassembly , subendc1 , Set-up ,0.00,, 202CS ,5.00,,,,5.00
+ BWPAT , Subassembly , subendc1 , Set-up ,0.00,, 202CW ,,,,3.00,3.00
+ BWV , Subassembly , subendc1 , Set-up ,0.00,, 202CWA ,,,,3.00,3.00
+ BWVLED , Subassembly , subendc1 , Set-up ,0.00,, 202F ,5.00,,,,5.00
+ D5 , Subassembly , subendc10 , Set-up ,1.00,, 202FA ,5.00,,,,5.00
+ D5 , Drilling , subendc10 , Set-up ,3.00,, 202FW ,,,,3.00,3.00
+ D5 , Milling , subendc10 , Set-up ,5.00,, 202FWA ,,,,3.00,3.00
+ D5S , Subassembly , subendc10 , Set-up ,1.00,, AR ,,0.00,,,0.00
+ D5S , Drilling , subendc10 , Set-up ,3.00,, ARC ,5.00,,,,5.00
+ D5S , Milling , subendc10 , Set-up ,5.00,, ARCA ,5.00,,,,5.00
+ D5W , Subassembly , subendc10 , Set-up ,1.00,, ARCW ,,,,3.00,3.00
+ D5W , Drilling , subendc10 , Set-up ,3.00,, ARCWA ,,,,3.00,3.00
+ D5W , Milling , subendc10 , Set-up ,5.00,, ARLED ,,0.00,,,0.00
+ PICR , Subassembly , subendc11 , Set-up ,1.00,, ARS ,,0.00,,,0.00
+ PICWR , Subassembly , subendc11 , Set-up ,1.00,, ARSLED ,,0.00,,,0.00
+ PMRLED , Subassembly , subendc11 , Set-up ,1.00,, ARW ,,0.00,,,0.00
+ PMWR , Subassembly , subendc11 , Set-up ,1.00,, ARWBT ,,0.00,,,0.00
+ TB , Subassembly , subendc2 , Set-up ,0.00,, ARWBTLED ,,0.00,,,0.00
+ TBDILED , Subassembly , subendc2 , Set-up ,0.00,, ARWLED ,,0.00,,,0.00
+ TBDILEDPAT , Subassembly , subendc2 , Set-up ,0.00,, B6 ,3.00,,,,3.00
+ TBDLED , Subassembly , subendc2 , Set-up ,0.00,, B6D ,3.00,,,,3.00
+ TBDLEDPAT , Subassembly , subendc2 , Set-up ,0.00,, B6DLED ,5.00,,,,5.00
+ TBDPAT , Subassembly , subendc2 , Set-up ,0.00,, B6DLEDPAT ,5.00,,,,5.00
+ TBILED , Subassembly , subendc2 , Set-up ,0.00,, B6DPAT ,3.00,,,,3.00
+ TBILEDPAT , Subassembly , subendc2 , Set-up ,0.00,, B6I ,3.00,,,,3.00
+ TBIPAT , Subassembly , subendc2 , Set-up ,0.00,, B6ILEDPAT ,5.00,,,,5.00
+ TBLEDPAT , Subassembly , subendc2 , Set-up ,0.00,, B6IPAT ,3.00,,,,3.00
+ TBPAT , Subassembly , subendc2 , Set-up ,0.00,, B6LEDPAT ,5.00,,,,5.00
+ TBW , Subassembly , subendc2 , Set-up ,0.00,, B6PAT ,3.00,,,,3.00
+ TBWDILED , Subassembly , subendc2 , Set-up ,0.00,, B6S ,,0.00,,,0.00
+ TBWDILEDPAT , Subassembly , subendc2 , Set-up ,0.00,, B6SLED ,,0.00,,,0.00
+ TBWDLED , Subassembly , subendc2 , Set-up ,0.00,, B6SLEDPAT ,,0.00,,,0.00
+ TBWDLEDPAT , Subassembly , subendc2 , Set-up ,0.00,, B6SPAT ,,0.00,,,0.00
+ TBWDPAT , Subassembly , subendc2 , Set-up ,0.00,, B6W ,,0.00,,,0.00
+ TBWILED , Subassembly , subendc2 , Set-up ,0.00,, B6WD ,,0.00,,,0.00
+ TBWILEDPAT , Subassembly , subendc2 , Set-up ,0.00,, B6WDLED ,,0.00,,,0.00
+ TBWIPAT , Subassembly , subendc2 , Set-up ,0.00,, B6WDLEDPAT ,,0.00,,,0.00
+ TBWPAT , Subassembly , subendc2 , Set-up ,0.00,, B6WDPAT ,,0.00,,,0.00
+ B6S , Subassembly , subendc3 , Set-up ,0.00,, B6WI ,,0.00,,,0.00
+ B6SPAT , Subassembly , subendc3 , Set-up ,0.00,, B6WILEDPAT ,,0.00,,,0.00
+ B6W , Subassembly , subendc3 , Set-up ,0.00,, B6WIPAT ,,0.00,,,0.00
+ B6WD , Subassembly , subendc3 , Set-up ,0.00,, B6WLEDPAT ,,0.00,,,0.00
+ B6WDPAT , Subassembly , subendc3 , Set-up ,0.00,, B6WPAT ,,0.00,,,0.00
+ B6WI , Subassembly , subendc3 , Set-up ,0.00,, BAS ,5.00,,,,5.00
+ B6WIPAT , Subassembly , subendc3 , Set-up ,0.00,, BASA ,5.00,,,,5.00
+ B6WPAT , Subassembly , subendc3 , Set-up ,0.00,, BASS ,5.00,,,,5.00
+ BBS , Subassembly , subendc3 , Set-up ,0.00,, BASW ,,,,3.00,3.00
+ BBSPAT , Subassembly , subendc3 , Set-up ,0.00,, BASWA ,,,,3.00,3.00
+ BBW , Subassembly , subendc3 , Set-up ,0.00,, BB ,3.00,,,,3.00
+ BBWD , Subassembly , subendc3 , Set-up ,0.00,, BBD ,3.00,,,,3.00
+ BBWDPAT , Subassembly , subendc3 , Set-up ,0.00,, BBDILED ,5.00,,,,5.00
+ BBWI , Subassembly , subendc3 , Set-up ,0.00,, BBDILEDPAT ,5.00,,,,5.00
+ BBWIPAT , Subassembly , subendc3 , Set-up ,0.00,, BBDLED ,5.00,,,,5.00
+ BBWPAT , Subassembly , subendc3 , Set-up ,0.00,, BBDLEDPAT ,5.00,,,,5.00
+ BDIW , Subassembly , subendc3 , Set-up ,0.00,, BBDPAT ,3.00,,,,3.00
+ BMS , Subassembly , subendc3 , Set-up ,0.00,, BBI ,3.00,,,,3.00
+ BMSPAT , Subassembly , subendc3 , Set-up ,0.00,, BBILED ,5.00,,,,5.00
+ BMWD , Subassembly , subendc3 , Set-up ,0.00,, BBILED2 ,5.00,,,,5.00
+ BMWDPAT , Subassembly , subendc3 , Set-up ,0.00,, BBILEDPAT ,5.00,,,,5.00
+ BMWI , Subassembly , subendc3 , Set-up ,0.00,, BBIPAT ,3.00,,,,3.00
+ BMWIPAT , Subassembly , subendc3 , Set-up ,0.00,, BBLED2 ,5.00,,,,5.00
+ BMWPAT , Subassembly , subendc3 , Set-up ,0.00,, BBLEDPAT ,5.00,,,,5.00
+ BMWV , Subassembly , subendc3 , Set-up ,0.00,, BBPAT ,3.00,,,,3.00
+ TWC , Subassembly , subendc3 , Set-up ,0.00,, BBS ,,0.00,,,0.00
+ TWCW , Subassembly , subendc3 , Set-up ,0.00,, BBSLED ,,0.00,,,0.00
+ TWO , Subassembly , subendc3 , Set-up ,0.00,, BBSLEDPAT ,,0.00,,,0.00
+ TWOW , Subassembly , subendc3 , Set-up ,0.00,, BBSPAT ,,0.00,,,0.00
+ TWR , Subassembly , subendc3 , Set-up ,0.00,, BBW ,,0.00,,,0.00
+ TWRLED , Subassembly , subendc3 , Set-up ,0.00,, BBWD ,,0.00,,,0.00
+ TWRW , Subassembly , subendc3 , Set-up ,0.00,, BBWDILED ,,0.00,,,0.00
+ TWRWLED , Subassembly , subendc3 , Set-up ,0.00,, BBWDLED ,,0.00,,,0.00
+ B6SLED , Subassembly , subendc4 , Set-up ,0.00,, BBWDLEDPAT ,,0.00,,,0.00
+ B6SLEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BBWDPAT ,,0.00,,,0.00
+ B6WDLED , Subassembly , subendc4 , Set-up ,0.00,, BBWI ,,0.00,,,0.00
+ B6WDLEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BBWILED ,,0.00,,,0.00
+ B6WILEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BBWILEDPAT ,,0.00,,,0.00
+ B6WLEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BBWIPAT ,,0.00,,,0.00
+ BBSLED , Subassembly , subendc4 , Set-up ,0.00,, BBWLEDPAT ,,0.00,,,0.00
+ BBSLEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BBWPAT ,,0.00,,,0.00
+ BBWDILED , Subassembly , subendc4 , Set-up ,0.00,, BD ,3.00,,,,3.00
+ BBWDLED , Subassembly , subendc4 , Set-up ,0.00,, BDI ,3.00,,,,3.00
+ BBWDLEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BDIW ,,0.00,,,0.00
+ BBWILED , Subassembly , subendc4 , Set-up ,0.00,, BDLED ,5.00,,,,5.00
+ BBWILEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BDLEDPAT ,5.00,,,,5.00
+ BBWLEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BDPAT ,3.00,,,,3.00
+ BMSLED , Subassembly , subendc4 , Set-up ,0.00,, BI ,3.00,,,,3.00
+ BMSLEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BILED ,5.00,,,,5.00
+ BMWDLED , Subassembly , subendc4 , Set-up ,0.00,, BILEDPAT ,5.00,,,,5.00
+ BMWDLEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BIPAT ,3.00,,,,3.00
+ BMWILED , Subassembly , subendc4 , Set-up ,0.00,, BLEDPAT ,5.00,,,,5.00
+ BMWILEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BMD ,3.00,,,,3.00
+ BMWLEDPAT , Subassembly , subendc4 , Set-up ,0.00,, BMDLED ,5.00,,,,5.00
+ BMWVLED , Subassembly , subendc4 , Set-up ,0.00,, BMDLEDPAT ,5.00,,,,5.00
+ B6 , Drilling , subendc5 , Set-up ,3.00,, BMDPAT ,3.00,,,,3.00
+ B6D , Drilling , subendc5 , Set-up ,3.00,, BMI ,3.00,,,,3.00
+ B6DPAT , Drilling , subendc5 , Set-up ,3.00,, BMILED ,5.00,,,,5.00
+ B6I , Drilling , subendc5 , Set-up ,3.00,, BMILEDPAT ,5.00,,,,5.00
+ B6IPAT , Drilling , subendc5 , Set-up ,3.00,, BMIPAT ,3.00,,,,3.00
+ B6PAT , Drilling , subendc5 , Set-up ,3.00,, BMLEDPAT ,5.00,,,,5.00
+ BB , Drilling , subendc5 , Set-up ,3.00,, BMS ,,0.00,,,0.00
+ BBD , Drilling , subendc5 , Set-up ,3.00,, BMSLED ,,0.00,,,0.00
+ BBDPAT , Drilling , subendc5 , Set-up ,3.00,, BMSLEDPAT ,,0.00,,,0.00
+ BBI , Drilling , subendc5 , Set-up ,3.00,, BMSPAT ,,0.00,,,0.00
+ BBIPAT , Drilling , subendc5 , Set-up ,3.00,, BMWD ,,0.00,,,0.00
+ BBPAT , Drilling , subendc5 , Set-up ,3.00,, BMWDLED ,,0.00,,,0.00
+ BD , Drilling , subendc5 , Set-up ,3.00,, BMWDLEDPAT ,,0.00,,,0.00
+ BDI , Drilling , subendc5 , Set-up ,3.00,, BMWDPAT ,,0.00,,,0.00
+ BDPAT , Drilling , subendc5 , Set-up ,3.00,, BMWI ,,0.00,,,0.00
+ BI , Drilling , subendc5 , Set-up ,3.00,, BMWILED ,,0.00,,,0.00
+ BIPAT , Drilling , subendc5 , Set-up ,3.00,, BMWILEDPAT ,,0.00,,,0.00
+ BMD , Drilling , subendc5 , Set-up ,3.00,, BMWIPAT ,,0.00,,,0.00
+ BMDPAT , Drilling , subendc5 , Set-up ,3.00,, BMWLEDPAT ,,0.00,,,0.00
+ BMI , Drilling , subendc5 , Set-up ,3.00,, BMWPAT ,,0.00,,,0.00
+ BMIPAT , Drilling , subendc5 , Set-up ,3.00,, BMWV ,,0.00,,,0.00
+ B6DLED , Drilling , subendc6 , Set-up ,5.00,, BMWVLED ,,0.00,,,0.00
+ B6DLEDPAT , Drilling , subendc6 , Set-up ,5.00,, BS ,,0.00,,,0.00
+ B6ILEDPAT , Drilling , subendc6 , Set-up ,5.00,, BSLED ,,0.00,,,0.00
+ B6LEDPAT , Drilling , subendc6 , Set-up ,5.00,, BSLEDPAT ,,0.00,,,0.00
+ BBDILED , Drilling , subendc6 , Set-up ,5.00,, BSPAT ,,0.00,,,0.00
+ BBDILEDPAT , Drilling , subendc6 , Set-up ,5.00,, BWD ,,0.00,,,0.00
+ BBDLED , Drilling , subendc6 , Set-up ,5.00,, BWDLED ,,0.00,,,0.00
+ BBDLEDPAT , Drilling , subendc6 , Set-up ,5.00,, BWDLEDPAT ,,0.00,,,0.00
+ BBILED , Drilling , subendc6 , Set-up ,5.00,, BWDPAT ,,0.00,,,0.00
+ BBILED2 , Drilling , subendc6 , Set-up ,5.00,, BWI ,,0.00,,,0.00
+ BBILEDPAT , Drilling , subendc6 , Set-up ,5.00,, BWILED ,,0.00,,,0.00
+ BBLED2 , Drilling , subendc6 , Set-up ,5.00,, BWILEDPAT ,,0.00,,,0.00
+ BBLEDPAT , Drilling , subendc6 , Set-up ,5.00,, BWIPAT ,,0.00,,,0.00
+ BDLED , Drilling , subendc6 , Set-up ,5.00,, BWLEDPAT ,,0.00,,,0.00
+ BDLEDPAT , Drilling , subendc6 , Set-up ,5.00,, BWPAT ,,0.00,,,0.00
+ BILED , Drilling , subendc6 , Set-up ,5.00,, BWV ,,0.00,,,0.00
+ BILEDPAT , Drilling , subendc6 , Set-up ,5.00,, BWVLED ,,0.00,,,0.00
+ BLEDPAT , Drilling , subendc6 , Set-up ,5.00,, CU ,5.00,,,,5.00
+ BMDLED , Drilling , subendc6 , Set-up ,5.00,, CUA ,5.00,,,,5.00
+ BMDLEDPAT , Drilling , subendc6 , Set-up ,5.00,, CUB ,5.00,,,,5.00
+ BMILED , Drilling , subendc6 , Set-up ,5.00,, CUBA ,5.00,,,,5.00
+ BMILEDPAT , Drilling , subendc6 , Set-up ,5.00,, CUBS ,5.00,,,,5.00
+ BMLEDPAT , Drilling , subendc6 , Set-up ,5.00,, CUBW ,,,,3.00,3.00
+ AR , Subassembly , subendc7 , Set-up ,0.00,, CUBWA ,,,,3.00,3.00
+ ARLED , Subassembly , subendc7 , Set-up ,0.00,, CUS ,5.00,,,,5.00
+ ARS , Subassembly , subendc7 , Set-up ,0.00,, CUW ,,,,3.00,3.00
+ ARSLED , Subassembly , subendc7 , Set-up ,0.00,, CUWA ,,,,3.00,3.00
+ ARW , Subassembly , subendc7 , Set-up ,0.00,, D5 ,3.00,1.00,5.00,,9.00
+ ARWBT , Subassembly , subendc7 , Set-up ,0.00,, D5S ,3.00,1.00,5.00,,9.00
+ ARWBTLED , Subassembly , subendc7 , Set-up ,0.00,, D5W ,3.00,1.00,5.00,,9.00
+ ARWLED , Subassembly , subendc7 , Set-up ,0.00,, FL ,5.00,,,,5.00
+ MB , Subassembly , subendc7 , Set-up ,0.00,, FLW ,,,,3.00,3.00
+ MBLED , Subassembly , subendc7 , Set-up ,0.00,, L2 ,5.00,,,,5.00
+ MBS , Subassembly , subendc7 , Set-up ,0.00,, L2A ,5.00,,,,5.00
+ MBSLED , Subassembly , subendc7 , Set-up ,0.00,, L2S ,5.00,,,,5.00
+ MBW , Subassembly , subendc7 , Set-up ,0.00,, L2W ,,,,3.00,3.00
+ MBWLED , Subassembly , subendc7 , Set-up ,0.00,, L2WA ,,,,3.00,3.00
+ MBWV , Subassembly , subendc7 , Set-up ,0.00,, LT ,5.00,,,,5.00
+ MBWVLED , Subassembly , subendc7 , Set-up ,0.00,, LTA ,5.00,,,,5.00
+ PR , Subassembly , subendc7 , Set-up ,0.00,, LTW ,,,,3.00,3.00
+ PRLED , Subassembly , subendc7 , Set-up ,0.00,, LTWA ,,,,3.00,3.00
+ PRS , Subassembly , subendc7 , Set-up ,0.00,, MB ,,0.00,,,0.00
+ PRSLED , Subassembly , subendc7 , Set-up ,0.00,, MBLED ,,0.00,,,0.00
+ PRW , Subassembly , subendc7 , Set-up ,0.00,, MBS ,,0.00,,,0.00
+ PRWLED , Subassembly , subendc7 , Set-up ,0.00,, MBSLED ,,0.00,,,0.00
+ PW , Subassembly , subendc7 , Set-up ,0.00,, MBW ,,0.00,,,0.00
+ PWLED , Subassembly , subendc7 , Set-up ,0.00,, MBWLED ,,0.00,,,0.00
+ PWS , Subassembly , subendc7 , Set-up ,0.00,, MBWV ,,0.00,,,0.00
+ PWSLED , Subassembly , subendc7 , Set-up ,0.00,, MBWVLED ,,0.00,,,0.00
+ PWW , Subassembly , subendc7 , Set-up ,0.00,, PICR ,,1.00,,,1.00
+ PWWLED , Subassembly , subendc7 , Set-up ,0.00,, PICWR ,,1.00,,,1.00
+ 101C , Drilling , subendc8 , Set-up ,5.00,, PMRLED ,,1.00,,,1.00
+ 101CA , Drilling , subendc8 , Set-up ,5.00,, PMWR ,,1.00,,,1.00
+ 101CS , Drilling , subendc8 , Set-up ,5.00,, PR ,,0.00,,,0.00
+ 101F , Drilling , subendc8 , Set-up ,5.00,, PRLED ,,0.00,,,0.00
+ 101FA , Drilling , subendc8 , Set-up ,5.00,, PRS ,,0.00,,,0.00
+ 202C , Drilling , subendc8 , Set-up ,5.00,, PRSLED ,,0.00,,,0.00
+ 202CA , Drilling , subendc8 , Set-up ,5.00,, PRW ,,0.00,,,0.00
+ 202CS , Drilling , subendc8 , Set-up ,5.00,, PRWLED ,,0.00,,,0.00
+ 202F , Drilling , subendc8 , Set-up ,5.00,, PW ,,0.00,,,0.00
+ 202FA , Drilling , subendc8 , Set-up ,5.00,, PWLED ,,0.00,,,0.00
+ ARC , Drilling , subendc8 , Set-up ,5.00,, PWS ,,0.00,,,0.00
+ ARCA , Drilling , subendc8 , Set-up ,5.00,, PWSLED ,,0.00,,,0.00
+ BAS , Drilling , subendc8 , Set-up ,5.00,, PWW ,,0.00,,,0.00
+ BASA , Drilling , subendc8 , Set-up ,5.00,, PWWLED ,,0.00,,,0.00
+ BASS , Drilling , subendc8 , Set-up ,5.00,, SL ,5.00,,,,5.00
+ CU , Drilling , subendc8 , Set-up ,5.00,, SL2HLED ,5.00,,,,5.00
+ CUA , Drilling , subendc8 , Set-up ,5.00,, SL2LLED ,5.00,,,,5.00
+ CUB , Drilling , subendc8 , Set-up ,5.00,, SLLED ,5.00,,,,5.00
+ CUBA , Drilling , subendc8 , Set-up ,5.00,, SLW ,,,,3.00,3.00
+ CUBS , Drilling , subendc8 , Set-up ,5.00,, SLWLED ,,,,3.00,3.00
+ CUS , Drilling , subendc8 , Set-up ,5.00,, SOL ,5.00,,,,5.00
+ FL , Drilling , subendc8 , Set-up ,5.00,, SOLS ,5.00,,,,5.00
+ L2 , Drilling , subendc8 , Set-up ,5.00,, SOLW ,,,,3.00,3.00
+ L2A , Drilling , subendc8 , Set-up ,5.00,, SU ,5.00,,,,5.00
+ L2S , Drilling , subendc8 , Set-up ,5.00,, SUA ,5.00,,,,5.00
+ LT , Drilling , subendc8 , Set-up ,5.00,, SUS ,5.00,,,,5.00
+ LTA , Drilling , subendc8 , Set-up ,5.00,, SUW ,,,,3.00,3.00
+ SL , Drilling , subendc8 , Set-up ,5.00,, SUWA ,,,,3.00,3.00
+ SL2HLED , Drilling , subendc8 , Set-up ,5.00,, TB ,,0.00,,,0.00
+ SL2LLED , Drilling , subendc8 , Set-up ,5.00,, TBDILED ,,0.00,,,0.00
+ SLLED , Drilling , subendc8 , Set-up ,5.00,, TBDILEDPAT ,,0.00,,,0.00
+ SOL , Drilling , subendc8 , Set-up ,5.00,, TBDLED ,,0.00,,,0.00
+ SOLS , Drilling , subendc8 , Set-up ,5.00,, TBDLEDPAT ,,0.00,,,0.00
+ SU , Drilling , subendc8 , Set-up ,5.00,, TBDPAT ,,0.00,,,0.00
+ SUA , Drilling , subendc8 , Set-up ,5.00,, TBILED ,,0.00,,,0.00
+ SUS , Drilling , subendc8 , Set-up ,5.00,, TBILEDPAT ,,0.00,,,0.00
+ 101CW , Single Saw , subendc9 , Set-up ,3.00,, TBIPAT ,,0.00,,,0.00
+ 101CWA , Single Saw , subendc9 , Set-up ,3.00,, TBLEDPAT ,,0.00,,,0.00
+ 101FW , Single Saw , subendc9 , Set-up ,3.00,, TBPAT ,,0.00,,,0.00
+ 101FWA , Single Saw , subendc9 , Set-up ,3.00,, TBW ,,0.00,,,0.00
+ 202CW , Single Saw , subendc9 , Set-up ,3.00,, TBWDILED ,,0.00,,,0.00
+ 202CWA , Single Saw , subendc9 , Set-up ,3.00,, TBWDILEDPAT ,,0.00,,,0.00
+ 202FW , Single Saw , subendc9 , Set-up ,3.00,, TBWDLED ,,0.00,,,0.00
+ 202FWA , Single Saw , subendc9 , Set-up ,3.00,, TBWDLEDPAT ,,0.00,,,0.00
+ ARCW , Single Saw , subendc9 , Set-up ,3.00,, TBWDPAT ,,0.00,,,0.00
+ ARCWA , Single Saw , subendc9 , Set-up ,3.00,, TBWILED ,,0.00,,,0.00
+ BASW , Single Saw , subendc9 , Set-up ,3.00,, TBWILEDPAT ,,0.00,,,0.00
+ BASWA , Single Saw , subendc9 , Set-up ,3.00,, TBWIPAT ,,0.00,,,0.00
+ CUBW , Single Saw , subendc9 , Set-up ,3.00,, TBWPAT ,,0.00,,,0.00
+ CUBWA , Single Saw , subendc9 , Set-up ,3.00,, TWC ,,0.00,,,0.00
+ CUW , Single Saw , subendc9 , Set-up ,3.00,, TWCW ,,0.00,,,0.00
+ CUWA , Single Saw , subendc9 , Set-up ,3.00,, TWO ,,0.00,,,0.00
+ FLW , Single Saw , subendc9 , Set-up ,3.00,, TWOW ,,0.00,,,0.00
+ L2W , Single Saw , subendc9 , Set-up ,3.00,, TWR ,,0.00,,,0.00
+ L2WA , Single Saw , subendc9 , Set-up ,3.00,, TWRLED ,,0.00,,,0.00
+ LTW , Single Saw , subendc9 , Set-up ,3.00,, TWRW ,,0.00,,,0.00
+ LTWA , Single Saw , subendc9 , Set-up ,3.00,, TWRWLED ,,0.00,,,0.00
+ SLW , Single Saw , subendc9 , Set-up ,3.00,, WB ,3.00,,,,3.00
+ SLWLED , Single Saw , subendc9 , Set-up ,3.00,, WBDI ,3.00,,,,3.00
+ SOLW , Single Saw , subendc9 , Set-up ,3.00,, WBDILED ,3.00,,,,3.00
+ SUW , Single Saw , subendc9 , Set-up ,3.00,, WBDIW ,3.00,,,,3.00
+ SUWA , Single Saw , subendc9 , Set-up ,3.00,, WBLED ,3.00,,,,3.00
+ WB , Drilling , subendcwbp , Set-up ,3.00,, WBR ,7.15,,,,7.15
+ WBDI , Drilling , subendcwbp , Set-up ,3.00,, WBRLED ,7.15,,,,7.15
+ WBDILED , Drilling , subendcwbp , Set-up ,3.00,, WBS ,3.00,,,,3.00
+ WBDIW , Drilling , subendcwbp , Set-up ,3.00,, WBSLED ,3.00,,,,3.00
+ WBDIWLED , Drilling , subendcwbp , Set-up ,3.00,, WBW ,3.00,,,,3.00
+ WBLED , Drilling , subendcwbp , Set-up ,3.00,, WBWLED ,3.00,,,,3.00
+ WBS , Drilling , subendcwbp , Set-up ,3.00,, WBDIWLED ,3.00,,,,3.00
+ WBSLED , Drilling , subendcwbp , Set-up ,3.00,, Grand Total ,411.30,7.00,15.00,78.00,511.30
+ WBW , Drilling , subendcwbp , Set-up ,3.00,,,,,,,
+ WBWLED , Drilling , subendcwbp , Set-up ,3.00,,,,,,,
+ WBR , Drilling , subendcwbr , Set-up ,7.15,,,,,,,
+ WBRLED , Drilling , subendcwbr , Set-up ,7.15,,,,,,,

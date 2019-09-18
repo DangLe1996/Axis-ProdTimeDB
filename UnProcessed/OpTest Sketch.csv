@@ -1,0 +1,50 @@
+ Lighting , Circuit , Work Center , Project Reference , Task  ,Time (min),,,Row Labels,Sum of Time (min)
+led,1,Assembly,10003,Operational Test,0.2,,,10003,2.6
+led,1,Assembly,10005,Operational Test,0.2,,,1,0.2
+led,1,Assembly,10008,Operational Test,0.2,,,2,0.5
+led,1,Assembly,10013,Operational Test,0.2,,,1+E,0.5
+led,1,Assembly,10018,Operational Test,0.2,,,1+E(1),0.5
+led,1,Assembly,10023,Operational Test,0.2,,,1+NL,0.5
+led,2,Assembly,10003,Operational Test,0.5,,,E,0.2
+led,2,Assembly,10005,Operational Test,0.5,,,NL,0.2
+led,2,Assembly,10008,Operational Test,0.5,,,10005,2.6
+led,2,Assembly,10013,Operational Test,0.5,,,1,0.2
+led,2,Assembly,10018,Operational Test,0.5,,,2,0.5
+led,2,Assembly,10023,Operational Test,0.5,,,1+E,0.5
+led,NL,Assembly,10003,Operational Test,0.2,,,1+E(1),0.5
+led,NL,Assembly,10005,Operational Test,0.2,,,1+NL,0.5
+led,NL,Assembly,10008,Operational Test,0.2,,,E,0.2
+led,NL,Assembly,10013,Operational Test,0.2,,,NL,0.2
+led,NL,Assembly,10018,Operational Test,0.2,,,10008,2.6
+led,NL,Assembly,10023,Operational Test,0.2,,,1,0.2
+led,E,Assembly,10003,Operational Test,0.2,,,2,0.5
+led,E,Assembly,10005,Operational Test,0.2,,,1+E,0.5
+led,E,Assembly,10008,Operational Test,0.2,,,1+E(1),0.5
+led,E,Assembly,10013,Operational Test,0.2,,,1+NL,0.5
+led,E,Assembly,10018,Operational Test,0.2,,,E,0.2
+led,E,Assembly,10023,Operational Test,0.2,,,NL,0.2
+led,1+NL,Assembly,10003,Operational Test,0.5,,,10013,2.6
+led,1+NL,Assembly,10005,Operational Test,0.5,,,1,0.2
+led,1+NL,Assembly,10008,Operational Test,0.5,,,2,0.5
+led,1+NL,Assembly,10013,Operational Test,0.5,,,1+E,0.5
+led,1+NL,Assembly,10018,Operational Test,0.5,,,1+E(1),0.5
+led,1+NL,Assembly,10023,Operational Test,0.5,,,1+NL,0.5
+led,1+E,Assembly,10003,Operational Test,0.5,,,E,0.2
+led,1+E,Assembly,10005,Operational Test,0.5,,,NL,0.2
+led,1+E,Assembly,10008,Operational Test,0.5,,,10018,2.6
+led,1+E,Assembly,10013,Operational Test,0.5,,,1,0.2
+led,1+E,Assembly,10018,Operational Test,0.5,,,2,0.5
+led,1+E,Assembly,10023,Operational Test,0.5,,,1+E,0.5
+led,1+E(1),Assembly,10003,Operational Test,0.5,,,1+E(1),0.5
+led,1+E(1),Assembly,10005,Operational Test,0.5,,,1+NL,0.5
+led,1+E(1),Assembly,10008,Operational Test,0.5,,,E,0.2
+led,1+E(1),Assembly,10013,Operational Test,0.5,,,NL,0.2
+led,1+E(1),Assembly,10018,Operational Test,0.5,,,10023,2.6
+led,1+E(1),Assembly,10023,Operational Test,0.5,,,1,0.2
+,,,,,,,,2,0.5
+,,,,,,,,1+E,0.5
+,,,,,,,,1+E(1),0.5
+,,,,,,,,1+NL,0.5
+,,,,,,,,E,0.2
+,,,,,,,,NL,0.2
+,,,,,,,,Grand Total,15.6

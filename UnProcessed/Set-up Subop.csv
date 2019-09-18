@@ -1,0 +1,192 @@
+ Family Product , Optic , Work Center , Option , Time (min) ,, Sum of Time (min) , Column Labels ,,,,,,,,
+ SCULPT , 0.5M , Saw , subopticlens15 ,6.00,, Row Labels , Cutter , Drilling , Grind , Saw , Saw Bench , Saw Lenses , Subassembly , Single Saw , Grand Total 
+ SCULPT , 0.5M , Subassembly , subopticlens15 ,1.00,, AIR ,,,,,,,,,
+ SCULPT , 0.5P , Saw , subopticlens15 ,6.00,, S ,,,,,,4.18,,,4.18
+ SCULPT , 0.5P , Subassembly , subopticlens15 ,1.00,, AIRLED ,,,,,,,,,
+ B6LED , 2M , Saw Lenses , subopticlens1 ,0.30,, S ,,,,,,4.18,,,4.18
+ SCULPT , 2M , Saw , subopticlens15 ,6.00,, ARC ,,,,,,,,,
+ SCULPT , 2M , Subassembly , subopticlens15 ,1.00,, S ,,,,,,5.57,,4.85,10.42
+ B6LED , 2P , Saw Lenses , subopticlens1 ,0.30,, PL ,,,,,,,,4.85,4.85
+ SCULPT , 2P , Saw , subopticlens15 ,6.00,, SB ,,,,,,,,4.85,4.85
+ SCULPT , 2P , Subassembly , subopticlens15 ,1.00,, P ,,,,,,,,4.85,4.85
+ BEAM2 , A , Saw , subopticlensa ,1.00,, SL ,,,,,,,,4.85,4.85
+ BEAM3 , A , Saw , subopticlensa ,1.00,, B2LED ,,,,,,,,,
+ BEAM4 , A , Saw , subopticlensa ,1.00,, C ,,,,,,0.30,,,0.30
+ BEAM6 , A , Saw , subopticlensa ,1.00,, SO ,,,,,,0.30,,,0.30
+ TBEAM2 , A , Saw , subopticlensa ,1.00,, FL ,,,,,,0.30,,,0.30
+ B3LED , ASO , Single Saw , subopticlensaso ,1.00,, B3LED ,,,,,,,,,
+ B3LED , ASO , Saw Bench , subopticlensaso ,1.00,, C ,,,,,,0.30,,,0.30
+ B3LED , ASO , Saw Lenses , subopticlensaso ,1.00,, SO ,,,,,,0.30,,,0.30
+ WBEAMD , AV , Drilling , subopticlens6 ,3.00,, FL ,,,,,,0.30,,,0.30
+ B2LED , C , Saw Lenses , subopticlens1 ,0.30,, ASO ,,,,,1.00,1.00,,1.00,3.00
+ B3LED , C , Saw Lenses , subopticlens1 ,0.30,, B4LED ,,,,,,,,,
+ B4LED , C , Saw Lenses , subopticlens1 ,0.30,, C ,,,,,,0.30,,,0.30
+ BEAM2 , C , Saw Lenses , subopticlens1 ,0.30,, SO ,,,,,,0.30,,,0.30
+ BEAM3 , C , Saw Lenses , subopticlens1 ,0.30,, FL ,,,,,,0.30,,,0.30
+ TB2LED , C , Saw Lenses , subopticlens1 ,0.30,, RG ,,,,,,0.30,,,0.30
+ WBEAM4 , C , Saw Lenses , subopticlens1 ,0.30,, B6LED ,,,,,,,,,
+ MINI , C , Saw Lenses , subopticlens4 ,4.18,, SO ,,,,,,0.30,,,0.30
+ BEAM2 , F , Saw Lenses , subopticlens1 ,0.30,, FL ,,,,,,0.30,,,0.30
+ BEAM3 , F , Saw Lenses , subopticlens1 ,0.30,, RG ,,,,,,0.30,,,0.30
+ BEAM4 , F , Saw Lenses , subopticlens1 ,0.30,, 2M ,,,,,,0.30,,,0.30
+ BEAM6 , F , Saw Lenses , subopticlens1 ,0.30,, 2P ,,,,,,0.30,,,0.30
+ BEAMDI , F , Saw Lenses , subopticlens1 ,0.30,, BASE ,,,,,,,,,
+ PICMED , F , Saw Lenses , subopticlens1 ,0.30,, S ,,,,,,5.57,,4.85,10.42
+ TBEAM2 , F , Saw Lenses , subopticlens1 ,0.30,, PL ,,,,,,,,4.85,4.85
+ WBEAM4 , F , Saw Lenses , subopticlens1 ,0.30,, SB ,,,,,,,,4.85,4.85
+ WBEAMD , F , Drilling , subopticlens6 ,3.00,, P ,,,,,,,,4.85,4.85
+ B2LED , FL , Saw Lenses , subopticlens1 ,0.30,, SL ,,,,,,,,4.85,4.85
+ B3LED , FL , Saw Lenses , subopticlens1 ,0.30,, BEAM2 ,,,,,,,,,
+ B4LED , FL , Saw Lenses , subopticlens1 ,0.30,, C ,,,,,,0.30,,,0.30
+ B6LED , FL , Saw Lenses , subopticlens1 ,0.30,, F ,,,,,,0.30,,,0.30
+ SCULPT , FL , Saw , subopticlens14 ,6.00,, S ,,,,,,0.30,,,0.30
+ ARC , P , Single Saw , subopticcovers ,4.85,, PL ,,,,,,3.00,,4.85,7.85
+ BASE , P , Single Saw , subopticcovers ,4.85,, A ,,,,1.00,,,,,1.00
+ CUBIC , P , Single Saw , subopticcovers ,4.85,, BEAM3 ,,,,,,,,,
+ FLOW , P , Single Saw , subopticcovers ,4.85,, C ,,,,,,0.30,,,0.30
+ LIGHT , P , Single Saw , subopticcovers ,4.85,, F ,,,,,,0.30,,,0.30
+ LT , P , Single Saw , subopticcovers ,4.85,, S ,,,,,,0.30,,,0.30
+ SUSHI , P , Single Saw , subopticcovers ,4.85,, PL ,,,,,,3.00,,4.85,7.85
+ ARC , PL , Single Saw , subopticcovers ,4.85,, A ,,,,1.00,,,,,1.00
+ BASE , PL , Single Saw , subopticcovers ,4.85,, SW ,,,,1.00,1.00,1.00,1.00,,4.00
+ BEAM2 , PL , Single Saw , subopticcovers ,4.85,, WW ,,,,,,,1.00,1.00,2.00
+ BEAM3 , PL , Single Saw , subopticcovers ,4.85,, BEAM4 ,,,,,,,,,
+ BEAM4 , PL , Single Saw , subopticcovers ,4.85,, F ,,,,,,0.30,,,0.30
+ BEAM6 , PL , Single Saw , subopticcovers ,4.85,, S ,,,,,,0.30,,,0.30
+ CUBIC , PL , Single Saw , subopticcovers ,4.85,, PL ,,,,,,3.00,,4.85,7.85
+ FLOW , PL , Single Saw , subopticcovers ,4.85,, A ,,,,1.00,,,,,1.00
+ LIGHT , PL , Single Saw , subopticcovers ,4.85,, SW ,,,,1.00,1.00,1.00,1.00,,4.00
+ LT , PL , Single Saw , subopticcovers ,4.85,, WW ,,,,,,,1.00,1.00,2.00
+ SLMLED , PL , Single Saw , subopticcovers ,4.85,, BEAM6 ,,,,,,,,,
+ SUSHI , PL , Single Saw , subopticcovers ,4.85,, F ,,,,,,0.30,,,0.30
+ TBEAM2 , PL , Single Saw , subopticcovers ,4.85,, S ,,,,,,0.30,,,0.30
+ WBEAMD , PL , Drilling , subopticlens6 ,3.00,, PL ,,,,,,3.00,,4.85,7.85
+ BEAM2 , PL , Saw Lenses , subopticlouv1 ,3.00,, A ,,,,1.00,,,,,1.00
+ BEAM3 , PL , Saw Lenses , subopticlouv1 ,3.00,, BEAMDI ,,,,,,,,,
+ BEAM4 , PL , Saw Lenses , subopticlouv1 ,3.00,, F ,,,,,,0.30,,,0.30
+ BEAM6 , PL , Saw Lenses , subopticlouv1 ,3.00,, S ,,,,,,0.30,,,0.30
+ TBEAM2 , PL , Saw Lenses , subopticlouv1 ,3.00,, CUBIC ,,,,,,,,,
+ B4LED , RG , Saw Lenses , subopticlens1 ,0.30,, S ,,,,,,5.57,,4.85,10.42
+ B6LED , RG , Saw Lenses , subopticlens1 ,0.30,, VL ,2.00,,,,,,,4.85,6.85
+ ARC , S , Single Saw , subopticcovers ,4.85,, PL ,,,,,,,,4.85,4.85
+ BASE , S , Single Saw , subopticcovers ,4.85,, SB ,,,,,,,,4.85,4.85
+ CUBIC , S , Single Saw , subopticcovers ,4.85,, P ,,,,,,,,4.85,4.85
+ FLOW , S , Single Saw , subopticcovers ,4.85,, SL ,,,,,,,,4.85,4.85
+ LIGHT , S , Single Saw , subopticcovers ,4.85,, D535 ,,,,,,,,,
+ LT , S , Single Saw , subopticcovers ,4.85,, SLC ,,2.00,1.00,,,5.57,,,8.57
+ SUSHI , S , Single Saw , subopticcovers ,4.85,, DAY ,,,,,,,,,
+ TWIG , S , Single Saw , subopticcovers ,4.85,, S ,,,,,,1.00,,,1.00
+ BEAM2 , S , Saw Lenses , subopticlens1 ,0.30,, SB ,,,,,,1.00,,,1.00
+ BEAM3 , S , Saw Lenses , subopticlens1 ,0.30,, DAYLED ,,,,,,,,,
+ BEAM4 , S , Saw Lenses , subopticlens1 ,0.30,, SO ,,,,,,1.00,,,1.00
+ BEAM6 , S , Saw Lenses , subopticlens1 ,0.30,, DIA ,,,,,,,,,
+ BEAMDI , S , Saw Lenses , subopticlens1 ,0.30,, S ,,,,,,,,1.00,1.00
+ PICMED , S , Saw Lenses , subopticlens1 ,0.30,, VL ,,,,,,,,1.00,1.00
+ PICOLO , S , Saw Lenses , subopticlens1 ,0.30,, DIALED ,,,,,,,,,
+ TBEAM2 , S , Saw Lenses , subopticlens1 ,0.30,, VL ,,,,,,,,1.00,1.00
+ WB4LED , S , Saw Lenses , subopticlens1 ,0.30,, DUO ,,,,,,,,,
+ WBEAM4 , S , Saw Lenses , subopticlens1 ,0.30,, VL ,,,,,,,,1.00,1.00
+ ARC , S , Saw Lenses , subopticlens3 , CAD 5.57 ,, ELLE ,,,,,,,,,
+ BASE , S , Saw Lenses , subopticlens3 , CAD 5.57 ,, SL ,,2.00,1.00,,,5.57,,,8.57
+ CUBIC , S , Saw Lenses , subopticlens3 , CAD 5.57 ,, FLOW ,,,,,,,,,
+ FLOW , S , Saw Lenses , subopticlens3 , CAD 5.57 ,, S ,,,,,,5.57,,4.85,10.42
+ LIGHT , S , Saw Lenses , subopticlens3 , CAD 5.57 ,, PL ,,,,,,,,4.85,4.85
+ LT , S , Saw Lenses , subopticlens3 , CAD 5.57 ,, P ,,,,,,,,4.85,4.85
+ SUSHI , S , Saw Lenses , subopticlens3 , CAD 5.57 ,, SL ,,,,,,,,4.85,4.85
+ TWIG , S , Saw Lenses , subopticlens3 , CAD 5.57 ,, LIGHT ,,,,,,,,,
+ AIR , S , Saw Lenses , subopticlens4 ,4.18,, S ,,,,,,5.57,,4.85,10.42
+ AIRLED , S , Saw Lenses , subopticlens4 ,4.18,, PL ,,,,,,,,4.85,4.85
+ MINI , S , Saw Lenses , subopticlens4 ,4.18,, SB ,,,,,,,,4.85,4.85
+ MINLED , S , Saw Lenses , subopticlens4 ,4.18,, P ,,,,,,,,4.85,4.85
+ PRIME , S , Saw Lenses , subopticlens4 ,4.18,, SL ,,,,,,,,4.85,4.85
+ PRMLED , S , Saw Lenses , subopticlens4 ,4.18,, LT ,,,,,,,,,
+ WBEAMD , S , Drilling , subopticlens6 ,3.00,, S ,,,,,,5.57,,4.85,10.42
+ DIA , S , Single Saw , subopticlens8 ,1.00,, VL ,2.00,,,,,,,4.85,6.85
+ PLANO , S , Single Saw , subopticlens8 ,1.00,, PL ,,,,,,,,4.85,4.85
+ DAY , S , Saw Lenses , subopticlens9 ,1.00,, SB ,,,,,,,,4.85,4.85
+ ARC , SB , Single Saw , subopticcovers ,4.85,, P ,,,,,,,,4.85,4.85
+ BASE , SB , Single Saw , subopticcovers ,4.85,, SL ,,,,,,,,4.85,4.85
+ CUBIC , SB , Single Saw , subopticcovers ,4.85,, MINI ,,,,,,,,,
+ LIGHT , SB , Single Saw , subopticcovers ,4.85,, C ,,,,,,4.18,,,4.18
+ LT , SB , Single Saw , subopticcovers ,4.85,, S ,,,,,,4.18,,,4.18
+ SUSHI , SB , Single Saw , subopticcovers ,4.85,, MINLED ,,,,,,,,,
+ DAY , SB , Saw Lenses , subopticlens9 ,1.00,, S ,,,,,,4.18,,,4.18
+ ARC , SL , Single Saw , subopticcovers ,4.85,, PICMED ,,,,,,,,,
+ BASE , SL , Single Saw , subopticcovers ,4.85,, F ,,,,,,0.30,,,0.30
+ CUBIC , SL , Single Saw , subopticcovers ,4.85,, S ,,,,,,0.30,,,0.30
+ FLOW , SL , Single Saw , subopticcovers ,4.85,, PICOLO ,,,,,,,,,
+ LIGHT , SL , Single Saw , subopticcovers ,4.85,, S ,,,,,,0.30,,,0.30
+ LT , SL , Single Saw , subopticcovers ,4.85,, PLANO ,,,,,,,,,
+ SUSHI , SL , Single Saw , subopticcovers ,4.85,, S ,,,,,,,,1.00,1.00
+ ELLE , SL , Saw Lenses , subopticlens12 ,5.57,, VL ,,,,,,,,1.00,1.00
+ ELLE , SL , Grind , subopticlens12 ,1.00,, PLNLED ,,,,,,,,,
+ ELLE , SL , Drilling , subopticlens12 ,2.00,, VL ,,,,,,,,1.00,1.00
+ D535 , SLC , Saw Lenses , subopticlens12 ,5.57,, PRIME ,,,,,,,,,
+ D535 , SLC , Grind , subopticlens12 ,1.00,, S ,,,,,,4.18,,,4.18
+ D535 , SLC , Drilling , subopticlens12 ,2.00,, PRMLED ,,,,,,,,,
+ SL2LED , SM , Single Saw , subopticcovers ,4.85,, S ,,,,,,4.18,,,4.18
+ SLMLED , SM , Single Saw , subopticcovers ,4.85,, RAY3 ,,,,,,,,,
+ SL2LED , SM , Saw Lenses , subopticlens3 , CAD 5.57 ,, VL ,4.00,,,,,1.30,,,5.30
+ SLMLED , SM , Saw Lenses , subopticlens3 , CAD 5.57 ,, RAY4 ,,,,,,,,,
+ TWGLED , SO , Single Saw , subopticcovers ,4.85,, VL ,4.00,,,,,1.30,,,5.30
+ B2LED , SO , Saw Lenses , subopticlens1 ,0.30,, RAY6 ,,,,,,,,,
+ B3LED , SO , Saw Lenses , subopticlens1 ,0.30,, VL ,4.00,,,,,1.30,,,5.30
+ B4LED , SO , Saw Lenses , subopticlens1 ,0.30,, RAY8 ,,,,,,,,,
+ B4SLED , SO , Saw Lenses , subopticlens1 ,0.30,, VL ,4.00,,,,,1.30,,,5.30
+ B6LED , SO , Saw Lenses , subopticlens1 ,0.30,, SKETCH ,,,,,,,,,
+ TB2LED , SO , Saw Lenses , subopticlens1 ,0.30,, SO ,,,,,,3.00,,,3.00
+ TWGLED , SO , Saw Lenses , subopticlens3 , CAD 5.57 ,, SL2LED ,,,,,,,,,
+ DAYLED , SO , Saw Lenses , subopticlens9 ,1.00,, VL ,2.00,,,,,,,4.85,6.85
+ SKETCH , SO , Saw Lenses , subopticplast1 ,3.00,, SM ,,,,,,5.57,,4.85,10.42
+ BEAM3 , SW , Saw , subopticlenssw ,1.00,, SLIM ,,,,,,,,,
+ BEAM3 , SW , Saw Lenses , subopticlenssw ,1.00,, VL ,2.00,,,,,,,4.85,6.85
+ BEAM3 , SW , Saw Bench , subopticlenssw ,1.00,, SLMLED ,,,,,,,,,
+ BEAM3 , SW , Subassembly , subopticlenssw ,1.00,, VL ,2.00,,,,,,,4.85,6.85
+ BEAM4 , SW , Saw , subopticlenssw ,1.00,, PL ,,,,,,,,4.85,4.85
+ BEAM4 , SW , Saw Lenses , subopticlenssw ,1.00,, SM ,,,,,,5.57,,4.85,10.42
+ BEAM4 , SW , Saw Bench , subopticlenssw ,1.00,, SOLEIL ,,,,,,,,,
+ BEAM4 , SW , Subassembly , subopticlenssw ,1.00,, VL ,,5.00,,1.00,2.00,2.00,2.00,4.00,16.00
+ CUBIC , VL , Single Saw , subopticcovers ,4.85,, SUSHI ,,,,,,,,,
+ LT , VL , Single Saw , subopticcovers ,4.85,, S ,,,,,,5.57,,4.85,10.42
+ SL2LED , VL , Single Saw , subopticcovers ,4.85,, PL ,,,,,,,,4.85,4.85
+ SLIM , VL , Single Saw , subopticcovers ,4.85,, SB ,,,,,,,,4.85,4.85
+ SLMLED , VL , Single Saw , subopticcovers ,4.85,, P ,,,,,,,,4.85,4.85
+ TWGLED , VL , Single Saw , subopticcovers ,4.85,, SL ,,,,,,,,4.85,4.85
+ TWIG , VL , Single Saw , subopticcovers ,4.85,, TB2LED ,,,,,,,,,
+ SOLEIL , VL , Single Saw , subopticdust1 ,4.00,, C ,,,,,,0.30,,,0.30
+ SOLEIL , VL , Saw , subopticlens11 ,1.00,, SO ,,,,,,0.30,,,0.30
+ SOLEIL , VL , Drilling , subopticlens11 ,5.00,, TBEAM2 ,,,,,,,,,
+ SOLEIL , VL , Saw Bench , subopticlens11 ,2.00,, F ,,,,,,0.30,,,0.30
+ SOLEIL , VL , Saw Lenses , subopticlens11 ,2.00,, S ,,,,,,0.30,,,0.30
+ SOLEIL , VL , Subassembly , subopticlens11 ,2.00,, PL ,,,,,,3.00,,4.85,7.85
+ RAY3 , VL , Saw Lenses , subopticlens13 ,1.30,, A ,,,,1.00,,,,,1.00
+ RAY3 , VL , Cutter , subopticlens13 ,4.00,, TWGLED ,,,,,,,,,
+ RAY4 , VL , Saw Lenses , subopticlens13 ,1.30,, SO ,,,,,,5.57,,4.85,10.42
+ RAY4 , VL , Cutter , subopticlens13 ,4.00,, VL ,2.00,,,,,,,4.85,6.85
+ RAY6 , VL , Saw Lenses , subopticlens13 ,1.30,, TWIG ,,,,,,,,,
+ RAY6 , VL , Cutter , subopticlens13 ,4.00,, S ,,,,,,5.57,,4.85,10.42
+ RAY8 , VL , Saw Lenses , subopticlens13 ,1.30,, VL ,2.00,,,,,,,4.85,6.85
+ RAY8 , VL , Cutter , subopticlens13 ,4.00,, WAVE ,,,,,,,,,
+ CUBIC , VL , Cutter , subopticlens2 ,2.00,, VL ,,,,,,,,1.00,1.00
+ LT , VL , Cutter , subopticlens2 ,2.00,, WAVLED ,,,,,,,,,
+ SL2LED , VL , Cutter , subopticlens2 ,2.00,, VL ,,,,,,,,1.00,1.00
+ SLIM , VL , Cutter , subopticlens2 ,2.00,, WB4LED ,,,,,,,,,
+ SLMLED , VL , Cutter , subopticlens2 ,2.00,, S ,,,,,,0.30,,,0.30
+ TWGLED , VL , Cutter , subopticlens2 ,2.00,, WBEAM4 ,,,,,,,,,
+ TWIG , VL , Cutter , subopticlens2 ,2.00,, C ,,,,,,0.30,,,0.30
+ DIA , VL , Single Saw , subopticlens8 ,1.00,, F ,,,,,,0.30,,,0.30
+ DIALED , VL , Single Saw , subopticlens8 ,1.00,, S ,,,,,,0.30,,,0.30
+ DUO , VL , Single Saw , subopticlens8 ,1.00,, WBEAMD ,,,,,,,,,
+ PLANO , VL , Single Saw , subopticlens8 ,1.00,, F ,,3.00,,,,,,,3.00
+ PLNLED , VL , Single Saw , subopticlens8 ,1.00,, S ,,3.00,,,,,,,3.00
+ WAVE , VL , Single Saw , subopticlens8 ,1.00,, PL ,,3.00,,,,,,,3.00
+ WAVLED , VL , Single Saw , subopticlens8 ,1.00,, AV ,,3.00,,,,,,,3.00
+ BEAM3 , WW , Single Saw , subopticlensww ,1.00,, B4SLED ,,,,,,,,,
+ BEAM3 , WW , Subassembly , subopticlensww ,1.00,, SO ,,,,,,0.30,,,0.30
+ BEAM4 , WW , Single Saw , subopticlensww ,1.00,, SCULPT ,,,,,,,,,
+ BEAM4 , WW , Subassembly , subopticlensww ,1.00,, FL ,,,,6.00,,,,,6.00
+,,,,,, 2M ,,,,6.00,,,1.00,,7.00
+,,,,,, 2P ,,,,6.00,,,1.00,,7.00
+,,,,,, 0.5M ,,,,6.00,,,1.00,,7.00
+,,,,,, 0.5P ,,,,6.00,,,1.00,,7.00
+,,,,,, Grand Total ,30.00,21.00,2.00,38.00,5.00,144.57,10.00,263.35,513.92

@@ -1,0 +1,418 @@
+ Product ID , Lighting , Fixture ,  CAD 3.00  , Description , Cartridge/Board , Pattern 
+ 101C , fluorescent , LIGHT , pendant , direct ,,
+ 101CA , fluorescent , LIGHT , pendant , direct ,,
+ 101CS , fluorescent , LIGHT , surface , direct ,,
+ 101CW , fluorescent , LIGHT , wall , direct ,,
+ 101CWA , fluorescent , LIGHT , wall , direct ,,
+ 101F , fluorescent , LIGHT , pendant , direct ,,
+ 101FA , fluorescent , LIGHT , pendant , direct ,,
+ 101FW , fluorescent , LIGHT , wall , direct ,,
+ 101FWA , fluorescent , LIGHT , wall , direct ,,
+ 202C , fluorescent , LIGHT , pendant , direct ,,
+ 202CA , fluorescent , LIGHT , pendant , direct ,,
+ 202CS , fluorescent , LIGHT , surface , direct ,,
+ 202CW , fluorescent , LIGHT , wall , direct ,,
+ 202CWA , fluorescent , LIGHT , wall , direct ,,
+ 202F , fluorescent , LIGHT , pendant , direct ,,
+ 202FA , fluorescent , LIGHT , pendant , direct ,,
+ 202FW , fluorescent , LIGHT , wall , direct ,,
+ 202FWA , fluorescent , LIGHT , wall , direct ,,
+ 202LED , led , Light ,pendant, direct ,Cartridge,
+ 202WLED , led , Light ,wall, direct ,Cartridge,
+ AR , fluorescent , AIR , pendant , direct ,,
+ ARC , fluorescent , ARC , pendant , direct ,,
+ ARCA , fluorescent , ARC , pendant , direct ,,
+ ARCLED , led , Arc ,pendant, direct ,Cartridge,
+ ARCW , fluorescent , ARC , wall , direct ,,
+ ARCWA , fluorescent , ARC , wall , direct ,,
+ ARCWLED , led , Arc ,wall, direct ,Cartridge,
+ ARLED , led , AIRLED , pendant , direct , cartridge ,
+ ARS , fluorescent , AIR , surface , direct ,,
+ ARSLED , led , AIRLED , surface , direct , cartridge ,
+ ARW , fluorescent , AIR , wall , direct ,,
+ ARWBT , fluorescent , AIR , wall , direct ,,
+ ARWBTLED , led , AIRLED , wall , direct , cartridge ,
+ ARWLED , led , AIRLED , wall , direct , cartridge ,
+ ARWLEDBT , led , Air ,wall, direct ,Cartridge,
+ AULED , led , Aura , Grid , direct , boardgrid ,
+B2SQDLED, led , B2S ,pendant, direct , cartridge ,
+B2SQILED, led , B2S ,pendant, indirect , cartridge ,
+B2SQSLED, led , B2S ,surface, direct , cartridge ,
+B2SQWDLED, led , B2S ,wall, direct , cartridge ,
+B2SQWILED, led , B2S ,wall, indirect , cartridge ,
+ B3RLED , led , B3S , recessed , direct ,,
+ B6 , fluorescent , BEAM6 , pendant , direct/indirect ,,
+ B6D , fluorescent , BEAM6 , pendant , direct ,,
+ B6DILED , led , B6LED , Pendant , direct/indirect , cartridge ,
+ B6DLED , led , B6LED , pendant , direct , cartridge ,
+ B6DLEDPAT , led , B6LED , pendant , direct , cartridge , Yes 
+ B6DPAT , fluorescent , BEAM6 , pendant , direct ,, Yes 
+ B6I , fluorescent , BEAM6 , pendant , indirect ,,
+ B6ILED , led , B6LED , pendant , indirect ,,
+ B6ILEDPAT , led , B6LED , pendant , indirect , cartridge , Yes 
+ B6IPAT , fluorescent , BEAM6 , pendant , indirect ,, Yes 
+ B6LEDPAT , led , B6LED , pendant , direct/indirect , cartridge , Yes 
+ B6PAT , fluorescent , BEAM6 , pendant , direct/indirect ,, Yes 
+ B6PRLED , led , B6LED , recessed , direct , cartridge ,
+ B6R , fluorescent , BEAM6 , recessed , direct ,,
+ B6RLED , led , B6LED , recessed , direct , cartridge ,
+ B6RLEDPAT , led , B6LED , recessed , direct , cartridge , Yes 
+ B6RPAT , fluorescent , BEAM6 , recessed , direct ,, Yes 
+ B6RV , fluorescent , BEAM6 , recessed , direct ,,
+ B6RVLED , led , B6LED , recessed , direct , cartridge ,
+ B6S , fluorescent , BEAM6 , surface , direct ,,
+ B6SLED , led , B6LED , surface , direct , cartridge ,
+ B6SLEDPAT , led , B6LED , surface , direct , cartridge , Yes 
+ B6SPAT , fluorescent , BEAM6 , surface , direct ,, Yes 
+ B6W , fluorescent , BEAM6 , wall , direct/indirect ,,
+ B6WD , fluorescent , BEAM6 , wall , direct ,,
+ B6WDLED , led , B6LED , wall , direct , cartridge ,
+ B6WDLEDPAT , led , B6LED , wall , direct , cartridge , Yes 
+ B6WDPAT , fluorescent , BEAM6 , wall , indirect ,, Yes 
+ B6WI , fluorescent , BEAM6 , wall , indirect ,,
+ B6WILEDPAT , led , B6LED , wall , indirect , cartridge , Yes 
+ B6WIPAT , fluorescent , BEAM6 , wall , indirect ,, Yes 
+ B6WLEDPAT , led , B6LED , wall , direct/indirect , cartridge , Yes 
+ B6WPAT , fluorescent , BEAM6 , wall , direct/indirect ,, Yes 
+ BAS , fluorescent , BASE , pendant , direct ,,
+ BASA , fluorescent , BASE , pendant , direct ,,
+ BASS , fluorescent , BASE , surface , direct ,,
+ BASW , fluorescent , BASE , wall , direct ,,
+ BASWA , fluorescent , BASE , wall , direct ,,
+ BB , fluorescent , BEAM4 , pendant , direct/indirect ,,
+ BBD , fluorescent , BEAM4 , pendant , direct ,,
+ BBDILED , led , B4LED , pendant , direct/indirect , cartridge ,
+ BBDILEDPAT , led , B4LED , pendant , direct/indirect , cartridge , Yes 
+ BBDLED , led , B4LED , pendant , direct , cartridge ,
+ BBDLEDPAT , led , B4LED , pendant , direct , cartridge , Yes 
+ BBDPAT , fluorescent , BEAM4 , pendant , direct ,, Yes 
+ BBI , fluorescent , BEAM4 , pendant , indirect ,,
+ BBILED , led , B4LED , pendant , direct , cartridge ,
+ BBILED2 , led , B4SLED , pendant , indirect , boardsurrondlite ,
+ BBILEDPAT , led , B4LED , pendant , indirect , cartridge , Yes 
+ BBIPAT , fluorescent , BEAM4 , pendant , indirect ,, Yes 
+ BBLED2 , led , B4SLED , pendant , direct/indirect , cartridge ,
+ BBLEDPAT , led , B4LED , pendant , direct/indirect , cartridge , Yes 
+ BBPAT , fluorescent , BEAM4 , pendant , direct/indirect ,, Yes 
+ BBPRLED , led , B4LED , recessed , direct , cartridge ,
+ BBR , fluorescent , BEAM4 , recessed , direct ,,
+ BBRLED , led , B4LED , recessed , direct , cartridge ,
+ BBRLEDPAT , led , B4LED , recessed , direct , cartridge , Yes 
+ BBRPAT , fluorescent , BEAM4 , recessed , direct ,, Yes 
+ BBRV , fluorescent , BEAM4 , recessed , direct ,,
+ BBRVLED , led , B4LED , recessed , direct , cartridge ,
+ BBS , fluorescent , BEAM4 , surface , direct ,,
+ BBSLED , led , B4LED , surface , direct , cartridge ,
+ BBSLEDPAT , led , B4LED , surface , direct , cartridge , Yes 
+ BBSPAT , fluorescent , BEAM4 , surface , direct ,, Yes 
+ BBW , fluorescent , BEAM4 , wall , direct/indirect ,,
+ BBWD , fluorescent , BEAM4 , wall , direct ,,
+ BBWDILED , led , B4LED , wall , direct/indirect , cartridge ,
+ BBWDLED , led , B4LED , wall , direct , cartridge ,
+ BBWDLEDPAT , led , B4LED , wall , direct , cartridge , Yes 
+ BBWDPAT , fluorescent , BEAM4 , wall , indirect ,, Yes 
+ BBWI , fluorescent , BEAM4 , wall , indirect ,,
+ BBWILED , led , B4LED , wall , indirect , cartridge ,
+ BBWILEDPAT , led , B4LED , wall , indirect , cartridge , Yes 
+ BBWIPAT , fluorescent , BEAM4 , wall , indirect ,, Yes 
+ BBWLEDPAT , led , B4LED , wall , direct/indirect , cartridge , Yes 
+ BBWPAT , fluorescent , BEAM4 , wall , direct/indirect ,, Yes 
+ BD , fluorescent , BEAM2 , pendant , direct ,,
+ BDI , fluorescent , BEAMDI , pendant , direct ,,
+ BDIW , fluorescent , BEAMDI , wall , direct ,,
+ BDLED , led , B2LED , pendant , direct , cartridge ,
+ BDLEDPAT , led , B2LED , pendant , direct , cartridge , Yes 
+ BDPAT , fluorescent , BEAM2 , pendant , direct ,, Yes 
+ BI , fluorescent , BEAM2 , pendant , indirect ,,
+ BILED , led , B2LED , pendant , direct , cartridge ,
+ BILEDPAT , led , B2LED , pendant , indirect , cartridge , Yes 
+ BIPAT , fluorescent , BEAM2 , pendant , indirect ,, Yes 
+ BLEDPAT , led , B2LED , pendant , direct , cartridge , Yes 
+ BMD , fluorescent , BEAM3 , pendant , direct ,,
+ BMDLED , led , B3LED , pendant , direct , cartridge ,
+ BMDLEDPAT , led , B3LED , pendant , direct , cartridge , Yes 
+ BMDPAT , fluorescent , BEAM3 , pendant , direct ,, Yes 
+ BMI , fluorescent , BEAM3 , pendant , indirect ,,
+ BMILED , led , B3LED , pendant , indirect , cartridge ,
+ BMILEDPAT , led , B3LED , pendant , indirect , cartridge , Yes 
+ BMIPAT , fluorescent , BEAM3 , pendant , indirect ,, Yes 
+ BMLEDPAT , led , B3LED , pendant , direct , cartridge , Yes 
+ BMPLED , led , B3LED , recessed , direct , cartridge ,
+ BMR , fluorescent , BEAM3 , recessed , direct ,,
+ BMRLED , led , B3LED , recessed , direct , cartridge ,
+ BMRLEDPAT , led , B3LED , recessed , direct , cartridge , Yes 
+ BMRPAT , fluorescent , BEAM3 , recessed , direct ,, Yes 
+ BMRV , fluorescent , BEAM3 , recessed , direct ,,
+ BMRVLED , led , B3LED , recessed , direct , cartridge ,
+ BMS , fluorescent , BEAM3 , surface , direct ,,
+ BMSLED , led , B3LED , surface , direct , cartridge ,
+ BMSLEDPAT , led , B3LED , surface , direct , cartridge , Yes 
+ BMSPAT , fluorescent , BEAM3 , surface , direct ,, Yes 
+ BMWD , fluorescent , BEAM3 , wall , direct ,,
+ BMWDLED , led , B3LED , wall , direct , cartridge ,
+ BMWDLEDPAT , led , B3LED , wall , direct , cartridge , Yes 
+ BMWDPAT , fluorescent , BEAM3 , wall , direct ,, Yes 
+ BMWI , fluorescent , BEAM3 , wall , indirect ,,
+ BMWILED , led , B3LED , wall , indirect , cartridge ,
+ BMWILEDPAT , led , B3LED , wall , indirect , cartridge , Yes 
+ BMWIPAT , fluorescent , BEAM3 , wall , indirect ,, Yes 
+ BMWLED , led , B3LED , wall , direct , cartridge ,
+ BMWLEDPAT , led , B3LED , wall , direct , cartridge , Yes 
+ BMWPAT , fluorescent , BEAM3 , wall , direct ,, Yes 
+ BMWV , fluorescent , BEAM3 , wall , direct ,,
+ BMWVLED , led , B3LED , wall , direct , cartridge ,
+ BR , fluorescent , BEAM2 , recessed , direct ,,
+ BRLED , led , B2LED , recessed , direct , cartridge ,
+ BRLEDPAT , led , B2LED , recessed , direct , cartridge , Yes 
+ BRPAT , fluorescent , BEAM2 , recessed , direct ,, Yes 
+ BRV , fluorescent , BEAM2 , recessed , direct ,,
+ BRVLED , led , B2LED , recessed , direct , cartridge ,
+ BS , fluorescent , BEAM2 , surface , direct ,,
+ BSLED , led , B2LED , surface , direct , cartridge ,
+ BSLEDPAT , led , B2LED , surface , direct , cartridge , Yes 
+ BSPAT , fluorescent , BEAM2 , surface , direct ,, Yes 
+ BWD , fluorescent , BEAM2 , wall , direct ,,
+ BWDLED , led , B2LED , wall , direct , cartridge ,
+ BWDLEDPAT , led , B2LED , wall , direct , cartridge , Yes 
+ BWDPAT , fluorescent , BEAM2 , wall , direct ,, Yes 
+ BWI , fluorescent , BEAM2 , wall , indirect ,,
+ BWILED , led , B2LED , wall , indirect , cartridge ,
+ BWILEDPAT , led , B2LED , wall , indirect , cartridge , Yes 
+ BWIPAT , fluorescent , BEAM2 , wall , indirect ,, Yes 
+ BWLEDPAT , led , B2LED , wall , direct , cartridge , Yes 
+ BWPAT , fluorescent , BEAM2 , wall , direct ,, Yes 
+ BWV , fluorescent , BEAM2 , wall , direct ,,
+ BWVLED , led , B2LED , wall , direct , cartridge ,
+ CCH , led , PERFKT , surface , indirect , boardsurrondlite ,
+ CCHPAT , led , PERFKT , surface , direct , boardsurrondlite , Yes 
+ CCL , led , PERFKT , surface , indirect , boardsurrondlite ,
+ CCLPAT , led , PERFKT , surface , direct , boardsurrondlite , Yes 
+ CCWH , led , PERFKT , wall , indirect , boardsurrondlite ,
+ CCWL , led , PERFKT , wall , indirect , boardsurrondlite ,
+ clkled , led , CLICK , recessed , direct , boardsurrondlite ,
+ CU , fluorescent , CUBIC , pendant , direct ,,
+ CUA , fluorescent , CUBIC , pendant , direct ,,
+ CUB , fluorescent , CUBIC , pendant , direct ,,
+ CUBA , fluorescent , CUBIC , pendant , direct ,,
+ CUBLED , led , CUBIC , pendant , direct , cartridge ,
+ CUBS , fluorescent , CUBIC , surface , direct ,,
+ CUBW , fluorescent , CUBIC , wall , direct ,,
+ CUBWA , fluorescent , CUBIC , wall , direct ,,
+ CUBWLED , led , CUBIC , Pendant , direct , cartridge ,
+ CUS , fluorescent , CUBIC , surface , direct ,,
+ CUW , fluorescent , CUBIC , wall , direct ,,
+ CUWA , fluorescent , CUBIC , wall , direct ,,
+ D5 , fluorescent , D535 , pendant , direct ,,
+ D5S , fluorescent , D535 , surface , direct ,,
+ D5W , fluorescent , D535 , wall , direct ,,
+ DAYC , fluorescent , DAY , Grid , direct ,,
+ DAYCLED , led , DAYLED , Grid LED , direct , boardgrid ,
+ DAYF , fluorescent , DAY , Grid , direct ,,
+ DAYFLED , led , DAYLED , Grid LED , direct , boardgrid ,
+ DIA , fluorescent , DIA , Grid , direct ,,
+ DIALED , led , DIALED , Grid LED , direct , boardgrid ,
+ DUO , fluorescent , DUO , Grid , direct ,,
+ EL , fluorescent , ELLE , pendant , direct ,,
+ ELS , fluorescent , ELLE , surface , direct ,,
+ ELW , fluorescent , ELLE , wall , direct ,,
+ FL , fluorescent , FLOW , pendant , direct ,,
+ FLW , fluorescent , FLOW , wall , direct ,,
+ GPLED , led , PERFKT , recessed , direct , Boardgraze ,
+ L2 , fluorescent , L2 , pendant , direct ,,
+ L2A , fluorescent , L2 , pendant , direct ,,
+ L2S , fluorescent , L2 , surface , direct ,,
+ L2W , fluorescent , L2 , wall , direct ,,
+ L2WA , fluorescent , L2 , wall , direct ,,
+ LT , fluorescent , LT , pendant , direct ,,
+ LTA , fluorescent , LT , pendant , direct ,,
+ LTLED , led , LT , Pendant , direct , cartridge ,
+ LTW , fluorescent , LT , wall , direct ,,
+ LTWA , fluorescent , LT , wall , direct ,,
+ LTWLED , led , LT , wall , direct , cartridge ,
+ MB , fluorescent , MINI , pendant , direct ,,
+ MBLED , led , MINLED , pendant , direct , cartridge ,
+ MBS , fluorescent , MINI , surface , direct ,,
+ MBSLED , led , MINLED , surface , direct , cartridge ,
+ MBW , fluorescent , MINI , wall , direct ,,
+ MBWLED , led , MINLED , wall , direct , cartridge ,
+ MBWV , fluorescent , MINI , wall , direct ,,
+ MBWVLED , led , MINLED , wall , direct , cartridge ,
+ PICD , fluorescent , PICOLO , pendant , direct ,,
+ PICI , fluorescent , PICOLO , pendant , indirect ,,
+ PICR , fluorescent , PICOLO , pendant , direct ,,
+ PICWD , fluorescent , PICOLO , wall , direct ,,
+ PICWI , fluorescent , PICOLO , wall , indirect ,,
+ PICWR , fluorescent , PICOLO , wall , direct ,,
+ PMD , fluorescent , PICMED , pendant , direct ,,
+ PMI , fluorescent , PICMED , pendant , indirect ,,
+ PMR , fluorescent , PICMED , pendant , direct ,,
+ PMRLED , led , PICMED , pendant , direct , cartridge ,
+ PMWD , fluorescent , PICMED , wall , direct ,,
+ PMWI , fluorescent , PICMED , wall , indirect ,,
+ PMWR , fluorescent , PICMED , wall , direct ,,
+ PO , fluorescent , PLANO , Grid , direct ,,
+ POLED , led , PLNLED , Grid LED , direct , boardgrid ,
+ PR , fluorescent , PRIME , pendant , direct ,,
+ PRLED , led , PRMLED , pendant , direct , cartridge ,
+ PRS , fluorescent , PRIME , surface , direct ,,
+ PRSLED , led , PRMLED , surface , direct , cartridge ,
+ PRW , fluorescent , PRIME , wall , direct ,,
+ PRWLED , led , PRMLED , wall , direct , cartridge ,
+ PW , fluorescent , PRIME , pendant , direct ,,
+ PWLED , led , PRMLED , pendant , direct , cartridge ,
+ PWS , fluorescent , PRIME , surface , direct ,,
+ PWSLED , led , PRMLED , surface , direct , cartridge ,
+ PWW , fluorescent , PRIME , wall , direct ,,
+ PWWLED , led , PRMLED , wall , direct , cartridge ,
+ RAY3 , fluorescent , RAY3 , recessed , direct ,,
+ RAY3P , fluorescent , RAY3 , pendant , direct ,,
+ RAY3S , fluorescent , RAY3 , surface , direct ,,
+ RAY3W , fluorescent , RAY3 , wall , direct ,,
+ RAY4 , fluorescent , RAY4 , recessed , direct ,,
+ RAY4P , fluorescent , RAY4 , pendant , direct ,,
+ RAY4PLED , led , RAY4LED , pendant , direct ,,
+ RAY4S , fluorescent , RAY4 , surface , direct ,,
+ RAY4W , fluorescent , RAY4 , wall , direct ,,
+ RAY6 , fluorescent , RAY6 , recessed , direct ,,
+ RAY6P , fluorescent , RAY6 , pendant , direct ,,
+ RAY6S , fluorescent , RAY6 , surface , direct ,,
+ RAY6W , fluorescent , RAY6 , wall , direct ,,
+ RAY8 , fluorescent , RAY8 , recessed , direct ,,
+ RAY8P , fluorescent , RAY8 , pendant , direct ,,
+ RAY8S , fluorescent , RAY8 , surface , direct ,,
+ RAY8W , fluorescent , RAY8 , wall , direct ,,
+SCAC, led , Sculpt , pendant , direct , boardsculpt ,
+ SCD , led , SCULPT , pendant , direct , boardsculpt ,
+SCDDL, led , Sculpt , pendant , direct , boardsculpt ,
+ SCDI , led , SCULPT , pendant , direct/indirect , boardsculpt ,
+SCDILAC, led , Sculpt , pendant , direct/indirect , boardsculpt ,
+ SCDIPAT , led , Sculpt , pendant , direct/indirect , boardsculpt , Yes 
+ SCDIPAT , led , Sculpt , pendant , direct/indirect , boardsculpt , Yes 
+SCDLAC, led , Sculpt , pendant , direct , boardsculpt ,
+ SCDPAT , led , Sculpt , pendant , direct , boardsculpt , Yes 
+Sci, led , Sculpt , pendant , indirect , boardsculpt ,
+SCILAC, led , Sculpt , pendant , indirect , boardsculpt ,
+ SCIPAT , led , Sculpt , pendant , indirect , boardsculpt , Yes 
+ SCPLED , led , Sculpt , recessed , direct , boardsculpt ,
+ SCR , led , SCULPT , recessed , direct , boardsculpt ,
+SCRAC, led , Sculpt , recessed , direct , boardsculpt ,
+SCRLAC, led , Sculpt , recessed , direct , boardsculpt ,
+ SCRPAT , led , Sculpt , recessed , direct , boardsculpt , Yes 
+ SCRPAT , led , Sculpt , recessed , direct , boardsculpt , Yes 
+ SCRV , led , SCULPT , recessed , direct , boardsculpt ,
+ SCS , led , SCULPT , surface , direct , boardsculpt ,
+SCSAC, led , Sculpt , surface , direct , boardsculpt ,
+SCSLAC, led , Sculpt , surface , direct , boardsculpt ,
+ SCSPAT , led , Sculpt , surface , direct , boardsculpt , Yes 
+ SCWD , led , SCULPT , wall , direct , boardsculpt ,
+ SCWDI , led , SCULPT , wall , direct/indirect , boardsculpt ,
+ SCWDIPAT , led , Sculpt , wall , direct/indirect , boardsculpt , Yes 
+ SCWDPAT , led , Sculpt , wall , direct , boardsculpt , Yes 
+SCWI, led , Sculpt , wall , indirect , boardsculpt ,
+ SCWIPAT , led , Sculpt , wall , indirect , boardsculpt , Yes 
+ SK , led , SKETCH , recessed , direct , boardsketch ,
+ SKFLED , led , SKYEFALL , Grid LED , direct , boardgrid ,
+ SKPE , led , SKETCH , pendant , direct , boardsketch ,
+ SKPLED , led , SKYPOL , Grid LED , direct ,,
+ SKSLED , led , SKYSKP , Grid LED , direct ,,
+ SKVLED , led , SKYVW , Grid LED , direct ,,
+ SL , fluorescent , SLIM , pendant , direct ,,
+ SL2HLED , led , SL2LED , pendant , direct , boardsurrondlite ,
+ SL2LLED , led , SL2LED , pendant , direct , boardsurrondlite ,
+ SLLED , led , SLMLED , pendant , direct , boardsurrondlite ,
+ SLW , fluorescent , SLIM , wall , direct ,,
+ SLWLED , led , SLMLED , wall , direct , boardsurrondlite ,
+ SOL , fluorescent , SOLEIL , pendant , direct ,,
+ SOLS , fluorescent , SOLEIL , surface , direct ,,
+ SOLW , fluorescent , SOLEIL , wall , direct ,,
+ STC30 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STC31 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STC32 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STCO , led , Stencil , Pendant , direct , cartridge , Yes 
+ STD , led , Stencil , Pendant , direct , cartridge ,
+ STFC , led , Stencil , Pendant , direct , cartridge , Yes 
+ STFD , led , Stencil , Pendant , direct , cartridge , Yes 
+ STFI , led , Stencil , Pendant , indirect , cartridge , Yes 
+ STI , led , Stencil , Pendant , indirect , cartridge ,
+ STIA , led , Stencil , Pendant , indirect , cartridge ,
+ STM , led , Stencil , Pendant , direct , cartridge , Yes 
+ STO20 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STO21 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STO22 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STO23 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STO24 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STPC50 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STPC52 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STPC53 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STPO40 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STPO41 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STPO42 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STPO43 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STPO44 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STPO50 , led , Stencil , Pendant , direct , cartridge , Yes 
+ STPO51 , led , Stencil , Pendant , direct , cartridge , Yes 
+ SU , fluorescent , SUSHI , pendant , direct ,,
+ SUA , fluorescent , SUSHI , pendant , direct ,,
+ SUS , fluorescent , SUSHI , surface , direct ,,
+ SUW , fluorescent , SUSHI , wall , direct ,,
+ SUWA , fluorescent , SUSHI , wall , direct ,,
+ TB , fluorescent , TBEAM2 , pendant , direct ,,
+ TB2DILED , led , TB2LED , pendant , direct/indirect , boardsculpt ,
+ TB2DILEDPAT , LED , TB2LED , Pendant , direct/indirect , boardsculpt ,
+ TB2DLED , led , TB2LED , pendant , direct ,,
+ TB2WDILED , led , TB2LED , wall , direct/indirect , boardsculpt ,
+ TB2WDLED , led , TB2LED , wall , direct ,,
+ TBDILED , led , TB2LED , pendant , direct/indirect , cartridge ,
+ TBDILEDPAT , led , TB2LED , pendant , direct/indirect , cartridge , Yes 
+ TBDLED , led , TB2LED , pendant , direct , cartridge ,
+ TBDLEDPAT , led , TB2LED , pendant , direct , cartridge , Yes 
+ TBDPAT , fluorescent , TBEAM2 , pendant , direct ,, Yes 
+ TBILED , led , TB2LED , pendant , indirect , cartridge ,
+ TBILEDPAT , led , TB2LED , pendant , indirect , cartridge , Yes 
+ TBIPAT , fluorescent , TBEAM2 , pendant , indirect ,, Yes 
+ TBLEDPAT , led , TB2LED , pendant , direct , cartridge , Yes 
+ TBPAT , fluorescent , TBEAM2 , pendant , direct/indirect ,, Yes 
+ TBW , fluorescent , TBEAM2 , wall , direct ,,
+ TBWDILED , led , TB2LED , wall , direct/indirect , cartridge ,
+ TBWDILEDPAT , led , TB2LED , wall , direct/indirect , cartridge , Yes 
+ TBWDLED , led , TB2LED , wall , direct , cartridge ,
+ TBWDLEDPAT , led , TB2LED , wall , direct , cartridge , Yes 
+ TBWDPAT , fluorescent , TBEAM2 , wall , direct ,, Yes 
+ TBWILED , led , TB2LED , wall , indirect , cartridge ,
+ TBWILEDPAT , led , TB2LED , wall , indirect , cartridge , Yes 
+ TBWIPAT , fluorescent , TBEAM2 , wall , indirect ,, Yes 
+ TBWPAT , fluorescent , TBEAM2 , wall , direct/indirect ,, Yes 
+ TEK12 , fluorescent , TEK , recessed , direct , Cartridge ,
+ TEK12LED , led , TEKLED , recessed , direct , Cartridge ,
+ TEK6 , fluorescent , TEK , recessed , direct , Cartridge ,
+ TEK6LED , led , TEKLED , recessed , direct , Cartridge ,
+ TWC , fluorescent , TWIG , pendant , direct ,,
+ TWCW , fluorescent , TWIG , wall , direct ,,
+ TWO , fluorescent , TWIG , pendant , direct ,,
+ TWOW , fluorescent , TWIG , wall , direct ,,
+ TWR , fluorescent , TWIG , pendant , direct ,,
+ TWRLED , led , TWGLED , pendant , direct , boardsurrondlite ,
+ TWRW , fluorescent , TWIG , wall , direct ,,
+ TWRWLED , led , TWGLED , wall , direct , boardsurrondlite ,
+ WA , fluorescent , WAVE , Grid , direct ,,
+ WALED , led , WAVLED , Grid LED , direct , boardgrid ,
+ WB , fluorescent , WBEAM4 , pendant , direct ,,
+ WBDI , fluorescent , WBEAMD , pendant , direct/indirect ,,
+ WBDILED , led , WB4LED , pendant , direct/indirect , cartridge ,
+ WBDIW , fluorescent , WBEAMD , wall , direct/indirect ,,
+ WBDIWLED , led , WB4LED , pendant , direct/indirect ,,
+ WBDLED , led , WB4LED , pendant , direct , cartridge ,
+ WBDLED , led , WB4LED , pendant , direct , cartridge ,
+ WBDWLED , led , WB4LED , wall , direct , cartridge ,
+ WBILED , led , WB4LED , pendant , Indirect , cartridge ,
+ WBIWLED , led , WB4LED , wall , Indirect , cartridge ,
+ WBLED , led , WB4LED , pendant , direct , cartridge ,
+ WBR , fluorescent , WBEAM4 , recessed , direct ,,
+ WBRLED , led , WB4LED , recessed , direct , cartridge ,
+ WBRVLED , led , WB4LED , recessed , direct , cartridge ,
+ WBS , fluorescent , WBEAM4 , surface , direct ,,
+ WBSLED , led , WB4LED , surface , direct , cartridge ,
+ WBW , fluorescent , WBEAM4 , wall , direct ,,
+ WBWLED , led , WB4LED , wall , direct , cartridge ,
+ WWR , led , PERFKT , recessed , direct , cartridge ,
+ ZELED , led , Zen , pendant , direct/indirect , boardsurrondlite ,

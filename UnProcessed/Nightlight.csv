@@ -1,0 +1,25 @@
+Circuit Option,Fixture Type,Work Center,Option,ID,Task,Time(min),,,,
+NL,recessed,Assembly,nightlightr,1,bring wires to exit#1,0.1,,,Row Labels,Sum of Time(min)
+NL,recessed,Assembly,nightlightr,2,identify wires circuits,0.15,,,pendant,3.7
+NL,recessed,Assembly,nightlightr,3,operational test : NL section,0.2,,,Assembly,1.7
+NL,pendant,Assembly,nightlight,2,bring wires to exit#1,0.1,,,Subassembly Wires,2
+NL,pendant,Assembly,nightlight,3,"plug 2sd power cord with wago connectors, screw to housing with plastic clamp (ERS & E ballast)",1.25,,,recessed,0.45
+NL,pendant,Assembly,nightlight,4,identify wires circuits,0.15,,,Assembly,0.45
+NL,pendant,Assembly,nightlight,5,operational test : NL section,0.2,,,surface,3.7
+NL,surface,Assembly,nightlight,2,bring wires to exit#1,0.1,,,Assembly,1.7
+NL,surface,Assembly,nightlight,3,"plug 2sd power cord with wago connectors, screw to housing with plastic clamp (ERS & E ballast)",1.25,,,Subassembly Wires,2
+NL,surface,Assembly,nightlight,4,identify wires circuits,0.15,,,wall,3.7
+NL,surface,Assembly,nightlight,5,operational test : NL section,0.2,,,Assembly,1.7
+NL,wall,Assembly,nightlight,2,bring wires to exit#1,0.1,,,Subassembly Wires,2
+NL,wall,Assembly,nightlight,3,"plug 2sd power cord with wago connectors, screw to housing with plastic clamp (ERS & E ballast)",1.25,,,Grid,0.45
+NL,wall,Assembly,nightlight,4,identify wires circuits,0.15,,,Assembly,0.45
+NL,wall,Assembly,nightlight,5,operational test : NL section,0.2,,,Grid LED,0.45
+NL,Grid,Assembly,nightlightr,1,bring wires to exit#1,0.1,,,Assembly,0.45
+NL,Grid,Assembly,nightlightr,2,identify wires circuits,0.15,,,Grand Total,12.45
+NL,Grid,Assembly,nightlightr,3,operational test : NL section,0.2,,,,
+NL,Grid LED,Assembly,nightlightr,1,bring wires to exit#1,0.1,,,,
+NL,Grid LED,Assembly,nightlightr,2,identify wires circuits,0.15,,,,
+NL,Grid LED,Assembly,nightlightr,3,operational test : NL section,0.2,,,,
+NL,pendant,Subassembly Wires,nightlight,1,preparation 2sd power cord,2,,,,
+NL,surface,Subassembly Wires,nightlight,1,preparation 2sd power cord,2,,,,
+NL,wall,Subassembly Wires,nightlight,1,preparation 2sd power cord,2,,,,

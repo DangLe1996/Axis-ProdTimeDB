@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EA56E336-68A6-4584-A597-E18898245932}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Axis_ProdTimeDB</RootNamespace>
+    <AssemblyName>Axis-ProdTimeDB</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AXISAutomation">
+      <HintPath>..\..\..\..\..\Epicor\ERP10.1Client\Client\AXISAutomation.dll</HintPath>
+    </Reference>
+    <Reference Include="DBConnection">
+      <HintPath>..\..\..\..\..\Epicor\ERP10.1Client\Client\DBConnection.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Epicor.Ice">
+      <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Epicor.Ice.dll</HintPath>
+    </Reference>
+    <Reference Include="Epicor.ServiceModel">
+      <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Epicor.ServiceModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Ice.Contracts.BO.UD03">
+      <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Ice.Contracts.BO.UD03.dll</HintPath>
+    </Reference>
+    <Reference Include="Ice.Core.Session">
+      <HintPath>..\..\..\..\..\Epicor\ERP10.1Client\Client\Ice.Core.Session.dll</HintPath>
+    </Reference>
+    <Reference Include="Ice.Core.Version">
+      <HintPath>..\..\..\..\..\Epicor\ERP10.1Client\Client\Ice.Core.Version.dll</HintPath>
+    </Reference>
+    <Reference Include="Ice.Services.BO.UD03">
+      <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Ice.Services.BO.UD03.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAL\ProductClass.cs" />
+    <Compile Include="DAL\TimeContext.cs" />
+    <Compile Include="DataClasses.cs" />
+    <Compile Include="InputClasses\InputClass.cs" />
+    <Compile Include="Migrations\201909161855553_init.cs" />
+    <Compile Include="Migrations\201909161855553_init.Designer.cs">
+      <DependentUpon>201909161855553_init.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909161913234_addFx.cs" />
+    <Compile Include="Migrations\201909161913234_addFx.Designer.cs">
+      <DependentUpon>201909161913234_addFx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909171525232_addRls.cs" />
+    <Compile Include="Migrations\201909171525232_addRls.Designer.cs">
+      <DependentUpon>201909171525232_addRls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909171617105_ProdFam.cs" />
+    <Compile Include="Migrations\201909171617105_ProdFam.Designer.cs">
+      <DependentUpon>201909171617105_ProdFam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909171620034_RemoveProdFam.cs" />
+    <Compile Include="Migrations\201909171620034_RemoveProdFam.Designer.cs">
+      <DependentUpon>201909171620034_RemoveProdFam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909171623389_AddProdFamTB.cs" />
+    <Compile Include="Migrations\201909171623389_AddProdFamTB.Designer.cs">
+      <DependentUpon>201909171623389_AddProdFamTB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909171954077_removepr.cs" />
+    <Compile Include="Migrations\201909171954077_removepr.Designer.cs">
+      <DependentUpon>201909171954077_removepr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909172030108_updatedbSept17.cs" />
+    <Compile Include="Migrations\201909172030108_updatedbSept17.Designer.cs">
+      <DependentUpon>201909172030108_updatedbSept17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201909161855553_init.resx">
+      <DependentUpon>201909161855553_init.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909161913234_addFx.resx">
+      <DependentUpon>201909161913234_addFx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909171525232_addRls.resx">
+      <DependentUpon>201909171525232_addRls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909171617105_ProdFam.resx">
+      <DependentUpon>201909171617105_ProdFam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909171620034_RemoveProdFam.resx">
+      <DependentUpon>201909171620034_RemoveProdFam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909171623389_AddProdFamTB.resx">
+      <DependentUpon>201909171623389_AddProdFamTB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909171954077_removepr.resx">
+      <DependentUpon>201909171954077_removepr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909172030108_updatedbSept17.resx">
+      <DependentUpon>201909172030108_updatedbSept17.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

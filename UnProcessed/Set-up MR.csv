@@ -1,0 +1,25 @@
+ Fixture Type , Work Center , Lamp Qty , Option , Task ,Time(min),,, Sum of Time(min) , Column Labels ,,
+ recessed , Single Saw , CAD 1.00 , mr1 , Set-up ,4.85,,, Row Labels , Drilling , Single Saw , Grand Total 
+ recessed , Drilling , CAD 1.00 , mr1 , Set-up ,4.00,,, pendant ,12.00,14.55,26.55
+ recessed , Single Saw , CAD 2.00 , mr1 , Set-up ,4.85,,, CAD 1.00 ,4.00,4.85,8.85
+ recessed , Drilling , CAD 2.00 , mr1 , Set-up ,4.00,,, CAD 2.00 ,4.00,4.85,8.85
+ recessed , Single Saw , CAD 3.00 , mr1 , Set-up ,4.85,,, CAD 3.00 ,4.00,4.85,8.85
+ recessed , Drilling , CAD 3.00 , mr1 , Set-up ,4.00,,, recessed ,12.00,14.55,26.55
+ surface , Single Saw , CAD 1.00 , mr1 , Set-up ,4.85,,, CAD 1.00 ,4.00,4.85,8.85
+ surface , Drilling , CAD 1.00 , mr1 , Set-up ,4.00,,, CAD 2.00 ,4.00,4.85,8.85
+ surface , Single Saw , CAD 2.00 , mr1 , Set-up ,4.85,,, CAD 3.00 ,4.00,4.85,8.85
+ surface , Drilling , CAD 2.00 , mr1 , Set-up ,4.00,,, surface ,12.00,14.55,26.55
+ surface , Single Saw , CAD 3.00 , mr1 , Set-up ,4.85,,, CAD 1.00 ,4.00,4.85,8.85
+ surface , Drilling , CAD 3.00 , mr1 , Set-up ,4.00,,, CAD 2.00 ,4.00,4.85,8.85
+ pendant , Single Saw , CAD 1.00 , mr2 , Set-up ,4.85,,, CAD 3.00 ,4.00,4.85,8.85
+ pendant , Drilling , CAD 1.00 , mr2 , Set-up ,4.00,,, wall ,12.00,14.55,26.55
+ pendant , Single Saw , CAD 2.00 , mr2 , Set-up ,4.85,,, CAD 1.00 ,4.00,4.85,8.85
+ pendant , Drilling , CAD 2.00 , mr2 , Set-up ,4.00,,, CAD 2.00 ,4.00,4.85,8.85
+ pendant , Single Saw , CAD 3.00 , mr2 , Set-up ,4.85,,, CAD 3.00 ,4.00,4.85,8.85
+ pendant , Drilling , CAD 3.00 , mr2 , Set-up ,4.00,,, Grand Total ,48.00,58.20,106.20
+ wall , Single Saw , CAD 1.00 , mr2 , Set-up ,4.85,,,,,,
+ wall , Drilling , CAD 1.00 , mr2 , Set-up ,4.00,,,,,,
+ wall , Single Saw , CAD 2.00 , mr2 , Set-up ,4.85,,,,,,
+ wall , Drilling , CAD 2.00 , mr2 , Set-up ,4.00,,,,,,
+ wall , Single Saw , CAD 3.00 , mr2 , Set-up ,4.85,,,,,,
+ wall , Drilling , CAD 3.00 , mr2 , Set-up ,4.00,,,,,,

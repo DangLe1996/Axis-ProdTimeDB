@@ -1,0 +1,9 @@
+ Ballast Fixation , Work Center , Option , ID , Task ,Time(min),,, Sum of Time(min) , Column Labels ,,
+ on housing: 3screws , Single Saw , ctrl1 , CAD -   , Set-up ,4.85,,, Row Labels , CNC , Single Saw , Grand Total 
+ on housing: 3screws , CNC , ctrl1 , CAD -   , Set-up ,5.00,,," no brkt:2 nuts, 1 screw ",5.00,4.85,9.85
+" no brkt:2 nuts, 1 screw ", Single Saw , ctrl2 , CAD -   , Set-up ,4.85,,, on housing: 3screws ,5.00,4.85,9.85
+" no brkt:2 nuts, 1 screw ", CNC , ctrl2 , CAD -   , Set-up ,5.00,,, sub brkt : 5 screws ,5.00,4.85,9.85
+ sub brkt : 5 screws , Single Saw , ctrl3 , CAD -   , Set-up ,4.85,,, XO : 3 screws +2brkt ,5.00,4.85,9.85
+ sub brkt : 5 screws , CNC , ctrl3 , CAD -   , Set-up ,5.00,,, Grand Total ,20.00,19.40,39.40
+ XO : 3 screws +2brkt , Single Saw , ctrl4 , CAD -   , Set-up ,4.85,,,,,,
+ XO : 3 screws +2brkt , CNC , ctrl4 , CAD -   , Set-up ,5.00,,,,,,

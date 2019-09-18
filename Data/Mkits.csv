@@ -1,0 +1,105 @@
+ Fixture Type , Mounting Suspension , Power/ N Power , Work Center , ID , Task , Total Time (min) 
+ Grid , DF , - , Double Saw , CAD 1.00 ,saw drywall flanges,1.11
+ Grid , DF , - , CNC , CAD 2.00 ,CNC: hole in drywall flange,1.09
+ Grid , DF , - , Subassembly Lens Grid , CAD 3.00 ,assembly,2.66
+ Grid , SM , - , Double Saw , CAD 1.00 ,saw drywall flanges,1.11
+ Grid , SM , - , CNC , CAD 2.00 ,CNC: hole in drywall flange,1.09
+ Grid , SM , - , Subassembly Lens Grid , CAD 3.00 ,assembly,2.66
+ Grid LED , DF , - , Double Saw , CAD 1.00 ,saw drywall flanges,1.11
+ Grid LED , DF , - , CNC , CAD 2.00 ,CNC: hole in drywall flange,1.09
+ Grid LED , DF , - , Subassembly Lens Grid , CAD 3.00 ,assembly,2.66
+ Grid LED , SM , - , Double Saw , CAD 1.00 ,saw drywall flanges,1.11
+ Grid LED , SM , - , CNC , CAD 2.00 ,CNC: hole in drywall flange,1.09
+ Grid LED , SM , - , Subassembly Lens Grid , CAD 3.00 ,assembly,2.66
+ pendant , CA , N Power , Mounting Kits , CAD 1.00 , bagging all parts ,0.49
+ pendant , CA , Power , Press Punch , CAD 1.00 , punch hole in canopy ,0.14
+ pendant , CA , Power , Mounting Kits , CAD 2.00 , bagging all parts ,0.99
+ pendant , CASL , N Power , Mounting Kits , CAD 1.00 , punch 2 holes in canopy ,0.14
+ pendant , CASL , Power , Press Punch , CAD 1.00 , punch 1 hole in canopy ,0.07
+ pendant , CASL , Power , Mounting Kits , CAD 2.00 , bagging all parts ,0.76
+ pendant , CASL , Power , Mounting Kits , CAD 4.00 , bagging all parts ,1.07
+ pendant , CASM , N Power , Mounting Kits , CAD 1.00 ,bagging all parts,0.49
+ pendant , CASM , Power , Press Punch , CAD 1.00 ,punch hole in canopy,0.14
+ pendant , CASM , Power , Mounting Kits , CAD 2.00 ,bagging all parts,0.99
+ pendant , CT15 , N Power , Mounting Kits , CAD 1.00 , bagging all parts ,0.49
+ pendant , CT15 , Power , Press Punch , CAD 1.00 , punch hole in canopy ,0.14
+ pendant , CT15 , Power , Mounting Kits , CAD 2.00 , bagging all parts ,0.99
+ pendant , CT9 , N Power , Mounting Kits , CAD 1.00 , bagging all parts ,0.49
+ pendant , CT9 , Power , Press Punch , CAD 1.00 , punch hole in canopy ,0.14
+ pendant , CT9 , Power , Mounting Kits , CAD 2.00 , bagging all parts ,0.99
+ pendant , CTS , N Power , Mounting Kits , CAD 1.00 , bagging all parts ,0.49
+ pendant , CTS , Power , Press Punch , CAD 1.00 , punch hole in canopy ,0.14
+ pendant , CTS , Power , Mounting Kits , CAD 2.00 , bagging all parts ,0.99
+ pendant , CTSSM , N Power , Mounting Kits , CAD 1.00 ,bagging all parts,0.49
+ pendant , CTSSM , Power , Press Punch , CAD 1.00 ,punch hole in canopy,0.14
+ pendant , CTSSM , Power , Mounting Kits , CAD 2.00 ,bagging all parts,0.99
+ pendant , SA , N Power , Hacksaw , CAD 1.00 , saw stems ,0.73
+ pendant , SA , N Power , Subassembly MS , CAD 2.00 , threaded 2 end of stem ,4.06
+ pendant , SA , N Power , Press Punch , CAD 3.00 , punch 2 holes in canopy ,0.14
+ pendant , SA , N Power , Mounting Kits , CAD 4.00 , stem assembly & bagging ,0.85
+ pendant , SA , Power , Hacksaw , CAD 1.00 , saw stems ,0.73
+ pendant , SA , Power , Subassembly MS , CAD 2.00 , threaded 2 end of stem ,4.06
+ pendant , SA , Power , Press Punch , CAD 3.00 , punch 2 holes in canopy ,0.14
+ pendant , SA , Power , Mounting Kits , CAD 4.00 , stem assembly & bagging ,0.85
+ pendant , ST , N Power , Mounting Kits , CAD 1.00 , bagging all parts ,0.49
+ pendant , ST , Power , Press Punch , CAD 1.00 , punch hole in canopy ,0.14
+ pendant , ST , Power , Mounting Kits , CAD 2.00 , bagging all parts ,0.99
+ pendant , TB15 , N Power , Mounting Kits , CAD 1.00 ,bagging all parts,0.49
+ pendant , TB15 , Power , Press Punch , CAD 1.00 ,punch hole in canopy,0.14
+ pendant , TB15 , Power , Mounting Kits , CAD 2.00 ,bagging all parts,0.99
+ pendant , TB9 , N Power , Mounting Kits , CAD 1.00 , bagging all parts ,0.49
+ pendant , TB9 , Power , Press Punch , CAD 1.00 , punch hole in canopy ,0.14
+ pendant , TB9 , Power , Mounting Kits , CAD 2.00 , bagging all parts ,0.99
+ pendant , TG15 , N Power , Mounting Kits , CAD 1.00 ,bagging all parts,0.49
+ pendant , TG15 , Power , Press Punch , CAD 1.00 ,punch hole in canopy,0.14
+ pendant , TG15 , Power , Mounting Kits , CAD 2.00 ,bagging all parts,0.99
+ pendant , TG9 , N Power , Mounting Kits , CAD 1.00 , bagging all parts ,0.49
+ pendant , TG9 , Power , Press Punch , CAD 1.00 , punch hole in canopy ,0.14
+ pendant , TG9 , Power , Mounting Kits , CAD 2.00 , bagging all parts ,0.99
+ recessed , D , - , Mounting Kits , CAD 1.00 , assembly 2 side bracket on top bracket (4pop rivet) ,0.8
+ recessed , D , - , Mounting Kits , CAD 2.00 , screwed bolt & nut together ,0.2
+ recessed , D , - , Mounting Kits , CAD 3.00 , put in bag ,0.2
+ recessed , DB , - , Mounting Kits , CAD 1.00 , assembly 2 side bracket on top bracket (4pop rivet) ,0.8
+ recessed , DB , - , Mounting Kits , CAD 2.00 , screwed bolt & nut together ,0.2
+ recessed , DB , - , Mounting Kits , CAD 3.00 , put in bag ,0.2
+ recessed , DF , - , Mounting Kits , CAD 1.00 , assembly 2 side bracket on top bracket (4pop rivet) ,0.8
+ recessed , DF , - , Mounting Kits , CAD 2.00 , screwed bolt & nut together ,0.2
+ recessed , DF , - , Mounting Kits , CAD 3.00 , put in bag ,0.2
+ recessed , DS , - , Mounting Kits , CAD 1.00 , assembly 2 side bracket on top bracket (4pop rivet) ,0.8
+ recessed , DS , - , Mounting Kits , CAD 2.00 , screwed bolt & nut together ,0.2
+ recessed , DS , - , Mounting Kits , CAD 3.00 , put in bag ,0.2
+ recessed , MFTB15 , - , Mounting Kits , CAD 1.00 ,assembly 2 side bracket on top bracket (4pop rivet),0.8
+ recessed , MFTB15 , - , Mounting Kits , CAD 2.00 ,screwed bolt & nut together,0.2
+ recessed , MFTB15 , - , Mounting Kits , CAD 3.00 ,put in bag,0.2
+ recessed , MFTB9 , - , Mounting Kits , CAD 1.00 ,assembly 2 side bracket on top bracket (4pop rivet),0.8
+ recessed , MFTB9 , - , Mounting Kits , CAD 2.00 ,screwed bolt & nut together,0.2
+ recessed , MFTB9 , - , Mounting Kits , CAD 3.00 ,put in bag,0.2
+ recessed , MFTG15 , - , Mounting Kits , CAD 1.00 ,assembly 2 side bracket on top bracket (4pop rivet),0.8
+ recessed , MFTG15 , - , Mounting Kits , CAD 2.00 ,screwed bolt & nut together,0.2
+ recessed , MFTG15 , - , Mounting Kits , CAD 3.00 ,put in bag,0.2
+ recessed , MFTG9 , - , Mounting Kits , CAD 1.00 ,assembly 2 side bracket on top bracket (4pop rivet),0.8
+ recessed , MFTG9 , - , Mounting Kits , CAD 2.00 ,screwed bolt & nut together,0.2
+ recessed , MFTG9 , - , Mounting Kits , CAD 3.00 ,put in bag,0.2
+ recessed , SB , - , Mounting Kits , CAD 1.00 , assembly 2 side bracket on top bracket (4pop rivet) ,0.8
+ recessed , SB , - , Mounting Kits , CAD 2.00 , screwed bolt & nut together ,0.2
+ recessed , SB , - , Mounting Kits , CAD 3.00 , put in bag ,0.2
+ recessed , TB15 , - , Mounting Kits , CAD 1.00 , assembly 2 side bracket on top bracket (4pop rivet) ,0.8
+ recessed , TB15 , - , Mounting Kits , CAD 2.00 , screwed bolt & nut together ,0.2
+ recessed , TB15 , - , Mounting Kits , CAD 3.00 , put in bag ,0.2
+ recessed , TB9 , - , Mounting Kits , CAD 1.00 , assembly 2 side bracket on top bracket (4pop rivet) ,0.8
+ recessed , TB9 , - , Mounting Kits , CAD 2.00 , screwed bolt & nut together ,0.2
+ recessed , TB9 , - , Mounting Kits , CAD 3.00 , put in bag ,0.2
+ recessed , TG15 , - , Mounting Kits , CAD 1.00 , assembly 2 side bracket on top bracket (4pop rivet) ,0.8
+ recessed , TG15 , - , Mounting Kits , CAD 2.00 , screwed bolt & nut together ,0.2
+ recessed , TG15 , - , Mounting Kits , CAD 3.00 , put in bag ,0.2
+ recessed , TG9 , - , Mounting Kits , CAD 1.00 , assembly 2 side bracket on top bracket (4pop rivet) ,0.8
+ recessed , TG9 , - , Mounting Kits , CAD 2.00 , screwed bolt & nut together ,0.2
+ recessed , TG9 , - , Mounting Kits , CAD 3.00 , put in bag ,0.2
+ surface , S , N Power , Mounting Kits , CAD 1.00 , bagging all parts ,0.1
+ surface , S , Power , Mounting Kits , CAD 1.00 , bagging all parts ,0.1
+ surface , SB , N Power , Mounting Kits , CAD 1.00 ,bagging all parts,0.1
+ surface , SB , Power , Mounting Kits , CAD 1.00 ,bagging all parts,0.1
+ surface , SC , N Power , Mounting Kits , CAD 1.00 ,bagging all parts,0.1
+ surface , SC , Power , Mounting Kits , CAD 1.00 ,bagging all parts,0.1
+ wall , - , N Power , Mounting Kits , CAD 1.00 , put in bag ,0.32
+ wall , - , Power , Mounting Kits , CAD 1.00 , put in bag ,0.32

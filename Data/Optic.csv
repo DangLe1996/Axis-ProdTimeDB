@@ -1,0 +1,2271 @@
+ Family Product , Optic , Work Center , Option , Length , ID , Task , Time (min) 
+AIR,S,Assembly,aoptic18,4,1,Clip lens+ QC,0.49
+AIR,S,Assembly,aoptic18,8,1,Clip lens+ QC,0.98
+AIR,S,Assembly,aoptic18,12,1,Clip lens+ QC,1.47
+AIRLED,S,Assembly,aoptic18,4,1,Clip lens+ QC,0.49
+AIRLED,S,Assembly,aoptic18,8,1,Clip lens+ QC,0.98
+AIRLED,S,Assembly,aoptic18,12,1,Clip lens+ QC,1.47
+ARC,B,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+ARC,B,Assembly,aoptic19,4,3,Slide covers,0.22
+ARC,B,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+ARC,B,Assembly,aoptic19,8,3,Slide covers,0.33
+ARC,B,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+ARC,B,Assembly,aoptic19,12,3,Slide covers,0.44
+ARC,P,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+ARC,P,Assembly,aoptic19,4,3,Slide covers,0.22
+ARC,P,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+ARC,P,Assembly,aoptic19,8,3,Slide covers,0.33
+ARC,P,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+ARC,P,Assembly,aoptic19,12,3,Slide covers,0.44
+ARC,PL,Assembly,aoptic20,4,2,Slide covers,0.34
+ARC,PL,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+ARC,PL,Assembly,aoptic20,8,2,Slide covers,0.56
+ARC,PL,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+ARC,PL,Assembly,aoptic20,12,2,Slide covers,0.78
+ARC,PL,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+ARC,S,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+ARC,S,Assembly,aoptic19,4,3,Slide covers,0.22
+ARC,S,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+ARC,S,Assembly,aoptic19,8,3,Slide covers,0.33
+ARC,S,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+ARC,S,Assembly,aoptic19,12,3,Slide covers,0.44
+ARC,SB,Assembly,aoptic20,4,2,Slide covers,0.34
+ARC,SB,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+ARC,SB,Assembly,aoptic20,8,2,Slide covers,0.56
+ARC,SB,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+ARC,SB,Assembly,aoptic20,12,2,Slide covers,0.78
+ARC,SB,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+ARC,SE,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+ARC,SE,Assembly,aoptic19,4,3,Slide covers,0.22
+ARC,SE,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+ARC,SE,Assembly,aoptic19,8,3,Slide covers,0.33
+ARC,SE,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+ARC,SE,Assembly,aoptic19,12,3,Slide covers,0.44
+ARC,B,Preparation,aoptic19,4,1,Clean optic,0.1
+ARC,B,Preparation,aoptic19,8,1,Clean optic,0.22
+ARC,B,Preparation,aoptic19,12,1,Clean optic,0.36
+ARC,P,Preparation,aoptic19,4,1,Clean optic,0.1
+ARC,P,Preparation,aoptic19,8,1,Clean optic,0.22
+ARC,P,Preparation,aoptic19,12,1,Clean optic,0.36
+ARC,PL,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+ARC,PL,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+ARC,PL,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+ARC,S,Preparation,aoptic19,4,1,Clean optic,0.1
+ARC,S,Preparation,aoptic19,8,1,Clean optic,0.22
+ARC,S,Preparation,aoptic19,12,1,Clean optic,0.36
+ARC,SB,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+ARC,SB,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+ARC,SB,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+ARC,SE,Preparation,aoptic19,4,1,Clean optic,0.1
+ARC,SE,Preparation,aoptic19,8,1,Clean optic,0.22
+ARC,SE,Preparation,aoptic19,12,1,Clean optic,0.36
+AURA,SO,Assembly,aoptic18,14,1,clip lens+ QC,0.49
+AURA,SO,Assembly,aoptic18,22,1,clip lens+ QC,0.98
+AURA,SO,Assembly,aoptic18,24,1,clip lens+ QC,1.47
+B2LED,B,Assembly,aoptic5,4,1,Clip blank cover,0.3
+B2LED,B,Assembly,aoptic5,8,1,Clip blank cover,0.45
+B2LED,B,Assembly,aoptic5,12,1,Clip blank cover,0.6
+B2LED,C,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B2LED,C,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B2LED,C,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B2LED,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B2LED,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B2LED,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B2LED,FL,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B2LED,FL,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B2LED,FL,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B2LED,NO,Assembly,aoptic0,4,1,No lens,0
+B2LED,NO,Assembly,aoptic0,8,1,No lens,0
+B2LED,NO,Assembly,aoptic0,12,1,No lens,0
+B2LED,PL,Assembly,aoptic3,4,2,Clip louver on housing,0.41
+B2LED,PL,Assembly,aoptic3,8,2,Clip louver on housing,0.82
+B2LED,PL,Assembly,aoptic3,12,2,Clip louver on housing,1.23
+B2LED,RG,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B2LED,RG,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B2LED,RG,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B2LED,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B2LED,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B2LED,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B2LED,SO,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B2LED,SO,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B2LED,SO,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B2LED,C,Preparation,aoptic1,4,1,Clean lens,0.16
+B2LED,C,Preparation,aoptic1,8,1,Clean lens,0.26
+B2LED,C,Preparation,aoptic1,12,1,Clean lens,0.36
+B2LED,F,Preparation,aoptic1,4,1,Clean lens,0.16
+B2LED,F,Preparation,aoptic1,8,1,Clean lens,0.26
+B2LED,F,Preparation,aoptic1,12,1,Clean lens,0.36
+B2LED,FL,Preparation,aoptic1,4,1,Clean lens,0.16
+B2LED,FL,Preparation,aoptic1,8,1,Clean lens,0.26
+B2LED,FL,Preparation,aoptic1,12,1,Clean lens,0.36
+B2LED,PL,Preparation,aoptic3,4,1,Unwrap louver,0.26
+B2LED,PL,Preparation,aoptic3,8,1,Unwrap louver,0.52
+B2LED,PL,Preparation,aoptic3,12,1,Unwrap louver,0.78
+B2LED,RG,Preparation,aoptic1,4,1,Clean lens,0.16
+B2LED,RG,Preparation,aoptic1,8,1,Clean lens,0.26
+B2LED,RG,Preparation,aoptic1,12,1,Clean lens,0.36
+B2LED,S,Preparation,aoptic1,4,1,Clean lens,0.16
+B2LED,S,Preparation,aoptic1,8,1,Clean lens,0.26
+B2LED,S,Preparation,aoptic1,12,1,Clean lens,0.36
+B2LED,SO,Preparation,aoptic1,4,1,Clean lens,0.16
+B2LED,SO,Preparation,aoptic1,8,1,Clean lens,0.26
+B2LED,SO,Preparation,aoptic1,12,1,Clean lens,0.36
+B2LED,1.5M,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B2LED,1.5M,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B2LED,1.5M,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B2LED,1.5M,Preparation,aoptic1,4,1,Clean lens,0.16
+B2LED,1.5M,Preparation,aoptic1,8,1,Clean lens,0.26
+B2LED,1.5M,Preparation,aoptic1,12,1,Clean lens,0.36
+B2S,SO,Assembly,aoptic1,4,1,clean lens,0.16
+B2S,SO,Assembly,aoptic2,4,2,assy lens on housing,0.44
+B2S,SO,Assembly,aoptic3,8,1,clean lens,0.26
+B2S,SO,Assembly,aoptic4,8,2,assy lens on housing,0.56
+B2S,SO,Assembly,aoptic5,12,1,clean lens,0.36
+B2S,SO,Assembly,aoptic6,12,2,assy lens on housing,0.91
+B2S,0.25G,Assembly,aoptic1,4,1,clean lens,0.16
+B2S,0.25G,Assembly,aoptic2,4,2,assy lens on housing,0.4425
+B2S,0.25G,Assembly,aoptic3,8,1,clean lens,0.26
+B2S,0.25G,Assembly,aoptic4,8,2,assy lens on housing,0.56
+B2S,0.25G,Assembly,aoptic5,12,1,clean lens,0.36
+B2S,0.25G,Assembly,aoptic6,12,2,assy lens on housing,0.91
+B2S,SL,Assembly,aoptic1,4,1,clean lens,0.16
+B2S,SL,Assembly,aoptic2,4,2,assy lens on housing,0.4425
+B2S,SL,Assembly,aoptic3,8,1,clean lens,0.26
+B2S,SL,Assembly,aoptic4,8,2,assy lens on housing,0.56
+B2S,SL,Assembly,aoptic5,12,1,clean lens,0.36
+B2S,SL,Assembly,aoptic6,12,2,assy lens on housing,0.91
+B2S,SLA,Assembly,aoptic1,4,1,clean lens,0.16
+B2S,SLA,Assembly,aoptic2,4,2,assy lens on housing,0.4425
+B2S,SLA,Assembly,aoptic3,8,1,clean lens,0.26
+B2S,SLA,Assembly,aoptic4,8,2,assy lens on housing,0.56
+B2S,SLA,Assembly,aoptic5,12,1,clean lens,0.36
+B2S,SLA,Assembly,aoptic6,12,2,assy lens on housing,0.91
+B2S,L,Assembly,aoptic1,4,1,clean lens,0.26
+B2S,L,Assembly,aoptic2,4,2,assy lens on housing,0.41
+B2S,L,Assembly,aoptic3,8,1,clean lens,0.25
+B2S,L,Assembly,aoptic4,8,2,assy lens on housing,0.82
+B2S,L,Assembly,aoptic5,12,1,clean lens,0.78
+B2S,L,Assembly,aoptic6,12,2,assy lens on housing,1.23
+B3LED,B,Assembly,aoptic5,4,1,Clip blank cover,0.3
+B3LED,B,Assembly,aoptic5,8,1,Clip blank cover,0.45
+B3LED,B,Assembly,aoptic5,12,1,Clip blank cover,0.6
+B3LED,C,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B3LED,C,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B3LED,C,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B3LED,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B3LED,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B3LED,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B3LED,FL,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B3LED,FL,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B3LED,FL,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B3LED,NO,Assembly,aoptic0,4,1,No lens,0
+B3LED,NO,Assembly,aoptic0,8,1,No lens,0
+B3LED,NO,Assembly,aoptic0,12,1,No lens,0
+B3LED,PL,Assembly,aoptic3,4,2,Clip louver on housing,0.41
+B3LED,PL,Assembly,aoptic3,8,2,Clip louver on housing,0.82
+B3LED,PL,Assembly,aoptic3,12,2,Clip louver on housing,1.23
+B3LED,RG,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B3LED,RG,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B3LED,RG,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B3LED,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B3LED,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B3LED,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B3LED,SO,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B3LED,SO,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B3LED,SO,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B3LED,WW,Assembly,optic26,4,1,clip angle flange,0.166666667
+B3LED,WW,Assembly,optic26,4,2,clip 2 covers on body housing,0.3
+B3LED,WW,Assembly,optic26,4,3,open sub-ass'y (4ft),1
+B3LED,WW,Assembly,optic26,8,1,clip angle flange,0.333333333
+B3LED,WW,Assembly,optic26,8,2,clip 2 covers on body housing,0.3
+B3LED,WW,Assembly,optic26,8,3,open sub-ass'y (4ft),2
+B3LED,WW,Assembly,optic26,12,1,clip angle flange,0.5
+B3LED,WW,Assembly,optic26,12,2,clip 2 covers on body housing,0.3
+B3LED,WW,Assembly,optic26,12,3,open sub-ass'y (4ft),3
+B3LED,SW,Assembly,optic27,4,1,clip angle flange,0.166666667
+B3LED,SW,Assembly,optic27,4,2,clip 2 covers on body housing,0.3
+B3LED,SW,Assembly,optic27,4,3,open sub-ass'y (4ft),1
+B3LED,SW,Assembly,optic27,4,5,clip lens,0.166666667
+B3LED,SW,Assembly,optic27,8,1,clip angle flange,0.333333333
+B3LED,SW,Assembly,optic27,8,2,clip 2 covers on body housing,0.3
+B3LED,SW,Assembly,optic27,8,3,open sub-ass'y (4ft),2
+B3LED,SW,Assembly,optic27,8,5,clip lens,0.333333333
+B3LED,SW,Assembly,optic27,12,1,clip angle flange,0.5
+B3LED,SW,Assembly,optic27,12,2,clip 2 covers on body housing,0.3
+B3LED,SW,Assembly,optic27,12,3,open sub-ass'y (4ft),3
+B3LED,SW,Assembly,optic27,12,5,clip lens,0.5
+B3LED,A,Assembly,optic28,4,1,fix 2 brkt for deflector & place,0.3
+B3LED,A,Assembly,optic28,4,2,slide 2 deflector brkts on body housing,0.123
+B3LED,A,Assembly,optic28,4,3,remove plastic film on deflector,0.21
+B3LED,A,Assembly,optic28,4,4,place deflector & fix with 2 screws,0.493
+B3LED,A,Assembly,optic28,4,5,clip flange extrusion on body,0.166666667
+B3LED,A,Assembly,optic28,8,1,fix 2 brkt for deflector & place,0.6
+B3LED,A,Assembly,optic28,8,2,slide 2 deflector brkts on body housing,0.246
+B3LED,A,Assembly,optic28,8,3,remove plastic film on deflector,0.42
+B3LED,A,Assembly,optic28,8,4,place deflector & fix with 2 screws,0.986
+B3LED,A,Assembly,optic28,8,5,clip flange extrusion on body,0.333333333
+B3LED,A,Assembly,optic28,12,1,fix 2 brkt for deflector & place,0.9
+B3LED,A,Assembly,optic28,12,2,slide 2 deflector brkts on body housing,0.369
+B3LED,A,Assembly,optic28,12,3,remove plastic film on deflector,0.63
+B3LED,A,Assembly,optic28,12,4,place deflector & fix with 2 screws,1.479
+B3LED,A,Assembly,optic28,12,5,clip flange extrusion on body,0.5
+B3LED,C,Preparation,aoptic1,4,1,Clean lens,0.16
+B3LED,C,Preparation,aoptic1,8,1,Clean lens,0.26
+B3LED,C,Preparation,aoptic1,12,1,Clean lens,0.36
+B3LED,F,Preparation,aoptic1,4,1,Clean lens,0.16
+B3LED,F,Preparation,aoptic1,8,1,Clean lens,0.26
+B3LED,F,Preparation,aoptic1,12,1,Clean lens,0.36
+B3LED,FL,Preparation,aoptic1,4,1,Clean lens,0.16
+B3LED,FL,Preparation,aoptic1,8,1,Clean lens,0.26
+B3LED,FL,Preparation,aoptic1,12,1,Clean lens,0.36
+B3LED,PL,Preparation,aoptic3,4,1,Unwrap louver,0.26
+B3LED,PL,Preparation,aoptic3,8,1,Unwrap louver,0.52
+B3LED,PL,Preparation,aoptic3,12,1,Unwrap louver,0.78
+B3LED,RG,Preparation,aoptic1,4,1,Clean lens,0.16
+B3LED,RG,Preparation,aoptic1,8,1,Clean lens,0.26
+B3LED,RG,Preparation,aoptic1,12,1,Clean lens,0.36
+B3LED,S,Preparation,aoptic1,4,1,Clean lens,0.16
+B3LED,S,Preparation,aoptic1,8,1,Clean lens,0.26
+B3LED,S,Preparation,aoptic1,12,1,Clean lens,0.36
+B3LED,SO,Preparation,aoptic1,4,1,Clean lens,0.16
+B3LED,SO,Preparation,aoptic1,8,1,Clean lens,0.26
+B3LED,SO,Preparation,aoptic1,12,1,Clean lens,0.36
+B3LED,SW,Preparation,optic27,4,4,clean lens,0
+B3LED,SW,Preparation,optic27,8,4,clean lens,0
+B3LED,SW,Preparation,optic27,12,4,clean lens,0
+B3LED,1.5M,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B3LED,1.5M,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B3LED,1.5M,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B3LED,1.5M,Preparation,aoptic1,4,1,Clean lens,0.16
+B3LED,1.5M,Preparation,aoptic1,8,1,Clean lens,0.26
+B3LED,1.5M,Preparation,aoptic1,12,1,Clean lens,0.36
+B4LED,B,Assembly,aoptic5,4,1,Clip blank cover,0.3
+B4LED,B,Assembly,aoptic5,8,1,Clip blank cover,0.45
+B4LED,B,Assembly,aoptic5,12,1,Clip blank cover,0.6
+B4LED,C,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4LED,C,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4LED,C,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4LED,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4LED,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4LED,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4LED,FL,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4LED,FL,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4LED,FL,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4LED,NO,Assembly,aoptic0,4,1,No lens,0
+B4LED,NO,Assembly,aoptic0,8,1,No lens,0
+B4LED,NO,Assembly,aoptic0,12,1,No lens,0
+B4LED,PL,Assembly,aoptic3,4,2,Clip louver on housing,0.41
+B4LED,PL,Assembly,aoptic3,8,2,Clip louver on housing,0.82
+B4LED,PL,Assembly,aoptic3,12,2,Clip louver on housing,1.23
+B4LED,RG,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4LED,RG,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4LED,RG,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4LED,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4LED,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4LED,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4LED,SO,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4LED,SO,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4LED,SO,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4LED,C,Preparation,aoptic1,4,1,Clean lens,0.16
+B4LED,C,Preparation,aoptic1,8,1,Clean lens,0.26
+B4LED,C,Preparation,aoptic1,12,1,Clean lens,0.36
+B4LED,F,Preparation,aoptic1,4,1,Clean lens,0.16
+B4LED,F,Preparation,aoptic1,8,1,Clean lens,0.26
+B4LED,F,Preparation,aoptic1,12,1,Clean lens,0.36
+B4LED,FL,Preparation,aoptic1,4,1,Clean lens,0.16
+B4LED,FL,Preparation,aoptic1,8,1,Clean lens,0.26
+B4LED,FL,Preparation,aoptic1,12,1,Clean lens,0.36
+B4LED,PL,Preparation,aoptic3,4,1,Unwrap louver,0.26
+B4LED,PL,Preparation,aoptic3,8,1,Unwrap louver,0.52
+B4LED,PL,Preparation,aoptic3,12,1,Unwrap louver,0.78
+B4LED,RG,Preparation,aoptic1,4,1,Clean lens,0.16
+B4LED,RG,Preparation,aoptic1,8,1,Clean lens,0.26
+B4LED,RG,Preparation,aoptic1,12,1,Clean lens,0.36
+B4LED,S,Preparation,aoptic1,4,1,Clean lens,0.16
+B4LED,S,Preparation,aoptic1,8,1,Clean lens,0.26
+B4LED,S,Preparation,aoptic1,12,1,Clean lens,0.36
+B4LED,SO,Preparation,aoptic1,4,1,Clean lens,0.16
+B4LED,SO,Preparation,aoptic1,8,1,Clean lens,0.26
+B4LED,SO,Preparation,aoptic1,12,1,Clean lens,0.36
+B4LED,1.5M,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4LED,1.5M,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4LED,1.5M,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4LED,1.5M,Preparation,aoptic1,4,1,Clean lens,0.16
+B4LED,1.5M,Preparation,aoptic1,8,1,Clean lens,0.26
+B4LED,1.5M,Preparation,aoptic1,12,1,Clean lens,0.36
+B4SLED,B,Assembly,aoptic5,4,1,Clip blank cover,0.3
+B4SLED,B,Assembly,aoptic5,8,1,Clip blank cover,0.45
+B4SLED,B,Assembly,aoptic5,12,1,Clip blank cover,0.6
+B4SLED,C,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4SLED,C,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4SLED,C,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4SLED,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4SLED,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4SLED,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4SLED,FL,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4SLED,FL,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4SLED,FL,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4SLED,NO,Assembly,aoptic0,4,1,No lens,0
+B4SLED,NO,Assembly,aoptic0,8,1,No lens,0
+B4SLED,NO,Assembly,aoptic0,12,1,No lens,0
+B4SLED,PL,Assembly,aoptic3,4,2,Clip louver on housing,0.41
+B4SLED,PL,Assembly,aoptic3,8,2,Clip louver on housing,0.82
+B4SLED,PL,Assembly,aoptic3,12,2,Clip louver on housing,1.23
+B4SLED,RG,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4SLED,RG,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4SLED,RG,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4SLED,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4SLED,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4SLED,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4SLED,SO,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4SLED,SO,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4SLED,SO,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4SLED,NO,Assembly,aoptic31,4,1,clean guide light,0.16
+B4SLED,NO,Assembly,aoptic31,4,2,place on housing,0.3
+B4SLED,NO,Assembly,aoptic31,4,3,place & clip 2 plastic boards retainer,0.59
+B4SLED,NO,Assembly,aoptic31,4,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.46
+B4SLED,NO,Assembly,aoptic31,8,1,clean guide light,0.32
+B4SLED,NO,Assembly,aoptic31,8,2,place on housing,0.6
+B4SLED,NO,Assembly,aoptic31,8,3,place & clip 2 plastic boards retainer,1.18
+B4SLED,NO,Assembly,aoptic31,8,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.92
+B4SLED,NO,Assembly,aoptic31,12,1,clean guide light,0.48
+B4SLED,NO,Assembly,aoptic31,12,2,place on housing,0.9
+B4SLED,NO,Assembly,aoptic31,12,3,place & clip 2 plastic boards retainer,1.77
+B4SLED,NO,Assembly,aoptic31,12,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",1.38
+B4SLED,SO,Assembly,aoptic31,4,1,clean guide light,0.16
+B4SLED,SO,Assembly,aoptic31,4,2,place on housing,0.3
+B4SLED,SO,Assembly,aoptic31,4,3,place & clip 2 plastic boards retainer,0.59
+B4SLED,SO,Assembly,aoptic31,4,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.46
+B4SLED,SO,Assembly,aoptic31,8,1,clean guide light,0.32
+B4SLED,SO,Assembly,aoptic31,8,2,place on housing,0.6
+B4SLED,SO,Assembly,aoptic31,8,3,place & clip 2 plastic boards retainer,1.18
+B4SLED,SO,Assembly,aoptic31,8,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.92
+B4SLED,SO,Assembly,aoptic31,12,1,clean guide light,0.48
+B4SLED,SO,Assembly,aoptic31,12,2,place on housing,0.9
+B4SLED,SO,Assembly,aoptic31,12,3,place & clip 2 plastic boards retainer,1.77
+B4SLED,SO,Assembly,aoptic31,12,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",1.38
+B4SLED,C,Preparation,aoptic1,4,1,Clean lens,0.16
+B4SLED,C,Preparation,aoptic1,8,1,Clean lens,0.26
+B4SLED,C,Preparation,aoptic1,12,1,Clean lens,0.36
+B4SLED,F,Preparation,aoptic1,4,1,Clean lens,0.16
+B4SLED,F,Preparation,aoptic1,8,1,Clean lens,0.26
+B4SLED,F,Preparation,aoptic1,12,1,Clean lens,0.36
+B4SLED,FL,Preparation,aoptic1,4,1,Clean lens,0.16
+B4SLED,FL,Preparation,aoptic1,8,1,Clean lens,0.26
+B4SLED,FL,Preparation,aoptic1,12,1,Clean lens,0.36
+B4SLED,PL,Preparation,aoptic3,4,1,Unwrap louver,0.26
+B4SLED,PL,Preparation,aoptic3,8,1,Unwrap louver,0.52
+B4SLED,PL,Preparation,aoptic3,12,1,Unwrap louver,0.78
+B4SLED,RG,Preparation,aoptic1,4,1,Clean lens,0.16
+B4SLED,RG,Preparation,aoptic1,8,1,Clean lens,0.26
+B4SLED,RG,Preparation,aoptic1,12,1,Clean lens,0.36
+B4SLED,S,Preparation,aoptic1,4,1,Clean lens,0.16
+B4SLED,S,Preparation,aoptic1,8,1,Clean lens,0.26
+B4SLED,S,Preparation,aoptic1,12,1,Clean lens,0.36
+B4SLED,SO,Preparation,aoptic1,4,1,Clean lens,0.16
+B4SLED,SO,Preparation,aoptic1,8,1,Clean lens,0.26
+B4SLED,SO,Preparation,aoptic1,12,1,Clean lens,0.36
+B4SLED,1.5M,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B4SLED,1.5M,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B4SLED,1.5M,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B4SLED,1.5M,Preparation,aoptic1,4,1,Clean lens,0.16
+B4SLED,1.5M,Preparation,aoptic1,8,1,Clean lens,0.26
+B4SLED,1.5M,Preparation,aoptic1,12,1,Clean lens,0.36
+B6LED,B,Assembly,aoptic5,4,1,Clip blank cover,0.3
+B6LED,B,Assembly,aoptic5,8,1,Clip blank cover,0.45
+B6LED,B,Assembly,aoptic5,12,1,Clip blank cover,0.6
+B6LED,C,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B6LED,C,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B6LED,C,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B6LED,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B6LED,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B6LED,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B6LED,FL,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B6LED,FL,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B6LED,FL,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B6LED,NO,Assembly,aoptic0,4,1,No lens,0
+B6LED,NO,Assembly,aoptic0,8,1,No lens,0
+B6LED,NO,Assembly,aoptic0,12,1,No lens,0
+B6LED,PL,Assembly,aoptic3,4,2,Clip louver on housing,0.41
+B6LED,PL,Assembly,aoptic3,8,2,Clip louver on housing,0.82
+B6LED,PL,Assembly,aoptic3,12,2,Clip louver on housing,1.23
+B6LED,RG,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B6LED,RG,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B6LED,RG,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B6LED,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B6LED,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B6LED,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B6LED,C,Preparation,aoptic1,4,1,Clean lens,0.16
+B6LED,C,Preparation,aoptic1,8,1,Clean lens,0.26
+B6LED,C,Preparation,aoptic1,12,1,Clean lens,0.36
+B6LED,F,Preparation,aoptic1,4,1,Clean lens,0.16
+B6LED,F,Preparation,aoptic1,8,1,Clean lens,0.26
+B6LED,F,Preparation,aoptic1,12,1,Clean lens,0.36
+B6LED,FL,Preparation,aoptic1,4,1,Clean lens,0.16
+B6LED,FL,Preparation,aoptic1,8,1,Clean lens,0.26
+B6LED,FL,Preparation,aoptic1,12,1,Clean lens,0.36
+B6LED,PL,Preparation,aoptic3,4,1,Unwrap louver,0.26
+B6LED,PL,Preparation,aoptic3,8,1,Unwrap louver,0.52
+B6LED,PL,Preparation,aoptic3,12,1,Unwrap louver,0.78
+B6LED,RG,Preparation,aoptic1,4,1,Clean lens,0.16
+B6LED,RG,Preparation,aoptic1,8,1,Clean lens,0.26
+B6LED,RG,Preparation,aoptic1,12,1,Clean lens,0.36
+B6LED,S,Preparation,aoptic1,4,1,Clean lens,0.16
+B6LED,S,Preparation,aoptic1,8,1,Clean lens,0.26
+B6LED,S,Preparation,aoptic1,12,1,Clean lens,0.36
+B6LED,SO,Preparation,aoptic1,4,1,Clean lens,0.16
+B6LED,SO,Preparation,aoptic1,8,1,Clean lens,0.26
+B6LED,SO,Preparation,aoptic1,12,1,Clean lens,0.36
+B6LED,SO,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B6LED,SO,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B6LED,SO,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B6LED,1.5M,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+B6LED,1.5M,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+B6LED,1.5M,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+B6LED,1.5M,Preparation,aoptic1,4,1,Clean lens,0.16
+B6LED,1.5M,Preparation,aoptic1,8,1,Clean lens,0.26
+B6LED,1.5M,Preparation,aoptic1,12,1,Clean lens,0.36
+BASE,B,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+BASE,B,Assembly,aoptic19,4,3,Slide covers,0.22
+BASE,B,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+BASE,B,Assembly,aoptic19,8,3,Slide covers,0.33
+BASE,B,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+BASE,B,Assembly,aoptic19,12,3,Slide covers,0.44
+BASE,P,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+BASE,P,Assembly,aoptic19,4,3,Slide covers,0.22
+BASE,P,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+BASE,P,Assembly,aoptic19,8,3,Slide covers,0.33
+BASE,P,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+BASE,P,Assembly,aoptic19,12,3,Slide covers,0.44
+BASE,PL,Assembly,aoptic20,4,2,Slide covers,0.34
+BASE,PL,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+BASE,PL,Assembly,aoptic20,8,2,Slide covers,0.56
+BASE,PL,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+BASE,PL,Assembly,aoptic20,12,2,Slide covers,0.78
+BASE,PL,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+BASE,S,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+BASE,S,Assembly,aoptic19,4,3,Slide covers,0.22
+BASE,S,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+BASE,S,Assembly,aoptic19,8,3,Slide covers,0.33
+BASE,S,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+BASE,S,Assembly,aoptic19,12,3,Slide covers,0.44
+BASE,SB,Assembly,aoptic20,4,2,Slide covers,0.34
+BASE,SB,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+BASE,SB,Assembly,aoptic20,8,2,Slide covers,0.56
+BASE,SB,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+BASE,SB,Assembly,aoptic20,12,2,Slide covers,0.78
+BASE,SB,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+BASE,SL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+BASE,SL,Assembly,aoptic19,4,3,Slide covers,0.22
+BASE,SL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+BASE,SL,Assembly,aoptic19,8,3,Slide covers,0.33
+BASE,SL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+BASE,SL,Assembly,aoptic19,12,3,Slide covers,0.44
+BASE,B,Preparation,aoptic19,4,1,Clean optic,0.1
+BASE,B,Preparation,aoptic19,8,1,Clean optic,0.22
+BASE,B,Preparation,aoptic19,12,1,Clean optic,0.36
+BASE,P,Preparation,aoptic19,4,1,Clean optic,0.1
+BASE,P,Preparation,aoptic19,8,1,Clean optic,0.22
+BASE,P,Preparation,aoptic19,12,1,Clean optic,0.36
+BASE,PL,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+BASE,PL,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+BASE,PL,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+BASE,S,Preparation,aoptic19,4,1,Clean optic,0.1
+BASE,S,Preparation,aoptic19,8,1,Clean optic,0.22
+BASE,S,Preparation,aoptic19,12,1,Clean optic,0.36
+BASE,SB,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+BASE,SB,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+BASE,SB,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+BASE,SL,Preparation,aoptic19,4,1,Clean optic,0.1
+BASE,SL,Preparation,aoptic19,8,1,Clean optic,0.22
+BASE,SL,Preparation,aoptic19,12,1,Clean optic,0.36
+BEAM2,B,Assembly,aoptic5,4,1,Clip blank cover,0.3
+BEAM2,B,Assembly,aoptic5,8,1,Clip blank cover,0.45
+BEAM2,B,Assembly,aoptic5,12,1,Clip blank cover,0.6
+BEAM2,C,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM2,C,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM2,C,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM2,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM2,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM2,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM2,NO,Assembly,aoptic0,4,1,No lens,0
+BEAM2,NO,Assembly,aoptic0,8,1,No lens,0
+BEAM2,NO,Assembly,aoptic0,12,1,No lens,0
+BEAM2,PL,Assembly,aoptic3,4,2,Clip louver on housing,0.41
+BEAM2,PL,Assembly,aoptic3,8,2,Clip louver on housing,0.82
+BEAM2,PL,Assembly,aoptic3,12,2,Clip louver on housing,1.23
+BEAM2,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM2,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM2,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM2,A,Assembly,optic30,4,1,clip angle flange,0.166666667
+BEAM2,A,Assembly,optic30,8,1,clip angle flange,0.333333333
+BEAM2,A,Assembly,optic30,12,1,clip angle flange,0.5
+BEAM2,C,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM2,C,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM2,C,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM2,F,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM2,F,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM2,F,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM2,PL,Preparation,aoptic3,4,1,Unwrap louver,0.26
+BEAM2,PL,Preparation,aoptic3,8,1,Unwrap louver,0.52
+BEAM2,PL,Preparation,aoptic3,12,1,Unwrap louver,0.78
+BEAM2,S,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM2,S,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM2,S,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM3,B,Assembly,aoptic5,4,1,Clip blank cover,0.3
+BEAM3,B,Assembly,aoptic5,8,1,Clip blank cover,0.45
+BEAM3,B,Assembly,aoptic5,12,1,Clip blank cover,0.6
+BEAM3,C,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM3,C,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM3,C,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM3,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM3,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM3,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM3,NO,Assembly,aoptic0,4,1,No lens,0
+BEAM3,NO,Assembly,aoptic0,8,1,No lens,0
+BEAM3,NO,Assembly,aoptic0,12,1,No lens,0
+BEAM3,PL,Assembly,aoptic3,4,2,Clip louver on housing,0.41
+BEAM3,PL,Assembly,aoptic3,8,2,Clip louver on housing,0.82
+BEAM3,PL,Assembly,aoptic3,12,2,Clip louver on housing,1.23
+BEAM3,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM3,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM3,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM3,WW,Assembly,optic26,4,1,clip angle flange,0.166666667
+BEAM3,WW,Assembly,optic26,4,2,clip 2 covers on body housing,0.3
+BEAM3,WW,Assembly,optic26,4,3,open sub-ass'y (4ft),1
+BEAM3,WW,Assembly,optic26,8,1,clip angle flange,0.333333333
+BEAM3,WW,Assembly,optic26,8,2,clip 2 covers on body housing,0.3
+BEAM3,WW,Assembly,optic26,8,3,open sub-ass'y (4ft),2
+BEAM3,WW,Assembly,optic26,12,1,clip angle flange,0.5
+BEAM3,WW,Assembly,optic26,12,2,clip 2 covers on body housing,0.3
+BEAM3,WW,Assembly,optic26,12,3,open sub-ass'y (4ft),3
+BEAM3,SW,Assembly,optic27,4,1,clip angle flange,0.166666667
+BEAM3,SW,Assembly,optic27,4,2,clip 2 covers on body housing,0.3
+BEAM3,SW,Assembly,optic27,4,3,open sub-ass'y (4ft),1
+BEAM3,SW,Assembly,optic27,4,5,clip lens,0.166666667
+BEAM3,SW,Assembly,optic27,8,1,clip angle flange,0.333333333
+BEAM3,SW,Assembly,optic27,8,2,clip 2 covers on body housing,0.3
+BEAM3,SW,Assembly,optic27,8,3,open sub-ass'y (4ft),2
+BEAM3,SW,Assembly,optic27,8,5,clip lens,0.333333333
+BEAM3,SW,Assembly,optic27,12,1,clip angle flange,0.5
+BEAM3,SW,Assembly,optic27,12,2,clip 2 covers on body housing,0.3
+BEAM3,SW,Assembly,optic27,12,3,open sub-ass'y (4ft),3
+BEAM3,SW,Assembly,optic27,12,5,clip lens,0.5
+BEAM3,A,Assembly,optic28,4,1,fix 2 brkt for deflector & place,0.3
+BEAM3,A,Assembly,optic28,4,2,slide 2 deflector brkts on body housing,0.123
+BEAM3,A,Assembly,optic28,4,3,remove plastic film on deflector,0.21
+BEAM3,A,Assembly,optic28,4,4,place deflector & fix with 2 screws,0.493
+BEAM3,A,Assembly,optic28,4,5,clip flange extrusion on body,0.166666667
+BEAM3,A,Assembly,optic28,8,1,fix 2 brkt for deflector & place,0.6
+BEAM3,A,Assembly,optic28,8,2,slide 2 deflector brkts on body housing,0.246
+BEAM3,A,Assembly,optic28,8,3,remove plastic film on deflector,0.42
+BEAM3,A,Assembly,optic28,8,4,place deflector & fix with 2 screws,0.986
+BEAM3,A,Assembly,optic28,8,5,clip flange extrusion on body,0.333333333
+BEAM3,A,Assembly,optic28,12,1,fix 2 brkt for deflector & place,0.9
+BEAM3,A,Assembly,optic28,12,2,slide 2 deflector brkts on body housing,0.369
+BEAM3,A,Assembly,optic28,12,3,remove plastic film on deflector,0.63
+BEAM3,A,Assembly,optic28,12,4,place deflector & fix with 2 screws,1.479
+BEAM3,A,Assembly,optic28,12,5,clip flange extrusion on body,0.5
+BEAM3,C,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM3,C,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM3,C,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM3,F,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM3,F,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM3,F,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM3,PL,Preparation,aoptic3,4,1,Unwrap louver,0.26
+BEAM3,PL,Preparation,aoptic3,8,1,Unwrap louver,0.52
+BEAM3,PL,Preparation,aoptic3,12,1,Unwrap louver,0.78
+BEAM3,S,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM3,S,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM3,S,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM3,SW,Preparation,optic27,4,4,clean lens,0
+BEAM3,SW,Preparation,optic27,8,4,clean lens,0
+BEAM3,SW,Preparation,optic27,12,4,clean lens,0
+BEAM4,B,Assembly,aoptic5,4,1,Clip blank cover,0.3
+BEAM4,B,Assembly,aoptic5,8,1,Clip blank cover,0.45
+BEAM4,B,Assembly,aoptic5,12,1,Clip blank cover,0.6
+BEAM4,C,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM4,C,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM4,C,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM4,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM4,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM4,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM4,NO,Assembly,aoptic0,4,1,No lens,0
+BEAM4,NO,Assembly,aoptic0,8,1,No lens,0
+BEAM4,NO,Assembly,aoptic0,12,1,No lens,0
+BEAM4,PL,Assembly,aoptic3,4,2,Clip louver on housing,0.41
+BEAM4,PL,Assembly,aoptic3,8,2,Clip louver on housing,0.82
+BEAM4,PL,Assembly,aoptic3,12,2,Clip louver on housing,1.23
+BEAM4,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM4,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM4,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM4,WW,Assembly,optic26,4,1,clip angle flange,0.166666667
+BEAM4,WW,Assembly,optic26,4,2,clip 2 covers on body housing,0.3
+BEAM4,WW,Assembly,optic26,4,3,open sub-ass'y (4ft),1
+BEAM4,WW,Assembly,optic26,8,1,clip angle flange,0.333333333
+BEAM4,WW,Assembly,optic26,8,2,clip 2 covers on body housing,0.3
+BEAM4,WW,Assembly,optic26,8,3,open sub-ass'y (4ft),2
+BEAM4,WW,Assembly,optic26,12,1,clip angle flange,0.5
+BEAM4,WW,Assembly,optic26,12,2,clip 2 covers on body housing,0.3
+BEAM4,WW,Assembly,optic26,12,3,open sub-ass'y (4ft),3
+BEAM4,SW,Assembly,optic27,4,1,clip angle flange,0.166666667
+BEAM4,SW,Assembly,optic27,4,2,clip 2 covers on body housing,0.3
+BEAM4,SW,Assembly,optic27,4,3,open sub-ass'y (4ft),1
+BEAM4,SW,Assembly,optic27,4,5,clip lens,0.166666667
+BEAM4,SW,Assembly,optic27,8,1,clip angle flange,0.333333333
+BEAM4,SW,Assembly,optic27,8,2,clip 2 covers on body housing,0.3
+BEAM4,SW,Assembly,optic27,8,3,open sub-ass'y (4ft),2
+BEAM4,SW,Assembly,optic27,8,5,clip lens,0.333333333
+BEAM4,SW,Assembly,optic27,12,1,clip angle flange,0.5
+BEAM4,SW,Assembly,optic27,12,2,clip 2 covers on body housing,0.3
+BEAM4,SW,Assembly,optic27,12,3,open sub-ass'y (4ft),3
+BEAM4,SW,Assembly,optic27,12,5,clip lens,0.5
+BEAM4,A,Assembly,optic28,4,1,fix 2 brkt for deflector & place,0.3
+BEAM4,A,Assembly,optic28,4,2,slide 2 deflector brkts on body housing,0.123
+BEAM4,A,Assembly,optic28,4,3,remove plastic film on deflector,0.21
+BEAM4,A,Assembly,optic28,4,4,place deflector & fix with 2 screws,0.493
+BEAM4,A,Assembly,optic28,4,5,clip flange extrusion on body,0.166666667
+BEAM4,A,Assembly,optic28,8,1,fix 2 brkt for deflector & place,0.6
+BEAM4,A,Assembly,optic28,8,2,slide 2 deflector brkts on body housing,0.246
+BEAM4,A,Assembly,optic28,8,3,remove plastic film on deflector,0.42
+BEAM4,A,Assembly,optic28,8,4,place deflector & fix with 2 screws,0.986
+BEAM4,A,Assembly,optic28,8,5,clip flange extrusion on body,0.333333333
+BEAM4,A,Assembly,optic28,12,1,fix 2 brkt for deflector & place,0.9
+BEAM4,A,Assembly,optic28,12,2,slide 2 deflector brkts on body housing,0.369
+BEAM4,A,Assembly,optic28,12,3,remove plastic film on deflector,0.63
+BEAM4,A,Assembly,optic28,12,4,place deflector & fix with 2 screws,1.479
+BEAM4,A,Assembly,optic28,12,5,clip flange extrusion on body,0.5
+BEAM4,C,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM4,C,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM4,C,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM4,F,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM4,F,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM4,F,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM4,PL,Preparation,aoptic3,4,1,Unwrap louver,0.26
+BEAM4,PL,Preparation,aoptic3,8,1,Unwrap louver,0.52
+BEAM4,PL,Preparation,aoptic3,12,1,Unwrap louver,0.78
+BEAM4,S,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM4,S,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM4,S,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM4,SW,Preparation,optic27,4,4,clean lens,0
+BEAM4,SW,Preparation,optic27,8,4,clean lens,0
+BEAM4,SW,Preparation,optic27,12,4,clean lens,0
+BEAM4,FL,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM4,FL,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM4,FL,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM4,1.5M,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM4,1.5M,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM4,1.5M,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM6,B,Assembly,aoptic5,4,1,Clip blank cover,0.3
+BEAM6,B,Assembly,aoptic5,8,1,Clip blank cover,0.45
+BEAM6,B,Assembly,aoptic5,12,1,Clip blank cover,0.6
+BEAM6,C,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM6,C,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM6,C,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM6,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM6,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM6,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM6,NO,Assembly,aoptic0,4,1,No lens,0
+BEAM6,NO,Assembly,aoptic0,8,1,No lens,0
+BEAM6,NO,Assembly,aoptic0,12,1,No lens,0
+BEAM6,PL,Assembly,aoptic3,4,2,Clip louver on housing,0.41
+BEAM6,PL,Assembly,aoptic3,8,2,Clip louver on housing,0.82
+BEAM6,PL,Assembly,aoptic3,12,2,Clip louver on housing,1.23
+BEAM6,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAM6,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAM6,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAM6,WW,Assembly,optic26,4,1,clip angle flange,0.166666667
+BEAM6,WW,Assembly,optic26,4,2,clip 2 covers on body housing,0.3
+BEAM6,WW,Assembly,optic26,4,3,open sub-ass'y (4ft),1
+BEAM6,WW,Assembly,optic26,8,1,clip angle flange,0.333333333
+BEAM6,WW,Assembly,optic26,8,2,clip 2 covers on body housing,0.3
+BEAM6,WW,Assembly,optic26,8,3,open sub-ass'y (4ft),2
+BEAM6,WW,Assembly,optic26,12,1,clip angle flange,0.5
+BEAM6,WW,Assembly,optic26,12,2,clip 2 covers on body housing,0.3
+BEAM6,WW,Assembly,optic26,12,3,open sub-ass'y (4ft),3
+BEAM6,SW,Assembly,optic27,4,1,clip angle flange,0.166666667
+BEAM6,SW,Assembly,optic27,4,2,clip 2 covers on body housing,0.3
+BEAM6,SW,Assembly,optic27,4,3,open sub-ass'y (4ft),1
+BEAM6,SW,Assembly,optic27,4,5,clip lens,0.166666667
+BEAM6,SW,Assembly,optic27,8,1,clip angle flange,0.333333333
+BEAM6,SW,Assembly,optic27,8,2,clip 2 covers on body housing,0.3
+BEAM6,SW,Assembly,optic27,8,3,open sub-ass'y (4ft),2
+BEAM6,SW,Assembly,optic27,8,5,clip lens,0.333333333
+BEAM6,SW,Assembly,optic27,12,1,clip angle flange,0.5
+BEAM6,SW,Assembly,optic27,12,2,clip 2 covers on body housing,0.3
+BEAM6,SW,Assembly,optic27,12,3,open sub-ass'y (4ft),3
+BEAM6,SW,Assembly,optic27,12,5,clip lens,0.5
+BEAM6,A,Assembly,optic28,4,1,fix 2 brkt for deflector & place,0.3
+BEAM6,A,Assembly,optic28,4,2,slide 2 deflector brkts on body housing,0.123
+BEAM6,A,Assembly,optic28,4,3,remove plastic film on deflector,0.21
+BEAM6,A,Assembly,optic28,4,4,place deflector & fix with 2 screws,0.493
+BEAM6,A,Assembly,optic28,4,5,clip flange extrusion on body,0.166666667
+BEAM6,A,Assembly,optic28,8,1,fix 2 brkt for deflector & place,0.6
+BEAM6,A,Assembly,optic28,8,2,slide 2 deflector brkts on body housing,0.246
+BEAM6,A,Assembly,optic28,8,3,remove plastic film on deflector,0.42
+BEAM6,A,Assembly,optic28,8,4,place deflector & fix with 2 screws,0.986
+BEAM6,A,Assembly,optic28,8,5,clip flange extrusion on body,0.333333333
+BEAM6,A,Assembly,optic28,12,1,fix 2 brkt for deflector & place,0.9
+BEAM6,A,Assembly,optic28,12,2,slide 2 deflector brkts on body housing,0.369
+BEAM6,A,Assembly,optic28,12,3,remove plastic film on deflector,0.63
+BEAM6,A,Assembly,optic28,12,4,place deflector & fix with 2 screws,1.479
+BEAM6,A,Assembly,optic28,12,5,clip flange extrusion on body,0.5
+BEAM6,C,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM6,C,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM6,C,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM6,F,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM6,F,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM6,F,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM6,PL,Preparation,aoptic3,4,1,Unwrap louver,0.26
+BEAM6,PL,Preparation,aoptic3,8,1,Unwrap louver,0.52
+BEAM6,PL,Preparation,aoptic3,12,1,Unwrap louver,0.78
+BEAM6,S,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAM6,S,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAM6,S,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAM6,SW,Preparation,optic27,4,4,clean lens,0
+BEAM6,SW,Preparation,optic27,8,4,clean lens,0
+BEAM6,SW,Preparation,optic27,12,4,clean lens,0
+BEAMDI,B,Assembly,aoptic5,4,1,Clip blank cover,0.3
+BEAMDI,B,Assembly,aoptic5,8,1,Clip blank cover,0.45
+BEAMDI,B,Assembly,aoptic5,12,1,Clip blank cover,0.6
+BEAMDI,C,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAMDI,C,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAMDI,C,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAMDI,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAMDI,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAMDI,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAMDI,NO,Assembly,aoptic0,4,1,No lens,0
+BEAMDI,NO,Assembly,aoptic0,8,1,No lens,0
+BEAMDI,NO,Assembly,aoptic0,12,1,No lens,0
+BEAMDI,PL,Assembly,aoptic3,4,2,Clip louver on housing,0.41
+BEAMDI,PL,Assembly,aoptic3,8,2,Clip louver on housing,0.82
+BEAMDI,PL,Assembly,aoptic3,12,2,Clip louver on housing,1.23
+BEAMDI,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+BEAMDI,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+BEAMDI,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+BEAMDI,C,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAMDI,C,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAMDI,C,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAMDI,F,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAMDI,F,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAMDI,F,Preparation,aoptic1,12,1,Clean lens,0.36
+BEAMDI,PL,Preparation,aoptic3,4,1,Unwrap louver,0.26
+BEAMDI,PL,Preparation,aoptic3,8,1,Unwrap louver,0.52
+BEAMDI,PL,Preparation,aoptic3,12,1,Unwrap louver,0.78
+BEAMDI,S,Preparation,aoptic1,4,1,Clean lens,0.16
+BEAMDI,S,Preparation,aoptic1,8,1,Clean lens,0.26
+BEAMDI,S,Preparation,aoptic1,12,1,Clean lens,0.36
+CCH,SL,Assembly,aoptic31,4,1,clean guide light,0.16
+CCH,SL,Assembly,aoptic31,4,2,place on housing,0.3
+CCH,SL,Assembly,aoptic31,4,3,place & clip 2 plastic boards retainer,0.59
+CCH,SL,Assembly,aoptic31,4,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.46
+CCH,SL,Assembly,aoptic31,8,1,clean guide light,0.32
+CCH,SL,Assembly,aoptic31,8,2,place on housing,0.6
+CCH,SL,Assembly,aoptic31,8,3,place & clip 2 plastic boards retainer,1.18
+CCH,SL,Assembly,aoptic31,8,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.92
+CCH,SL,Assembly,aoptic31,12,1,clean guide light,0.48
+CCH,SL,Assembly,aoptic31,12,2,place on housing,0.9
+CCH,SL,Assembly,aoptic31,12,3,place & clip 2 plastic boards retainer,1.77
+CCH,SL,Assembly,aoptic31,12,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",1.38
+CCL,SL,Assembly,aoptic31,4,1,clean guide light,0.16
+CCL,SL,Assembly,aoptic31,4,2,place on housing,0.3
+CCL,SL,Assembly,aoptic31,4,3,place & clip 2 plastic boards retainer,0.59
+CCL,SL,Assembly,aoptic31,4,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.46
+CCL,SL,Assembly,aoptic31,8,1,clean guide light,0.32
+CCL,SL,Assembly,aoptic31,8,2,place on housing,0.6
+CCL,SL,Assembly,aoptic31,8,3,place & clip 2 plastic boards retainer,1.18
+CCL,SL,Assembly,aoptic31,8,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.92
+CCL,SL,Assembly,aoptic31,12,1,clean guide light,0.48
+CCL,SL,Assembly,aoptic31,12,2,place on housing,0.9
+CCL,SL,Assembly,aoptic31,12,3,place & clip 2 plastic boards retainer,1.77
+CCL,SL,Assembly,aoptic31,12,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",1.38
+CCWL,SL,Assembly,aoptic31,4,1,clean guide light,0.16
+CCWL,SL,Assembly,aoptic31,4,2,place on housing,0.3
+CCWL,SL,Assembly,aoptic31,4,3,place & clip 2 plastic boards retainer,0.59
+CCWL,SL,Assembly,aoptic31,4,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.46
+CCWL,SL,Assembly,aoptic31,8,1,clean guide light,0.32
+CCWL,SL,Assembly,aoptic31,8,2,place on housing,0.6
+CCWL,SL,Assembly,aoptic31,8,3,place & clip 2 plastic boards retainer,1.18
+CCWL,SL,Assembly,aoptic31,8,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.92
+CCWL,SL,Assembly,aoptic31,12,1,clean guide light,0.48
+CCWL,SL,Assembly,aoptic31,12,2,place on housing,0.9
+CCWL,SL,Assembly,aoptic31,12,3,place & clip 2 plastic boards retainer,1.77
+CCWL,SL,Assembly,aoptic31,12,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",1.38
+CLICK,SO,Assembly,aoptic39,4,1, Slide lightguide between extrusion ,1
+CLICK,SO,Assembly,aoptic39,4,2, slide film below lightguide ,0.3
+CLICK,SO,Assembly,aoptic39,8,1, Slide lightguide between extrusion ,2.5
+CLICK,SO,Assembly,aoptic39,8,2, slide film below lightguide ,0.75
+CUBIC,B,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+CUBIC,B,Assembly,aoptic19,4,3,Slide covers,0.22
+CUBIC,B,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+CUBIC,B,Assembly,aoptic19,8,3,Slide covers,0.33
+CUBIC,B,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+CUBIC,B,Assembly,aoptic19,12,3,Slide covers,0.44
+CUBIC,P,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+CUBIC,P,Assembly,aoptic19,4,3,Slide covers,0.22
+CUBIC,P,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+CUBIC,P,Assembly,aoptic19,8,3,Slide covers,0.33
+CUBIC,P,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+CUBIC,P,Assembly,aoptic19,12,3,Slide covers,0.44
+CUBIC,PL,Assembly,aoptic20,4,2,Slide covers,0.34
+CUBIC,PL,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+CUBIC,PL,Assembly,aoptic20,8,2,Slide covers,0.56
+CUBIC,PL,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+CUBIC,PL,Assembly,aoptic20,12,2,Slide covers,0.78
+CUBIC,PL,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+CUBIC,S,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+CUBIC,S,Assembly,aoptic19,4,3,Slide covers,0.22
+CUBIC,S,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+CUBIC,S,Assembly,aoptic19,8,3,Slide covers,0.33
+CUBIC,S,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+CUBIC,S,Assembly,aoptic19,12,3,Slide covers,0.44
+CUBIC,SB,Assembly,aoptic20,4,2,Slide covers,0.34
+CUBIC,SB,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+CUBIC,SB,Assembly,aoptic20,8,2,Slide covers,0.56
+CUBIC,SB,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+CUBIC,SB,Assembly,aoptic20,12,2,Slide covers,0.78
+CUBIC,SB,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+CUBIC,SL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+CUBIC,SL,Assembly,aoptic19,4,3,Slide covers,0.22
+CUBIC,SL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+CUBIC,SL,Assembly,aoptic19,8,3,Slide covers,0.33
+CUBIC,SL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+CUBIC,SL,Assembly,aoptic19,12,3,Slide covers,0.44
+CUBIC,VL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+CUBIC,VL,Assembly,aoptic19,4,3,Slide covers,0.22
+CUBIC,VL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+CUBIC,VL,Assembly,aoptic19,8,3,Slide covers,0.33
+CUBIC,VL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+CUBIC,VL,Assembly,aoptic19,12,3,Slide covers,0.44
+CUBIC,B,Preparation,aoptic19,4,1,Clean optic,0.1
+CUBIC,B,Preparation,aoptic19,8,1,Clean optic,0.22
+CUBIC,B,Preparation,aoptic19,12,1,Clean optic,0.36
+CUBIC,P,Preparation,aoptic19,4,1,Clean optic,0.1
+CUBIC,P,Preparation,aoptic19,8,1,Clean optic,0.22
+CUBIC,P,Preparation,aoptic19,12,1,Clean optic,0.36
+CUBIC,PL,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+CUBIC,PL,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+CUBIC,PL,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+CUBIC,S,Preparation,aoptic19,4,1,Clean optic,0.1
+CUBIC,S,Preparation,aoptic19,8,1,Clean optic,0.22
+CUBIC,S,Preparation,aoptic19,12,1,Clean optic,0.36
+CUBIC,SB,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+CUBIC,SB,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+CUBIC,SB,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+CUBIC,SL,Preparation,aoptic19,4,1,Clean optic,0.1
+CUBIC,SL,Preparation,aoptic19,8,1,Clean optic,0.22
+CUBIC,SL,Preparation,aoptic19,12,1,Clean optic,0.36
+CUBIC,VL,Preparation,aoptic19,4,1,Clean optic,0.1
+CUBIC,VL,Preparation,aoptic19,8,1,Clean optic,0.22
+CUBIC,VL,Preparation,aoptic19,12,1,Clean optic,0.36
+CUBIC,SO,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+CUBIC,SO,Assembly,aoptic19,4,3,Slide covers,0.22
+CUBIC,SO,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+CUBIC,SO,Assembly,aoptic19,8,3,Slide covers,0.33
+CUBIC,SO,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+CUBIC,SO,Assembly,aoptic19,12,3,Slide covers,0.44
+D535,B,Assembly,aoptic10,4,3,clip louver on housing,0.41
+D535,B,Assembly,aoptic10,8,3,clip louver on housing,0.82
+D535,B,Assembly,aoptic10,12,3,clip louver on housing,1.23
+D535,BC,Assembly,aoptic10,4,3,clip louver on housing,0.41
+D535,BC,Assembly,aoptic10,8,3,clip louver on housing,0.82
+D535,BC,Assembly,aoptic10,12,3,clip louver on housing,1.23
+D535,SLC,Assembly,aoptic10,4,3,clip louver on housing,0.41
+D535,SLC,Assembly,aoptic10,8,3,clip louver on housing,0.82
+D535,SLC,Assembly,aoptic10,12,3,clip louver on housing,1.23
+D535,B,Preparation,aoptic10,4,1,unwrap louver,0.26
+D535,B,Preparation,aoptic10,4,2,assy brackets on baffle,2.8
+D535,B,Preparation,aoptic10,8,1,unwrap louver,0.52
+D535,B,Preparation,aoptic10,8,2,assy brackets on baffle,5.6
+D535,B,Preparation,aoptic10,12,1,unwrap louver,0.78
+D535,B,Preparation,aoptic10,12,2,assy brackets on baffle,8.4
+D535,BC,Preparation,aoptic10,4,1,unwrap louver,0.26
+D535,BC,Preparation,aoptic10,4,2,assy brackets on baffle,2.8
+D535,BC,Preparation,aoptic10,8,1,unwrap louver,0.52
+D535,BC,Preparation,aoptic10,8,2,assy brackets on baffle,5.6
+D535,BC,Preparation,aoptic10,12,1,unwrap louver,0.78
+D535,BC,Preparation,aoptic10,12,2,assy brackets on baffle,8.4
+D535,SLC,Preparation,aoptic10,4,1,unwrap louver,0.26
+D535,SLC,Preparation,aoptic10,4,2,assy brackets on baffle,2.8
+D535,SLC,Preparation,aoptic10,8,1,unwrap louver,0.52
+D535,SLC,Preparation,aoptic10,8,2,assy brackets on baffle,5.6
+D535,SLC,Preparation,aoptic10,12,1,unwrap louver,0.78
+D535,SLC,Preparation,aoptic10,12,2,assy brackets on baffle,8.4
+DAY,S,Assembly,aoptic15,11,1,Bring housing to work station,0.07
+DAY,S,Assembly,aoptic15,11,2,Take sub-assy door & fix in housing,0.14
+DAY,S,Assembly,aoptic15,11,3,Fix door with 3 screws,0.23
+DAY,S,Assembly,aoptic15,11,4,Put aside,0.07
+DAY,S,Assembly,aoptic15,12,1,Bring housing to work station,0.07
+DAY,S,Assembly,aoptic15,12,2,Take sub-assy door & fix in housing,0.14
+DAY,S,Assembly,aoptic15,12,3,Fix door with 3 screws,0.23
+DAY,S,Assembly,aoptic15,12,4,Put aside,0.07
+DAY,S,Assembly,aoptic15,14,1,Bring housing to work station,0.07
+DAY,S,Assembly,aoptic15,14,2,Take sub-assy door & fix in housing,0.14
+DAY,S,Assembly,aoptic15,14,3,Fix door with 3 screws,0.23
+DAY,S,Assembly,aoptic15,14,4,Put aside,0.07
+DAY,S,Assembly,aoptic15,22,1,Bring housing to work station,0.07
+DAY,S,Assembly,aoptic15,22,2,Take sub-assy door & fix in housing,0.14
+DAY,S,Assembly,aoptic15,22,3,Fix door with 3 screws,0.23
+DAY,S,Assembly,aoptic15,22,4,Put aside,0.07
+DAY,S,Assembly,aoptic15,24,1,Bring housing to work station,0.07
+DAY,S,Assembly,aoptic15,24,2,Take sub-assy door & fix in housing,0.14
+DAY,S,Assembly,aoptic15,24,3,Fix door with 3 screws,0.23
+DAY,S,Assembly,aoptic15,24,4,Put aside,0.07
+DAY,SB,Assembly,aoptic15,11,1,Bring housing to work station,0.07
+DAY,SB,Assembly,aoptic15,11,2,Take sub-assy door & fix in housing,0.14
+DAY,SB,Assembly,aoptic15,11,3,Fix door with 3 screws,0.23
+DAY,SB,Assembly,aoptic15,11,4,Put aside,0.07
+DAY,SB,Assembly,aoptic15,12,1,Bring housing to work station,0.07
+DAY,SB,Assembly,aoptic15,12,2,Take sub-assy door & fix in housing,0.14
+DAY,SB,Assembly,aoptic15,12,3,Fix door with 3 screws,0.23
+DAY,SB,Assembly,aoptic15,12,4,Put aside,0.07
+DAY,SB,Assembly,aoptic15,14,1,Bring housing to work station,0.07
+DAY,SB,Assembly,aoptic15,14,2,Take sub-assy door & fix in housing,0.14
+DAY,SB,Assembly,aoptic15,14,3,Fix door with 3 screws,0.23
+DAY,SB,Assembly,aoptic15,14,4,Put aside,0.07
+DAY,SB,Assembly,aoptic15,22,1,Bring housing to work station,0.07
+DAY,SB,Assembly,aoptic15,22,2,Take sub-assy door & fix in housing,0.14
+DAY,SB,Assembly,aoptic15,22,3,Fix door with 3 screws,0.23
+DAY,SB,Assembly,aoptic15,22,4,Put aside,0.07
+DAY,SB,Assembly,aoptic15,24,1,Bring housing to work station,0.07
+DAY,SB,Assembly,aoptic15,24,2,Take sub-assy door & fix in housing,0.14
+DAY,SB,Assembly,aoptic15,24,3,Fix door with 3 screws,0.23
+DAY,SB,Assembly,aoptic15,24,4,Put aside,0.07
+DAYLED,SO,Assembly,aoptic15,11,1,Bring housing to work station,0.07
+DAYLED,SO,Assembly,aoptic15,11,2,Take sub-assy door & fix in housing,0.14
+DAYLED,SO,Assembly,aoptic15,11,3,Fix door with 3 screws,0.23
+DAYLED,SO,Assembly,aoptic15,11,4,Put aside,0.07
+DAYLED,SO,Assembly,aoptic15,12,1,Bring housing to work station,0.07
+DAYLED,SO,Assembly,aoptic15,12,2,Take sub-assy door & fix in housing,0.14
+DAYLED,SO,Assembly,aoptic15,12,3,Fix door with 3 screws,0.23
+DAYLED,SO,Assembly,aoptic15,12,4,Put aside,0.07
+DAYLED,SO,Assembly,aoptic15,14,1,Bring housing to work station,0.07
+DAYLED,SO,Assembly,aoptic15,14,2,Take sub-assy door & fix in housing,0.14
+DAYLED,SO,Assembly,aoptic15,14,3,Fix door with 3 screws,0.23
+DAYLED,SO,Assembly,aoptic15,14,4,Put aside,0.07
+DAYLED,SO,Assembly,aoptic15,22,1,Bring housing to work station,0.07
+DAYLED,SO,Assembly,aoptic15,22,2,Take sub-assy door & fix in housing,0.14
+DAYLED,SO,Assembly,aoptic15,22,3,Fix door with 3 screws,0.23
+DAYLED,SO,Assembly,aoptic15,22,4,Put aside,0.07
+DAYLED,SO,Assembly,aoptic15,24,1,Bring housing to work station,0.07
+DAYLED,SO,Assembly,aoptic15,24,2,Take sub-assy door & fix in housing,0.14
+DAYLED,SO,Assembly,aoptic15,24,3,Fix door with 3 screws,0.23
+DAYLED,SO,Assembly,aoptic15,24,4,Put aside,0.07
+DIA,S,Assembly,aoptic14,11,1,Bring product to work station,0.186666667
+DIA,S,Assembly,aoptic14,11,2,Fix 1 screw,0.135
+DIA,S,Assembly,aoptic14,11,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIA,S,Assembly,aoptic14,11,4,"Fix 2sd side, close lens firmly",0.285
+DIA,S,Assembly,aoptic14,11,5,Clean 2 side lens with air,0.0984
+DIA,S,Assembly,aoptic14,11,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIA,S,Assembly,aoptic14,11,7,Put aside,0.163333333
+DIA,S,Assembly,aoptic14,12,1,Bring product to work station,0.186666667
+DIA,S,Assembly,aoptic14,12,2,Fix 1 screw,0.135
+DIA,S,Assembly,aoptic14,12,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIA,S,Assembly,aoptic14,12,4,"Fix 2sd side, close lens firmly",0.285
+DIA,S,Assembly,aoptic14,12,5,Clean 2 side lens with air,0.0984
+DIA,S,Assembly,aoptic14,12,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIA,S,Assembly,aoptic14,12,7,Put aside,0.163333333
+DIA,S,Assembly,aoptic14,14,1,Bring product to work station,0.186666667
+DIA,S,Assembly,aoptic14,14,2,Fix 1 screw,0.135
+DIA,S,Assembly,aoptic14,14,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIA,S,Assembly,aoptic14,14,4,"Fix 2sd side, close lens firmly",0.285
+DIA,S,Assembly,aoptic14,14,5,Clean 2 side lens with air,0.0984
+DIA,S,Assembly,aoptic14,14,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIA,S,Assembly,aoptic14,14,7,Put aside,0.163333333
+DIA,S,Assembly,aoptic14,22,1,Bring product to work station,0.186666667
+DIA,S,Assembly,aoptic14,22,2,Fix 1 screw,0.135
+DIA,S,Assembly,aoptic14,22,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIA,S,Assembly,aoptic14,22,4,"Fix 2sd side, close lens firmly",0.285
+DIA,S,Assembly,aoptic14,22,5,Clean 2 side lens with air,0.0984
+DIA,S,Assembly,aoptic14,22,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIA,S,Assembly,aoptic14,22,7,Put aside,0.163333333
+DIA,S,Assembly,aoptic14,24,1,Bring product to work station,0.186666667
+DIA,S,Assembly,aoptic14,24,2,Fix 1 screw,0.135
+DIA,S,Assembly,aoptic14,24,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIA,S,Assembly,aoptic14,24,4,"Fix 2sd side, close lens firmly",0.285
+DIA,S,Assembly,aoptic14,24,5,Clean 2 side lens with air,0.0984
+DIA,S,Assembly,aoptic14,24,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIA,S,Assembly,aoptic14,24,7,Put aside,0.163333333
+DIA,VL,Assembly,aoptic14,11,1,Bring product to work station,0.186666667
+DIA,VL,Assembly,aoptic14,11,2,Fix 1 screw,0.135
+DIA,VL,Assembly,aoptic14,11,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIA,VL,Assembly,aoptic14,11,4,"Fix 2sd side, close lens firmly",0.285
+DIA,VL,Assembly,aoptic14,11,5,Clean 2 side lens with air,0.0984
+DIA,VL,Assembly,aoptic14,11,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIA,VL,Assembly,aoptic14,11,7,Put aside,0.163333333
+DIA,VL,Assembly,aoptic14,12,1,Bring product to work station,0.186666667
+DIA,VL,Assembly,aoptic14,12,2,Fix 1 screw,0.135
+DIA,VL,Assembly,aoptic14,12,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIA,VL,Assembly,aoptic14,12,4,"Fix 2sd side, close lens firmly",0.285
+DIA,VL,Assembly,aoptic14,12,5,Clean 2 side lens with air,0.0984
+DIA,VL,Assembly,aoptic14,12,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIA,VL,Assembly,aoptic14,12,7,Put aside,0.163333333
+DIA,VL,Assembly,aoptic14,14,1,Bring product to work station,0.186666667
+DIA,VL,Assembly,aoptic14,14,2,Fix 1 screw,0.135
+DIA,VL,Assembly,aoptic14,14,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIA,VL,Assembly,aoptic14,14,4,"Fix 2sd side, close lens firmly",0.285
+DIA,VL,Assembly,aoptic14,14,5,Clean 2 side lens with air,0.0984
+DIA,VL,Assembly,aoptic14,14,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIA,VL,Assembly,aoptic14,14,7,Put aside,0.163333333
+DIA,VL,Assembly,aoptic14,22,1,Bring product to work station,0.186666667
+DIA,VL,Assembly,aoptic14,22,2,Fix 1 screw,0.135
+DIA,VL,Assembly,aoptic14,22,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIA,VL,Assembly,aoptic14,22,4,"Fix 2sd side, close lens firmly",0.285
+DIA,VL,Assembly,aoptic14,22,5,Clean 2 side lens with air,0.0984
+DIA,VL,Assembly,aoptic14,22,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIA,VL,Assembly,aoptic14,22,7,Put aside,0.163333333
+DIA,VL,Assembly,aoptic14,24,1,Bring product to work station,0.186666667
+DIA,VL,Assembly,aoptic14,24,2,Fix 1 screw,0.135
+DIA,VL,Assembly,aoptic14,24,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIA,VL,Assembly,aoptic14,24,4,"Fix 2sd side, close lens firmly",0.285
+DIA,VL,Assembly,aoptic14,24,5,Clean 2 side lens with air,0.0984
+DIA,VL,Assembly,aoptic14,24,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIA,VL,Assembly,aoptic14,24,7,Put aside,0.163333333
+DIALED,VL,Assembly,aoptic14,11,1,Bring product to work station,0.186666667
+DIALED,VL,Assembly,aoptic14,11,2,Fix 1 screw,0.135
+DIALED,VL,Assembly,aoptic14,11,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIALED,VL,Assembly,aoptic14,11,4,"Fix 2sd side, close lens firmly",0.285
+DIALED,VL,Assembly,aoptic14,11,5,Clean 2 side lens with air,0.0984
+DIALED,VL,Assembly,aoptic14,11,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIALED,VL,Assembly,aoptic14,11,7,Put aside,0.163333333
+DIALED,VL,Assembly,aoptic14,12,1,Bring product to work station,0.186666667
+DIALED,VL,Assembly,aoptic14,12,2,Fix 1 screw,0.135
+DIALED,VL,Assembly,aoptic14,12,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIALED,VL,Assembly,aoptic14,12,4,"Fix 2sd side, close lens firmly",0.285
+DIALED,VL,Assembly,aoptic14,12,5,Clean 2 side lens with air,0.0984
+DIALED,VL,Assembly,aoptic14,12,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIALED,VL,Assembly,aoptic14,12,7,Put aside,0.163333333
+DIALED,VL,Assembly,aoptic14,14,1,Bring product to work station,0.186666667
+DIALED,VL,Assembly,aoptic14,14,2,Fix 1 screw,0.135
+DIALED,VL,Assembly,aoptic14,14,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIALED,VL,Assembly,aoptic14,14,4,"Fix 2sd side, close lens firmly",0.285
+DIALED,VL,Assembly,aoptic14,14,5,Clean 2 side lens with air,0.0984
+DIALED,VL,Assembly,aoptic14,14,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIALED,VL,Assembly,aoptic14,14,7,Put aside,0.163333333
+DIALED,VL,Assembly,aoptic14,22,1,Bring product to work station,0.186666667
+DIALED,VL,Assembly,aoptic14,22,2,Fix 1 screw,0.135
+DIALED,VL,Assembly,aoptic14,22,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIALED,VL,Assembly,aoptic14,22,4,"Fix 2sd side, close lens firmly",0.285
+DIALED,VL,Assembly,aoptic14,22,5,Clean 2 side lens with air,0.0984
+DIALED,VL,Assembly,aoptic14,22,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIALED,VL,Assembly,aoptic14,22,7,Put aside,0.163333333
+DIALED,VL,Assembly,aoptic14,24,1,Bring product to work station,0.186666667
+DIALED,VL,Assembly,aoptic14,24,2,Fix 1 screw,0.135
+DIALED,VL,Assembly,aoptic14,24,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIALED,VL,Assembly,aoptic14,24,4,"Fix 2sd side, close lens firmly",0.285
+DIALED,VL,Assembly,aoptic14,24,5,Clean 2 side lens with air,0.0984
+DIALED,VL,Assembly,aoptic14,24,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIALED,VL,Assembly,aoptic14,24,7,Put aside,0.163333333
+DIALED,SO,Assembly,aoptic14,11,1,Bring product to work station,0.186666667
+DIALED,SO,Assembly,aoptic14,11,2,Fix 1 screw,0.135
+DIALED,SO,Assembly,aoptic14,11,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIALED,SO,Assembly,aoptic14,11,4,"Fix 2sd side, close lens firmly",0.285
+DIALED,SO,Assembly,aoptic14,11,5,Clean 2 side lens with air,0.0984
+DIALED,SO,Assembly,aoptic14,11,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIALED,SO,Assembly,aoptic14,11,7,Put aside,0.163333333
+DIALED,SO,Assembly,aoptic14,12,1,Bring product to work station,0.186666667
+DIALED,SO,Assembly,aoptic14,12,2,Fix 1 screw,0.135
+DIALED,SO,Assembly,aoptic14,12,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIALED,SO,Assembly,aoptic14,12,4,"Fix 2sd side, close lens firmly",0.285
+DIALED,SO,Assembly,aoptic14,12,5,Clean 2 side lens with air,0.0984
+DIALED,SO,Assembly,aoptic14,12,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIALED,SO,Assembly,aoptic14,12,7,Put aside,0.163333333
+DIALED,SO,Assembly,aoptic14,14,1,Bring product to work station,0.186666667
+DIALED,SO,Assembly,aoptic14,14,2,Fix 1 screw,0.135
+DIALED,SO,Assembly,aoptic14,14,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIALED,SO,Assembly,aoptic14,14,4,"Fix 2sd side, close lens firmly",0.285
+DIALED,SO,Assembly,aoptic14,14,5,Clean 2 side lens with air,0.0984
+DIALED,SO,Assembly,aoptic14,14,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIALED,SO,Assembly,aoptic14,14,7,Put aside,0.163333333
+DIALED,SO,Assembly,aoptic14,22,1,Bring product to work station,0.186666667
+DIALED,SO,Assembly,aoptic14,22,2,Fix 1 screw,0.135
+DIALED,SO,Assembly,aoptic14,22,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIALED,SO,Assembly,aoptic14,22,4,"Fix 2sd side, close lens firmly",0.285
+DIALED,SO,Assembly,aoptic14,22,5,Clean 2 side lens with air,0.0984
+DIALED,SO,Assembly,aoptic14,22,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIALED,SO,Assembly,aoptic14,22,7,Put aside,0.163333333
+DIALED,SO,Assembly,aoptic14,24,1,Bring product to work station,0.186666667
+DIALED,SO,Assembly,aoptic14,24,2,Fix 1 screw,0.135
+DIALED,SO,Assembly,aoptic14,24,3,"Take sub lens, fix screw the other side & turn jig",0.195
+DIALED,SO,Assembly,aoptic14,24,4,"Fix 2sd side, close lens firmly",0.285
+DIALED,SO,Assembly,aoptic14,24,5,Clean 2 side lens with air,0.0984
+DIALED,SO,Assembly,aoptic14,24,6,Fix 2 side lens & put foam inside to protect,0.4712
+DIALED,SO,Assembly,aoptic14,24,7,Put aside,0.163333333
+DUO,VL,Assembly,aoptic16,11,1,Bring product to work station,0.186666667
+DUO,VL,Assembly,aoptic16,11,2,Fix 1 screw for 1st lens,0.135
+DUO,VL,Assembly,aoptic16,11,3,"Take 1st sub-lens, fix screw the other side & turn jig",0.195
+DUO,VL,Assembly,aoptic16,11,4,"Fix 2sd side, close lens firmly",0.285
+DUO,VL,Assembly,aoptic16,11,5,Fix 1 screw for 2nd lens,0.135
+DUO,VL,Assembly,aoptic16,11,6,"Take 2nd sub-lens, fix screw the other side & turn jig",0.195
+DUO,VL,Assembly,aoptic16,11,7,"Fix 2sd side, close lens firmly",0.285
+DUO,VL,Assembly,aoptic16,11,8,Fix 2 side lens & put foam inside to protect,0.4712
+DUO,VL,Assembly,aoptic16,11,9,Put aside,0.163333333
+DUO,VL,Assembly,aoptic16,12,1,Bring product to work station,0.186666667
+DUO,VL,Assembly,aoptic16,12,2,Fix 1 screw for 1st lens,0.135
+DUO,VL,Assembly,aoptic16,12,3,"Take 1st sub-lens, fix screw the other side & turn jig",0.195
+DUO,VL,Assembly,aoptic16,12,4,"Fix 2sd side, close lens firmly",0.285
+DUO,VL,Assembly,aoptic16,12,5,Fix 1 screw for 2nd lens,0.135
+DUO,VL,Assembly,aoptic16,12,6,"Take 2nd sub-lens, fix screw the other side & turn jig",0.195
+DUO,VL,Assembly,aoptic16,12,7,"Fix 2sd side, close lens firmly",0.285
+DUO,VL,Assembly,aoptic16,12,8,Fix 2 side lens & put foam inside to protect,0.4712
+DUO,VL,Assembly,aoptic16,12,9,Put aside,0.163333333
+DUO,VL,Assembly,aoptic16,14,1,Bring product to work station,0.186666667
+DUO,VL,Assembly,aoptic16,14,2,Fix 1 screw for 1st lens,0.135
+DUO,VL,Assembly,aoptic16,14,3,"Take 1st sub-lens, fix screw the other side & turn jig",0.195
+DUO,VL,Assembly,aoptic16,14,4,"Fix 2sd side, close lens firmly",0.285
+DUO,VL,Assembly,aoptic16,14,5,Fix 1 screw for 2nd lens,0.135
+DUO,VL,Assembly,aoptic16,14,6,"Take 2nd sub-lens, fix screw the other side & turn jig",0.195
+DUO,VL,Assembly,aoptic16,14,7,"Fix 2sd side, close lens firmly",0.285
+DUO,VL,Assembly,aoptic16,14,8,Fix 2 side lens & put foam inside to protect,0.4712
+DUO,VL,Assembly,aoptic16,14,9,Put aside,0.163333333
+DUO,VL,Assembly,aoptic16,22,1,Bring product to work station,0.186666667
+DUO,VL,Assembly,aoptic16,22,2,Fix 1 screw for 1st lens,0.135
+DUO,VL,Assembly,aoptic16,22,3,"Take 1st sub-lens, fix screw the other side & turn jig",0.195
+DUO,VL,Assembly,aoptic16,22,4,"Fix 2sd side, close lens firmly",0.285
+DUO,VL,Assembly,aoptic16,22,5,Fix 1 screw for 2nd lens,0.135
+DUO,VL,Assembly,aoptic16,22,6,"Take 2nd sub-lens, fix screw the other side & turn jig",0.195
+DUO,VL,Assembly,aoptic16,22,7,"Fix 2sd side, close lens firmly",0.285
+DUO,VL,Assembly,aoptic16,22,8,Fix 2 side lens & put foam inside to protect,0.4712
+DUO,VL,Assembly,aoptic16,22,9,Put aside,0.163333333
+DUO,VL,Assembly,aoptic16,24,1,Bring product to work station,0.186666667
+DUO,VL,Assembly,aoptic16,24,2,Fix 1 screw for 1st lens,0.135
+DUO,VL,Assembly,aoptic16,24,3,"Take 1st sub-lens, fix screw the other side & turn jig",0.195
+DUO,VL,Assembly,aoptic16,24,4,"Fix 2sd side, close lens firmly",0.285
+DUO,VL,Assembly,aoptic16,24,5,Fix 1 screw for 2nd lens,0.135
+DUO,VL,Assembly,aoptic16,24,6,"Take 2nd sub-lens, fix screw the other side & turn jig",0.195
+DUO,VL,Assembly,aoptic16,24,7,"Fix 2sd side, close lens firmly",0.285
+DUO,VL,Assembly,aoptic16,24,8,Fix 2 side lens & put foam inside to protect,0.4712
+DUO,VL,Assembly,aoptic16,24,9,Put aside,0.163333333
+EL,B,Assembly,aoptic10,4,3,clip louver on housing,0.41
+EL,B,Assembly,aoptic10,8,3,clip louver on housing,0.82
+EL,B,Assembly,aoptic10,12,3,clip louver on housing,1.23
+EL,SLC,Assembly,aoptic10,4,3,clip louver on housing,0.41
+EL,SLC,Assembly,aoptic10,8,3,clip louver on housing,0.82
+EL,SLC,Assembly,aoptic10,12,3,clip louver on housing,1.23
+EL,SS,Assembly,aoptic10,4,3,clip louver on housing,0.41
+EL,SS,Assembly,aoptic10,8,3,clip louver on housing,0.82
+EL,SS,Assembly,aoptic10,12,3,clip louver on housing,1.23
+EL,SSD,Assembly,aoptic10,4,3,clip louver on housing,0.41
+EL,SSD,Assembly,aoptic10,8,3,clip louver on housing,0.82
+EL,SSD,Assembly,aoptic10,12,3,clip louver on housing,1.23
+EL,B,Preparation,aoptic10,4,1,unwrap louver,0.26
+EL,B,Preparation,aoptic10,4,2,assy brackets on baffle,2.8
+EL,B,Preparation,aoptic10,8,1,unwrap louver,0.52
+EL,B,Preparation,aoptic10,8,2,assy brackets on baffle,5.6
+EL,B,Preparation,aoptic10,12,1,unwrap louver,0.78
+EL,B,Preparation,aoptic10,12,2,assy brackets on baffle,8.4
+EL,SLC,Preparation,aoptic10,4,1,unwrap louver,0.26
+EL,SLC,Preparation,aoptic10,4,2,assy brackets on baffle,2.8
+EL,SLC,Preparation,aoptic10,8,1,unwrap louver,0.52
+EL,SLC,Preparation,aoptic10,8,2,assy brackets on baffle,5.6
+EL,SLC,Preparation,aoptic10,12,1,unwrap louver,0.78
+EL,SLC,Preparation,aoptic10,12,2,assy brackets on baffle,8.4
+EL,SS,Preparation,aoptic10,4,1,unwrap louver,0.26
+EL,SS,Preparation,aoptic10,4,2,assy brackets on baffle,2.8
+EL,SS,Preparation,aoptic10,8,1,unwrap louver,0.52
+EL,SS,Preparation,aoptic10,8,2,assy brackets on baffle,5.6
+EL,SS,Preparation,aoptic10,12,1,unwrap louver,0.78
+EL,SS,Preparation,aoptic10,12,2,assy brackets on baffle,8.4
+EL,SSD,Preparation,aoptic10,4,1,unwrap louver,0.26
+EL,SSD,Preparation,aoptic10,4,2,assy brackets on baffle,2.8
+EL,SSD,Preparation,aoptic10,8,1,unwrap louver,0.52
+EL,SSD,Preparation,aoptic10,8,2,assy brackets on baffle,5.6
+EL,SSD,Preparation,aoptic10,12,1,unwrap louver,0.78
+EL,SSD,Preparation,aoptic10,12,2,assy brackets on baffle,8.4
+ELLE,SS,Assembly,opticelle,4,3,clip louver on housing,0.41
+ELLE,SS,Assembly,opticelle,8,3,clip louver on housing,0.82
+ELLE,SS,Assembly,opticelle,12,3,clip louver on housing,1.23
+ELLE,SSD,Assembly,opticelle,4,3,clip louver on housing,0.41
+ELLE,SSD,Assembly,opticelle,8,3,clip louver on housing,0.82
+ELLE,SSD,Assembly,opticelle,12,3,clip louver on housing,1.23
+ELLE,SS,Preparation,opticelle,4,1,unwrap louver,0.26
+ELLE,SS,Preparation,opticelle,4,2,assy brackets on baffle,2.8
+ELLE,SS,Preparation,opticelle,8,1,unwrap louver,0.52
+ELLE,SS,Preparation,opticelle,8,2,assy brackets on baffle,5.6
+ELLE,SS,Preparation,opticelle,12,1,unwrap louver,0.78
+ELLE,SS,Preparation,opticelle,12,2,assy brackets on baffle,8.4
+ELLE,SSD,Preparation,opticelle,4,1,unwrap louver,0.26
+ELLE,SSD,Preparation,opticelle,4,2,assy brackets on baffle,2.8
+ELLE,SSD,Preparation,opticelle,8,1,unwrap louver,0.52
+ELLE,SSD,Preparation,opticelle,8,2,assy brackets on baffle,5.6
+ELLE,SSD,Preparation,opticelle,12,1,unwrap louver,0.78
+ELLE,SSD,Preparation,opticelle,12,2,assy brackets on baffle,8.4
+FLOW,B,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+FLOW,B,Assembly,aoptic19,4,3,Slide covers,0.22
+FLOW,B,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+FLOW,B,Assembly,aoptic19,8,3,Slide covers,0.33
+FLOW,B,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+FLOW,B,Assembly,aoptic19,12,3,Slide covers,0.44
+FLOW,P,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+FLOW,P,Assembly,aoptic19,4,3,Slide covers,0.22
+FLOW,P,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+FLOW,P,Assembly,aoptic19,8,3,Slide covers,0.33
+FLOW,P,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+FLOW,P,Assembly,aoptic19,12,3,Slide covers,0.44
+FLOW,PL,Assembly,aoptic20,4,2,Slide covers,0.34
+FLOW,PL,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+FLOW,PL,Assembly,aoptic20,8,2,Slide covers,0.56
+FLOW,PL,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+FLOW,PL,Assembly,aoptic20,12,2,Slide covers,0.78
+FLOW,PL,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+FLOW,S,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+FLOW,S,Assembly,aoptic19,8,3,Slide covers,0.33
+FLOW,S,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+FLOW,S,Assembly,aoptic19,12,3,Slide covers,0.44
+FLOW,SL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+FLOW,SL,Assembly,aoptic19,4,3,Slide covers,0.22
+FLOW,SL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+FLOW,SL,Assembly,aoptic19,8,3,Slide covers,0.33
+FLOW,SL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+FLOW,SL,Assembly,aoptic19,12,3,Slide covers,0.44
+FLOW,B,Preparation,aoptic19,4,1,Clean optic,0.1
+FLOW,B,Preparation,aoptic19,8,1,Clean optic,0.22
+FLOW,B,Preparation,aoptic19,12,1,Clean optic,0.36
+FLOW,P,Preparation,aoptic19,4,1,Clean optic,0.1
+FLOW,P,Preparation,aoptic19,8,1,Clean optic,0.22
+FLOW,P,Preparation,aoptic19,12,1,Clean optic,0.36
+FLOW,PL,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+FLOW,PL,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+FLOW,PL,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+FLOW,S,Preparation,aoptic19,8,1,Clean optic,0.22
+FLOW,S,Preparation,aoptic19,12,1,Clean optic,0.36
+FLOW,SL,Preparation,aoptic19,4,1,Clean optic,0.1
+FLOW,SL,Preparation,aoptic19,8,1,Clean optic,0.22
+FLOW,SL,Preparation,aoptic19,12,1,Clean optic,0.36
+L2,B,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+L2,B,Assembly,aoptic19,4,3,Slide covers,0.22
+L2,B,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+L2,B,Assembly,aoptic19,8,3,Slide covers,0.33
+L2,B,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+L2,B,Assembly,aoptic19,12,3,Slide covers,0.44
+L2,P,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+L2,P,Assembly,aoptic19,4,3,Slide covers,0.22
+L2,P,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+L2,P,Assembly,aoptic19,8,3,Slide covers,0.33
+L2,P,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+L2,P,Assembly,aoptic19,12,3,Slide covers,0.44
+L2,PL,Assembly,aoptic20,4,2,Slide covers,0.34
+L2,PL,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+L2,PL,Assembly,aoptic20,8,2,Slide covers,0.56
+L2,PL,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+L2,PL,Assembly,aoptic20,12,2,Slide covers,0.78
+L2,PL,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+L2,S,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+L2,S,Assembly,aoptic19,4,3,Slide covers,0.22
+L2,S,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+L2,S,Assembly,aoptic19,8,3,Slide covers,0.33
+L2,S,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+L2,S,Assembly,aoptic19,12,3,Slide covers,0.44
+L2,SB,Assembly,aoptic20,4,2,Slide covers,0.34
+L2,SB,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+L2,SB,Assembly,aoptic20,8,2,Slide covers,0.56
+L2,SB,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+L2,SB,Assembly,aoptic20,12,2,Slide covers,0.78
+L2,SB,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+L2,SE,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+L2,SE,Assembly,aoptic19,4,3,Slide covers,0.22
+L2,SE,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+L2,SE,Assembly,aoptic19,8,3,Slide covers,0.33
+L2,SE,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+L2,SE,Assembly,aoptic19,12,3,Slide covers,0.44
+L2,SL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+L2,SL,Assembly,aoptic19,4,3,Slide covers,0.22
+L2,SL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+L2,SL,Assembly,aoptic19,8,3,Slide covers,0.33
+L2,SL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+L2,SL,Assembly,aoptic19,12,3,Slide covers,0.44
+L2,B,Preparation,aoptic19,4,1,Clean optic,0.1
+L2,B,Preparation,aoptic19,8,1,Clean optic,0.22
+L2,B,Preparation,aoptic19,12,1,Clean optic,0.36
+L2,P,Preparation,aoptic19,4,1,Clean optic,0.1
+L2,P,Preparation,aoptic19,8,1,Clean optic,0.22
+L2,P,Preparation,aoptic19,12,1,Clean optic,0.36
+L2,PL,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+L2,PL,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+L2,PL,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+L2,S,Preparation,aoptic19,4,1,Clean optic,0.1
+L2,S,Preparation,aoptic19,8,1,Clean optic,0.22
+L2,S,Preparation,aoptic19,12,1,Clean optic,0.36
+L2,SB,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+L2,SB,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+L2,SB,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+L2,SE,Preparation,aoptic19,4,1,Clean optic,0.1
+L2,SE,Preparation,aoptic19,8,1,Clean optic,0.22
+L2,SE,Preparation,aoptic19,12,1,Clean optic,0.36
+L2,SL,Preparation,aoptic19,4,1,Clean optic,0.1
+L2,SL,Preparation,aoptic19,8,1,Clean optic,0.22
+L2,SL,Preparation,aoptic19,12,1,Clean optic,0.36
+LIGHT,B,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+LIGHT,B,Assembly,aoptic19,4,3,Slide covers,0.22
+LIGHT,B,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+LIGHT,B,Assembly,aoptic19,8,3,Slide covers,0.33
+LIGHT,B,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+LIGHT,B,Assembly,aoptic19,12,3,Slide covers,0.44
+LIGHT,P,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+LIGHT,P,Assembly,aoptic19,4,3,Slide covers,0.22
+LIGHT,P,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+LIGHT,P,Assembly,aoptic19,8,3,Slide covers,0.33
+LIGHT,P,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+LIGHT,P,Assembly,aoptic19,12,3,Slide covers,0.44
+LIGHT,PL,Assembly,aoptic20,4,2,Slide covers,0.34
+LIGHT,PL,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+LIGHT,PL,Assembly,aoptic20,8,2,Slide covers,0.56
+LIGHT,PL,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+LIGHT,PL,Assembly,aoptic20,12,2,Slide covers,0.78
+LIGHT,PL,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+LIGHT,S,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+LIGHT,S,Assembly,aoptic19,4,3,Slide covers,0.22
+LIGHT,S,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+LIGHT,S,Assembly,aoptic19,8,3,Slide covers,0.33
+LIGHT,S,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+LIGHT,S,Assembly,aoptic19,12,3,Slide covers,0.44
+LIGHT,SB,Assembly,aoptic20,4,2,Slide covers,0.34
+LIGHT,SB,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+LIGHT,SB,Assembly,aoptic20,8,2,Slide covers,0.56
+LIGHT,SB,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+LIGHT,SB,Assembly,aoptic20,12,2,Slide covers,0.78
+LIGHT,SB,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+LIGHT,SL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+LIGHT,SL,Assembly,aoptic19,4,3,Slide covers,0.22
+LIGHT,SL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+LIGHT,SL,Assembly,aoptic19,8,3,Slide covers,0.33
+LIGHT,SL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+LIGHT,SL,Assembly,aoptic19,12,3,Slide covers,0.44
+LIGHT,A,Assembly,optic30,4,1,clip angle flange,0.166666667
+LIGHT,A,Assembly,optic30,8,1,clip angle flange,0.333333333
+LIGHT,A,Assembly,optic30,12,1,clip angle flange,0.5
+LIGHT,B,Preparation,aoptic19,4,1,Clean optic,0.1
+LIGHT,B,Preparation,aoptic19,8,1,Clean optic,0.22
+LIGHT,B,Preparation,aoptic19,12,1,Clean optic,0.36
+LIGHT,P,Preparation,aoptic19,4,1,Clean optic,0.1
+LIGHT,P,Preparation,aoptic19,8,1,Clean optic,0.22
+LIGHT,P,Preparation,aoptic19,12,1,Clean optic,0.36
+LIGHT,PL,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+LIGHT,PL,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+LIGHT,PL,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+LIGHT,S,Preparation,aoptic19,4,1,Clean optic,0.1
+LIGHT,S,Preparation,aoptic19,8,1,Clean optic,0.22
+LIGHT,S,Preparation,aoptic19,12,1,Clean optic,0.36
+LIGHT,SB,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+LIGHT,SB,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+LIGHT,SB,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+LIGHT,SL,Preparation,aoptic19,4,1,Clean optic,0.1
+LIGHT,SL,Preparation,aoptic19,8,1,Clean optic,0.22
+LIGHT,SL,Preparation,aoptic19,12,1,Clean optic,0.36
+LT,B,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+LT,B,Assembly,aoptic19,4,3,Slide covers,0.22
+LT,B,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+LT,B,Assembly,aoptic19,8,3,Slide covers,0.33
+LT,B,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+LT,B,Assembly,aoptic19,12,3,Slide covers,0.44
+LT,P,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+LT,P,Assembly,aoptic19,4,3,Slide covers,0.22
+LT,P,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+LT,P,Assembly,aoptic19,8,3,Slide covers,0.33
+LT,P,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+LT,P,Assembly,aoptic19,12,3,Slide covers,0.44
+LT,PL,Assembly,aoptic20,4,2,Slide covers,0.34
+LT,PL,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+LT,PL,Assembly,aoptic20,8,2,Slide covers,0.56
+LT,PL,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+LT,PL,Assembly,aoptic20,12,2,Slide covers,0.78
+LT,PL,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+LT,S,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+LT,S,Assembly,aoptic19,4,3,Slide covers,0.22
+LT,S,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+LT,S,Assembly,aoptic19,8,3,Slide covers,0.33
+LT,S,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+LT,S,Assembly,aoptic19,12,3,Slide covers,0.44
+LT,SB,Assembly,aoptic20,4,2,Slide covers,0.34
+LT,SB,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+LT,SB,Assembly,aoptic20,8,2,Slide covers,0.56
+LT,SB,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+LT,SB,Assembly,aoptic20,12,2,Slide covers,0.78
+LT,SB,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+LT,SL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+LT,SL,Assembly,aoptic19,4,3,Slide covers,0.22
+LT,SL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+LT,SL,Assembly,aoptic19,8,3,Slide covers,0.33
+LT,SL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+LT,SL,Assembly,aoptic19,12,3,Slide covers,0.44
+LT,VL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+LT,VL,Assembly,aoptic19,4,3,Slide covers,0.22
+LT,VL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+LT,VL,Assembly,aoptic19,8,3,Slide covers,0.33
+LT,VL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+LT,VL,Assembly,aoptic19,12,3,Slide covers,0.44
+LT,B,Preparation,aoptic19,4,1,Clean optic,0.1
+LT,B,Preparation,aoptic19,8,1,Clean optic,0.22
+LT,B,Preparation,aoptic19,12,1,Clean optic,0.36
+LT,P,Preparation,aoptic19,4,1,Clean optic,0.1
+LT,P,Preparation,aoptic19,8,1,Clean optic,0.22
+LT,P,Preparation,aoptic19,12,1,Clean optic,0.36
+LT,PL,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+LT,PL,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+LT,PL,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+LT,S,Preparation,aoptic19,4,1,Clean optic,0.1
+LT,S,Preparation,aoptic19,8,1,Clean optic,0.22
+LT,S,Preparation,aoptic19,12,1,Clean optic,0.36
+LT,SB,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+LT,SB,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+LT,SB,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+LT,SL,Preparation,aoptic19,4,1,Clean optic,0.1
+LT,SL,Preparation,aoptic19,8,1,Clean optic,0.22
+LT,SL,Preparation,aoptic19,12,1,Clean optic,0.36
+LT,VL,Preparation,aoptic19,4,1,Clean optic,0.1
+LT,VL,Preparation,aoptic19,8,1,Clean optic,0.22
+LT,VL,Preparation,aoptic19,12,1,Clean optic,0.36
+MINI,C,Assembly,aoptic17,4,1,Place lens on extrusion & lock it with top bracket,0.44
+MINI,C,Assembly,aoptic17,8,1,Place lens on extrusion & lock it with top bracket,0.88
+MINI,C,Assembly,aoptic17,12,1,Place lens on extrusion & lock it with top bracket,1.32
+MINI,S,Assembly,aoptic17,4,1,Place lens on extrusion & lock it with top bracket,0.44
+MINI,S,Assembly,aoptic17,8,1,Place lens on extrusion & lock it with top bracket,0.88
+MINI,S,Assembly,aoptic17,12,1,Place lens on extrusion & lock it with top bracket,1.32
+MINLED,S,Assembly,aoptic17,4,1,Place lens on extrusion & lock it with top bracket,0.44
+MINLED,S,Assembly,aoptic17,8,1,Place lens on extrusion & lock it with top bracket,0.88
+MINLED,S,Assembly,aoptic17,12,1,Place lens on extrusion & lock it with top bracket,1.32
+PERFKT,SL,Assembly,aoptic31,4,1,clean guide light,0.16
+PERFKT,SL,Assembly,aoptic31,4,2,place on housing,0.3
+PERFKT,SL,Assembly,aoptic31,4,3,place & clip 2 plastic boards retainer,0.59
+PERFKT,SL,Assembly,aoptic31,4,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.46
+PERFKT,SL,Assembly,aoptic31,8,1,clean guide light,0.32
+PERFKT,SL,Assembly,aoptic31,8,2,place on housing,0.6
+PERFKT,SL,Assembly,aoptic31,8,3,place & clip 2 plastic boards retainer,1.18
+PERFKT,SL,Assembly,aoptic31,8,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.92
+PERFKT,SL,Assembly,aoptic31,12,1,clean guide light,0.48
+PERFKT,SL,Assembly,aoptic31,12,2,place on housing,0.9
+PERFKT,SL,Assembly,aoptic31,12,3,place & clip 2 plastic boards retainer,1.77
+PERFKT,SL,Assembly,aoptic31,12,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",1.38
+PERFKT,L,Assembly,aoptic40,4,, place black multigroove extrusion & screw ,0.8
+PERFKT,L,Assembly,aoptic40,8,,place black multigroove extrusion & screw,0.9
+PERFKT,L,Assembly,aoptic40,12,,place black multigroove extrusion & screw,1
+PLANO,S,Assembly,aoptic14,11,1,Bring product to work station,0.186666667
+PLANO,S,Assembly,aoptic14,11,2,Fix 1 screw,0.135
+PLANO,S,Assembly,aoptic14,11,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLANO,S,Assembly,aoptic14,11,4,"Fix 2sd side, close lens firmly",0.285
+PLANO,S,Assembly,aoptic14,11,5,Clean 2 side lens with air,0.0984
+PLANO,S,Assembly,aoptic14,11,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLANO,S,Assembly,aoptic14,11,7,Put aside,0.163333333
+PLANO,S,Assembly,aoptic14,12,1,Bring product to work station,0.186666667
+PLANO,S,Assembly,aoptic14,12,2,Fix 1 screw,0.135
+PLANO,S,Assembly,aoptic14,12,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLANO,S,Assembly,aoptic14,12,4,"Fix 2sd side, close lens firmly",0.285
+PLANO,S,Assembly,aoptic14,12,5,Clean 2 side lens with air,0.0984
+PLANO,S,Assembly,aoptic14,12,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLANO,S,Assembly,aoptic14,12,7,Put aside,0.163333333
+PLANO,S,Assembly,aoptic14,14,1,Bring product to work station,0.186666667
+PLANO,S,Assembly,aoptic14,14,2,Fix 1 screw,0.135
+PLANO,S,Assembly,aoptic14,14,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLANO,S,Assembly,aoptic14,14,4,"Fix 2sd side, close lens firmly",0.285
+PLANO,S,Assembly,aoptic14,14,5,Clean 2 side lens with air,0.0984
+PLANO,S,Assembly,aoptic14,14,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLANO,S,Assembly,aoptic14,14,7,Put aside,0.163333333
+PLANO,S,Assembly,aoptic14,22,1,Bring product to work station,0.186666667
+PLANO,S,Assembly,aoptic14,22,2,Fix 1 screw,0.135
+PLANO,S,Assembly,aoptic14,22,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLANO,S,Assembly,aoptic14,22,4,"Fix 2sd side, close lens firmly",0.285
+PLANO,S,Assembly,aoptic14,22,5,Clean 2 side lens with air,0.0984
+PLANO,S,Assembly,aoptic14,22,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLANO,S,Assembly,aoptic14,22,7,Put aside,0.163333333
+PLANO,S,Assembly,aoptic14,24,1,Bring product to work station,0.186666667
+PLANO,S,Assembly,aoptic14,24,2,Fix 1 screw,0.135
+PLANO,S,Assembly,aoptic14,24,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLANO,S,Assembly,aoptic14,24,4,"Fix 2sd side, close lens firmly",0.285
+PLANO,S,Assembly,aoptic14,24,5,Clean 2 side lens with air,0.0984
+PLANO,S,Assembly,aoptic14,24,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLANO,S,Assembly,aoptic14,24,7,Put aside,0.163333333
+PLANO,VL,Assembly,aoptic14,11,1,Bring product to work station,0.186666667
+PLANO,VL,Assembly,aoptic14,11,2,Fix 1 screw,0.135
+PLANO,VL,Assembly,aoptic14,11,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLANO,VL,Assembly,aoptic14,11,4,"Fix 2sd side, close lens firmly",0.285
+PLANO,VL,Assembly,aoptic14,11,5,Clean 2 side lens with air,0.0984
+PLANO,VL,Assembly,aoptic14,11,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLANO,VL,Assembly,aoptic14,11,7,Put aside,0.163333333
+PLANO,VL,Assembly,aoptic14,12,1,Bring product to work station,0.186666667
+PLANO,VL,Assembly,aoptic14,12,2,Fix 1 screw,0.135
+PLANO,VL,Assembly,aoptic14,12,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLANO,VL,Assembly,aoptic14,12,4,"Fix 2sd side, close lens firmly",0.285
+PLANO,VL,Assembly,aoptic14,12,5,Clean 2 side lens with air,0.0984
+PLANO,VL,Assembly,aoptic14,12,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLANO,VL,Assembly,aoptic14,12,7,Put aside,0.163333333
+PLANO,VL,Assembly,aoptic14,14,1,Bring product to work station,0.186666667
+PLANO,VL,Assembly,aoptic14,14,2,Fix 1 screw,0.135
+PLANO,VL,Assembly,aoptic14,14,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLANO,VL,Assembly,aoptic14,14,4,"Fix 2sd side, close lens firmly",0.285
+PLANO,VL,Assembly,aoptic14,14,5,Clean 2 side lens with air,0.0984
+PLANO,VL,Assembly,aoptic14,14,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLANO,VL,Assembly,aoptic14,14,7,Put aside,0.163333333
+PLANO,VL,Assembly,aoptic14,22,1,Bring product to work station,0.186666667
+PLANO,VL,Assembly,aoptic14,22,2,Fix 1 screw,0.135
+PLANO,VL,Assembly,aoptic14,22,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLANO,VL,Assembly,aoptic14,22,4,"Fix 2sd side, close lens firmly",0.285
+PLANO,VL,Assembly,aoptic14,22,5,Clean 2 side lens with air,0.0984
+PLANO,VL,Assembly,aoptic14,22,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLANO,VL,Assembly,aoptic14,22,7,Put aside,0.163333333
+PLANO,VL,Assembly,aoptic14,24,1,Bring product to work station,0.186666667
+PLANO,VL,Assembly,aoptic14,24,2,Fix 1 screw,0.135
+PLANO,VL,Assembly,aoptic14,24,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLANO,VL,Assembly,aoptic14,24,4,"Fix 2sd side, close lens firmly",0.285
+PLANO,VL,Assembly,aoptic14,24,5,Clean 2 side lens with air,0.0984
+PLANO,VL,Assembly,aoptic14,24,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLANO,VL,Assembly,aoptic14,24,7,Put aside,0.163333333
+PLNLED,VL,Assembly,aoptic14,11,1,Bring product to work station,0.186666667
+PLNLED,VL,Assembly,aoptic14,11,2,Fix 1 screw,0.135
+PLNLED,VL,Assembly,aoptic14,11,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLNLED,VL,Assembly,aoptic14,11,4,"Fix 2sd side, close lens firmly",0.285
+PLNLED,VL,Assembly,aoptic14,11,5,Clean 2 side lens with air,0.0984
+PLNLED,VL,Assembly,aoptic14,11,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLNLED,VL,Assembly,aoptic14,11,7,Put aside,0.163333333
+PLNLED,VL,Assembly,aoptic14,12,1,Bring product to work station,0.186666667
+PLNLED,VL,Assembly,aoptic14,12,2,Fix 1 screw,0.135
+PLNLED,VL,Assembly,aoptic14,12,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLNLED,VL,Assembly,aoptic14,12,4,"Fix 2sd side, close lens firmly",0.285
+PLNLED,VL,Assembly,aoptic14,12,5,Clean 2 side lens with air,0.0984
+PLNLED,VL,Assembly,aoptic14,12,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLNLED,VL,Assembly,aoptic14,12,7,Put aside,0.163333333
+PLNLED,VL,Assembly,aoptic14,14,1,Bring product to work station,0.186666667
+PLNLED,VL,Assembly,aoptic14,14,2,Fix 1 screw,0.135
+PLNLED,VL,Assembly,aoptic14,14,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLNLED,VL,Assembly,aoptic14,14,4,"Fix 2sd side, close lens firmly",0.285
+PLNLED,VL,Assembly,aoptic14,14,5,Clean 2 side lens with air,0.0984
+PLNLED,VL,Assembly,aoptic14,14,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLNLED,VL,Assembly,aoptic14,14,7,Put aside,0.163333333
+PLNLED,VL,Assembly,aoptic14,22,1,Bring product to work station,0.186666667
+PLNLED,VL,Assembly,aoptic14,22,2,Fix 1 screw,0.135
+PLNLED,VL,Assembly,aoptic14,22,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLNLED,VL,Assembly,aoptic14,22,4,"Fix 2sd side, close lens firmly",0.285
+PLNLED,VL,Assembly,aoptic14,22,5,Clean 2 side lens with air,0.0984
+PLNLED,VL,Assembly,aoptic14,22,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLNLED,VL,Assembly,aoptic14,22,7,Put aside,0.163333333
+PLNLED,VL,Assembly,aoptic14,24,1,Bring product to work station,0.186666667
+PLNLED,VL,Assembly,aoptic14,24,2,Fix 1 screw,0.135
+PLNLED,VL,Assembly,aoptic14,24,3,"Take sub lens, fix screw the other side & turn jig",0.195
+PLNLED,VL,Assembly,aoptic14,24,4,"Fix 2sd side, close lens firmly",0.285
+PLNLED,VL,Assembly,aoptic14,24,5,Clean 2 side lens with air,0.0984
+PLNLED,VL,Assembly,aoptic14,24,6,Fix 2 side lens & put foam inside to protect,0.4712
+PLNLED,VL,Assembly,aoptic14,24,7,Put aside,0.163333333
+PRIME,S,Assembly,aoptic18,4,1,Clip lens+ QC,0.49
+PRIME,S,Assembly,aoptic18,8,1,Clip lens+ QC,0.98
+PRIME,S,Assembly,aoptic18,12,1,Clip lens+ QC,1.47
+PRMLED,S,Assembly,aoptic18,4,1,Clip lens+ QC,0.49
+PRMLED,S,Assembly,aoptic18,8,1,Clip lens+ QC,0.98
+PRMLED,S,Assembly,aoptic18,12,1,Clip lens+ QC,1.47
+RAY3,VL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+RAY3,VL,Assembly,aoptic19,4,3,Slide covers,0.22
+RAY3,VL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+RAY3,VL,Assembly,aoptic19,8,3,Slide covers,0.33
+RAY3,VL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+RAY3,VL,Assembly,aoptic19,12,3,Slide covers,0.44
+RAY3,VL,Preparation,aoptic19,4,1,Clean optic,0.1
+RAY3,VL,Preparation,aoptic19,8,1,Clean optic,0.22
+RAY3,VL,Preparation,aoptic19,12,1,Clean optic,0.36
+RAY4,VL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+RAY4,VL,Assembly,aoptic19,4,3,Slide covers,0.22
+RAY4,VL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+RAY4,VL,Assembly,aoptic19,8,3,Slide covers,0.33
+RAY4,VL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+RAY4,VL,Assembly,aoptic19,12,3,Slide covers,0.44
+RAY4,VL,Preparation,aoptic19,4,1,Clean optic,0.1
+RAY4,VL,Preparation,aoptic19,8,1,Clean optic,0.22
+RAY4,VL,Preparation,aoptic19,12,1,Clean optic,0.36
+RAY6,VL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+RAY6,VL,Assembly,aoptic19,4,3,Slide covers,0.22
+RAY6,VL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+RAY6,VL,Assembly,aoptic19,8,3,Slide covers,0.33
+RAY6,VL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+RAY6,VL,Assembly,aoptic19,12,3,Slide covers,0.44
+RAY6,VL,Preparation,aoptic19,4,1,Clean optic,0.1
+RAY6,VL,Preparation,aoptic19,8,1,Clean optic,0.22
+RAY6,VL,Preparation,aoptic19,12,1,Clean optic,0.36
+RAY8,VL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+RAY8,VL,Assembly,aoptic19,4,3,Slide covers,0.22
+RAY8,VL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+RAY8,VL,Assembly,aoptic19,8,3,Slide covers,0.33
+RAY8,VL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+RAY8,VL,Assembly,aoptic19,12,3,Slide covers,0.44
+RAY8,VL,Preparation,aoptic19,4,1,Clean optic,0.1
+RAY8,VL,Preparation,aoptic19,8,1,Clean optic,0.22
+RAY8,VL,Preparation,aoptic19,12,1,Clean optic,0.36
+SCULPT,0.5M,Assembly,aoptic32,4,2,clip lens on housing,0.4425
+SCULPT,0.5M,Assembly,aoptic32,8,2,clip lens on housing,0.556666667
+SCULPT,0.5M,Assembly,aoptic32,12,2,clip lens on housing,0.906
+SCULPT,0.5M,Preparation,aoptic32,4,1,clean lens with air,0.16
+SCULPT,0.5M,Preparation,aoptic32,8,1,clean lens with air,0.26
+SCULPT,0.5M,Preparation,aoptic32,12,1,clean lens with air,0.36
+SCULPT,0.5P,Assembly,aoptic32,4,2,clip lens on housing,0.4425
+SCULPT,0.5P,Assembly,aoptic32,8,2,clip lens on housing,0.556666667
+SCULPT,0.5P,Assembly,aoptic32,12,2,clip lens on housing,0.906
+SCULPT,0.5P,Preparation,aoptic32,4,1,clean lens with air,0.16
+SCULPT,0.5P,Preparation,aoptic32,8,1,clean lens with air,0.26
+SCULPT,0.5P,Preparation,aoptic32,12,1,clean lens with air,0.36
+SCULPT,2M,Assembly,aoptic32,4,2,clip lens on housing,0.4425
+SCULPT,2M,Assembly,aoptic32,8,2,clip lens on housing,0.556666667
+SCULPT,2M,Assembly,aoptic32,12,2,clip lens on housing,0.906
+SCULPT,2M,Preparation,aoptic32,4,1,clean lens with air,0.16
+SCULPT,2M,Preparation,aoptic32,8,1,clean lens with air,0.26
+SCULPT,2M,Preparation,aoptic32,12,1,clean lens with air,0.36
+SCULPT,2P,Assembly,aoptic32,4,2,clip lens on housing,0.4425
+SCULPT,2P,Assembly,aoptic32,8,2,clip lens on housing,0.556666667
+SCULPT,2P,Assembly,aoptic32,12,2,clip lens on housing,0.906
+SCULPT,2P,Preparation,aoptic32,4,1,clean lens with air,0.16
+SCULPT,2P,Preparation,aoptic32,8,1,clean lens with air,0.26
+SCULPT,2P,Preparation,aoptic32,12,1,clean lens with air,0.36
+SCULPT,FL,Assembly,aoptic32,4,2,clip lens on housing,0.4425
+SCULPT,FL,Assembly,aoptic32,8,2,clip lens on housing,0.556666667
+SCULPT,FL,Assembly,aoptic32,12,2,clip lens on housing,0.906
+SCULPT,FL,Preparation,aoptic32,4,1,clean lens with air,0.16
+SCULPT,FL,Preparation,aoptic32,8,1,clean lens with air,0.26
+SCULPT,FL,Preparation,aoptic32,12,1,clean lens with air,0.36
+SCULPT,SO,Assembly,aoptic32,4,2,clip lens on housing,0.4425
+SCULPT,SO,Assembly,aoptic32,8,2,clip lens on housing,0.556666667
+SCULPT,SO,Assembly,aoptic32,12,2,clip lens on housing,0.906
+SCULPT,SO,Preparation,aoptic32,4,1,clean lens with air,0.16
+SCULPT,SO,Preparation,aoptic32,8,1,clean lens with air,0.26
+SCULPT,SO,Preparation,aoptic32,12,1,clean lens with air,0.36
+SKETCH,SO,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+SKETCH,SO,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+SKETCH,SO,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+SKETCH,SO,Preparation,aoptic1,4,1,Clean lens,0.16
+SKETCH,SO,Preparation,aoptic1,8,1,Clean lens,0.26
+SKETCH,SO,Preparation,aoptic1,12,1,Clean lens,0.36
+SKETCH,SO,Assembly,aoptic1,10003,2,Assy lens on housing,0.4425
+SKETCH,SO,Assembly,aoptic1,10005,2,Assy lens on housing,0.556666667
+SKETCH,SO,Assembly,aoptic1,10008,2,Assy lens on housing,0.906
+SKETCH,SO,Preparation,aoptic1,10003,1,Clean lens,0.16
+SKETCH,SO,Preparation,aoptic1,10005,1,Clean lens,0.26
+SKETCH,SO,Preparation,aoptic1,10008,1,Clean lens,0.36
+SKETCH,SO,Assembly,aoptic1,10013,2,Assy lens on housing,0.4425
+SKETCH,SO,Assembly,aoptic1,10018,2,Assy lens on housing,0.556666667
+SKETCH,SO,Assembly,aoptic1,10023,2,Assy lens on housing,0.906
+SKETCH,SO,Preparation,aoptic1,10013,1,Clean lens,0.16
+SKETCH,SO,Preparation,aoptic1,10018,1,Clean lens,0.26
+SKETCH,SO,Preparation,aoptic1,10023,1,Clean lens,0.36
+SKYEFALL,FL,Assembly,aoptic38,22,1,clean lens with air,0.3
+SKYEFALL,1SF,Assembly,aoptic38,22,1,clean lens with air,0.3
+SKYEFALL,2SF,Assembly,aoptic38,22,1,clean lens with air,0.3
+SKYEFALL,3SF,Assembly,aoptic38,22,1,clean lens with air,0.3
+SKYEFALL,4SF,Assembly,aoptic38,22,1,clean lens with air,0.3
+SKYEFALL,5SF,Assembly,aoptic38,22,1,clean lens with air,0.3
+SKYEFALL,6SF,Assembly,aoptic38,22,1,clean lens with air,0.3
+SKYEFALL,7SF,Assembly,aoptic38,22,1,clean lens with air,0.3
+SKYEFALL,FL,Assembly,aoptic38,22,2,"place lens on housing, bring to next station",0.5
+SKYEFALL,1SF,Assembly,aoptic38,22,2,"place lens on housing, bring to next station",0.5
+SKYEFALL,2SF,Assembly,aoptic38,22,2,"place lens on housing, bring to next station",0.5
+SKYEFALL,3SF,Assembly,aoptic38,22,2,"place lens on housing, bring to next station",0.5
+SKYEFALL,4SF,Assembly,aoptic38,22,2,"place lens on housing, bring to next station",0.5
+SKYEFALL,5SF,Assembly,aoptic38,22,2,"place lens on housing, bring to next station",0.5
+SKYEFALL,6SF,Assembly,aoptic38,22,2,"place lens on housing, bring to next station",0.5
+SKYEFALL,7SF,Assembly,aoptic38,22,2,"place lens on housing, bring to next station",0.5
+SKYSKP,FL,Assembly,aoptic34,44,1,"bring lens, remove plastic protector 1 side",0.68
+SKYSKP,FL,Assembly,aoptic35,44,1,clean lens with air,0.5
+SKYSKP,FL,Assembly,aoptic36,44,1,remove plastic on 2nd side only on corner,1.35
+SKYSKP,FL,Assembly,aoptic37,44,1,take overlay & clean with air,0.95
+SKYSKP,FL,Assembly,aoptic38,44,1,remove plastic protector both side ,1.35
+SKYSKP,FL,Assembly,aoptic39,44,1,sub-ass safety cable on nuts (4X),1.6
+SKYSKP,FL,Assembly,aoptic40,44,1,install 4 nuts on lens,1.82
+SKYSKP,FL,Assembly,aoptic41,44,1,pass knob thru lens with retaining washer(4x),1.26
+SKYSKP,FL,Assembly,aoptic42,44,1,clean lens with air,0.64
+SKYSKP,FL,Assembly,aoptic43,44,1,clean inside housing ,1.3
+SKYSKP,FL,Assembly,aoptic44,44,1,put lens on housing & screw knob,2.4
+SKYSKP,FL,Assembly,aoptic45,44,1,place plastic protector,1.4
+SKYVW,2XVL,Assembly,aoptic35,14,1, place sub-assy lens on housing ,0.25
+SKYVW,2XVL,Assembly,aoptic35,22,1, place sub-assy lens on housing ,0.25
+SLIM,VL,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SLIM,VL,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SLIM,VL,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SOLEIL,VL,Assembly,aoptic22,4,1,fix cap spacer (between brkts)with 2 screws (down side),0
+SOLEIL,VL,Assembly,aoptic22,4,2,fix basket + ajust,1.74
+SOLEIL,VL,Assembly,aoptic22,8,1,fix cap spacer (between brkts)with 2 screws (down side),0.6
+SOLEIL,VL,Assembly,aoptic22,8,2,fix basket + ajust,3.48
+SOLEIL,VL,Assembly,aoptic22,12,1,fix cap spacer (between brkts)with 2 screws (down side),1.2
+SOLEIL,VL,Assembly,aoptic22,12,2,fix basket + ajust,5.22
+Stencil,SO,Assembly,aoptic5,4,1,clip blank cover,0.3
+Stencil,SO,Assembly,aoptic5,8,1,clip blank cover,0.45
+Stencil,ML,Assembly,aoptic5,4,1,clip blank cover,0.3
+Stencil,ML,Assembly,aoptic5,8,1,clip blank cover,0.45
+SUSHI,B,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+SUSHI,B,Assembly,aoptic19,4,3,Slide covers,0.22
+SUSHI,B,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+SUSHI,B,Assembly,aoptic19,8,3,Slide covers,0.33
+SUSHI,B,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+SUSHI,B,Assembly,aoptic19,12,3,Slide covers,0.44
+SUSHI,P,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+SUSHI,P,Assembly,aoptic19,4,3,Slide covers,0.22
+SUSHI,P,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+SUSHI,P,Assembly,aoptic19,8,3,Slide covers,0.33
+SUSHI,P,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+SUSHI,P,Assembly,aoptic19,12,3,Slide covers,0.44
+SUSHI,PL,Assembly,aoptic20,4,2,Slide covers,0.34
+SUSHI,PL,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+SUSHI,PL,Assembly,aoptic20,8,2,Slide covers,0.56
+SUSHI,PL,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+SUSHI,PL,Assembly,aoptic20,12,2,Slide covers,0.78
+SUSHI,PL,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+SUSHI,S,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+SUSHI,S,Assembly,aoptic19,4,3,Slide covers,0.22
+SUSHI,S,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+SUSHI,S,Assembly,aoptic19,8,3,Slide covers,0.33
+SUSHI,S,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+SUSHI,S,Assembly,aoptic19,12,3,Slide covers,0.44
+SUSHI,SB,Assembly,aoptic20,4,2,Slide covers,0.34
+SUSHI,SB,Assembly,aoptic20,4,3,Widen & clip baffle/loover in product,0.9
+SUSHI,SB,Assembly,aoptic20,8,2,Slide covers,0.56
+SUSHI,SB,Assembly,aoptic20,8,3,Widen & clip baffle/loover in product,1.8
+SUSHI,SB,Assembly,aoptic20,12,2,Slide covers,0.78
+SUSHI,SB,Assembly,aoptic20,12,3,Widen & clip baffle/loover in product,2.7
+SUSHI,SL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+SUSHI,SL,Assembly,aoptic19,4,3,Slide covers,0.22
+SUSHI,SL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+SUSHI,SL,Assembly,aoptic19,8,3,Slide covers,0.33
+SUSHI,SL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+SUSHI,SL,Assembly,aoptic19,12,3,Slide covers,0.44
+SUSHI,A,Assembly,optic30,4,1,clip angle flange,0.166666667
+SUSHI,A,Assembly,optic30,8,1,clip angle flange,0.333333333
+SUSHI,A,Assembly,optic30,12,1,clip angle flange,0.5
+SUSHI,B,Preparation,aoptic19,4,1,Clean optic,0.1
+SUSHI,B,Preparation,aoptic19,8,1,Clean optic,0.22
+SUSHI,B,Preparation,aoptic19,12,1,Clean optic,0.36
+SUSHI,P,Preparation,aoptic19,4,1,Clean optic,0.1
+SUSHI,P,Preparation,aoptic19,8,1,Clean optic,0.22
+SUSHI,P,Preparation,aoptic19,12,1,Clean optic,0.36
+SUSHI,PL,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+SUSHI,PL,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+SUSHI,PL,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+SUSHI,S,Preparation,aoptic19,4,1,Clean optic,0.1
+SUSHI,S,Preparation,aoptic19,8,1,Clean optic,0.22
+SUSHI,S,Preparation,aoptic19,12,1,Clean optic,0.36
+SUSHI,SB,Preparation,aoptic20,4,1,Unwrap loover/baffle,0.26
+SUSHI,SB,Preparation,aoptic20,8,1,Unwrap loover/baffle,0.52
+SUSHI,SB,Preparation,aoptic20,12,1,Unwrap loover/baffle,0.78
+SUSHI,SL,Preparation,aoptic19,4,1,Clean optic,0.1
+SUSHI,SL,Preparation,aoptic19,8,1,Clean optic,0.22
+SUSHI,SL,Preparation,aoptic19,12,1,Clean optic,0.36
+TB2LED,C,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+TB2LED,C,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+TB2LED,C,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+TB2LED,C,Preparation,aoptic1,4,1,Clean lens,0.16
+TB2LED,C,Preparation,aoptic1,8,1,Clean lens,0.26
+TB2LED,C,Preparation,aoptic1,12,1,Clean lens,0.36
+TB2LED,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+TB2LED,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+TB2LED,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+TB2LED,S,Preparation,aoptic1,4,1,Clean lens,0.16
+TB2LED,S,Preparation,aoptic1,8,1,Clean lens,0.26
+TB2LED,S,Preparation,aoptic1,12,1,Clean lens,0.36
+TB2LED,SO,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+TB2LED,SO,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+TB2LED,SO,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+TB2LED,SO,Preparation,aoptic1,4,1,Clean lens,0.16
+TB2LED,SO,Preparation,aoptic1,8,1,Clean lens,0.26
+TB2LED,SO,Preparation,aoptic1,12,1,Clean lens,0.36
+TB2LED,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+TB2LED,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+TB2LED,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+TB2LED,F,Preparation,aoptic1,4,1,Clean lens,0.16
+TB2LED,F,Preparation,aoptic1,8,1,Clean lens,0.26
+TB2LED,F,Preparation,aoptic1,12,1,Clean lens,0.36
+TB2LED,PL,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+TB2LED,PL,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+TB2LED,PL,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+TB2LED,PL,Preparation,aoptic1,4,1,Clean lens,0.16
+TB2LED,PL,Preparation,aoptic1,8,1,Clean lens,0.26
+TB2LED,PL,Preparation,aoptic1,12,1,Clean lens,0.36
+TB2LED,SL,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+TB2LED,SL,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+TB2LED,SL,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+TB2LED,SL,Preparation,aoptic1,4,1,Clean lens,0.16
+TB2LED,SL,Preparation,aoptic1,8,1,Clean lens,0.26
+TB2LED,SL,Preparation,aoptic1,12,1,Clean lens,0.36
+TBEAM2,B,Assembly,aoptic5,4,1,Clip blank cover,0.3
+TBEAM2,B,Assembly,aoptic5,8,1,Clip blank cover,0.45
+TBEAM2,B,Assembly,aoptic5,12,1,Clip blank cover,0.6
+TBEAM2,F,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+TBEAM2,F,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+TBEAM2,F,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+TBEAM2,PL,Assembly,aoptic3,4,2,Clip louver on housing,0.41
+TBEAM2,PL,Assembly,aoptic3,8,2,Clip louver on housing,0.82
+TBEAM2,PL,Assembly,aoptic3,12,2,Clip louver on housing,1.23
+TBEAM2,S,Assembly,aoptic1,4,2,Assy lens on housing,0.4425
+TBEAM2,S,Assembly,aoptic1,8,2,Assy lens on housing,0.556666667
+TBEAM2,S,Assembly,aoptic1,12,2,Assy lens on housing,0.906
+TBEAM2,F,Preparation,aoptic1,4,1,Clean lens,0.16
+TBEAM2,F,Preparation,aoptic1,8,1,Clean lens,0.26
+TBEAM2,F,Preparation,aoptic1,12,1,Clean lens,0.36
+TBEAM2,PL,Preparation,aoptic3,4,1,Unwrap louver,0.26
+TBEAM2,PL,Preparation,aoptic3,8,1,Unwrap louver,0.52
+TBEAM2,PL,Preparation,aoptic3,12,1,Unwrap louver,0.78
+TBEAM2,S,Preparation,aoptic1,4,1,Clean lens,0.16
+TBEAM2,S,Preparation,aoptic1,8,1,Clean lens,0.26
+TBEAM2,S,Preparation,aoptic1,12,1,Clean lens,0.36
+TEK,VL,Assembly,aoptic18,4,1,clip lens+ QC,0.49
+TEK,VL,Assembly,aoptic19,8,1,clip lens+ QC,0.88
+TEK,VL,Assembly,aoptic20,12,1,clip lens+ QC,1.47
+TEK,S,Assembly,aoptic18,4,1,clip lens+ QC,0.49
+TEK,S,Assembly,aoptic19,8,1,clip lens+ QC,0.88
+TEK,S,Assembly,aoptic20,12,1,clip lens+ QC,1.47
+TEKLED,VL,Assembly,aoptic18,4,1,clip lens+ QC,0.49
+TEKLED,VL,Assembly,aoptic19,8,1,clip lens+ QC,0.88
+TEKLED,VL,Assembly,aoptic20,12,1,clip lens+ QC,1.47
+TEKLED,S,Assembly,aoptic18,4,1,clip lens+ QC,0.49
+TEKLED,S,Assembly,aoptic19,8,1,clip lens+ QC,0.88
+TEKLED,S,Assembly,aoptic20,12,1,clip lens+ QC,1.47
+TEKLED,SO,Assembly,aoptic18,4,1,clip lens+ QC,0.49
+TEKLED,SO,Assembly,aoptic19,8,1,clip lens+ QC,0.88
+TEKLED,SO,Assembly,aoptic20,12,1,clip lens+ QC,1.47
+TWIG,S,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+TWIG,S,Assembly,aoptic19,4,3,Slide covers,0.22
+TWIG,S,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+TWIG,S,Assembly,aoptic19,8,3,Slide covers,0.33
+TWIG,S,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+TWIG,S,Assembly,aoptic19,12,3,Slide covers,0.44
+TWIG,VL,Assembly,aoptic19,4,2,Slide optic in extrusion,0.31
+TWIG,VL,Assembly,aoptic19,4,3,Slide covers,0.22
+TWIG,VL,Assembly,aoptic19,8,2,Slide optic in extrusion,0.52
+TWIG,VL,Assembly,aoptic19,8,3,Slide covers,0.33
+TWIG,VL,Assembly,aoptic19,12,2,Slide optic in extrusion,0.78
+TWIG,VL,Assembly,aoptic19,12,3,Slide covers,0.44
+TWIG,A,Assembly,optic30,4,1,clip angle flange,0.166666667
+TWIG,A,Assembly,optic30,8,1,clip angle flange,0.333333333
+TWIG,A,Assembly,optic30,12,1,clip angle flange,0.5
+TWIG,S,Preparation,aoptic19,4,1,Clean optic,0.1
+TWIG,S,Preparation,aoptic19,8,1,Clean optic,0.22
+TWIG,S,Preparation,aoptic19,12,1,Clean optic,0.36
+TWIG,VL,Preparation,aoptic19,4,1,Clean optic,0.1
+TWIG,VL,Preparation,aoptic19,8,1,Clean optic,0.22
+TWIG,VL,Preparation,aoptic19,12,1,Clean optic,0.36
+WAVE,VL,Assembly,aoptic14,11,1,Bring product to work station,0.186666667
+WAVE,VL,Assembly,aoptic14,11,2,Fix 1 screw,0.135
+WAVE,VL,Assembly,aoptic14,11,3,"Take sub lens, fix screw the other side & turn jig",0.195
+WAVE,VL,Assembly,aoptic14,11,4,"Fix 2sd side, close lens firmly",0.285
+WAVE,VL,Assembly,aoptic14,11,5,Clean 2 side lens with air,0.0984
+WAVE,VL,Assembly,aoptic14,11,6,Fix 2 side lens & put foam inside to protect,0.4712
+WAVE,VL,Assembly,aoptic14,11,7,Put aside,0.163333333
+WAVE,VL,Assembly,aoptic14,12,1,Bring product to work station,0.186666667
+WAVE,VL,Assembly,aoptic14,12,2,Fix 1 screw,0.135
+WAVE,VL,Assembly,aoptic14,12,3,"Take sub lens, fix screw the other side & turn jig",0.195
+WAVE,VL,Assembly,aoptic14,12,4,"Fix 2sd side, close lens firmly",0.285
+WAVE,VL,Assembly,aoptic14,12,5,Clean 2 side lens with air,0.0984
+WAVE,VL,Assembly,aoptic14,12,6,Fix 2 side lens & put foam inside to protect,0.4712
+WAVE,VL,Assembly,aoptic14,12,7,Put aside,0.163333333
+WAVE,VL,Assembly,aoptic14,14,1,Bring product to work station,0.186666667
+WAVE,VL,Assembly,aoptic14,14,2,Fix 1 screw,0.135
+WAVE,VL,Assembly,aoptic14,14,3,"Take sub lens, fix screw the other side & turn jig",0.195
+WAVE,VL,Assembly,aoptic14,14,4,"Fix 2sd side, close lens firmly",0.285
+WAVE,VL,Assembly,aoptic14,14,5,Clean 2 side lens with air,0.0984
+WAVE,VL,Assembly,aoptic14,14,6,Fix 2 side lens & put foam inside to protect,0.4712
+WAVE,VL,Assembly,aoptic14,14,7,Put aside,0.163333333
+WAVE,VL,Assembly,aoptic14,22,1,Bring product to work station,0.186666667
+WAVE,VL,Assembly,aoptic14,22,2,Fix 1 screw,0.135
+WAVE,VL,Assembly,aoptic14,22,3,"Take sub lens, fix screw the other side & turn jig",0.195
+WAVE,VL,Assembly,aoptic14,22,4,"Fix 2sd side, close lens firmly",0.285
+WAVE,VL,Assembly,aoptic14,22,5,Clean 2 side lens with air,0.0984
+WAVE,VL,Assembly,aoptic14,22,6,Fix 2 side lens & put foam inside to protect,0.4712
+WAVE,VL,Assembly,aoptic14,22,7,Put aside,0.163333333
+WAVE,VL,Assembly,aoptic14,24,1,Bring product to work station,0.186666667
+WAVE,VL,Assembly,aoptic14,24,2,Fix 1 screw,0.135
+WAVE,VL,Assembly,aoptic14,24,3,"Take sub lens, fix screw the other side & turn jig",0.195
+WAVE,VL,Assembly,aoptic14,24,4,"Fix 2sd side, close lens firmly",0.285
+WAVE,VL,Assembly,aoptic14,24,5,Clean 2 side lens with air,0.0984
+WAVE,VL,Assembly,aoptic14,24,6,Fix 2 side lens & put foam inside to protect,0.4712
+WAVE,VL,Assembly,aoptic14,24,7,Put aside,0.163333333
+WAVLED,VL,Assembly,aoptic14,11,1,Bring product to work station,0.186666667
+WAVLED,VL,Assembly,aoptic14,11,2,Fix 1 screw,0.135
+WAVLED,VL,Assembly,aoptic14,11,3,"Take sub lens, fix screw the other side & turn jig",0.195
+WAVLED,VL,Assembly,aoptic14,11,4,"Fix 2sd side, close lens firmly",0.285
+WAVLED,VL,Assembly,aoptic14,11,5,Clean 2 side lens with air,0.0984
+WAVLED,VL,Assembly,aoptic14,11,6,Fix 2 side lens & put foam inside to protect,0.4712
+WAVLED,VL,Assembly,aoptic14,11,7,Put aside,0.163333333
+WAVLED,VL,Assembly,aoptic14,12,1,Bring product to work station,0.186666667
+WAVLED,VL,Assembly,aoptic14,12,2,Fix 1 screw,0.135
+WAVLED,VL,Assembly,aoptic14,12,3,"Take sub lens, fix screw the other side & turn jig",0.195
+WAVLED,VL,Assembly,aoptic14,12,4,"Fix 2sd side, close lens firmly",0.285
+WAVLED,VL,Assembly,aoptic14,12,5,Clean 2 side lens with air,0.0984
+WAVLED,VL,Assembly,aoptic14,12,6,Fix 2 side lens & put foam inside to protect,0.4712
+WAVLED,VL,Assembly,aoptic14,12,7,Put aside,0.163333333
+WAVLED,VL,Assembly,aoptic14,14,1,Bring product to work station,0.186666667
+WAVLED,VL,Assembly,aoptic14,14,2,Fix 1 screw,0.135
+WAVLED,VL,Assembly,aoptic14,14,3,"Take sub lens, fix screw the other side & turn jig",0.195
+WAVLED,VL,Assembly,aoptic14,14,4,"Fix 2sd side, close lens firmly",0.285
+WAVLED,VL,Assembly,aoptic14,14,5,Clean 2 side lens with air,0.0984
+WAVLED,VL,Assembly,aoptic14,14,6,Fix 2 side lens & put foam inside to protect,0.4712
+WAVLED,VL,Assembly,aoptic14,14,7,Put aside,0.163333333
+WAVLED,VL,Assembly,aoptic14,22,1,Bring product to work station,0.186666667
+WAVLED,VL,Assembly,aoptic14,22,2,Fix 1 screw,0.135
+WAVLED,VL,Assembly,aoptic14,22,3,"Take sub lens, fix screw the other side & turn jig",0.195
+WAVLED,VL,Assembly,aoptic14,22,4,"Fix 2sd side, close lens firmly",0.285
+WAVLED,VL,Assembly,aoptic14,22,5,Clean 2 side lens with air,0.0984
+WAVLED,VL,Assembly,aoptic14,22,6,Fix 2 side lens & put foam inside to protect,0.4712
+WAVLED,VL,Assembly,aoptic14,22,7,Put aside,0.163333333
+WAVLED,VL,Assembly,aoptic14,24,1,Bring product to work station,0.186666667
+WAVLED,VL,Assembly,aoptic14,24,2,Fix 1 screw,0.135
+WAVLED,VL,Assembly,aoptic14,24,3,"Take sub lens, fix screw the other side & turn jig",0.195
+WAVLED,VL,Assembly,aoptic14,24,4,"Fix 2sd side, close lens firmly",0.285
+WAVLED,VL,Assembly,aoptic14,24,5,Clean 2 side lens with air,0.0984
+WAVLED,VL,Assembly,aoptic14,24,6,Fix 2 side lens & put foam inside to protect,0.4712
+WAVLED,VL,Assembly,aoptic14,24,7,Put aside,0.163333333
+WB4LED,S,Preparation,aoptic12,4,1,Clean lens,0.16
+WB4LED,S,Preparation,aoptic12,4,2,Place overlay into lens,0.79
+WB4LED,S,Assembly,aoptic12,4,3,"Fix gasket plate brkt, gasket & gasket plate",0.81
+WB4LED,S,Assembly,aoptic12,4,4,Clip lens on housing,1.02
+WB4LED,S,Preparation,aoptic12,8,1,Clean lens,0.26
+WB4LED,S,Preparation,aoptic12,8,2,Place overlay into lens,1.58
+WB4LED,S,Assembly,aoptic12,8,3,"Fix gasket plate brkt, gasket & gasket plate",0.81
+WB4LED,S,Assembly,aoptic12,8,4,Clip lens on housing,2.04
+WB4LED,S,Preparation,aoptic12,12,1,Clean lens,0.48
+WB4LED,S,Preparation,aoptic12,12,2,Place overlay into lens,2.37
+WB4LED,S,Assembly,aoptic12,12,3,"Fix gasket plate brkt, gasket & gasket plate",2.43
+WB4LED,S,Assembly,aoptic12,12,4,Clip lens on housing,3.06
+WB4LED,SO,Preparation,aoptic12,4,1,Clean lens,0.16
+WB4LED,SO,Preparation,aoptic12,4,2,Place overlay into lens,0.79
+WB4LED,SO,Assembly,aoptic12,4,3,"Fix gasket plate brkt, gasket & gasket plate",0.81
+WB4LED,SO,Assembly,aoptic12,4,4,Clip lens on housing,1.02
+WB4LED,SO,Preparation,aoptic12,8,1,Clean lens,0.26
+WB4LED,SO,Preparation,aoptic12,8,2,Place overlay into lens,1.58
+WB4LED,SO,Assembly,aoptic12,8,3,"Fix gasket plate brkt, gasket & gasket plate",0.81
+WB4LED,SO,Assembly,aoptic12,8,4,Clip lens on housing,2.04
+WB4LED,SO,Preparation,aoptic12,12,1,Clean lens,0.48
+WB4LED,SO,Preparation,aoptic12,12,2,Place overlay into lens,2.37
+WB4LED,SO,Assembly,aoptic12,12,3,"Fix gasket plate brkt, gasket & gasket plate",2.43
+WB4LED,SO,Assembly,aoptic12,12,4,Clip lens on housing,3.06
+WBEAM4,C,Assembly,aoptic8,4,2,"Fix gasket plate brkt, gasket & gasket plate",0.81
+WBEAM4,C,Assembly,aoptic8,4,3,Clip lens on housing,1.02
+WBEAM4,C,Assembly,aoptic8,8,2,"Fix gasket plate brkt, gasket & gasket plate",0.81
+WBEAM4,C,Assembly,aoptic8,8,3,Clip lens on housing,2.04
+WBEAM4,C,Assembly,aoptic8,12,2,"Fix gasket plate brkt, gasket & gasket plate",0
+WBEAM4,C,Assembly,aoptic8,12,3,Clip lens on housing,0
+WBEAM4,F,Assembly,aoptic8,4,2,"Fix gasket plate brkt, gasket & gasket plate",0.81
+WBEAM4,F,Assembly,aoptic8,4,3,Clip lens on housing,1.02
+WBEAM4,F,Assembly,aoptic8,8,2,"Fix gasket plate brkt, gasket & gasket plate",0.81
+WBEAM4,F,Assembly,aoptic8,8,3,Clip lens on housing,2.04
+WBEAM4,F,Assembly,aoptic8,12,2,"Fix gasket plate brkt, gasket & gasket plate",0
+WBEAM4,F,Assembly,aoptic8,12,3,Clip lens on housing,0
+WBEAM4,S,Assembly,aoptic8,4,2,"Fix gasket plate brkt, gasket & gasket plate",0.81
+WBEAM4,S,Assembly,aoptic8,4,3,Clip lens on housing,1.02
+WBEAM4,S,Assembly,aoptic8,8,2,"Fix gasket plate brkt, gasket & gasket plate",0.81
+WBEAM4,S,Assembly,aoptic8,8,3,Clip lens on housing,2.04
+WBEAM4,S,Assembly,aoptic8,12,2,"Fix gasket plate brkt, gasket & gasket plate",0
+WBEAM4,S,Assembly,aoptic8,12,3,Clip lens on housing,0
+WBEAM4,C,Preparation,aoptic8,4,1,Clean lens,0.16
+WBEAM4,C,Preparation,aoptic8,8,1,Clean lens,0.26
+WBEAM4,C,Preparation,aoptic8,12,1,Clean lens,0
+WBEAM4,F,Preparation,aoptic8,4,1,Clean lens,0.16
+WBEAM4,F,Preparation,aoptic8,8,1,Clean lens,0.26
+WBEAM4,F,Preparation,aoptic8,12,1,Clean lens,0
+WBEAM4,S,Preparation,aoptic8,4,1,Clean lens,0.16
+WBEAM4,S,Preparation,aoptic8,8,1,Clean lens,0.26
+WBEAM4,S,Preparation,aoptic8,12,1,Clean lens,0
+WBEAMD,AV,Assembly,aoptic9,4,1,Place rubber in end cover(2x),0.22
+WBEAMD,AV,Assembly,aoptic9,4,2,fix end cap with 4 screws(2x),1.48
+WBEAMD,AV,Assembly,aoptic9,4,3,apply silicone on edge of extrusion(2sides),0.55
+WBEAMD,AV,Assembly,aoptic9,4,4,press rubber on silicone (2sides),2.58
+WBEAMD,AV,Assembly,aoptic9,4,5,clean silicone's smudge,0.9
+WBEAMD,AV,Assembly,aoptic9,4,6,"bring sub lens to station, unwrap, clean",0.62
+WBEAMD,AV,Assembly,aoptic9,4,7,place sub lens in place,0.16
+WBEAMD,AV,Assembly,aoptic9,4,8,thread 8 holes into lens cover with screws,0.56
+WBEAMD,AV,Assembly,aoptic9,4,9,fix sub lens with 8 stainless screws,1.65
+WBEAMD,AV,Assembly,aoptic9,4,10,turn product,0.16
+WBEAMD,AV,Assembly,aoptic9,4,11,apply silicone on edge of extrusion(2sides),0.55
+WBEAMD,AV,Assembly,aoptic9,4,12,press rubber on silicone (2sides),2.58
+WBEAMD,AV,Assembly,aoptic9,4,13,clean silicone's smudge,0.9
+WBEAMD,AV,Assembly,aoptic9,4,14,place rubber in jonction of 2 lens cover,0
+WBEAMD,AV,Assembly,aoptic9,4,15,place sub lens in place,0.16
+WBEAMD,AV,Assembly,aoptic9,4,16,thread 8 holes into lens cover with screws,0.56
+WBEAMD,AV,Assembly,aoptic9,4,17,fix sub lens with 8 stainless screws,1.65
+WBEAMD,AV,Assembly,aoptic9,8,1,Place rubber in end cover(2x),0.22
+WBEAMD,AV,Assembly,aoptic9,8,2,fix end cap with 4 screws(2x),1.48
+WBEAMD,AV,Assembly,aoptic9,8,3,apply silicone on edge of extrusion(2sides),1.42
+WBEAMD,AV,Assembly,aoptic9,8,4,press rubber on silicone (2sides),3.02
+WBEAMD,AV,Assembly,aoptic9,8,5,clean silicone's smudge,1.14
+WBEAMD,AV,Assembly,aoptic9,8,6,"bring sub lens to station, unwrap, clean",1.24
+WBEAMD,AV,Assembly,aoptic9,8,7,place sub lens in place,0.32
+WBEAMD,AV,Assembly,aoptic9,8,8,thread 8 holes into lens cover with screws,1.12
+WBEAMD,AV,Assembly,aoptic9,8,9,fix sub lens with 8 stainless screws,3.3
+WBEAMD,AV,Assembly,aoptic9,8,10,turn product,0.2
+WBEAMD,AV,Assembly,aoptic9,8,11,apply silicone on edge of extrusion(2sides),1.42
+WBEAMD,AV,Assembly,aoptic9,8,12,press rubber on silicone (2sides),3.02
+WBEAMD,AV,Assembly,aoptic9,8,13,clean silicone's smudge,1.14
+WBEAMD,AV,Assembly,aoptic9,8,14,place rubber in jonction of 2 lens cover,0.24
+WBEAMD,AV,Assembly,aoptic9,8,15,place sub lens in place,0.32
+WBEAMD,AV,Assembly,aoptic9,8,16,thread 8 holes into lens cover with screws,1.12
+WBEAMD,AV,Assembly,aoptic9,8,17,fix sub lens with 8 stainless screws,3.3
+WBEAMD,AV,Assembly,aoptic9,12,1,Place rubber in end cover(2x),0.22
+WBEAMD,AV,Assembly,aoptic9,12,2,fix end cap with 4 screws(2x),1.48
+WBEAMD,AV,Assembly,aoptic9,12,3,apply silicone on edge of extrusion(2sides),2.19
+WBEAMD,AV,Assembly,aoptic9,12,4,press rubber on silicone (2sides),3.49
+WBEAMD,AV,Assembly,aoptic9,12,5,clean silicone's smudge,1.8
+WBEAMD,AV,Assembly,aoptic9,12,6,"bring sub lens to station, unwrap, clean",1.86
+WBEAMD,AV,Assembly,aoptic9,12,7,place sub lens in place,0.48
+WBEAMD,AV,Assembly,aoptic9,12,8,thread 8 holes into lens cover with screws,1.68
+WBEAMD,AV,Assembly,aoptic9,12,9,fix sub lens with 8 stainless screws,4.95
+WBEAMD,AV,Assembly,aoptic9,12,10,turn product,0.24
+WBEAMD,AV,Assembly,aoptic9,12,11,apply silicone on edge of extrusion(2sides),1.65
+WBEAMD,AV,Assembly,aoptic9,12,12,press rubber on silicone (2sides),3.49
+WBEAMD,AV,Assembly,aoptic9,12,13,clean silicone's smudge,1.8
+WBEAMD,AV,Assembly,aoptic9,12,14,place rubber in jonction of 2 lens cover,0.48
+WBEAMD,AV,Assembly,aoptic9,12,15,place sub lens in place,0.48
+WBEAMD,AV,Assembly,aoptic9,12,16,thread 8 holes into lens cover with screws,1.68
+WBEAMD,AV,Assembly,aoptic9,12,17,fix sub lens with 8 stainless screws,4.95
+WBEAMD,F,Assembly,aoptic9,4,1,Place rubber in end cover(2x),0.22
+WBEAMD,F,Assembly,aoptic9,4,2,fix end cap with 4 screws(2x),1.48
+WBEAMD,F,Assembly,aoptic9,4,3,apply silicone on edge of extrusion(2sides),0.55
+WBEAMD,F,Assembly,aoptic9,4,4,press rubber on silicone (2sides),2.58
+WBEAMD,F,Assembly,aoptic9,4,5,clean silicone's smudge,0.9
+WBEAMD,F,Assembly,aoptic9,4,6,"bring sub lens to station, unwrap, clean",0.62
+WBEAMD,F,Assembly,aoptic9,4,7,place sub lens in place,0.16
+WBEAMD,F,Assembly,aoptic9,4,8,thread 8 holes into lens cover with screws,0.56
+WBEAMD,F,Assembly,aoptic9,4,9,fix sub lens with 8 stainless screws,1.65
+WBEAMD,F,Assembly,aoptic9,4,10,turn product,0.16
+WBEAMD,F,Assembly,aoptic9,4,11,apply silicone on edge of extrusion(2sides),0.55
+WBEAMD,F,Assembly,aoptic9,4,12,press rubber on silicone (2sides),2.58
+WBEAMD,F,Assembly,aoptic9,4,13,clean silicone's smudge,0.9
+WBEAMD,F,Assembly,aoptic9,4,14,place rubber in jonction of 2 lens cover,0
+WBEAMD,F,Assembly,aoptic9,4,15,place sub lens in place,0.16
+WBEAMD,F,Assembly,aoptic9,4,16,thread 8 holes into lens cover with screws,0.56
+WBEAMD,F,Assembly,aoptic9,4,17,fix sub lens with 8 stainless screws,1.65
+WBEAMD,F,Assembly,aoptic9,8,1,Place rubber in end cover(2x),0.22
+WBEAMD,F,Assembly,aoptic9,8,2,fix end cap with 4 screws(2x),1.48
+WBEAMD,F,Assembly,aoptic9,8,3,apply silicone on edge of extrusion(2sides),1.42
+WBEAMD,F,Assembly,aoptic9,8,4,press rubber on silicone (2sides),3.02
+WBEAMD,F,Assembly,aoptic9,8,5,clean silicone's smudge,1.14
+WBEAMD,F,Assembly,aoptic9,8,6,"bring sub lens to station, unwrap, clean",1.24
+WBEAMD,F,Assembly,aoptic9,8,7,place sub lens in place,0.32
+WBEAMD,F,Assembly,aoptic9,8,8,thread 8 holes into lens cover with screws,1.12
+WBEAMD,F,Assembly,aoptic9,8,9,fix sub lens with 8 stainless screws,3.3
+WBEAMD,F,Assembly,aoptic9,8,10,turn product,0.2
+WBEAMD,F,Assembly,aoptic9,8,11,apply silicone on edge of extrusion(2sides),1.42
+WBEAMD,F,Assembly,aoptic9,8,12,press rubber on silicone (2sides),3.02
+WBEAMD,F,Assembly,aoptic9,8,13,clean silicone's smudge,1.14
+WBEAMD,F,Assembly,aoptic9,8,14,place rubber in jonction of 2 lens cover,0.24
+WBEAMD,F,Assembly,aoptic9,8,15,place sub lens in place,0.32
+WBEAMD,F,Assembly,aoptic9,8,16,thread 8 holes into lens cover with screws,1.12
+WBEAMD,F,Assembly,aoptic9,8,17,fix sub lens with 8 stainless screws,3.3
+WBEAMD,F,Assembly,aoptic9,12,1,Place rubber in end cover(2x),0.22
+WBEAMD,F,Assembly,aoptic9,12,2,fix end cap with 4 screws(2x),1.48
+WBEAMD,F,Assembly,aoptic9,12,3,apply silicone on edge of extrusion(2sides),2.19
+WBEAMD,F,Assembly,aoptic9,12,4,press rubber on silicone (2sides),3.49
+WBEAMD,F,Assembly,aoptic9,12,5,clean silicone's smudge,1.8
+WBEAMD,F,Assembly,aoptic9,12,6,"bring sub lens to station, unwrap, clean",1.86
+WBEAMD,F,Assembly,aoptic9,12,7,place sub lens in place,0.48
+WBEAMD,F,Assembly,aoptic9,12,8,thread 8 holes into lens cover with screws,1.68
+WBEAMD,F,Assembly,aoptic9,12,9,fix sub lens with 8 stainless screws,4.95
+WBEAMD,F,Assembly,aoptic9,12,10,turn product,0.24
+WBEAMD,F,Assembly,aoptic9,12,11,apply silicone on edge of extrusion(2sides),1.65
+WBEAMD,F,Assembly,aoptic9,12,12,press rubber on silicone (2sides),3.49
+WBEAMD,F,Assembly,aoptic9,12,13,clean silicone's smudge,1.8
+WBEAMD,F,Assembly,aoptic9,12,14,place rubber in jonction of 2 lens cover,0.48
+WBEAMD,F,Assembly,aoptic9,12,15,place sub lens in place,0.48
+WBEAMD,F,Assembly,aoptic9,12,16,thread 8 holes into lens cover with screws,1.68
+WBEAMD,F,Assembly,aoptic9,12,17,fix sub lens with 8 stainless screws,4.95
+WBEAMD,S,Assembly,aoptic9,4,1,Place rubber in end cover(2x),0.22
+WBEAMD,S,Assembly,aoptic9,4,2,fix end cap with 4 screws(2x),1.48
+WBEAMD,S,Assembly,aoptic9,4,3,apply silicone on edge of extrusion(2sides),0.55
+WBEAMD,S,Assembly,aoptic9,4,4,press rubber on silicone (2sides),2.58
+WBEAMD,S,Assembly,aoptic9,4,5,clean silicone's smudge,0.9
+WBEAMD,S,Assembly,aoptic9,4,6,"bring sub lens to station, unwrap, clean",0.62
+WBEAMD,S,Assembly,aoptic9,4,7,place sub lens in place,0.16
+WBEAMD,S,Assembly,aoptic9,4,8,thread 8 holes into lens cover with screws,0.56
+WBEAMD,S,Assembly,aoptic9,4,9,fix sub lens with 8 stainless screws,1.65
+WBEAMD,S,Assembly,aoptic9,4,10,turn product,0.16
+WBEAMD,S,Assembly,aoptic9,4,11,apply silicone on edge of extrusion(2sides),0.55
+WBEAMD,S,Assembly,aoptic9,4,12,press rubber on silicone (2sides),2.58
+WBEAMD,S,Assembly,aoptic9,4,13,clean silicone's smudge,0.9
+WBEAMD,S,Assembly,aoptic9,4,14,place rubber in jonction of 2 lens cover,0
+WBEAMD,S,Assembly,aoptic9,4,15,place sub lens in place,0.16
+WBEAMD,S,Assembly,aoptic9,4,16,thread 8 holes into lens cover with screws,0.56
+WBEAMD,S,Assembly,aoptic9,4,17,fix sub lens with 8 stainless screws,1.65
+WBEAMD,S,Assembly,aoptic9,8,1,Place rubber in end cover(2x),0.22
+WBEAMD,S,Assembly,aoptic9,8,2,fix end cap with 4 screws(2x),1.48
+WBEAMD,S,Assembly,aoptic9,8,3,apply silicone on edge of extrusion(2sides),1.42
+WBEAMD,S,Assembly,aoptic9,8,4,press rubber on silicone (2sides),3.02
+WBEAMD,S,Assembly,aoptic9,8,5,clean silicone's smudge,1.14
+WBEAMD,S,Assembly,aoptic9,8,6,"bring sub lens to station, unwrap, clean",1.24
+WBEAMD,S,Assembly,aoptic9,8,7,place sub lens in place,0.32
+WBEAMD,S,Assembly,aoptic9,8,8,thread 8 holes into lens cover with screws,1.12
+WBEAMD,S,Assembly,aoptic9,8,9,fix sub lens with 8 stainless screws,3.3
+WBEAMD,S,Assembly,aoptic9,8,10,turn product,0.2
+WBEAMD,S,Assembly,aoptic9,8,11,apply silicone on edge of extrusion(2sides),1.42
+WBEAMD,S,Assembly,aoptic9,8,12,press rubber on silicone (2sides),3.02
+WBEAMD,S,Assembly,aoptic9,8,13,clean silicone's smudge,1.14
+WBEAMD,S,Assembly,aoptic9,8,14,place rubber in jonction of 2 lens cover,0.24
+WBEAMD,S,Assembly,aoptic9,8,15,place sub lens in place,0.32
+WBEAMD,S,Assembly,aoptic9,8,16,thread 8 holes into lens cover with screws,1.12
+WBEAMD,S,Assembly,aoptic9,8,17,fix sub lens with 8 stainless screws,3.3
+WBEAMD,S,Assembly,aoptic9,12,1,Place rubber in end cover(2x),0.22
+WBEAMD,S,Assembly,aoptic9,12,2,fix end cap with 4 screws(2x),1.48
+WBEAMD,S,Assembly,aoptic9,12,3,apply silicone on edge of extrusion(2sides),2.19
+WBEAMD,S,Assembly,aoptic9,12,4,press rubber on silicone (2sides),3.49
+WBEAMD,S,Assembly,aoptic9,12,5,clean silicone's smudge,1.8
+WBEAMD,S,Assembly,aoptic9,12,6,"bring sub lens to station, unwrap, clean",1.86
+WBEAMD,S,Assembly,aoptic9,12,7,place sub lens in place,0.48
+WBEAMD,S,Assembly,aoptic9,12,8,thread 8 holes into lens cover with screws,1.68
+WBEAMD,S,Assembly,aoptic9,12,9,fix sub lens with 8 stainless screws,4.95
+WBEAMD,S,Assembly,aoptic9,12,10,turn product,0.24
+WBEAMD,S,Assembly,aoptic9,12,11,apply silicone on edge of extrusion(2sides),1.65
+WBEAMD,S,Assembly,aoptic9,12,12,press rubber on silicone (2sides),3.49
+WBEAMD,S,Assembly,aoptic9,12,13,clean silicone's smudge,1.8
+WBEAMD,S,Assembly,aoptic9,12,14,place rubber in jonction of 2 lens cover,0.48
+WBEAMD,S,Assembly,aoptic9,12,15,place sub lens in place,0.48
+WBEAMD,S,Assembly,aoptic9,12,16,thread 8 holes into lens cover with screws,1.68
+WBEAMD,S,Assembly,aoptic9,12,17,fix sub lens with 8 stainless screws,4.95
+Zen,MSO,Assembly,aoptic37,4,1, remove plastic protector for reflector for 2 sides ,0.6
+Zen,MSO,Assembly,aoptic37,4,2, place reflector into housing ,0.6
+Zen,MSO,Assembly,aoptic37,4,3, open lips to fix ,0.6
+Zen,MSO,Assembly,aoptic37,4,4, slide light guide on top ,0.3
+Zen,MSO,Assembly,aoptic37,4,5, clip tek plastic both side ,1.18
+Zen,MSO,Preparation,aoptic37,4,6, clean lens ,0.32
+Zen,MSO,Assembly,aoptic37,4,7, turn & clip SO lens ,0.49
+Zen,MSO,Assembly,aoptic37,4,8, place & screw lens end brkt ,0.46
+Zen,MSO,Assembly,aoptic37,8,1, remove plastic protector for reflector for 2 sides ,1.2
+Zen,MSO,Assembly,aoptic37,8,2, place reflector into housing ,1.2
+Zen,MSO,Assembly,aoptic37,8,3, open lips to fix ,0.6
+Zen,MSO,Assembly,aoptic37,8,4, slide light guide on top ,0.6
+Zen,MSO,Assembly,aoptic37,8,5, clip tek plastic both side ,2.36
+Zen,MSO,Preparation,aoptic37,8,6, clean lens ,0.64
+Zen,MSO,Assembly,aoptic37,8,7, turn & clip SO lens ,0.98
+Zen,MSO,Assembly,aoptic37,8,8, place & screw lens end brkt ,0.92
+Zen,MSO,Assembly,aoptic37,12,1, remove plastic protector for reflector for 2 sides ,1.8
+Zen,MSO,Assembly,aoptic37,12,2, place reflector into housing ,1.8
+Zen,MSO,Assembly,aoptic37,12,3, open lips to fix ,0.6
+Zen,MSO,Assembly,aoptic37,12,4, slide light guide on top ,0.9
+Zen,MSO,Assembly,aoptic37,12,5, clip tek plastic both side ,3.54
+Zen,MSO,Preparation,aoptic37,12,6, clean lens ,0.96
+Zen,MSO,Assembly,aoptic37,12,7, turn & clip SO lens ,1.47
+Zen,MSO,Assembly,aoptic37,12,8, place & screw lens end brkt ,1.38
+Zen,MAL,Preparation,aoptic36,4,1,"cut 6"" green wire, crimp eyelet both end",0.8
+Zen,MAL,Assembly,aoptic36,4,2,"drill hole in multigroove panel (2), screw ground wire ea",2
+Zen,MAL,Assembly,aoptic36,4,3,place panels on each side of extrusion & screw grnd,2
+Zen,MAL,Assembly,aoptic36,4,4,turn housing,0.3
+Zen,MAL,Assembly,aoptic36,4,5,clean lens & slide lens on top of multigrooves panels,0.32
+Zen,MAL,Assembly,aoptic36,4,6,remove plastic protector for reflector for 2 sides,0.6
+Zen,MAL,Assembly,aoptic36,4,7,open lips to fix,0.6
+Zen,MAL,Assembly,aoptic36,4,8,place brackets both side to keep lens down,0.6
+Zen,MAL,Assembly,aoptic36,4,9,slide light guide on top,0.3
+Zen,MAL,Assembly,aoptic36,4,10,clip tek plastic both side,1.18
+Zen,MAL,Assembly,aoptic36,4,11,place & screw lens end brkt,0.46
+Zen,MAL,Preparation,aoptic36,8,1,"cut 6"" green wire, crimp eyelet both end",0.6
+Zen,MAL,Assembly,aoptic36,8,2,"drill hole in multigroove panel (2), screw ground wire ea",2.36
+Zen,MAL,Assembly,aoptic36,8,3,place panels on each side of extrusion & screw grnd,0.64
+Zen,MAL,Assembly,aoptic36,8,4,turn housing,0.98
+Zen,MAL,Assembly,aoptic36,8,5,clean lens & slide lens on top of multigrooves panels,0.92
+Zen,MAL,Assembly,aoptic36,8,6,remove plastic protector for reflector for 2 sides,1.8
+Zen,MAL,Assembly,aoptic36,8,7,open lips to fix,1.8
+Zen,MAL,Assembly,aoptic36,8,8,place brackets both side to keep lens down,0.6
+Zen,MAL,Assembly,aoptic36,8,9,slide light guide on top,0.9
+Zen,MAL,Assembly,aoptic36,8,10,clip tek plastic both side,3.54
+Zen,MAL,Assembly,aoptic36,8,11,place & screw lens end brkt,0.96
+SLIM,PL,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SLIM,PL,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SLIM,PL,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SLIM,SM,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SLIM,SM,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SLIM,SM,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SLIM,RE,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SLIM,RE,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SLIM,RE,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SLMLED,VL,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SLMLED,VL,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SLMLED,VL,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SLMLED,PL,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SLMLED,PL,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SLMLED,PL,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SLMLED,SM,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SLMLED,SM,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SLMLED,SM,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SLMLED,RE,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SLMLED,RE,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SLMLED,RE,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SLMLED,SL,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SLMLED,SL,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SLMLED,SL,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+Zen,MAL,Preparation,aoptic36,12,1,"cut 6"" green wire, crimp eyelet both end",2.4
+Zen,MAL,Assembly,aoptic36,12,2,"drill hole in multigroove panel (2), screw ground wire ea",6
+Zen,MAL,Assembly,aoptic36,12,3,place panels on each side of extrusion & screw grnd,6
+Zen,MAL,Assembly,aoptic36,12,4,turn housing,0.5
+Zen,MAL,Assembly,aoptic36,12,5,clean lens & slide lens on top of multigrooves panels,0.96
+Zen,MAL,Assembly,aoptic36,12,6,remove plastic protector for reflector for 2 sides,1.8
+Zen,MAL,Assembly,aoptic36,12,7,open lips to fix,1.8
+Zen,MAL,Assembly,aoptic36,12,8,place brackets both side to keep lens down,0.8
+Zen,MAL,Assembly,aoptic36,12,9,slide light guide on top,0.9
+Zen,MAL,Assembly,aoptic36,12,10,clip tek plastic both side,3.54
+Zen,MAL,Assembly,aoptic36,12,11,place & screw lens end brkt,1.38
+zen,SL,Assembly,aoptic31,4,1,clean guide light,0.16
+zen,SL,Assembly,aoptic31,4,2,place on housing,0.3
+zen,SL,Assembly,aoptic31,4,3,place & clip 2 plastic boards retainer,0.59
+zen,SL,Assembly,aoptic31,4,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.46
+zen,SL,Assembly,aoptic31,8,1,clean guide light,0.32
+zen,SL,Assembly,aoptic31,8,2,place on housing,0.6
+zen,SL,Assembly,aoptic31,8,3,place & clip 2 plastic boards retainer,1.18
+zen,SL,Assembly,aoptic31,8,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.92
+zen,SL,Assembly,aoptic31,12,1,clean guide light,0.48
+zen,SL,Assembly,aoptic31,12,2,place on housing,0.9
+zen,SL,Assembly,aoptic31,12,3,place & clip 2 plastic boards retainer,1.77
+zen,SL,Assembly,aoptic31,12,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",1.38
+SKYVW,2XVL,saw,lens19,22,1, saw lens extrusions (4x) ,1.11
+SKYVW,2XVL,Preparation,lens19,22,2, cut gasket (4x) ,0.4
+SKYVW,2XVL,Preparation,lens19,22,3, slide gasket into extrusion (4x) ,1.12
+SKYVW,2XVL,Preparation,lens19,22,4," slide 2 lens bracket alignment, 2 angle brkt (1x), 2 arrow label ",1.34
+SKYVW,2XVL,Preparation,lens19,22,5, slide 2 angle brkt (2x) ,0.27
+SKYVW,2XVL,Preparation,lens19,22,6, place 3 extrusions on jig ,0.4
+SKYVW,2XVL,Preparation,lens19,22,7, clean & slide lens & overlay ,0.82
+SKYVW,2XVL,Preparation,lens19,22,8, assy 4th extrusion & close jig ,0.2
+SKYVW,2XVL,Preparation,lens19,22,9," screw brkt corner(4x) & remove from jig, put aside ",1
+SKYVW,2XVL,saw,lens19,14,1,saw lens extrusions (4x),1.3
+SKYVW,2XVL,Preparation,lens19,14,2,cut gasket (4x),0.4
+SKYVW,2XVL,Preparation,lens19,14,3,slide gasket into extrusion (4x),1.52
+SKYVW,2XVL,Preparation,lens19,14,4,"slide 2 lens bracket alignment, 2 angle brkt (1x), 2 arrow label",1.34
+SKYVW,2XVL,Preparation,lens19,14,5,slide 2 angle brkt (2x),0.27
+SKYVW,2XVL,Preparation,lens19,14,6,place 3 extrusions on jig,0.4
+SKYVW,2XVL,Preparation,lens19,14,7,clean & slide lens & overlay,0.82
+SKYVW,2XVL,Preparation,lens19,14,8,assy 4th extrusion & close jig,0.2
+SKYVW,2XVL,Preparation,lens19,14,9,"screw brkt corner(4x) & remove from jig, put aside",1
+SL2LED,VL,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SL2LED,VL,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SL2LED,VL,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SL2LED,PL,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SL2LED,PL,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SL2LED,PL,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SL2LED,SM,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SL2LED,SM,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SL2LED,SM,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SL2LED,RE,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SL2LED,RE,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SL2LED,RE,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SL2LED,SL,Assembly,aoptic7,4,1,place overlay & cut exceeding,0.42
+SL2LED,SL,Assembly,aoptic7,8,1,place overlay & cut exceeding,0.83
+SL2LED,SL,Assembly,aoptic7,12,1,place overlay & cut exceeding,0
+SLIM,2XSL,Assembly,aoptic 31,4,1,clean guide light,0.16
+SLIM,2XSL,Assembly,aoptic 31,4,2,place on housing,0.3
+SLIM,2XSL,Assembly,aoptic 31,4,3,place & clip 2 plastic boards retainer,0.59
+SLIM,2XSL,Assembly,aoptic 31,4,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.46
+SLIM,2XSL,Assembly,aoptic 31,8,1,clean guide light,0.32
+SLIM,2XSL,Assembly,aoptic 31,8,2,place on housing,0.6
+SLIM,2XSL,Assembly,aoptic 31,8,3,place & clip 2 plastic boards retainer,1.18
+SLIM,2XSL,Assembly,aoptic 31,8,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.92
+SLIM,2XSL,Assembly,aoptic 31,12,1,clean guide light,0.48
+SLIM,2XSL,Assembly,aoptic 31,12,2,place on housing,0.9
+SLIM,2XSL,Assembly,aoptic 31,12,3,place & clip 2 plastic boards retainer,1.77
+SLIM,2XSL,Assembly,aoptic 31,12,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",1.38
+SL2LED,2XSL,Assembly,aoptic 31,4,1,clean guide light,0.16
+SL2LED,2XSL,Assembly,aoptic 31,4,2,place on housing,0.3
+SL2LED,2XSL,Assembly,aoptic 31,4,3,place & clip 2 plastic boards retainer,0.59
+SL2LED,2XSL,Assembly,aoptic 31,4,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.46
+SL2LED,2XSL,Assembly,aoptic 31,8,1,clean guide light,0.32
+SL2LED,2XSL,Assembly,aoptic 31,8,2,place on housing,0.6
+SL2LED,2XSL,Assembly,aoptic 31,8,3,place & clip 2 plastic boards retainer,1.18
+SL2LED,2XSL,Assembly,aoptic 31,8,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.92
+SL2LED,2XSL,Assembly,aoptic 31,12,1,clean guide light,0.48
+SL2LED,2XSL,Assembly,aoptic 31,12,2,place on housing,0.9
+SL2LED,2XSL,Assembly,aoptic 31,12,3,place & clip 2 plastic boards retainer,1.77
+SL2LED,2XSL,Assembly,aoptic 31,12,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",1.38
+SLMLED,2XSL,Assembly,aoptic 31,4,1,clean guide light,0.16
+SLMLED,2XSL,Assembly,aoptic 31,4,2,place on housing,0.3
+SLMLED,2XSL,Assembly,aoptic 31,4,3,place & clip 2 plastic boards retainer,0.59
+SLMLED,2XSL,Assembly,aoptic 31,4,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.46
+SLMLED,2XSL,Assembly,aoptic 31,8,1,clean guide light,0.32
+SLMLED,2XSL,Assembly,aoptic 31,8,2,place on housing,0.6
+SLMLED,2XSL,Assembly,aoptic 31,8,3,place & clip 2 plastic boards retainer,1.18
+SLMLED,2XSL,Assembly,aoptic 31,8,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",0.92
+SLMLED,2XSL,Assembly,aoptic 31,12,1,clean guide light,0.48
+SLMLED,2XSL,Assembly,aoptic 31,12,2,place on housing,0.9
+SLMLED,2XSL,Assembly,aoptic 31,12,3,place & clip 2 plastic boards retainer,1.77
+SLMLED,2XSL,Assembly,aoptic 31,12,4,"place & screw guide light end brkt (2 brkt, 2 screws each)",1.38

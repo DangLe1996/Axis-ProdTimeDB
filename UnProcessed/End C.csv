@@ -1,0 +1,517 @@
+ Product ID , Work Center , Option , ID , Task ,Time (min),,,Sum of Time (min),Column Labels,,
+BD,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,Row Labels,Assembly,Preparation,Grand Total
+BDLED,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,101C,1.25,0.32,1.57
+BDLEDPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,101CA,1.25,0.32,1.57
+BDPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,101CS,1.25,0.32,1.57
+BI,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,101CW,1.25,0.32,1.57
+BILED,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,101CWA,1.25,0.32,1.57
+BILEDPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,101F,1.25,0.32,1.57
+BIPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,101FA,1.25,0.32,1.57
+BLEDPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,101FW,1.25,0.32,1.57
+BS,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,101FWA,1.25,0.32,1.57
+BSLED,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,202C,1.25,0.32,1.57
+BSLEDPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,202CA,1.25,0.32,1.57
+BSPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,202CS,1.25,0.32,1.57
+BWD,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,202CW,1.25,0.32,1.57
+BWDLED,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,202CWA,1.25,0.32,1.57
+BWDLEDPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,202F,1.25,0.32,1.57
+BWDPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,202FA,1.25,0.32,1.57
+BWI,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,202FW,1.25,0.32,1.57
+BWILED,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,202FWA,1.25,0.32,1.57
+BWILEDPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,202LED,1.25,0.32,1.57
+BWIPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,202WLED,1.25,0.32,1.57
+BWLEDPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,AR,0.52,,0.52
+BWPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,ARC,1.25,0.32,1.57
+BWV,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,ARCA,1.25,0.32,1.57
+BWVLED,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,ARCLED,1.25,0.32,1.57
+SCD,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,ARCW,1.25,0.32,1.57
+SCDI,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,ARCWA,1.25,0.32,1.57
+SCS,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,ARCWLED,1.25,0.32,1.57
+SCWD,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,ARLED,0.52,,0.52
+SCWDI,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,ARS,0.52,,0.52
+FL,Assembly,aendcap10,2,place & fix end cap with 2 screws(+washer),2.36,,,ARSLED,0.52,,0.52
+FLW,Assembly,aendcap10,2,place & fix end cap with 2 screws(+washer),2.36,,,ARW,0.52,,0.52
+SOL,Assembly,aendcap10,2,place & fix end cap with 2 screws(+washer),2.36,,,ARWBT,0.52,,0.52
+SOLS,Assembly,aendcap10,2,place & fix end cap with 2 screws(+washer),2.36,,,ARWBTLED,0.52,,0.52
+SOLW,Assembly,aendcap10,2,place & fix end cap with 2 screws(+washer),2.36,,,ARWLED,0.52,,0.52
+TB,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B2SQDLED,0.52,,0.52
+TBDILED,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B2SQILED,0.52,,0.52
+TBDILEDPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B2SQSLED,0.52,,0.52
+TBDLED,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B2SQWDLED,0.52,,0.52
+TBDLEDPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B2SQWILED,0.52,,0.52
+TBDPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B3RLED,0.23,,0.23
+TBILED,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6,1.14,,1.14
+TBILEDPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6D,1.14,,1.14
+TBIPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6DILED,1.14,,1.14
+TBLEDPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6DLED,1.14,,1.14
+TBPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6DLEDPAT,1.14,,1.14
+TBW,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6DPAT,1.14,,1.14
+TBWDILED,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6I,1.14,,1.14
+TBWDILEDPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6ILEDPAT,1.14,,1.14
+TBWDLED,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6IPAT,1.14,,1.14
+TBWDLEDPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6LEDPAT,1.14,,1.14
+TBWDPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6PAT,1.14,,1.14
+TBWILED,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6S,1.14,,1.14
+TBWILEDPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6SLED,1.14,,1.14
+TBWIPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6SLEDPAT,1.14,,1.14
+TBWPAT,Assembly,aendcap2,1,Assy end cap with 4 pins on housing,0.55,,,B6SPAT,1.14,,1.14
+B6,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,B6W,1.14,,1.14
+B6D,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,B6WD,1.14,,1.14
+B6DLED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,B6WDLED,1.14,,1.14
+B6DLEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,B6WDLEDPAT,1.14,,1.14
+B6DPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,B6WDPAT,1.14,,1.14
+B6I,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,B6WI,1.14,,1.14
+B6ILEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,B6WILED,1.14,,1.14
+B6IPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,B6WILEDPAT,1.14,,1.14
+B6LEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,B6WIPAT,1.14,,1.14
+B6PAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,B6WLEDPAT,1.14,,1.14
+B6S,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,B6WPAT,1.14,,1.14
+B6SLED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BAS,1.25,0.32,1.57
+B6SLEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BASA,1.25,0.32,1.57
+B6SPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BASS,1.25,0.32,1.57
+B6W,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BASW,1.25,0.32,1.57
+B6WD,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BASWA,1.25,0.32,1.57
+B6WDLED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BB,1.14,,1.14
+B6WDLEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBD,1.14,,1.14
+B6WDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBDILED,1.14,,1.14
+B6WI,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBDILEDPAT,1.14,,1.14
+B6WILEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBDLED,1.14,,1.14
+B6WIPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBDLEDPAT,1.14,,1.14
+B6WLEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBDPAT,1.14,,1.14
+B6WPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBI,1.14,,1.14
+BB,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBILED,1.14,,1.14
+BBD,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBILED2,1.14,,1.14
+BBDILED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBILEDPAT,1.14,,1.14
+BBDILEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBIPAT,1.14,,1.14
+BBDLED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBLED2,1.14,,1.14
+BBDLEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBLEDPAT,1.14,,1.14
+BBDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBPAT,1.14,,1.14
+BBI,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBS,1.14,,1.14
+BBILED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBSLED,1.14,,1.14
+BBILED2,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBSLEDPAT,1.14,,1.14
+BBILEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBSPAT,1.14,,1.14
+BBIPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBW,1.14,,1.14
+BBLED2,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBWD,1.14,,1.14
+BBLEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBWDILED,1.14,,1.14
+BBPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBWDLED,1.14,,1.14
+BBS,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBWDLEDPAT,1.14,,1.14
+BBSLED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBWDPAT,1.14,,1.14
+BBSLEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBWI,1.14,,1.14
+BBSPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBWILED,1.14,,1.14
+BBW,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBWILEDPAT,1.14,,1.14
+BBWD,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBWIPAT,1.14,,1.14
+BBWDILED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBWLEDPAT,1.14,,1.14
+BBWDLED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BBWPAT,1.14,,1.14
+BBWDLEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BD,0.23,,0.23
+BBWDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BDI,0.52,,0.52
+BBWI,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BDIW,0.52,,0.52
+BBWILED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BDLED,0.23,,0.23
+BBWILEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BDLEDPAT,0.23,,0.23
+BBWIPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BDPAT,0.23,,0.23
+BBWLEDPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BI,0.23,,0.23
+BBWPAT,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BILED,0.23,,0.23
+D5,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BILEDPAT,0.23,,0.23
+D5S,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BIPAT,0.23,,0.23
+D5W,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BLEDPAT,0.23,,0.23
+RAY6P,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BMD,0.52,,0.52
+RAY6S,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BMDLED,0.52,,0.52
+RAY6W,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BMDLEDPAT,0.52,,0.52
+RAY8P,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BMDPAT,0.52,,0.52
+RAY8S,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BMI,0.52,,0.52
+RAY8W,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,BMILED,0.52,,0.52
+AR,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMILEDPAT,0.52,,0.52
+ARLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMIPAT,0.52,,0.52
+ARS,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMLEDPAT,0.52,,0.52
+ARSLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMS,0.52,,0.52
+ARW,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMSLED,0.52,,0.52
+ARWBT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMSLEDPAT,0.52,,0.52
+ARWBTLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMSPAT,0.52,,0.52
+ARWLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWD,0.52,,0.52
+BDI,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWDLED,0.52,,0.52
+BDIW,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWDLEDPAT,0.52,,0.52
+BMD,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWDPAT,0.52,,0.52
+BMDLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWI,0.52,,0.52
+BMDLEDPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWILED,0.52,,0.52
+BMDPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWILEDPAT,0.52,,0.52
+BMI,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWIPAT,0.52,,0.52
+BMILED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWLED,0.52,,0.52
+BMILEDPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWLEDPAT,0.52,,0.52
+BMIPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWPAT,0.52,,0.52
+BMLEDPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWV,0.52,,0.52
+BMS,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BMWVLED,0.52,,0.52
+BMSLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BS,0.23,,0.23
+BMSLEDPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BSLED,0.23,,0.23
+BMSPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BSLEDPAT,0.23,,0.23
+BMWD,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BSPAT,0.23,,0.23
+BMWDLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWD,0.23,,0.23
+BMWDLEDPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWDLED,0.23,,0.23
+BMWDPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWDLEDPAT,0.23,,0.23
+BMWI,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWDPAT,0.23,,0.23
+BMWILED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWI,0.23,,0.23
+BMWILEDPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWILED,0.23,,0.23
+BMWIPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWILEDPAT,0.23,,0.23
+BMWLEDPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWIPAT,0.23,,0.23
+BMWPAT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWLEDPAT,0.23,,0.23
+BMWV,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWPAT,0.23,,0.23
+BMWVLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWV,0.23,,0.23
+EL,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,BWVLED,0.23,,0.23
+ELS,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CCH,0.52,,0.52
+ELW,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CCHPAT,0.52,,0.52
+MB,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CCL,0.52,,0.52
+MBLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CCLPAT,0.52,,0.52
+MBS,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CCWH,0.52,,0.52
+MBSLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CCWL,0.52,,0.52
+MBST,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CLKLED,0.75,,0.75
+MBT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CU,1.25,0.32,1.57
+MBW,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CUA,1.25,0.32,1.57
+MBWLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CUB,1.25,0.32,1.57
+MBWT,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CUBA,1.25,0.32,1.57
+MBWV,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CUBLED,1.25,0.32,1.57
+MBWVLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CUBS,1.25,0.32,1.57
+PICD,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CUBW,1.25,0.32,1.57
+PICI,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CUBWA,1.25,0.32,1.57
+PICR,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CUBWLED,1.25,0.32,1.57
+PICWD,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CUS,1.25,0.32,1.57
+PICWI,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CUW,1.25,0.32,1.57
+PICWR,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,CUWA,1.25,0.32,1.57
+PMD,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,D5,1.14,,1.14
+PMI,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,D5S,1.14,,1.14
+PMR,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,D5W,1.14,,1.14
+PMRLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,EL,0.52,,0.52
+PMWD,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,ELS,0.52,,0.52
+PMWI,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,ELW,0.52,,0.52
+PMWR,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,FL,2.36,0.32,2.68
+PR,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,FLW,2.36,0.32,2.68
+PRLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,L2,1.25,0.32,1.57
+PRS,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,L2A,1.25,0.32,1.57
+PRSLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,L2S,1.25,0.32,1.57
+PRW,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,L2W,1.25,0.32,1.57
+PRWLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,L2WA,1.25,0.32,1.57
+PW,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,LT,1.25,0.32,1.57
+PWLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,LTA,1.25,0.32,1.57
+PWS,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,LTLED,1.25,0.32,1.57
+PWSLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,LTW,1.25,0.32,1.57
+PWW,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,LTWA,1.25,0.32,1.57
+PWWLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,LTWLED,1.25,0.32,1.57
+RAY3P,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,MB,0.52,,0.52
+RAY3S,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,MBLED,0.52,,0.52
+RAY3W,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,MBS,0.52,,0.52
+RAY4P,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,MBSLED,0.52,,0.52
+RAY4S,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,MBST,0.52,,0.52
+RAY4W,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,MBT,0.52,,0.52
+TWC,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,MBW,0.52,,0.52
+TWCW,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,MBWLED,0.52,,0.52
+TWO,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,MBWT,0.52,,0.52
+TWOW,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,MBWV,0.52,,0.52
+TWR,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,MBWVLED,0.52,,0.52
+TWRLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,PICD,0.52,,0.52
+TWRW,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,PICI,0.52,,0.52
+TWRWLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,PICR,0.52,,0.52
+WB,Assembly,aendcap7,1,Fix 1 endcap to housing,0.84,,,PICWD,0.52,,0.52
+WBLED,Assembly,aendcap7,1,Fix 1 endcap to housing,0.84,,,PICWI,0.52,,0.52
+WBR,Assembly,aendcap7,1,Fix 1 endcap to housing,0.84,,,PICWR,0.52,,0.52
+WBRLED,Assembly,aendcap7,1,Fix 1 endcap to housing,0.84,,,PMD,0.52,,0.52
+WBS,Assembly,aendcap7,1,Fix 1 endcap to housing,0.84,,,PMI,0.52,,0.52
+WBSLED,Assembly,aendcap7,1,Fix 1 endcap to housing,0.84,,,PMR,0.52,,0.52
+WBW,Assembly,aendcap7,1,Fix 1 endcap to housing,0.84,,,PMRLED,0.52,,0.52
+WBWLED,Assembly,aendcap7,1,Fix 1 endcap to housing,0.84,,,PMWD,0.52,,0.52
+WBDI,Assembly,aendcap8,1,fix end cap with 4 screws(2x),0.75,,,PMWI,0.52,,0.52
+WBDILED,Assembly,aendcap8,1,fix end cap with 4 screws(2x),0.75,,,PMWR,0.52,,0.52
+WBDIW,Assembly,aendcap8,1,fix end cap with 4 screws(2x),0.75,,,PR,0.52,,0.52
+101C,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,PRLED,0.52,,0.52
+101CA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,PRS,0.52,,0.52
+101CS,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,PRSLED,0.52,,0.52
+101CW,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,PRW,0.52,,0.52
+101CWA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,PRWLED,0.52,,0.52
+101F,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,PW,0.52,,0.52
+101FA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,PWLED,0.52,,0.52
+101FW,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,PWS,0.52,,0.52
+101FWA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,PWSLED,0.52,,0.52
+202C,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,PWW,0.52,,0.52
+202CA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,PWWLED,0.52,,0.52
+202CS,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY3P,0.52,,0.52
+202CW,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY3S,0.52,,0.52
+202CWA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY3W,0.52,,0.52
+202F,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY4P,0.52,,0.52
+202FA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY4S,0.52,,0.52
+202FW,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY4W,0.52,,0.52
+202FWA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY6P,1.14,,1.14
+ARC,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY6S,1.14,,1.14
+ARCA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY6W,1.14,,1.14
+ARCW,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY8P,1.14,,1.14
+ARCWA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY8S,1.14,,1.14
+BAS,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,RAY8W,1.14,,1.14
+BASA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCAC,0.23,,0.23
+BASS,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCD,0.23,,0.23
+BASW,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCDI,0.23,,0.23
+BASWA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCDIPAT,0.23,,0.23
+CU,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCDLAC,0.23,,0.23
+CUA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCDPAT,0.23,,0.23
+CUB,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCI ,0.23,,0.23
+CUBA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCILAC,0.23,,0.23
+CUBS,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCIPAT,0.23,,0.23
+CUBW,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCS,0.23,,0.23
+CUBWA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCSAC,0.23,,0.23
+CUS,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCSLAC,0.23,,0.23
+CUW,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCSPAT,0.23,,0.23
+CUWA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCWD,0.23,,0.23
+L2,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCWDI,0.23,,0.23
+L2A,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCWDIPAT,0.23,,0.23
+L2S,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCWDPAT,0.23,,0.23
+L2W,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCWI,0.23,,0.23
+L2WA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SCWIPAT,0.23,,0.23
+LT,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SOL,2.36,0.32,2.68
+LTA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SOLS,2.36,0.32,2.68
+LTW,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SOLW,2.36,0.32,2.68
+LTWA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SU,1.25,0.32,1.57
+SU,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SUA,1.25,0.32,1.57
+SUA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SUS,1.25,0.32,1.57
+SUS,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SUW,1.25,0.32,1.57
+SUW,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,SUWA,1.25,0.32,1.57
+SUWA,Assembly,aendcap9,2,Place & fix end cap with 2 screws(+washer),1.25,,,TB,0.55,,0.55
+FL,Preparation,aendcap10,1,thread 2 holes in casting,0.32,,,TB2DILED,1.65,,1.65
+FLW,Preparation,aendcap10,1,thread 2 holes in casting,0.32,,,TB2DLED,1.65,,1.65
+SOL,Preparation,aendcap10,1,thread 2 holes in casting,0.32,,,TB2WDILED,1.65,,1.65
+SOLS,Preparation,aendcap10,1,thread 2 holes in casting,0.32,,,TB2WDLED,1.65,,1.65
+SOLW,Preparation,aendcap10,1,thread 2 holes in casting,0.32,,,TBDILED,0.55,,0.55
+101C,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBDILEDPAT,0.55,,0.55
+101CA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBDLED,0.55,,0.55
+101CS,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBDLEDPAT,0.55,,0.55
+101CW,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBDPAT,0.55,,0.55
+101CWA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBILED,0.55,,0.55
+101F,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBILEDPAT,0.55,,0.55
+101FA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBIPAT,0.55,,0.55
+101FW,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBLEDPAT,0.55,,0.55
+101FWA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBPAT,0.55,,0.55
+202C,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBW,0.55,,0.55
+202CA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBWDILED,0.55,,0.55
+202CS,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBWDILEDPAT,0.55,,0.55
+202CW,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBWDLED,0.55,,0.55
+202CWA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBWDLEDPAT,0.55,,0.55
+202F,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBWDPAT,0.55,,0.55
+202FA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBWILED,0.55,,0.55
+202FW,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBWILEDPAT,0.55,,0.55
+202FWA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBWIPAT,0.55,,0.55
+ARC,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TBWPAT,0.55,,0.55
+ARCA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TWC,0.52,,0.52
+ARCW,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TWCW,0.52,,0.52
+ARCWA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TWO,0.52,,0.52
+BAS,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TWOW,0.52,,0.52
+BASA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TWR,0.52,,0.52
+BASS,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TWRLED,0.52,,0.52
+BASW,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TWRW,0.52,,0.52
+BASWA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,TWRWLED,0.52,,0.52
+CU,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WB,0.84,,0.84
+CUA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBDI,0.75,,0.75
+CUB,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBDILED,0.75,,0.75
+CUBA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBDIW,0.75,,0.75
+CUBS,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBDLED,0.75,,0.75
+CUBW,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBDWLED,0.75,,0.75
+CUBWA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBILED,0.75,,0.75
+CUS,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBIWLED,0.75,,0.75
+CUW,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBLED,0.84,,0.84
+CUWA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBR,0.84,,0.84
+L2,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBRLED,0.84,,0.84
+L2A,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBRVLED,0.84,,0.84
+L2S,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBS,0.84,,0.84
+L2W,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBSLED,0.84,,0.84
+L2WA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBW,0.84,,0.84
+LT,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,WBWLED,0.84,,0.84
+LTA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,Grand Total,254.85,20.48,275.33
+LTW,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,,,,
+LTWA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,,,,
+SU,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,,,,
+SUA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,,,,
+SUS,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,,,,
+SUW,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,,,,
+SUWA,Preparation,aendcap9,1,thread 2 holes in casting,0.32,,,,,,
+B3RLED,Assembly,aendcap1,1,assy end cap with 2 pins on housing,0.23,,,,,,
+TB2DILED,Assembly,aendcap11,1,place gasket in end cap,0.4,,,,,,
+TB2DILED,Assembly,aendcap11,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+TB2DLED,Assembly,aendcap11,1,place gasket in end cap,0.4,,,,,,
+TB2DLED,Assembly,aendcap11,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+TB2WDILED,Assembly,aendcap11,1,place gasket in end cap,0.4,,,,,,
+TB2WDILED,Assembly,aendcap11,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+TB2WDLED,Assembly,aendcap11,1,place gasket in end cap,0.4,,,,,,
+TB2WDLED,Assembly,aendcap11,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+CCH,Assembly,aendcap05,1,press end cap & screw(2),0.52,,,,,,
+CCHPAT,Assembly,aendcap05,1,press end cap & screw(2),0.52,,,,,,
+CCL,Assembly,aendcap05,1,press end cap & screw(2),0.52,,,,,,
+CCLPAT,Assembly,aendcap05,1,press end cap & screw(2),0.52,,,,,,
+CCWH,Assembly,aendcap05,1,press end cap & screw(2),0.52,,,,,,
+CCWL,Assembly,aendcap05,1,press end cap & screw(2),0.52,,,,,,
+B2SQDLED,Assembly,aendcap05,1,press end cap & screw(2),0.52,,,,,,
+B2SQILED,Assembly,aendcap05,1,press end cap & screw(2),0.52,,,,,,
+B2SQSLED,Assembly,aendcap05,1,press end cap & screw(2),0.52,,,,,,
+B2SQWDLED,Assembly,aendcap05,1,press end cap & screw(2),0.52,,,,,,
+B2SQWILED,Assembly,aendcap05,1,press end cap & screw(2),0.52,,,,,,
+202LED,Preparation,aendcap09,1,thread 2 holes in casting,0.32,,,,,,
+202LED,Assembly,aendcap09,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+202WLED,Preparation,aendcap09,1,thread 2 holes in casting,0.32,,,,,,
+202WLED,Assembly,aendcap09,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+ARCLED,Preparation,aendcap09,1,thread 2 holes in casting,0.32,,,,,,
+ARCLED,Assembly,aendcap09,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+ARCWLED,Preparation,aendcap09,1,thread 2 holes in casting,0.32,,,,,,
+ARCWLED,Assembly,aendcap09,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+SCAC,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCDIPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCDLAC,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCDPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCI ,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCILAC,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCIPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCSAC,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCSLAC,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCSPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCWDIPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCWDPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCWI,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+SCWIPAT,Assembly,aendcap1,1,Assy end cap with 2 pins on housing,0.23,,,,,,
+WBDLED,Assembly,aendcap8,1,fix end cap with 4 screws(2x),0.75,,,,,,
+WBDWLED,Assembly,aendcap8,1,fix end cap with 4 screws(2x),0.75,,,,,,
+WBILED,Assembly,aendcap8,1,fix end cap with 4 screws(2x),0.75,,,,,,
+WBIWLED,Assembly,aendcap8,1,fix end cap with 4 screws(2x),0.75,,,,,,
+WBRVLED,Assembly,aendcap7,1,Fix 1 endcap to housing,0.84,,,,,,
+B6DILED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,,,,
+B6WILED,Assembly,aendcap3,1,Press end cap & screw(4),1.14,,,,,,
+BMWLED,Assembly,aendcap5,1,Press end cap & screw(2),0.52,,,,,,
+CLKLED,Assembly,aendcap8,1,fix end cap with 4 screws(2x),0.75,,,,,,
+CUBLED,Preparation,aendcap09,1,thread 2 holes in casting,0.32,,,,,,
+CUBLED,Assembly,aendcap09,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+CUBWLED,Preparation,aendcap09,1,thread 2 holes in casting,0.32,,,,,,
+CUBWLED,Assembly,aendcap09,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+LTLED,Preparation,aendcap09,1,thread 2 holes in casting,0.32,,,,,,
+LTLED,Assembly,aendcap09,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+LTWLED,Preparation,aendcap09,1,thread 2 holes in casting,0.32,,,,,,
+LTWLED,Assembly,aendcap09,2,place & fix end cap with 2 screws(+washer),1.25,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

@@ -1,0 +1,82 @@
+Circuit Option,Lighting,Ballast Fixation,Work Center,Option,ID,Task,Time(min),,,Sum of Time(min),Column Labels,,
+GTD,fluorescent,"no brkt:2 nuts, 1 screw",Assembly,nightlight2fluo,4,put GTD in housing and fix with screws,0.87,,,Row Labels,fluorescent,led,Grand Total
+GTD,fluorescent,"no brkt:2 nuts, 1 screw",Assembly,nightlight2fluo,5,inverter connections+get out wires,0.3,,,"no brkt:2 nuts, 1 screw",10.25,10.29,20.54
+GTD,fluorescent,"no brkt:2 nuts, 1 screw",Assembly,nightlight2fluo,6,indicator light connections+clip light,2,,,Assembly,9.54,9.54,19.08
+GTD,fluorescent,"no brkt:2 nuts, 1 screw",Assembly,nightlight2fluo,7,test switch connections,2.81,,,Drill,,0.45,0.45
+GTD,fluorescent,"no brkt:2 nuts, 1 screw",Assembly,nightlight2fluo,8,extra time to connect light to GTD,1,,,Preparation,0.71,0.3,1.01
+GTD,fluorescent,"no brkt:2 nuts, 1 screw",Assembly,nightlight2fluo,9,extra time to connect driver to GTD,2,,,on housing: 3screws,10.55,10.59,21.14
+GTD,fluorescent,"no brkt:2 nuts, 1 screw",Assembly,nightlight2fluo,10,extra time for GTD test,0.2,,,Assembly,9.84,9.84,19.68
+GTD,fluorescent,"no brkt:2 nuts, 1 screw",Assembly,nightlight2fluo,11,GTD labels,0.36,,,Drill,,0.45,0.45
+GTD,fluorescent,on housing: 3screws,Assembly,nightlight1fluo,4,put GTD in housing and fix with screws,1.17,,,Preparation,0.71,0.3,1.01
+GTD,fluorescent,on housing: 3screws,Assembly,nightlight1fluo,5,inverter connections+get out wires,0.3,,,sub brkt : 5 screws,12.41,11.45,23.86
+GTD,fluorescent,on housing: 3screws,Assembly,nightlight1fluo,6,indicator light connections+clip light,2,,,Assembly,10.7,10.7,21.4
+GTD,fluorescent,on housing: 3screws,Assembly,nightlight1fluo,7,test switch connections,2.81,,,Drill,,0.45,0.45
+GTD,fluorescent,on housing: 3screws,Assembly,nightlight1fluo,8,extra time to connect light to GTD,1,,,Preparation,1.71,0.3,2.01
+GTD,fluorescent,on housing: 3screws,Assembly,nightlight1fluo,9,extra time to connect driver to GTD,2,,,XO : 3 screws +2brkt,11.03,11.07,22.1
+GTD,fluorescent,on housing: 3screws,Assembly,nightlight1fluo,10,extra time for GTD test,0.2,,,Assembly,10.32,10.32,20.64
+GTD,fluorescent,on housing: 3screws,Assembly,nightlight1fluo,11,GTD labels,0.36,,,Drill,,0.45,0.45
+GTD,fluorescent,sub brkt : 5 screws,Assembly,nightlight3fluo,5,put GTD in housing and fix brkt with 5 screws,2.03,,,Preparation,0.71,0.3,1.01
+GTD,fluorescent,sub brkt : 5 screws,Assembly,nightlight3fluo,6,inverter connections+get out wires,0.3,,,Grand Total,44.24,43.4,87.64
+GTD,fluorescent,sub brkt : 5 screws,Assembly,nightlight3fluo,7,indicator light connections+clip light,2,,,,,,
+GTD,fluorescent,sub brkt : 5 screws,Assembly,nightlight3fluo,8,test switch connections,2.81,,,,,,
+GTD,fluorescent,sub brkt : 5 screws,Assembly,nightlight3fluo,9,extra time to connect light to GTD,1,,,,,,
+GTD,fluorescent,sub brkt : 5 screws,Assembly,nightlight3fluo,10,extra time to connect driver to GTD,2,,,,,,
+GTD,fluorescent,sub brkt : 5 screws,Assembly,nightlight3fluo,11,extra time for GTD test,0.2,,,,,,
+GTD,fluorescent,sub brkt : 5 screws,Assembly,nightlight3fluo,12,GTD labels,0.36,,,,,,
+GTD,fluorescent,XO : 3 screws +2brkt,Assembly,nightlight4fluo,4,put GTD in housing and fix with XO brkt & screws,1.65,,,,,,
+GTD,fluorescent,XO : 3 screws +2brkt,Assembly,nightlight4fluo,5,inverter connections+get out wires,0.3,,,,,,
+GTD,fluorescent,XO : 3 screws +2brkt,Assembly,nightlight4fluo,6,indicator light connections+clip light,2,,,,,,
+GTD,fluorescent,XO : 3 screws +2brkt,Assembly,nightlight4fluo,7,test switch connections,2.81,,,,,,
+GTD,fluorescent,XO : 3 screws +2brkt,Assembly,nightlight4fluo,8,extra time to connect light to GTD,1,,,,,,
+GTD,fluorescent,XO : 3 screws +2brkt,Assembly,nightlight4fluo,9,extra time to connect driver to GTD,2,,,,,,
+GTD,fluorescent,XO : 3 screws +2brkt,Assembly,nightlight4fluo,10,extra time for GTD test,0.2,,,,,,
+GTD,fluorescent,XO : 3 screws +2brkt,Assembly,nightlight4fluo,11,GTD labels,0.36,,,,,,
+GTD,led,"no brkt:2 nuts, 1 screw",Assembly,nightlight2led,3,put GTD in housing and fix with nuts,0.87,,,,,,
+GTD,led,"no brkt:2 nuts, 1 screw",Assembly,nightlight2led,4,inverter connections+get out wires,0.3,,,,,,
+GTD,led,"no brkt:2 nuts, 1 screw",Assembly,nightlight2led,5,indicator light connections+clip light,2,,,,,,
+GTD,led,"no brkt:2 nuts, 1 screw",Assembly,nightlight2led,6,test switch connections,2.81,,,,,,
+GTD,led,"no brkt:2 nuts, 1 screw",Assembly,nightlight2led,7,extra time to connecte driver to GTD,3,,,,,,
+GTD,led,"no brkt:2 nuts, 1 screw",Assembly,nightlight2led,8,extra time for GTD test,0.2,,,,,,
+GTD,led,"no brkt:2 nuts, 1 screw",Assembly,nightlight2led,9,GTD labels,0.36,,,,,,
+GTD,led,on housing: 3screws,Assembly,nightlight1led,3,put GTD in housing and fix with screws,1.17,,,,,,
+GTD,led,on housing: 3screws,Assembly,nightlight1led,4,inverter connections+get out wires,0.3,,,,,,
+GTD,led,on housing: 3screws,Assembly,nightlight1led,5,indicator light connections+clip light,2,,,,,,
+GTD,led,on housing: 3screws,Assembly,nightlight1led,6,test switch connections,2.81,,,,,,
+GTD,led,on housing: 3screws,Assembly,nightlight1led,7,extra time to connecte driver to GTD,3,,,,,,
+GTD,led,on housing: 3screws,Assembly,nightlight1led,8,extra time for GTD test,0.2,,,,,,
+GTD,led,on housing: 3screws,Assembly,nightlight1led,9,GTD labels,0.36,,,,,,
+GTD,led,sub brkt : 5 screws,Assembly,nightlight3led,3,put GTD in housing and fix brkt with 5 screws,2.03,,,,,,
+GTD,led,sub brkt : 5 screws,Assembly,nightlight3led,4,inverter connections+get out wires,0.3,,,,,,
+GTD,led,sub brkt : 5 screws,Assembly,nightlight3led,5,indicator light connections+clip light,2,,,,,,
+GTD,led,sub brkt : 5 screws,Assembly,nightlight3led,6,test switch connections,2.81,,,,,,
+GTD,led,sub brkt : 5 screws,Assembly,nightlight3led,7,extra time to connecte driver to GTD,3,,,,,,
+GTD,led,sub brkt : 5 screws,Assembly,nightlight3led,8,extra time for GTD test,0.2,,,,,,
+GTD,led,sub brkt : 5 screws,Assembly,nightlight3led,9,GTD labels,0.36,,,,,,
+GTD,led,XO : 3 screws +2brkt,Assembly,nightlight4led,3,put GTD in housing and fix brkt with 5 screws,1.65,,,,,,
+GTD,led,XO : 3 screws +2brkt,Assembly,nightlight4led,4,inverter connections+get out wires,0.3,,,,,,
+GTD,led,XO : 3 screws +2brkt,Assembly,nightlight4led,5,indicator light connections+clip light,2,,,,,,
+GTD,led,XO : 3 screws +2brkt,Assembly,nightlight4led,6,test switch connections,2.81,,,,,,
+GTD,led,XO : 3 screws +2brkt,Assembly,nightlight4led,7,extra time to connecte driver to GTD,3,,,,,,
+GTD,led,XO : 3 screws +2brkt,Assembly,nightlight4led,8,extra time for GTD test,0.2,,,,,,
+GTD,led,XO : 3 screws +2brkt,Assembly,nightlight4led,9,GTD labels,0.36,,,,,,
+GTD,led,"no brkt:2 nuts, 1 screw",Drill,nightlight2led,2,drill hole in reflector for invertor wires,0.45,,,,,,
+GTD,led,on housing: 3screws,Drill,nightlight1led,2,drill hole in reflector for invertor wires,0.45,,,,,,
+GTD,led,sub brkt : 5 screws,Drill,nightlight3led,2,drill hole in reflector for invertor wires,0.45,,,,,,
+GTD,led,XO : 3 screws +2brkt,Drill,nightlight4led,2,drill hole in reflector for invertor wires,0.45,,,,,,
+GTD,fluorescent,"no brkt:2 nuts, 1 screw",Preparation,nightlight2fluo,1,remove GTD & acc. from box,0.3,,,,,,
+GTD,fluorescent,"no brkt:2 nuts, 1 screw",Preparation,nightlight2fluo,2,cap unused lead wire (black or orange),0.33,,,,,,
+GTD,fluorescent,"no brkt:2 nuts, 1 screw",Preparation,nightlight2fluo,3,put GTD aside,0.08,,,,,,
+GTD,fluorescent,on housing: 3screws,Preparation,nightlight1fluo,1,remove GTD & acc. from box,0.3,,,,,,
+GTD,fluorescent,on housing: 3screws,Preparation,nightlight1fluo,2,cap unused lead wire (black or orange),0.33,,,,,,
+GTD,fluorescent,on housing: 3screws,Preparation,nightlight1fluo,3,put GTD aside,0.08,,,,,,
+GTD,fluorescent,sub brkt : 5 screws,Preparation,nightlight3fluo,1,remove GTD & acc. from box,0.3,,,,,,
+GTD,fluorescent,sub brkt : 5 screws,Preparation,nightlight3fluo,2,cap unused lead wire (black or orange),0.33,,,,,,
+GTD,fluorescent,sub brkt : 5 screws,Preparation,nightlight3fluo,3,installed 2 brackets,1,,,,,,
+GTD,fluorescent,sub brkt : 5 screws,Preparation,nightlight3fluo,4,put GTD aside,0.08,,,,,,
+GTD,fluorescent,XO : 3 screws +2brkt,Preparation,nightlight4fluo,1,remove GTD & acc. from box,0.3,,,,,,
+GTD,fluorescent,XO : 3 screws +2brkt,Preparation,nightlight4fluo,2,cap unused lead wire (black or orange),0.33,,,,,,
+GTD,fluorescent,XO : 3 screws +2brkt,Preparation,nightlight4fluo,3,put GTD aside,0.08,,,,,,
+GTD,led,"no brkt:2 nuts, 1 screw",Preparation,nightlight2led,1,sub-assembly GTD,0.3,,,,,,
+GTD,led,on housing: 3screws,Preparation,nightlight1led,1,sub-assembly GTD,0.3,,,,,,
+GTD,led,sub brkt : 5 screws,Preparation,nightlight3led,1,sub-assembly GTD,0.3,,,,,,
+GTD,led,XO : 3 screws +2brkt,Preparation,nightlight4led,1,sub-assembly GTD,0.3,,,,,,
