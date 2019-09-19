@@ -26,6 +26,9 @@ namespace Axis_ProdTimeDB.DAL
         private List<string> ParamNames = new List<string>();
         private List<string> ParamValue = new List<string>();
         private List<int?> lengthParam = new List<int?>();
+        private string fixtureCode;
+        private string productCode;
+        private string ProdFamCode;
         public ProductClass(string ProductCode)
         {
 
@@ -34,139 +37,209 @@ namespace Axis_ProdTimeDB.DAL
             bool morepage;
             var BO = UD30BO.GetRows(string.Format("Key1 = 'PRODUCTID' and key2 = '{0}'", this.BOM.GetselectedproductID_Category), "", 0, 0, out morepage);
 
-            string productCode = BO.UD03[0]["Key2"].ToString();
-            string fixtureCode = BO.UD03[0]["Character03"].ToString();
-            string ProdFamCode = BO.UD03[0]["Key3"].ToString();
+            this.productCode = BO.UD03[0]["Key2"].ToString();
+            this.fixtureCode = BO.UD03[0]["Character03"].ToString();
+            this.ProdFamCode = BO.UD03[0]["Key3"].ToString();
 
-           
+
             string optic = this.BOM.GetSelectedOpticsDirect_Category.ToString();
-            string mouting = this.BOM.GetSelectedMounting_Category.ToString();
-
+            string mounting = this.BOM.GetSelectedMounting_Category.ToString();
+            string driver = this.BOM.GetSelectedDriver_Category;
+            string defaultMounting = "-";
             var x = (this.BOM.GetSelectedLength_Category.ToString()).Replace("'", "");
             int length = Int32.Parse(x);
-            
+
             lengthParam.Add(null);
-            lengthParam.Add(length);
+
+
+
+
+            List<string> sectionType = new List<string>();
+
+            if (length < 12)
+            {
+                lengthParam.Add(length);
+                sectionType.Add("Complete Section");
+                using (var db = new TimeContext())
+                {
+                    int dummy;
+                    var lengthtest = db.Options.Where(r => r.OptionName == "Length" && r.sectionLength == length).FirstOrDefault();
+                    var cartridge = (from row in lengthtest.Params where !int.TryParse(row.ParamValue, out dummy) select row.ParamValue).ToList();
+                    sectionType.AddRange(cartridge);
+
+                }
+            }
+            else
+            {
+                using (var db = new TimeContext())
+                {
+                    int dummy;
+                    var lengthtest = db.Options.Where(r => r.OptionName == "Length" && r.sectionLength == length).FirstOrDefault();
+                    var cartridge = (from row in lengthtest.Params where !int.TryParse(row.ParamValue, out dummy) select row.ParamValue).ToList();
+                    List<int> Length = (from row in lengthtest.Params where int.TryParse(row.ParamValue, out dummy) select Int32.Parse(row.ParamValue)).ToList();
+                    sectionType.AddRange(cartridge);
+                    var newList = Length.Select(i => (int?)i).ToList();
+                    lengthParam.AddRange(newList);
+                }
+
+            }
+
 
             ParamValue.AddRange(new List<string>
             {
                 optic,
-                mouting,
-                "-",
-                "C6-2"
+                mounting,
+                defaultMounting,
+                driver, //Driver
+               
             });
+            ParamValue.AddRange(sectionType);
+            this.Initial();
+            this.retrieveTime();
+        }
 
 
+
+        private void Initial()
+        {
             using (var db = new TimeContext())
             {
 
-                List<FixtureTB> fixture = db.Fixtures.Where(item => item.FxCode == fixtureCode).ToList();
-                List<ProdTB> product = db.Prod.Where(item => item.ProdCode == productCode).ToList();
-                List<ProdFamTB> prodfam = db.ProdFam.Where(item => item.FamCode == ProdFamCode).ToList();
+                List<FixtureTB> fixture = db.Fixtures.Where(item => item.FxCode == this.fixtureCode).ToList();
+                List<ProdTB> product = db.Prod.Where(item => item.ProdCode == this.productCode).ToList();
+                List<ProdFamTB> prodfam = db.ProdFam.Where(item => item.FamCode == this.ProdFamCode).ToList();
 
-                var ParamNames = db.Params.Select(m => m.ParamName).Distinct().ToList();
-                this.ParamNames = ParamNames;
 
 
                 foreach (var workcenter in product)
                 {
                     ProdTime[workcenter.WorkCenter.ToString()] = 0;
-                   
-                    List<string> usedOption = new List<string>();
-
-                    foreach (var item in workcenter.Options.Where(item => !usedOption.Contains(item.OptionName)
-                    && lengthParam.Contains(item.sectionLength)))
-                    {
-                       
-                        if (item.Params.Count == 0)
-                        {
-                            usedOption.Add(item.OptionName);
-                            ProdTime[workcenter.WorkCenter.ToString()] += item.ProdTime;
-                            continue;
-                        }
-
-
-                        var check = item.Params.Where(r => this.ParamNames.Contains(r.ParamName) && ParamValue.Contains(r.ParamValue)).ToList();
-                        if (check.Count > 0)
-                        {
-                            usedOption.Add(item.OptionName);
-                            ProdTime[workcenter.WorkCenter.ToString()] += item.ProdTime;
-                        }
-
-
-                    }
 
                 }
                 foreach (var workcenter in fixture)
                 {
-                    
-                    List<string> usedOption = new List<string>();
-
-                    foreach (var item in workcenter.Options.Where(item => !usedOption.Contains(item.OptionName)
-                    && lengthParam.Contains(item.sectionLength)))
-                    {
-                       
-
-                        var check = item.Params.Where(r => this.ParamNames.Contains(r.ParamName) && ParamValue.Contains(r.ParamValue)).ToList();
-                        if (check.Count > 0)
-                        {
-                            usedOption.Add(item.OptionName);
-                            if (!ProdTime.Keys.Contains(workcenter.WorkCenter.ToString()))
-                            {
-                                ProdTime[workcenter.WorkCenter.ToString()] = item.ProdTime;
-                            }
-                            else
-                            {
-
-                                ProdTime[workcenter.WorkCenter.ToString()] += item.ProdTime;
-                            }
-                        }
-
-
-                    }
+                    ProdTime[workcenter.WorkCenter.ToString()] = 0;
 
                 }
                 foreach (var workcenter in prodfam)
                 {
-                   
-
-                    List<string> usedOption = new List<string>();
-
-                    foreach (var item in workcenter.Options.Where(item => !usedOption.Contains(item.OptionName)
-                    && lengthParam.Contains(item.sectionLength)))
-                    {
-                       
-
-                        var check = item.Params.Where(r => this.ParamNames.Contains(r.ParamName) && ParamValue.Contains(r.ParamValue)).ToList();
-                        if (check.Count > 0)
-                        {
-                            usedOption.Add(item.OptionName);
-                            if (!ProdTime.Keys.Contains(workcenter.WorkCenter.ToString()))
-                            {
-                                ProdTime[workcenter.WorkCenter.ToString()] = item.ProdTime;
-                            }
-                            else
-                            {
-
-                                ProdTime[workcenter.WorkCenter.ToString()] += item.ProdTime;
-                            }
-                        }
-
-
-                    }
+                    ProdTime[workcenter.WorkCenter.ToString()] = 0;
 
                 }
 
+            }
+        }
+
+        private void retrieveTime()
+        {
+            for (int i = 0; i < this.lengthParam.Count; i++ )
+            {
+                if (this.lengthParam[i] <= 4) this.lengthParam[i] = 4;
+                else if (this.lengthParam[i] <= 8) this.lengthParam[i] = 8;
+                else  this.lengthParam[i] = 12;
+            }
 
 
+                foreach (var length in this.lengthParam)
+            {
+               
+
+                using (var db = new TimeContext())
+                {
+
+                    List<FixtureTB> fixture = db.Fixtures.Where(item => item.FxCode == this.fixtureCode).ToList();
+                    List<ProdTB> product = db.Prod.Where(item => item.ProdCode == this.productCode).ToList();
+                    List<ProdFamTB> prodfam = db.ProdFam.Where(item => item.FamCode == this.ProdFamCode).ToList();
+
+                    var ParamNames = db.Params.Select(m => m.ParamName).Distinct().ToList();
+                    this.ParamNames = ParamNames;
+
+
+                    foreach (var workcenter in product)
+                    {
+
+
+                        List<string> usedOption = new List<string>();
+
+                        foreach (var item in workcenter.Options.Where(item => !usedOption.Contains(item.OptionName)
+                        && item.sectionLength == length))
+                        {
+
+                            if (item.Params.Count == 0)
+                            {
+                                usedOption.Add(item.OptionName);
+                                ProdTime[workcenter.WorkCenter.ToString()] += item.ProdTime;
+                                continue;
+                            }
+
+
+                            var check = item.Params.Where(r => this.ParamNames.Contains(r.ParamName) && ParamValue.Contains(r.ParamValue)).ToList();
+                            if (check.Count > 0)
+                            {
+                                usedOption.Add(item.OptionName);
+                                ProdTime[workcenter.WorkCenter.ToString()] += item.ProdTime;
+                            }
+
+
+                        }
+
+                    }
+
+                    foreach (var workcenter in fixture)
+                    {
+                        List<string> usedOption = new List<string>();
+
+                        foreach (var item in workcenter.Options.Where(item => !usedOption.Contains(item.OptionName)
+                        && item.sectionLength == length))
+                        {
+
+
+                            var check = item.Params.Where(r => this.ParamNames.Contains(r.ParamName) && ParamValue.Contains(r.ParamValue)).ToList();
+                            if (check.Count > 0)
+                            {
+                                usedOption.Add(item.OptionName);
+                                ProdTime[workcenter.WorkCenter.ToString()] += item.ProdTime;
+                                
+                            }
+
+
+                        }
+
+                    }
+
+                    foreach (var workcenter in prodfam)
+                    {
+
+
+                        List<string> usedOption = new List<string>();
+
+                        foreach (var item in workcenter.Options.Where(item => !usedOption.Contains(item.OptionName)
+                        && item.sectionLength == length))
+                        {
+
+
+                            var check = item.Params.Where(r => this.ParamNames.Contains(r.ParamName) && ParamValue.Contains(r.ParamValue)).ToList();
+                            if (check.Count > 0)
+                            {
+                                usedOption.Add(item.OptionName);
+                                ProdTime[workcenter.WorkCenter.ToString()] += item.ProdTime;
+                                
+                            }
+
+
+                        }
+
+                    }
+
+
+
+
+                }
 
             }
 
 
-
         }
-        
-
     }
 
 

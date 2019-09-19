@@ -1,0 +1,1545 @@
+ Section , Fixture Type , Circuit , Kind Of Ballast/Driver , Work Center , Wires Qty , Option , ID , Task , Time (min) 
+Complete Section,pendant,1,BI,Assembly,4,ewdbi1p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,1,BI,Assembly,4,ewdbi1p,2,bring power wires for continious row,0
+Complete Section,pendant,1,BI,Assembly,4,ewdbi1p,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,pendant,1,BI,Assembly,4,ewdbi1p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+Complete Section,pendant,1,BI,Assembly,4,ewdbi1p,5,turn power cord,0.17
+SR1,pendant,1,BI,Assembly,4,ewdbi1p,1,bring exit wires to exit#1,0.15
+SR1,pendant,1,BI,Assembly,4,ewdbi1p,2,bring power wires for continious row,0.1
+SR1,pendant,1,BI,Assembly,4,ewdbi1p,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,pendant,1,BI,Assembly,4,ewdbi1p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,pendant,1,BI,Assembly,4,ewdbi1p,5,turn power cord,0.17
+SRM,pendant,1,BI,Assembly,4,ewdbi1p,1,bring exit wires to exit#1,0
+SRM,pendant,1,BI,Assembly,4,ewdbi1p,2,bring power wires for continious row,0.2
+SRM,pendant,1,BI,Assembly,4,ewdbi1p,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,pendant,1,BI,Assembly,4,ewdbi1p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,1,BI,Assembly,4,ewdbi1p,5,turn power cord,0
+SRE,pendant,1,BI,Assembly,4,ewdbi1p,1,bring exit wires to exit#1,0
+SRE,pendant,1,BI,Assembly,4,ewdbi1p,2,bring power wires for continious row,0.1
+SRE,pendant,1,BI,Assembly,4,ewdbi1p,3,plug 4x pc252 connectors for continius row wires,0
+SRE,pendant,1,BI,Assembly,4,ewdbi1p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,pendant,1,BI,Assembly,4,ewdbi1p,5,turn power cord,0
+Complete Section,pendant,2,BI,Assembly,4,ewdbi2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2,BI,Assembly,4,ewdbi2p,2,bring exit wires to exit#2,0.15
+Complete Section,pendant,2,BI,Assembly,4,ewdbi2p,3,bring power wires for continious row,0
+Complete Section,pendant,2,BI,Assembly,4,ewdbi2p,4,plug 4x pc252 connectors for continius row wires,0
+Complete Section,pendant,2,BI,Assembly,4,ewdbi2p,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,2.92
+Complete Section,pendant,2,BI,Assembly,4,ewdbi2p,6,turn power cords,0.34
+SR1,pendant,2,BI,Assembly,4,ewdbi2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2,BI,Assembly,4,ewdbi2p,2,bring exit wires to exit#2,0
+SR1,pendant,2,BI,Assembly,4,ewdbi2p,3,bring power wires for continious row,0.1
+SR1,pendant,2,BI,Assembly,4,ewdbi2p,4,plug 4x pc252 connectors for continius row wires,0.24
+SR1,pendant,2,BI,Assembly,4,ewdbi2p,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,pendant,2,BI,Assembly,4,ewdbi2p,6,turn power cords,0.17
+SRM,pendant,2,BI,Assembly,4,ewdbi2p,1,bring exit wires to exit#1,0
+SRM,pendant,2,BI,Assembly,4,ewdbi2p,2,bring exit wires to exit#2,0
+SRM,pendant,2,BI,Assembly,4,ewdbi2p,3,bring power wires for continious row,0.2
+SRM,pendant,2,BI,Assembly,4,ewdbi2p,4,plug 4x pc252 connectors for continius row wires,0.24
+SRM,pendant,2,BI,Assembly,4,ewdbi2p,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2,BI,Assembly,4,ewdbi2p,6,turn power cords,0
+SRE,pendant,2,BI,Assembly,4,ewdbi2p,1,bring exit wires to exit#1,0
+SRE,pendant,2,BI,Assembly,4,ewdbi2p,2,bring exit wires to exit#2,0.15
+SRE,pendant,2,BI,Assembly,4,ewdbi2p,3,bring power wires for continious row,0.1
+SRE,pendant,2,BI,Assembly,4,ewdbi2p,4,plug 4x pc252 connectors for continius row wires,0
+SRE,pendant,2,BI,Assembly,4,ewdbi2p,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRE,pendant,2,BI,Assembly,4,ewdbi2p,6,turn power cords,0.17
+Complete Section,pendant,2A/B,BI,Assembly,4,ewdbi2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2A/B,BI,Assembly,4,ewdbi2p,2,bring exit wires to exit#2,0.15
+Complete Section,pendant,2A/B,BI,Assembly,4,ewdbi2p,3,bring power wires for continious row,0
+Complete Section,pendant,2A/B,BI,Assembly,4,ewdbi2p,4,plug 4x pc252 connectors for continius row wires,0
+Complete Section,pendant,2A/B,BI,Assembly,4,ewdbi2p,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,2.92
+Complete Section,pendant,2A/B,BI,Assembly,4,ewdbi2p,6,turn power cords,0.34
+SR1,pendant,2A/B,BI,Assembly,4,ewdbi2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2A/B,BI,Assembly,4,ewdbi2p,2,bring exit wires to exit#2,0
+SR1,pendant,2A/B,BI,Assembly,4,ewdbi2p,3,bring power wires for continious row,0.1
+SR1,pendant,2A/B,BI,Assembly,4,ewdbi2p,4,plug 4x pc252 connectors for continius row wires,0.24
+SR1,pendant,2A/B,BI,Assembly,4,ewdbi2p,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,pendant,2A/B,BI,Assembly,4,ewdbi2p,6,turn power cords,0.17
+SRM,pendant,2A/B,BI,Assembly,4,ewdbi2p,1,bring exit wires to exit#1,0
+SRM,pendant,2A/B,BI,Assembly,4,ewdbi2p,2,bring exit wires to exit#2,0
+SRM,pendant,2A/B,BI,Assembly,4,ewdbi2p,3,bring power wires for continious row,0.2
+SRM,pendant,2A/B,BI,Assembly,4,ewdbi2p,4,plug 4x pc252 connectors for continius row wires,0.24
+SRM,pendant,2A/B,BI,Assembly,4,ewdbi2p,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2A/B,BI,Assembly,4,ewdbi2p,6,turn power cords,0
+SRE,pendant,2A/B,BI,Assembly,4,ewdbi2p,1,bring exit wires to exit#1,0
+SRE,pendant,2A/B,BI,Assembly,4,ewdbi2p,2,bring exit wires to exit#2,0.15
+SRE,pendant,2A/B,BI,Assembly,4,ewdbi2p,3,bring power wires for continious row,0.1
+SRE,pendant,2A/B,BI,Assembly,4,ewdbi2p,4,plug 4x pc252 connectors for continius row wires,0
+SRE,pendant,2A/B,BI,Assembly,4,ewdbi2p,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRE,pendant,2A/B,BI,Assembly,4,ewdbi2p,6,turn power cords,0.17
+Complete Section,recessed,1,BI,Assembly,4,ewdbi1r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,1,BI,Assembly,4,ewdbi1r,2,bring power wires for continious row,0
+Complete Section,recessed,1,BI,Assembly,4,ewdbi1r,3,plug 4x pc252 connectors for continius row wires,0
+SR1,recessed,1,BI,Assembly,4,ewdbi1r,1,bring exit wires to exit#1,0.15
+SR1,recessed,1,BI,Assembly,4,ewdbi1r,2,bring power wires for continious row,0.1
+SR1,recessed,1,BI,Assembly,4,ewdbi1r,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,recessed,1,BI,Assembly,4,ewdbi1r,1,bring exit wires to exit#1,0
+SRM,recessed,1,BI,Assembly,4,ewdbi1r,2,bring power wires for continious row,0.2
+SRM,recessed,1,BI,Assembly,4,ewdbi1r,3,plug 4x pc252 connectors for continius row wires,0.24
+SRE,recessed,1,BI,Assembly,4,ewdbi1r,1,bring exit wires to exit#1,0
+SRE,recessed,1,BI,Assembly,4,ewdbi1r,2,bring power wires for continious row,0.1
+SRE,recessed,1,BI,Assembly,4,ewdbi1r,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,recessed,2,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0.15
+Complete Section,recessed,2,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0
+Complete Section,recessed,2,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0
+SR1,recessed,2,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0
+SR1,recessed,2,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0.1
+SR1,recessed,2,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0.24
+SRM,recessed,2,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0
+SRM,recessed,2,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0
+SRM,recessed,2,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0.2
+SRM,recessed,2,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0.24
+SRE,recessed,2,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0
+SRE,recessed,2,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0.15
+SRE,recessed,2,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0.1
+SRE,recessed,2,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0
+Complete Section,recessed,2A/B,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2A/B,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0.15
+Complete Section,recessed,2A/B,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0
+Complete Section,recessed,2A/B,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0
+SR1,recessed,2A/B,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2A/B,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0
+SR1,recessed,2A/B,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0.1
+SR1,recessed,2A/B,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0.24
+SRM,recessed,2A/B,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0
+SRM,recessed,2A/B,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0
+SRM,recessed,2A/B,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0.2
+SRM,recessed,2A/B,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0.24
+SRE,recessed,2A/B,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0
+SRE,recessed,2A/B,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0.15
+SRE,recessed,2A/B,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0.1
+SRE,recessed,2A/B,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0
+Complete Section,surface,1,BI,Assembly,4,ewdbi1s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,1,BI,Assembly,4,ewdbi1s,2,bring power wires for continious row,0
+Complete Section,surface,1,BI,Assembly,4,ewdbi1s,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,surface,1,BI,Assembly,4,ewdbi1s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,surface,1,BI,Assembly,4,ewdbi1s,1,bring exit wires to exit#1,0.15
+SR1,surface,1,BI,Assembly,4,ewdbi1s,2,bring power wires for continious row,0.1
+SR1,surface,1,BI,Assembly,4,ewdbi1s,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,surface,1,BI,Assembly,4,ewdbi1s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,surface,1,BI,Assembly,4,ewdbi1s,1,bring exit wires to exit#1,0
+SRM,surface,1,BI,Assembly,4,ewdbi1s,2,bring power wires for continious row,0.2
+SRM,surface,1,BI,Assembly,4,ewdbi1s,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,surface,1,BI,Assembly,4,ewdbi1s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,1,BI,Assembly,4,ewdbi1s,1,bring exit wires to exit#1,0
+SRE,surface,1,BI,Assembly,4,ewdbi1s,2,bring power wires for continious row,0.1
+SRE,surface,1,BI,Assembly,4,ewdbi1s,3,plug 4x pc252 connectors for continius row wires,0
+SRE,surface,1,BI,Assembly,4,ewdbi1s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,surface,2,BI,Assembly,4,ewdbi2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2,BI,Assembly,4,ewdbi2s,2,bring exit wires to exit#2,0.15
+Complete Section,surface,2,BI,Assembly,4,ewdbi2s,3,bring power wires for continious row,0
+Complete Section,surface,2,BI,Assembly,4,ewdbi2s,4,plug 4x pc252 connectors for continius row wires,0
+Complete Section,surface,2,BI,Assembly,4,ewdbi2s,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,2.92
+SR1,surface,2,BI,Assembly,4,ewdbi2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2,BI,Assembly,4,ewdbi2s,2,bring exit wires to exit#2,0
+SR1,surface,2,BI,Assembly,4,ewdbi2s,3,bring power wires for continious row,0.1
+SR1,surface,2,BI,Assembly,4,ewdbi2s,4,plug 4x pc252 connectors for continius row wires,0.24
+SR1,surface,2,BI,Assembly,4,ewdbi2s,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,surface,2,BI,Assembly,4,ewdbi2s,1,bring exit wires to exit#1,0
+SRM,surface,2,BI,Assembly,4,ewdbi2s,2,bring exit wires to exit#2,0
+SRM,surface,2,BI,Assembly,4,ewdbi2s,3,bring power wires for continious row,0.2
+SRM,surface,2,BI,Assembly,4,ewdbi2s,4,plug 4x pc252 connectors for continius row wires,0.24
+SRM,surface,2,BI,Assembly,4,ewdbi2s,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,2,BI,Assembly,4,ewdbi2s,1,bring exit wires to exit#1,0
+SRE,surface,2,BI,Assembly,4,ewdbi2s,2,bring exit wires to exit#2,0.15
+SRE,surface,2,BI,Assembly,4,ewdbi2s,3,bring power wires for continious row,0.1
+SRE,surface,2,BI,Assembly,4,ewdbi2s,4,plug 4x pc252 connectors for continius row wires,0
+SRE,surface,2,BI,Assembly,4,ewdbi2s,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+Complete Section,surface,2A/B,BI,Assembly,4,ewdbi2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2A/B,BI,Assembly,4,ewdbi2s,2,bring exit wires to exit#2,0.15
+Complete Section,surface,2A/B,BI,Assembly,4,ewdbi2s,3,bring power wires for continious row,0
+Complete Section,surface,2A/B,BI,Assembly,4,ewdbi2s,4,plug 4x pc252 connectors for continius row wires,0
+Complete Section,surface,2A/B,BI,Assembly,4,ewdbi2s,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,2.92
+SR1,surface,2A/B,BI,Assembly,4,ewdbi2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2A/B,BI,Assembly,4,ewdbi2s,2,bring exit wires to exit#2,0
+SR1,surface,2A/B,BI,Assembly,4,ewdbi2s,3,bring power wires for continious row,0.1
+SR1,surface,2A/B,BI,Assembly,4,ewdbi2s,4,plug 4x pc252 connectors for continius row wires,0.24
+SR1,surface,2A/B,BI,Assembly,4,ewdbi2s,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,surface,2A/B,BI,Assembly,4,ewdbi2s,1,bring exit wires to exit#1,0
+SRM,surface,2A/B,BI,Assembly,4,ewdbi2s,2,bring exit wires to exit#2,0
+SRM,surface,2A/B,BI,Assembly,4,ewdbi2s,3,bring power wires for continious row,0.2
+SRM,surface,2A/B,BI,Assembly,4,ewdbi2s,4,plug 4x pc252 connectors for continius row wires,0.24
+SRM,surface,2A/B,BI,Assembly,4,ewdbi2s,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,2A/B,BI,Assembly,4,ewdbi2s,1,bring exit wires to exit#1,0
+SRE,surface,2A/B,BI,Assembly,4,ewdbi2s,2,bring exit wires to exit#2,0.15
+SRE,surface,2A/B,BI,Assembly,4,ewdbi2s,3,bring power wires for continious row,0.1
+SRE,surface,2A/B,BI,Assembly,4,ewdbi2s,4,plug 4x pc252 connectors for continius row wires,0
+SRE,surface,2A/B,BI,Assembly,4,ewdbi2s,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+Complete Section,wall,1,BI,Assembly,4,ewdbi1w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,1,BI,Assembly,4,ewdbi1w,2,bring power wires for continious row,0
+Complete Section,wall,1,BI,Assembly,4,ewdbi1w,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,wall,1,BI,Assembly,4,ewdbi1w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,wall,1,BI,Assembly,4,ewdbi1w,1,bring exit wires to exit#1,0.15
+SR1,wall,1,BI,Assembly,4,ewdbi1w,2,bring power wires for continious row,0.1
+SR1,wall,1,BI,Assembly,4,ewdbi1w,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,wall,1,BI,Assembly,4,ewdbi1w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,wall,1,BI,Assembly,4,ewdbi1w,1,bring exit wires to exit#1,0
+SRM,wall,1,BI,Assembly,4,ewdbi1w,2,bring power wires for continious row,0.2
+SRM,wall,1,BI,Assembly,4,ewdbi1w,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,wall,1,BI,Assembly,4,ewdbi1w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,1,BI,Assembly,4,ewdbi1w,1,bring exit wires to exit#1,0
+SRE,wall,1,BI,Assembly,4,ewdbi1w,2,bring power wires for continious row,0.1
+SRE,wall,1,BI,Assembly,4,ewdbi1w,3,plug 4x pc252 connectors for continius row wires,0
+SRE,wall,1,BI,Assembly,4,ewdbi1w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,wall,2,BI,Assembly,4,ewdbi2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2,BI,Assembly,4,ewdbi2w,2,bring exit wires to exit#2,0.15
+Complete Section,wall,2,BI,Assembly,4,ewdbi2w,3,bring power wires for continious row,0
+Complete Section,wall,2,BI,Assembly,4,ewdbi2w,4,plug 4x pc252 connectors for continius row wires,0
+Complete Section,wall,2,BI,Assembly,4,ewdbi2w,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,2.92
+SR1,wall,2,BI,Assembly,4,ewdbi2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2,BI,Assembly,4,ewdbi2w,2,bring exit wires to exit#2,0
+SR1,wall,2,BI,Assembly,4,ewdbi2w,3,bring power wires for continious row,0.1
+SR1,wall,2,BI,Assembly,4,ewdbi2w,4,plug 4x pc252 connectors for continius row wires,0.24
+SR1,wall,2,BI,Assembly,4,ewdbi2w,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,wall,2,BI,Assembly,4,ewdbi2w,1,bring exit wires to exit#1,0
+SRM,wall,2,BI,Assembly,4,ewdbi2w,2,bring exit wires to exit#2,0
+SRM,wall,2,BI,Assembly,4,ewdbi2w,3,bring power wires for continious row,0.2
+SRM,wall,2,BI,Assembly,4,ewdbi2w,4,plug 4x pc252 connectors for continius row wires,0.24
+SRM,wall,2,BI,Assembly,4,ewdbi2w,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,2,BI,Assembly,4,ewdbi2w,1,bring exit wires to exit#1,0
+SRE,wall,2,BI,Assembly,4,ewdbi2w,2,bring exit wires to exit#2,0.15
+SRE,wall,2,BI,Assembly,4,ewdbi2w,3,bring power wires for continious row,0.1
+SRE,wall,2,BI,Assembly,4,ewdbi2w,4,plug 4x pc252 connectors for continius row wires,0
+SRE,wall,2,BI,Assembly,4,ewdbi2w,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+Complete Section,wall,2A/B,BI,Assembly,4,ewdbi2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2A/B,BI,Assembly,4,ewdbi2w,2,bring exit wires to exit#2,0.15
+Complete Section,wall,2A/B,BI,Assembly,4,ewdbi2w,3,bring power wires for continious row,0
+Complete Section,wall,2A/B,BI,Assembly,4,ewdbi2w,4,plug 4x pc252 connectors for continius row wires,0
+Complete Section,wall,2A/B,BI,Assembly,4,ewdbi2w,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,2.92
+SR1,wall,2A/B,BI,Assembly,4,ewdbi2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2A/B,BI,Assembly,4,ewdbi2w,2,bring exit wires to exit#2,0
+SR1,wall,2A/B,BI,Assembly,4,ewdbi2w,3,bring power wires for continious row,0.1
+SR1,wall,2A/B,BI,Assembly,4,ewdbi2w,4,plug 4x pc252 connectors for continius row wires,0.24
+SR1,wall,2A/B,BI,Assembly,4,ewdbi2w,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,wall,2A/B,BI,Assembly,4,ewdbi2w,1,bring exit wires to exit#1,0
+SRM,wall,2A/B,BI,Assembly,4,ewdbi2w,2,bring exit wires to exit#2,0
+SRM,wall,2A/B,BI,Assembly,4,ewdbi2w,3,bring power wires for continious row,0.2
+SRM,wall,2A/B,BI,Assembly,4,ewdbi2w,4,plug 4x pc252 connectors for continius row wires,0.24
+SRM,wall,2A/B,BI,Assembly,4,ewdbi2w,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,2A/B,BI,Assembly,4,ewdbi2w,1,bring exit wires to exit#1,0
+SRE,wall,2A/B,BI,Assembly,4,ewdbi2w,2,bring exit wires to exit#2,0.15
+SRE,wall,2A/B,BI,Assembly,4,ewdbi2w,3,bring power wires for continious row,0.1
+SRE,wall,2A/B,BI,Assembly,4,ewdbi2w,4,plug 4x pc252 connectors for continius row wires,0
+SRE,wall,2A/B,BI,Assembly,4,ewdbi2w,5,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+-,Grid,1,BI,Assembly,4,ewdbi1r,1,bring exit wires to exit#1,0.15
+-,Grid,1,BI,Assembly,4,ewdbi1r,2,bring power wires for continious row,0
+-,Grid,1,BI,Assembly,4,ewdbi1r,3,plug 4x pc252 connectors for continius row wires,0
+-,Grid,2,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0.15
+-,Grid,2,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0.15
+-,Grid,2,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0
+-,Grid,2,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0
+-,Grid,2A/B,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0.15
+-,Grid,2A/B,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0.15
+-,Grid,2A/B,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0
+-,Grid,2A/B,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0
+-,Grid LED,1,BI,Assembly,4,ewdbi1r,1,bring exit wires to exit#1,0.15
+-,Grid LED,1,BI,Assembly,4,ewdbi1r,2,bring power wires for continious row,0
+-,Grid LED,1,BI,Assembly,4,ewdbi1r,3,plug 4x pc252 connectors for continius row wires,0
+-,Grid LED,2,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0.15
+-,Grid LED,2,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0.15
+-,Grid LED,2,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0
+-,Grid LED,2,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0
+-,Grid LED,2A/B,BI,Assembly,4,ewdbi2r,1,bring exit wires to exit#1,0.15
+-,Grid LED,2A/B,BI,Assembly,4,ewdbi2r,2,bring exit wires to exit#2,0.15
+-,Grid LED,2A/B,BI,Assembly,4,ewdbi2r,3,bring power wires for continious row,0
+-,Grid LED,2A/B,BI,Assembly,4,ewdbi2r,4,plug 4x pc252 connectors for continius row wires,0
+-,Grid,1,D,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0.15
+-,Grid,1,D,Assembly,5,ewdd1r,2,bring power wires for continious row,0
+-,Grid,1,D,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0
+-,Grid,2,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+-,Grid,2,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+-,Grid,2,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0
+-,Grid,2,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+-,Grid LED,1,D,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0.15
+-,Grid LED,1,D,Assembly,5,ewdd1r,2,bring power wires for continious row,0
+-,Grid LED,1,D,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0
+-,Grid LED,2,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+-,Grid LED,2,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+-,Grid LED,2,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0
+-,Grid LED,2,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,pendant,1,D,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+Complete Section,pendant,1,D,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0
+Complete Section,pendant,1,D,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0
+Complete Section,pendant,1,D,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+Complete Section,pendant,1,D,Assembly,5,ewdd1p,5,turn power cord,0.17
+Complete Section,pendant,2,D,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2,D,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0.15
+Complete Section,pendant,2,D,Assembly,5,ewdd2p,3,bring power wires for continious row,0
+Complete Section,pendant,2,D,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,pendant,2,D,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,3.5
+Complete Section,pendant,2,D,Assembly,5,ewdd2p,6,turn power cords,0.34
+Complete Section,recessed,1,D,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,1,D,Assembly,5,ewdd1r,2,bring power wires for continious row,0
+Complete Section,recessed,1,D,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0
+Complete Section,recessed,2,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+Complete Section,recessed,2,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0
+Complete Section,recessed,2,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,surface,1,D,Assembly,5,ewdd1s,1,bring exit wires to exit#1,0.1
+Complete Section,surface,1,D,Assembly,5,ewdd1s,2,bring exit wires to exit#2,0
+Complete Section,surface,1,D,Assembly,5,ewdd1s,3,plug 5x pc252 connectors to exit wires#2,0
+Complete Section,surface,1,D,Assembly,5,ewdd1s,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+Complete Section,surface,1,D,Assembly,6,ewdlt1s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,1,D,Assembly,6,ewdlt1s,2,bring power wires for continious row,0
+Complete Section,surface,1,D,Assembly,6,ewdlt1s,3,plug 6x pc252 connectors for continius row wires,0
+Complete Section,surface,1,D,Assembly,6,ewdlt1s,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+Complete Section,surface,2,D,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2,D,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0.15
+Complete Section,surface,2,D,Assembly,5,ewdd2s,3,bring power wires for continious row,0
+Complete Section,surface,2,D,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,pendant,2A/B,D,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2A/B,D,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0.15
+Complete Section,pendant,2A/B,D,Assembly,5,ewdd2p,3,bring power wires for continious row,0
+Complete Section,pendant,2A/B,D,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,pendant,2A/B,D,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,3.5
+Complete Section,pendant,2A/B,D,Assembly,5,ewdd2p,6,turn power cords,0.34
+SR1,pendant,2A/B,D,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2A/B,D,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0
+SR1,pendant,2A/B,D,Assembly,5,ewdd2p,3,bring power wires for continious row,0.1
+SR1,pendant,2A/B,D,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,pendant,2A/B,D,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,pendant,2A/B,D,Assembly,5,ewdd2p,6,turn power cords,0.17
+SRM,pendant,2A/B,D,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0
+SRM,pendant,2A/B,D,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0
+SRM,pendant,2A/B,D,Assembly,5,ewdd2p,3,bring power wires for continious row,0.2
+SRM,pendant,2A/B,D,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,pendant,2A/B,D,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2A/B,D,Assembly,5,ewdd2p,6,turn power cords,0
+SRE,pendant,2A/B,D,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0
+SRE,pendant,2A/B,D,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0.15
+SRE,pendant,2A/B,D,Assembly,5,ewdd2p,3,bring power wires for continious row,0.1
+SRE,pendant,2A/B,D,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0
+SRE,pendant,2A/B,D,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SRE,pendant,2A/B,D,Assembly,5,ewdd2p,6,turn power cords,0.17
+Complete Section,surface,2,D,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,3.5
+Complete Section,surface,2,D,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2,D,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0.15
+Complete Section,surface,2,D,Assembly,6,ewdlt2s,3,bring power wires for continious row,0
+Complete Section,surface,2,D,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,surface,2,D,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,4.08
+Complete Section,wall,1,D,Assembly,5,ewdd1w,1,bring exit wires to exit#1,0.1
+Complete Section,wall,1,D,Assembly,5,ewdd1w,2,bring exit wires to exit#2,0
+Complete Section,wall,1,D,Assembly,5,ewdd1w,3,plug 5x pc252 connectors to exit wires#2,0
+Complete Section,wall,1,D,Assembly,5,ewdd1w,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+Complete Section,wall,1,D,Assembly,6,ewdlt1w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,1,D,Assembly,6,ewdlt1w,2,bring power wires for continious row,0
+Complete Section,wall,1,D,Assembly,6,ewdlt1w,3,plug 6x pc252 connectors for continius row wires,0
+Complete Section,wall,1,D,Assembly,6,ewdlt1w,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+Complete Section,wall,2,D,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2,D,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0.15
+Complete Section,wall,2,D,Assembly,5,ewdd2w,3,bring power wires for continious row,0
+Complete Section,wall,2,D,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,wall,2,D,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,3.5
+Complete Section,wall,2,D,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2,D,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0.15
+Complete Section,wall,2,D,Assembly,6,ewdlt2w,3,bring power wires for continious row,0
+Complete Section,wall,2,D,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,wall,2,D,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,4.08
+SR1,pendant,1,D,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+SR1,pendant,1,D,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0.15
+SR1,pendant,1,D,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0.3
+SR1,pendant,1,D,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+Complete Section,recessed,2A/B,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2A/B,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+Complete Section,recessed,2A/B,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0
+Complete Section,recessed,2A/B,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+SR1,recessed,2A/B,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2A/B,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0
+SR1,recessed,2A/B,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0.1
+SR1,recessed,2A/B,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,recessed,2A/B,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0
+SRM,recessed,2A/B,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0
+SRM,recessed,2A/B,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0.2
+SRM,recessed,2A/B,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0.3
+SRE,recessed,2A/B,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0
+SRE,recessed,2A/B,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+SRE,recessed,2A/B,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0.1
+SRE,recessed,2A/B,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+SR1,pendant,1,D,Assembly,5,ewdd1p,5,turn power cord,0.17
+SR1,pendant,2,D,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2,D,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0
+SR1,pendant,2,D,Assembly,5,ewdd2p,3,bring power wires for continious row,0.1
+SR1,pendant,2,D,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,pendant,2,D,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,pendant,2,D,Assembly,5,ewdd2p,6,turn power cords,0.17
+SR1,recessed,1,D,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0.15
+SR1,recessed,1,D,Assembly,5,ewdd1r,2,bring power wires for continious row,0.1
+SR1,recessed,1,D,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0.3
+SR1,recessed,2,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0
+SR1,recessed,2,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0.1
+SR1,recessed,2,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,surface,1,D,Assembly,5,ewdd1s,1,bring exit wires to exit#1,0.1
+SR1,surface,1,D,Assembly,5,ewdd1s,2,bring exit wires to exit#2,0.15
+SR1,surface,1,D,Assembly,5,ewdd1s,3,plug 5x pc252 connectors to exit wires#2,0.3
+SR1,surface,1,D,Assembly,5,ewdd1s,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,surface,1,D,Assembly,6,ewdlt1s,1,bring exit wires to exit#1,0.15
+SR1,surface,1,D,Assembly,6,ewdlt1s,2,bring power wires for continious row,0.1
+SR1,surface,1,D,Assembly,6,ewdlt1s,3,plug 6x pc252 connectors for continius row wires,0.36
+SR1,surface,1,D,Assembly,6,ewdlt1s,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,surface,2,D,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2,D,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0
+SR1,surface,2,D,Assembly,5,ewdd2s,3,bring power wires for continious row,0.1
+SR1,surface,2,D,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,surface,2,D,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,surface,2,D,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2,D,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0
+SR1,surface,2,D,Assembly,6,ewdlt2s,3,bring power wires for continious row,0.1
+SR1,surface,2,D,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0.36
+SR1,surface,2,D,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,wall,1,D,Assembly,5,ewdd1w,1,bring exit wires to exit#1,0.1
+SR1,wall,1,D,Assembly,5,ewdd1w,2,bring exit wires to exit#2,0.15
+SR1,wall,1,D,Assembly,5,ewdd1w,3,plug 5x pc252 connectors to exit wires#2,0.3
+SR1,wall,1,D,Assembly,5,ewdd1w,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,wall,1,D,Assembly,6,ewdlt1w,1,bring exit wires to exit#1,0.15
+SR1,wall,1,D,Assembly,6,ewdlt1w,2,bring power wires for continious row,0.1
+SR1,wall,1,D,Assembly,6,ewdlt1w,3,plug 6x pc252 connectors for continius row wires,0.36
+SR1,wall,1,D,Assembly,6,ewdlt1w,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,wall,2,D,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2,D,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0
+SR1,wall,2,D,Assembly,5,ewdd2w,3,bring power wires for continious row,0.1
+SR1,wall,2,D,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,wall,2,D,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,wall,2,D,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2,D,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0
+SR1,wall,2,D,Assembly,6,ewdlt2w,3,bring power wires for continious row,0.1
+SR1,wall,2,D,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0.36
+SR1,wall,2,D,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRE,pendant,1,D,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+SRE,pendant,1,D,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0
+SRE,pendant,1,D,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0
+SRE,pendant,1,D,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRE,pendant,1,D,Assembly,5,ewdd1p,5,turn power cord,0
+SRE,pendant,2,D,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0
+SRE,pendant,2,D,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0.15
+SRE,pendant,2,D,Assembly,5,ewdd2p,3,bring power wires for continious row,0.1
+SRE,pendant,2,D,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0
+SRE,pendant,2,D,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SRE,pendant,2,D,Assembly,5,ewdd2p,6,turn power cords,0.17
+SRE,recessed,1,D,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0
+SRE,recessed,1,D,Assembly,5,ewdd1r,2,bring power wires for continious row,0.1
+SRE,recessed,1,D,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0
+SRE,recessed,2,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0
+SRE,recessed,2,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+SRE,recessed,2,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0.1
+SRE,recessed,2,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+SRE,surface,1,D,Assembly,5,ewdd1s,1,bring exit wires to exit#1,0.1
+SRE,surface,1,D,Assembly,5,ewdd1s,2,bring exit wires to exit#2,0
+SRE,surface,1,D,Assembly,5,ewdd1s,3,plug 5x pc252 connectors to exit wires#2,0
+SRE,surface,1,D,Assembly,5,ewdd1s,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,surface,2A/B,D,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2A/B,D,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0.15
+Complete Section,surface,2A/B,D,Assembly,5,ewdd2s,3,bring power wires for continious row,0
+Complete Section,surface,2A/B,D,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,surface,2A/B,D,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,3.5
+SR1,surface,2A/B,D,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2A/B,D,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0
+SR1,surface,2A/B,D,Assembly,5,ewdd2s,3,bring power wires for continious row,0.1
+SR1,surface,2A/B,D,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,surface,2A/B,D,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SRM,surface,2A/B,D,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0
+SRM,surface,2A/B,D,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0
+SRM,surface,2A/B,D,Assembly,5,ewdd2s,3,bring power wires for continious row,0.2
+SRM,surface,2A/B,D,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,surface,2A/B,D,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,2A/B,D,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0
+SRE,surface,2A/B,D,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0.15
+SRE,surface,2A/B,D,Assembly,5,ewdd2s,3,bring power wires for continious row,0.1
+SRE,surface,2A/B,D,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0
+SRE,surface,2A/B,D,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+Complete Section,surface,2A/B,D,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2A/B,D,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0.15
+Complete Section,surface,2A/B,D,Assembly,6,ewdlt2s,3,bring power wires for continious row,0
+Complete Section,surface,2A/B,D,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,surface,2A/B,D,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,4.08
+SR1,surface,2A/B,D,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2A/B,D,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0
+SR1,surface,2A/B,D,Assembly,6,ewdlt2s,3,bring power wires for continious row,0.1
+SR1,surface,2A/B,D,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0.36
+SR1,surface,2A/B,D,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRM,surface,2A/B,D,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0
+SRM,surface,2A/B,D,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0
+SRM,surface,2A/B,D,Assembly,6,ewdlt2s,3,bring power wires for continious row,0.2
+SRM,surface,2A/B,D,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,surface,2A/B,D,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,2A/B,D,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0
+SRE,surface,2A/B,D,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0.15
+SRE,surface,2A/B,D,Assembly,6,ewdlt2s,3,bring power wires for continious row,0.1
+SRE,surface,2A/B,D,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0
+SRE,surface,2A/B,D,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRE,surface,1,D,Assembly,6,ewdlt1s,1,bring exit wires to exit#1,0
+SRE,surface,1,D,Assembly,6,ewdlt1s,2,bring power wires for continious row,0.1
+SRE,surface,1,D,Assembly,6,ewdlt1s,3,plug 6x pc252 connectors for continius row wires,0
+SRE,surface,1,D,Assembly,6,ewdlt1s,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,2,D,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0
+SRE,surface,2,D,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0.15
+SRE,surface,2,D,Assembly,5,ewdd2s,3,bring power wires for continious row,0.1
+SRE,surface,2,D,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0
+SRE,surface,2,D,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SRE,surface,2,D,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0
+SRE,surface,2,D,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0.15
+SRE,surface,2,D,Assembly,6,ewdlt2s,3,bring power wires for continious row,0.1
+SRE,surface,2,D,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0
+SRE,surface,2,D,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRE,wall,1,D,Assembly,5,ewdd1w,1,bring exit wires to exit#1,0.1
+SRE,wall,1,D,Assembly,5,ewdd1w,2,bring exit wires to exit#2,0
+SRE,wall,1,D,Assembly,5,ewdd1w,3,plug 5x pc252 connectors to exit wires#2,0
+SRE,wall,1,D,Assembly,5,ewdd1w,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,1,D,Assembly,6,ewdlt1w,1,bring exit wires to exit#1,0
+SRE,wall,1,D,Assembly,6,ewdlt1w,2,bring power wires for continious row,0.1
+SRE,wall,1,D,Assembly,6,ewdlt1w,3,plug 6x pc252 connectors for continius row wires,0
+SRE,wall,1,D,Assembly,6,ewdlt1w,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,2,D,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0
+SRE,wall,2,D,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0.15
+SRE,wall,2,D,Assembly,5,ewdd2w,3,bring power wires for continious row,0.1
+SRE,wall,2,D,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0
+SRE,wall,2,D,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SRE,wall,2,D,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0
+SRE,wall,2,D,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0.15
+SRE,wall,2,D,Assembly,6,ewdlt2w,3,bring power wires for continious row,0.1
+SRE,wall,2,D,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0
+SRE,wall,2,D,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRM,pendant,1,D,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+SRM,pendant,1,D,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0.15
+SRM,pendant,1,D,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0.3
+SRM,pendant,1,D,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,1,D,Assembly,5,ewdd1p,5,turn power cord,0
+SRM,pendant,2,D,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0
+SRM,pendant,2,D,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0
+SRM,pendant,2,D,Assembly,5,ewdd2p,3,bring power wires for continious row,0.2
+SRM,pendant,2,D,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,pendant,2,D,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2,D,Assembly,5,ewdd2p,6,turn power cords,0
+SRM,recessed,1,D,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0
+SRM,recessed,1,D,Assembly,5,ewdd1r,2,bring power wires for continious row,0.2
+SRM,recessed,1,D,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0.3
+SRM,recessed,2,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0
+SRM,recessed,2,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0
+SRM,recessed,2,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0.2
+SRM,recessed,2,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,surface,1,D,Assembly,5,ewdd1s,1,bring exit wires to exit#1,0.1
+SRM,surface,1,D,Assembly,5,ewdd1s,2,bring exit wires to exit#2,0.15
+SRM,surface,1,D,Assembly,5,ewdd1s,3,plug 5x pc252 connectors to exit wires#2,0.3
+SRM,surface,1,D,Assembly,5,ewdd1s,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,surface,1,D,Assembly,6,ewdlt1s,1,bring exit wires to exit#1,0
+SRM,surface,1,D,Assembly,6,ewdlt1s,2,bring power wires for continious row,0.2
+SRM,surface,1,D,Assembly,6,ewdlt1s,3,plug 6x pc252 connectors for continius row wires,0.36
+SRM,surface,1,D,Assembly,6,ewdlt1s,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,surface,2,D,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0
+SRM,surface,2,D,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0
+SRM,surface,2,D,Assembly,5,ewdd2s,3,bring power wires for continious row,0.2
+SRM,surface,2,D,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,surface,2,D,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,surface,2,D,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0
+SRM,surface,2,D,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0
+SRM,surface,2,D,Assembly,6,ewdlt2s,3,bring power wires for continious row,0.2
+SRM,surface,2,D,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,surface,2,D,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,wall,1,D,Assembly,5,ewdd1w,1,bring exit wires to exit#1,0.1
+SRM,wall,1,D,Assembly,5,ewdd1w,2,bring exit wires to exit#2,0.15
+SRM,wall,1,D,Assembly,5,ewdd1w,3,plug 5x pc252 connectors to exit wires#2,0.3
+SRM,wall,1,D,Assembly,5,ewdd1w,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,wall,2A/B,D,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2A/B,D,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0.15
+Complete Section,wall,2A/B,D,Assembly,5,ewdd2w,3,bring power wires for continious row,0
+Complete Section,wall,2A/B,D,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,wall,2A/B,D,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,3.5
+SR1,wall,2A/B,D,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2A/B,D,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0
+SR1,wall,2A/B,D,Assembly,5,ewdd2w,3,bring power wires for continious row,0.1
+SR1,wall,2A/B,D,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,wall,2A/B,D,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SRM,wall,2A/B,D,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0
+SRM,wall,2A/B,D,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0
+SRM,wall,2A/B,D,Assembly,5,ewdd2w,3,bring power wires for continious row,0.2
+SRM,wall,2A/B,D,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,wall,2A/B,D,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,2A/B,D,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0
+SRE,wall,2A/B,D,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0.15
+SRE,wall,2A/B,D,Assembly,5,ewdd2w,3,bring power wires for continious row,0.1
+SRE,wall,2A/B,D,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0
+SRE,wall,2A/B,D,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+Complete Section,wall,2A/B,D,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2A/B,D,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0.15
+Complete Section,wall,2A/B,D,Assembly,6,ewdlt2w,3,bring power wires for continious row,0
+Complete Section,wall,2A/B,D,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,wall,2A/B,D,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,4.08
+SR1,wall,2A/B,D,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2A/B,D,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0
+SR1,wall,2A/B,D,Assembly,6,ewdlt2w,3,bring power wires for continious row,0.1
+SR1,wall,2A/B,D,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0.36
+SR1,wall,2A/B,D,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRM,wall,2A/B,D,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0
+SRM,wall,2A/B,D,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0
+SRM,wall,2A/B,D,Assembly,6,ewdlt2w,3,bring power wires for continious row,0.2
+SRM,wall,2A/B,D,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,wall,2A/B,D,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,2A/B,D,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0
+SRE,wall,2A/B,D,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0.15
+SRE,wall,2A/B,D,Assembly,6,ewdlt2w,3,bring power wires for continious row,0.1
+SRE,wall,2A/B,D,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0
+SRE,wall,2A/B,D,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRM,wall,1,D,Assembly,6,ewdlt1w,1,bring exit wires to exit#1,0
+SRM,wall,1,D,Assembly,6,ewdlt1w,2,bring power wires for continious row,0.2
+SRM,wall,1,D,Assembly,6,ewdlt1w,3,plug 6x pc252 connectors for continius row wires,0.36
+SRM,wall,1,D,Assembly,6,ewdlt1w,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,wall,2,D,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0
+SRM,wall,2,D,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0
+SRM,wall,2,D,Assembly,5,ewdd2w,3,bring power wires for continious row,0.2
+-,Grid,2A/B,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+-,Grid,2A/B,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+-,Grid,2A/B,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0
+-,Grid,2A/B,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+SRM,wall,2,D,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,wall,2,D,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,wall,2,D,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0
+SRM,wall,2,D,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0
+SRM,wall,2,D,Assembly,6,ewdlt2w,3,bring power wires for continious row,0.2
+SRM,wall,2,D,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,wall,2,D,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,0
+-,Grid LED,2A/B,D,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+-,Grid LED,2A/B,D,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+-,Grid LED,2A/B,D,Assembly,5,ewdd2r,3,bring power wires for continious row,0
+-,Grid LED,2A/B,D,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,pendant,1,E,Assembly,3,ewbe1p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,1,E,Assembly,3,ewbe1p,2,bring power wires for continious row,0
+Complete Section,pendant,1,E,Assembly,3,ewbe1p,3,plug 3x pc252 connectors for continius row wires,0
+Complete Section,pendant,1,E,Assembly,3,ewbe1p,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+Complete Section,pendant,1,E,Assembly,3,ewbe1p,5,turn power cord,0.17
+SR1,pendant,1,E,Assembly,3,ewbe1p,1,bring exit wires to exit#1,0.15
+SR1,pendant,1,E,Assembly,3,ewbe1p,2,bring power wires for continious row,0.1
+SR1,pendant,1,E,Assembly,3,ewbe1p,3,plug 3x pc252 connectors for continius row wires,0.18
+SR1,pendant,1,E,Assembly,3,ewbe1p,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+SR1,pendant,1,E,Assembly,3,ewbe1p,5,turn power cord,0.17
+SRM,pendant,1,E,Assembly,3,ewbe1p,1,bring exit wires to exit#1,0
+SRM,pendant,1,E,Assembly,3,ewbe1p,2,bring power wires for continious row,0.2
+SRM,pendant,1,E,Assembly,3,ewbe1p,3,plug 3x pc252 connectors for continius row wires,0.18
+SRM,pendant,1,E,Assembly,3,ewbe1p,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,1,E,Assembly,3,ewbe1p,5,turn power cord,0
+SRE,pendant,1,E,Assembly,3,ewbe1p,1,bring exit wires to exit#1,0
+SRE,pendant,1,E,Assembly,3,ewbe1p,2,bring power wires for continious row,0.1
+SRE,pendant,1,E,Assembly,3,ewbe1p,3,plug 3x pc252 connectors for continius row wires,0
+SRE,pendant,1,E,Assembly,3,ewbe1p,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+SRE,pendant,1,E,Assembly,3,ewbe1p,5,turn power cord,0
+Complete Section,pendant,2,E,Assembly,3,ewbe2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2,E,Assembly,3,ewbe2p,2,bring power wires for continious row,0
+Complete Section,pendant,2,E,Assembly,3,ewbe2p,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,pendant,2,E,Assembly,3,ewbe2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+Complete Section,pendant,2,E,Assembly,3,ewbe2p,5,turn power cord,0.17
+SR1,pendant,2,E,Assembly,3,ewbe2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2,E,Assembly,3,ewbe2p,2,bring power wires for continious row,0.1
+SR1,pendant,2,E,Assembly,3,ewbe2p,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,pendant,2,E,Assembly,3,ewbe2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,pendant,2,E,Assembly,3,ewbe2p,5,turn power cord,0.17
+SRM,pendant,2,E,Assembly,3,ewbe2p,1,bring exit wires to exit#1,0
+SRM,pendant,2,E,Assembly,3,ewbe2p,2,bring power wires for continious row,0.2
+SRM,pendant,2,E,Assembly,3,ewbe2p,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,pendant,2,E,Assembly,3,ewbe2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2,E,Assembly,3,ewbe2p,5,turn power cord,0
+SRE,pendant,2,E,Assembly,3,ewbe2p,1,bring exit wires to exit#1,0
+SRE,pendant,2,E,Assembly,3,ewbe2p,2,bring power wires for continious row,0.1
+SRE,pendant,2,E,Assembly,3,ewbe2p,3,plug 4x pc252 connectors for continius row wires,0
+SRE,pendant,2,E,Assembly,3,ewbe2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,pendant,2,E,Assembly,3,ewbe2p,5,turn power cord,0
+Complete Section,pendant,2A/B,E,Assembly,3,ewbe2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2A/B,E,Assembly,3,ewbe2p,2,bring power wires for continious row,0
+Complete Section,pendant,2A/B,E,Assembly,3,ewbe2p,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,pendant,2A/B,E,Assembly,3,ewbe2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+Complete Section,pendant,2A/B,E,Assembly,3,ewbe2p,5,turn power cord,0.17
+SR1,pendant,2A/B,E,Assembly,3,ewbe2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2A/B,E,Assembly,3,ewbe2p,2,bring power wires for continious row,0.1
+SR1,pendant,2A/B,E,Assembly,3,ewbe2p,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,pendant,2A/B,E,Assembly,3,ewbe2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,pendant,2A/B,E,Assembly,3,ewbe2p,5,turn power cord,0.17
+SRM,pendant,2A/B,E,Assembly,3,ewbe2p,1,bring exit wires to exit#1,0
+SRM,pendant,2A/B,E,Assembly,3,ewbe2p,2,bring power wires for continious row,0.2
+SRM,pendant,2A/B,E,Assembly,3,ewbe2p,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,pendant,2A/B,E,Assembly,3,ewbe2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2A/B,E,Assembly,3,ewbe2p,5,turn power cord,0
+SRE,pendant,2A/B,E,Assembly,3,ewbe2p,1,bring exit wires to exit#1,0
+SRE,pendant,2A/B,E,Assembly,3,ewbe2p,2,bring power wires for continious row,0.1
+SRE,pendant,2A/B,E,Assembly,3,ewbe2p,3,plug 4x pc252 connectors for continius row wires,0
+SRE,pendant,2A/B,E,Assembly,3,ewbe2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,pendant,2A/B,E,Assembly,3,ewbe2p,5,turn power cord,0
+Complete Section,recessed,1,E,Assembly,3,ewbe1r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,1,E,Assembly,3,ewbe1r,2,bring power wires for continious row,0
+Complete Section,recessed,1,E,Assembly,3,ewbe1r,3,plug 3x pc252 connectors for continius row wires,0
+SR1,recessed,1,E,Assembly,3,ewbe1r,1,bring exit wires to exit#1,0.15
+SR1,recessed,1,E,Assembly,3,ewbe1r,2,bring power wires for continious row,0.1
+SR1,recessed,1,E,Assembly,3,ewbe1r,3,plug 3x pc252 connectors for continius row wires,0.18
+SRM,recessed,1,E,Assembly,3,ewbe1r,1,bring exit wires to exit#1,0
+SRM,recessed,1,E,Assembly,3,ewbe1r,2,bring power wires for continious row,0.2
+SRM,recessed,1,E,Assembly,3,ewbe1r,3,plug 3x pc252 connectors for continius row wires,0.18
+SRE,recessed,1,E,Assembly,3,ewbe1r,1,bring exit wires to exit#1,0
+SRE,recessed,1,E,Assembly,3,ewbe1r,2,bring power wires for continious row,0.1
+SRE,recessed,1,E,Assembly,3,ewbe1r,3,plug 3x pc252 connectors for continius row wires,0
+Complete Section,recessed,2,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0
+Complete Section,recessed,2,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0
+SR1,recessed,2,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0.1
+SR1,recessed,2,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,recessed,2,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0
+SRM,recessed,2,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0.2
+SRM,recessed,2,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0.24
+SRE,recessed,2,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0
+SRE,recessed,2,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0.1
+SRE,recessed,2,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,recessed,2A/B,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2A/B,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0
+Complete Section,recessed,2A/B,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0
+SR1,recessed,2A/B,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2A/B,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0.1
+SR1,recessed,2A/B,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,recessed,2A/B,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0
+SRM,recessed,2A/B,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0.2
+SRM,recessed,2A/B,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0.24
+SRE,recessed,2A/B,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0
+SRE,recessed,2A/B,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0.1
+SRE,recessed,2A/B,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,surface,1,E,Assembly,3,ewbe1s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,1,E,Assembly,3,ewbe1s,2,bring power wires for continious row,0
+Complete Section,surface,1,E,Assembly,3,ewbe1s,3,plug 3x pc252 connectors for continius row wires,0
+Complete Section,surface,1,E,Assembly,3,ewbe1s,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+SR1,surface,1,E,Assembly,3,ewbe1s,1,bring exit wires to exit#1,0.15
+SR1,surface,1,E,Assembly,3,ewbe1s,2,bring power wires for continious row,0.1
+SR1,surface,1,E,Assembly,3,ewbe1s,3,plug 3x pc252 connectors for continius row wires,0.18
+SR1,surface,1,E,Assembly,3,ewbe1s,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+SRM,surface,1,E,Assembly,3,ewbe1s,1,bring exit wires to exit#1,0
+SRM,surface,1,E,Assembly,3,ewbe1s,2,bring power wires for continious row,0.2
+SRM,surface,1,E,Assembly,3,ewbe1s,3,plug 3x pc252 connectors for continius row wires,0.18
+SRM,surface,1,E,Assembly,3,ewbe1s,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,1,E,Assembly,3,ewbe1s,1,bring exit wires to exit#1,0
+SRE,surface,1,E,Assembly,3,ewbe1s,2,bring power wires for continious row,0.1
+SRE,surface,1,E,Assembly,3,ewbe1s,3,plug 3x pc252 connectors for continius row wires,0
+SRE,surface,1,E,Assembly,3,ewbe1s,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,surface,2,E,Assembly,3,ewbe2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2,E,Assembly,3,ewbe2s,2,bring power wires for continious row,0
+Complete Section,surface,2,E,Assembly,3,ewbe2s,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,surface,2,E,Assembly,3,ewbe2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,surface,2,E,Assembly,3,ewbe2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2,E,Assembly,3,ewbe2s,2,bring power wires for continious row,0.1
+SR1,surface,2,E,Assembly,3,ewbe2s,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,surface,2,E,Assembly,3,ewbe2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,surface,2,E,Assembly,3,ewbe2s,1,bring exit wires to exit#1,0
+SRM,surface,2,E,Assembly,3,ewbe2s,2,bring power wires for continious row,0.2
+SRM,surface,2,E,Assembly,3,ewbe2s,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,surface,2,E,Assembly,3,ewbe2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,2,E,Assembly,3,ewbe2s,1,bring exit wires to exit#1,0
+SRE,surface,2,E,Assembly,3,ewbe2s,2,bring power wires for continious row,0.1
+SRE,surface,2,E,Assembly,3,ewbe2s,3,plug 4x pc252 connectors for continius row wires,0
+SRE,surface,2,E,Assembly,3,ewbe2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,surface,2A/B,E,Assembly,3,ewbe2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2A/B,E,Assembly,3,ewbe2s,2,bring power wires for continious row,0
+Complete Section,surface,2A/B,E,Assembly,3,ewbe2s,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,surface,2A/B,E,Assembly,3,ewbe2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,surface,2A/B,E,Assembly,3,ewbe2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2A/B,E,Assembly,3,ewbe2s,2,bring power wires for continious row,0.1
+SR1,surface,2A/B,E,Assembly,3,ewbe2s,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,surface,2A/B,E,Assembly,3,ewbe2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,surface,2A/B,E,Assembly,3,ewbe2s,1,bring exit wires to exit#1,0
+SRM,surface,2A/B,E,Assembly,3,ewbe2s,2,bring power wires for continious row,0.2
+SRM,surface,2A/B,E,Assembly,3,ewbe2s,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,surface,2A/B,E,Assembly,3,ewbe2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,2A/B,E,Assembly,3,ewbe2s,1,bring exit wires to exit#1,0
+SRE,surface,2A/B,E,Assembly,3,ewbe2s,2,bring power wires for continious row,0.1
+SRE,surface,2A/B,E,Assembly,3,ewbe2s,3,plug 4x pc252 connectors for continius row wires,0
+SRE,surface,2A/B,E,Assembly,3,ewbe2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,wall,1,E,Assembly,3,ewbe1w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,1,E,Assembly,3,ewbe1w,2,bring power wires for continious row,0
+Complete Section,wall,1,E,Assembly,3,ewbe1w,3,plug 3x pc252 connectors for continius row wires,0
+Complete Section,wall,1,E,Assembly,3,ewbe1w,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+SR1,wall,1,E,Assembly,3,ewbe1w,1,bring exit wires to exit#1,0.15
+SR1,wall,1,E,Assembly,3,ewbe1w,2,bring power wires for continious row,0.1
+SR1,wall,1,E,Assembly,3,ewbe1w,3,plug 3x pc252 connectors for continius row wires,0.18
+SR1,wall,1,E,Assembly,3,ewbe1w,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+SRM,wall,1,E,Assembly,3,ewbe1w,1,bring exit wires to exit#1,0
+SRM,wall,1,E,Assembly,3,ewbe1w,2,bring power wires for continious row,0.2
+SRM,wall,1,E,Assembly,3,ewbe1w,3,plug 3x pc252 connectors for continius row wires,0.18
+SRM,wall,1,E,Assembly,3,ewbe1w,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,1,E,Assembly,3,ewbe1w,1,bring exit wires to exit#1,0
+SRE,wall,1,E,Assembly,3,ewbe1w,2,bring power wires for continious row,0.1
+SRE,wall,1,E,Assembly,3,ewbe1w,3,plug 3x pc252 connectors for continius row wires,0
+SRE,wall,1,E,Assembly,3,ewbe1w,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,wall,2,E,Assembly,3,ewbe2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2,E,Assembly,3,ewbe2w,2,bring power wires for continious row,0
+Complete Section,wall,2,E,Assembly,3,ewbe2w,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,wall,2,E,Assembly,3,ewbe2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,wall,2,E,Assembly,3,ewbe2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2,E,Assembly,3,ewbe2w,2,bring power wires for continious row,0.1
+SR1,wall,2,E,Assembly,3,ewbe2w,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,wall,2,E,Assembly,3,ewbe2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,wall,2,E,Assembly,3,ewbe2w,1,bring exit wires to exit#1,0
+SRM,wall,2,E,Assembly,3,ewbe2w,2,bring power wires for continious row,0.2
+SRM,wall,2,E,Assembly,3,ewbe2w,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,wall,2,E,Assembly,3,ewbe2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,2,E,Assembly,3,ewbe2w,1,bring exit wires to exit#1,0
+SRE,wall,2,E,Assembly,3,ewbe2w,2,bring power wires for continious row,0.1
+SRE,wall,2,E,Assembly,3,ewbe2w,3,plug 4x pc252 connectors for continius row wires,0
+SRE,wall,2,E,Assembly,3,ewbe2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,wall,2A/B,E,Assembly,3,ewbe2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2A/B,E,Assembly,3,ewbe2w,2,bring power wires for continious row,0
+Complete Section,wall,2A/B,E,Assembly,3,ewbe2w,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,wall,2A/B,E,Assembly,3,ewbe2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,wall,2A/B,E,Assembly,3,ewbe2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2A/B,E,Assembly,3,ewbe2w,2,bring power wires for continious row,0.1
+SR1,wall,2A/B,E,Assembly,3,ewbe2w,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,wall,2A/B,E,Assembly,3,ewbe2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,wall,2A/B,E,Assembly,3,ewbe2w,1,bring exit wires to exit#1,0
+SRM,wall,2A/B,E,Assembly,3,ewbe2w,2,bring power wires for continious row,0.2
+SRM,wall,2A/B,E,Assembly,3,ewbe2w,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,wall,2A/B,E,Assembly,3,ewbe2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,2A/B,E,Assembly,3,ewbe2w,1,bring exit wires to exit#1,0
+SRE,wall,2A/B,E,Assembly,3,ewbe2w,2,bring power wires for continious row,0.1
+SRE,wall,2A/B,E,Assembly,3,ewbe2w,3,plug 4x pc252 connectors for continius row wires,0
+SRE,wall,2A/B,E,Assembly,3,ewbe2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+-,Grid,1,E,Assembly,3,ewbe1r,1,bring exit wires to exit#1,0.15
+-,Grid,1,E,Assembly,3,ewbe1r,2,bring power wires for continious row,0
+-,Grid,1,E,Assembly,3,ewbe1r,3,plug 3x pc252 connectors for continius row wires,0
+-,Grid,2,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0.15
+-,Grid,2,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0
+-,Grid,2,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0
+-,Grid,2A/B,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0.15
+-,Grid,2A/B,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0
+-,Grid,2A/B,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0
+-,Grid LED,1,E,Assembly,3,ewbe1r,1,bring exit wires to exit#1,0.15
+-,Grid LED,1,E,Assembly,3,ewbe1r,2,bring power wires for continious row,0
+-,Grid LED,1,E,Assembly,3,ewbe1r,3,plug 3x pc252 connectors for continius row wires,0
+-,Grid LED,2,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0.15
+-,Grid LED,2,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0
+-,Grid LED,2,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0
+-,Grid LED,2A/B,E,Assembly,3,ewbe2r,1,bring exit wires to exit#1,0.15
+-,Grid LED,2A/B,E,Assembly,3,ewbe2r,2,bring power wires for continious row,0
+-,Grid LED,2A/B,E,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,pendant,1,ERS,Assembly,3,ewbers1p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,1,ERS,Assembly,3,ewbers1p,2,bring power wires for continious row,0
+Complete Section,pendant,1,ERS,Assembly,3,ewbers1p,3,plug 3x pc252 connectors for continius row wires,0
+Complete Section,pendant,1,ERS,Assembly,3,ewbers1p,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+Complete Section,pendant,1,ERS,Assembly,3,ewbers1p,5,turn power cord,0.17
+SR1,pendant,1,ERS,Assembly,3,ewbers1p,1,bring exit wires to exit#1,0.15
+SR1,pendant,1,ERS,Assembly,3,ewbers1p,2,bring power wires for continious row,0.1
+SR1,pendant,1,ERS,Assembly,3,ewbers1p,3,plug 3x pc252 connectors for continius row wires,0.18
+SR1,pendant,1,ERS,Assembly,3,ewbers1p,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+SR1,pendant,1,ERS,Assembly,3,ewbers1p,5,turn power cord,0.17
+SRM,pendant,1,ERS,Assembly,3,ewbers1p,1,bring exit wires to exit#1,0
+SRM,pendant,1,ERS,Assembly,3,ewbers1p,2,bring power wires for continious row,0.2
+SRM,pendant,1,ERS,Assembly,3,ewbers1p,3,plug 3x pc252 connectors for continius row wires,0.18
+SRM,pendant,1,ERS,Assembly,3,ewbers1p,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,1,ERS,Assembly,3,ewbers1p,5,turn power cord,0
+SRE,pendant,1,ERS,Assembly,3,ewbers1p,1,bring exit wires to exit#1,0
+SRE,pendant,1,ERS,Assembly,3,ewbers1p,2,bring power wires for continious row,0.1
+SRE,pendant,1,ERS,Assembly,3,ewbers1p,3,plug 3x pc252 connectors for continius row wires,0
+SRE,pendant,1,ERS,Assembly,3,ewbers1p,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+SRE,pendant,1,ERS,Assembly,3,ewbers1p,5,turn power cord,0
+Complete Section,pendant,2,ERS,Assembly,3,ewbers2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2,ERS,Assembly,3,ewbers2p,2,bring power wires for continious row,0
+Complete Section,pendant,2,ERS,Assembly,3,ewbers2p,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,pendant,2,ERS,Assembly,3,ewbers2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+Complete Section,pendant,2,ERS,Assembly,3,ewbers2p,5,turn power cord,0.17
+SR1,pendant,2,ERS,Assembly,3,ewbers2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2,ERS,Assembly,3,ewbers2p,2,bring power wires for continious row,0.1
+SR1,pendant,2,ERS,Assembly,3,ewbers2p,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,pendant,2,ERS,Assembly,3,ewbers2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,pendant,2,ERS,Assembly,3,ewbers2p,5,turn power cord,0.17
+SRM,pendant,2,ERS,Assembly,3,ewbers2p,1,bring exit wires to exit#1,0
+SRM,pendant,2,ERS,Assembly,3,ewbers2p,2,bring power wires for continious row,0.2
+SRM,pendant,2,ERS,Assembly,3,ewbers2p,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,pendant,2,ERS,Assembly,3,ewbers2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2,ERS,Assembly,3,ewbers2p,5,turn power cord,0
+SRE,pendant,2,ERS,Assembly,3,ewbers2p,1,bring exit wires to exit#1,0
+SRE,pendant,2,ERS,Assembly,3,ewbers2p,2,bring power wires for continious row,0.1
+SRE,pendant,2,ERS,Assembly,3,ewbers2p,3,plug 4x pc252 connectors for continius row wires,0
+SRE,pendant,2,ERS,Assembly,3,ewbers2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,pendant,2,ERS,Assembly,3,ewbers2p,5,turn power cord,0
+Complete Section,pendant,2A/B,ERS,Assembly,3,ewbers2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2A/B,ERS,Assembly,3,ewbers2p,2,bring power wires for continious row,0
+Complete Section,pendant,2A/B,ERS,Assembly,3,ewbers2p,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,pendant,2A/B,ERS,Assembly,3,ewbers2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+Complete Section,pendant,2A/B,ERS,Assembly,3,ewbers2p,5,turn power cord,0.17
+SR1,pendant,2A/B,ERS,Assembly,3,ewbers2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2A/B,ERS,Assembly,3,ewbers2p,2,bring power wires for continious row,0.1
+SR1,pendant,2A/B,ERS,Assembly,3,ewbers2p,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,pendant,2A/B,ERS,Assembly,3,ewbers2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,pendant,2A/B,ERS,Assembly,3,ewbers2p,5,turn power cord,0.17
+SRM,pendant,2A/B,ERS,Assembly,3,ewbers2p,1,bring exit wires to exit#1,0
+SRM,pendant,2A/B,ERS,Assembly,3,ewbers2p,2,bring power wires for continious row,0.2
+SRM,pendant,2A/B,ERS,Assembly,3,ewbers2p,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,pendant,2A/B,ERS,Assembly,3,ewbers2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2A/B,ERS,Assembly,3,ewbers2p,5,turn power cord,0
+SRE,pendant,2A/B,ERS,Assembly,3,ewbers2p,1,bring exit wires to exit#1,0
+SRE,pendant,2A/B,ERS,Assembly,3,ewbers2p,2,bring power wires for continious row,0.1
+SRE,pendant,2A/B,ERS,Assembly,3,ewbers2p,3,plug 4x pc252 connectors for continius row wires,0
+SRE,pendant,2A/B,ERS,Assembly,3,ewbers2p,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,pendant,2A/B,ERS,Assembly,3,ewbers2p,5,turn power cord,0
+Complete Section,recessed,1,ERS,Assembly,3,ewbers1r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,1,ERS,Assembly,3,ewbers1r,2,bring power wires for continious row,0
+Complete Section,recessed,1,ERS,Assembly,3,ewbers1r,3,plug 3x pc252 connectors for continius row wires,0
+SR1,recessed,1,ERS,Assembly,3,ewbers1r,1,bring exit wires to exit#1,0.15
+SR1,recessed,1,ERS,Assembly,3,ewbers1r,2,bring power wires for continious row,0.1
+SR1,recessed,1,ERS,Assembly,3,ewbers1r,3,plug 3x pc252 connectors for continius row wires,0.18
+SRM,recessed,1,ERS,Assembly,3,ewbers1r,1,bring exit wires to exit#1,0
+SRM,recessed,1,ERS,Assembly,3,ewbers1r,2,bring power wires for continious row,0.2
+SRM,recessed,1,ERS,Assembly,3,ewbers1r,3,plug 3x pc252 connectors for continius row wires,0.18
+SRE,recessed,1,ERS,Assembly,3,ewbers1r,1,bring exit wires to exit#1,0
+SRE,recessed,1,ERS,Assembly,3,ewbers1r,2,bring power wires for continious row,0.1
+SRE,recessed,1,ERS,Assembly,3,ewbers1r,3,plug 3x pc252 connectors for continius row wires,0
+Complete Section,recessed,2,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0
+Complete Section,recessed,2,ERS,Assembly,3,ewbers2r,3,plug 4x pc252 connectors for continius row wires,0
+SR1,recessed,2,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0.1
+SR1,recessed,2,ERS,Assembly,3,ewbers2r,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,recessed,2,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0
+SRM,recessed,2,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0.2
+SRM,recessed,2,ERS,Assembly,3,ewbers2r,3,plug 4x pc252 connectors for continius row wires,0.24
+SRE,recessed,2,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0
+SRE,recessed,2,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0.1
+SRE,recessed,2,ERS,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,recessed,2A/B,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2A/B,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0
+Complete Section,recessed,2A/B,ERS,Assembly,3,ewbers2r,3,plug 4x pc252 connectors for continius row wires,0
+SR1,recessed,2A/B,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2A/B,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0.1
+SR1,recessed,2A/B,ERS,Assembly,3,ewbers2r,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,recessed,2A/B,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0
+SRM,recessed,2A/B,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0.2
+SRM,recessed,2A/B,ERS,Assembly,3,ewbers2r,3,plug 4x pc252 connectors for continius row wires,0.24
+SRE,recessed,2A/B,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0
+SRE,recessed,2A/B,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0.1
+SRE,recessed,2A/B,ERS,Assembly,3,ewbe2r,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,surface,1,ERS,Assembly,3,ewbers1s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,1,ERS,Assembly,3,ewbers1s,2,bring power wires for continious row,0
+Complete Section,surface,1,ERS,Assembly,3,ewbers1s,3,plug 3x pc252 connectors for continius row wires,0
+Complete Section,surface,1,ERS,Assembly,3,ewbers1s,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+SR1,surface,1,ERS,Assembly,3,ewbers1s,1,bring exit wires to exit#1,0.15
+SR1,surface,1,ERS,Assembly,3,ewbers1s,2,bring power wires for continious row,0.1
+SR1,surface,1,ERS,Assembly,3,ewbers1s,3,plug 3x pc252 connectors for continius row wires,0.18
+SR1,surface,1,ERS,Assembly,3,ewbers1s,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+SRM,surface,1,ERS,Assembly,3,ewbers1s,1,bring exit wires to exit#1,0
+SRM,surface,1,ERS,Assembly,3,ewbers1s,2,bring power wires for continious row,0.2
+SRM,surface,1,ERS,Assembly,3,ewbers1s,3,plug 3x pc252 connectors for continius row wires,0.18
+SRM,surface,1,ERS,Assembly,3,ewbers1s,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,1,ERS,Assembly,3,ewbers1s,1,bring exit wires to exit#1,0
+SRE,surface,1,ERS,Assembly,3,ewbers1s,2,bring power wires for continious row,0.1
+SRE,surface,1,ERS,Assembly,3,ewbers1s,3,plug 3x pc252 connectors for continius row wires,0
+SRE,surface,1,ERS,Assembly,3,ewbers1s,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,surface,2,ERS,Assembly,3,ewbers2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2,ERS,Assembly,3,ewbers2s,2,bring power wires for continious row,0
+Complete Section,surface,2,ERS,Assembly,3,ewbers2s,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,surface,2,ERS,Assembly,3,ewbers2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,surface,2,ERS,Assembly,3,ewbers2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2,ERS,Assembly,3,ewbers2s,2,bring power wires for continious row,0.1
+SR1,surface,2,ERS,Assembly,3,ewbers2s,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,surface,2,ERS,Assembly,3,ewbers2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,surface,2,ERS,Assembly,3,ewbers2s,1,bring exit wires to exit#1,0
+SRM,surface,2,ERS,Assembly,3,ewbers2s,2,bring power wires for continious row,0.2
+SRM,surface,2,ERS,Assembly,3,ewbers2s,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,surface,2,ERS,Assembly,3,ewbers2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,2,ERS,Assembly,3,ewbers2s,1,bring exit wires to exit#1,0
+SRE,surface,2,ERS,Assembly,3,ewbers2s,2,bring power wires for continious row,0.1
+SRE,surface,2,ERS,Assembly,3,ewbers2s,3,plug 4x pc252 connectors for continius row wires,0
+SRE,surface,2,ERS,Assembly,3,ewbers2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,surface,2A/B,ERS,Assembly,3,ewbers2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2A/B,ERS,Assembly,3,ewbers2s,2,bring power wires for continious row,0
+Complete Section,surface,2A/B,ERS,Assembly,3,ewbers2s,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,surface,2A/B,ERS,Assembly,3,ewbers2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,surface,2A/B,ERS,Assembly,3,ewbers2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2A/B,ERS,Assembly,3,ewbers2s,2,bring power wires for continious row,0.1
+SR1,surface,2A/B,ERS,Assembly,3,ewbers2s,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,surface,2A/B,ERS,Assembly,3,ewbers2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,surface,2A/B,ERS,Assembly,3,ewbers2s,1,bring exit wires to exit#1,0
+SRM,surface,2A/B,ERS,Assembly,3,ewbers2s,2,bring power wires for continious row,0.2
+SRM,surface,2A/B,ERS,Assembly,3,ewbers2s,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,surface,2A/B,ERS,Assembly,3,ewbers2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,2A/B,ERS,Assembly,3,ewbers2s,1,bring exit wires to exit#1,0
+SRE,surface,2A/B,ERS,Assembly,3,ewbers2s,2,bring power wires for continious row,0.1
+SRE,surface,2A/B,ERS,Assembly,3,ewbers2s,3,plug 4x pc252 connectors for continius row wires,0
+SRE,surface,2A/B,ERS,Assembly,3,ewbers2s,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,wall,1,ERS,Assembly,3,ewbers1w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,1,ERS,Assembly,3,ewbers1w,2,bring power wires for continious row,0
+Complete Section,wall,1,ERS,Assembly,3,ewbers1w,3,plug 3x pc252 connectors for continius row wires,0
+Complete Section,wall,1,ERS,Assembly,3,ewbers1w,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+SR1,wall,1,ERS,Assembly,3,ewbers1w,1,bring exit wires to exit#1,0.15
+SR1,wall,1,ERS,Assembly,3,ewbers1w,2,bring power wires for continious row,0.1
+SR1,wall,1,ERS,Assembly,3,ewbers1w,3,plug 3x pc252 connectors for continius row wires,0.18
+SR1,wall,1,ERS,Assembly,3,ewbers1w,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,1.25
+SRM,wall,1,ERS,Assembly,3,ewbers1w,1,bring exit wires to exit#1,0
+SRM,wall,1,ERS,Assembly,3,ewbers1w,2,bring power wires for continious row,0.2
+SRM,wall,1,ERS,Assembly,3,ewbers1w,3,plug 3x pc252 connectors for continius row wires,0.18
+SRM,wall,1,ERS,Assembly,3,ewbers1w,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,1,ERS,Assembly,3,ewbers1w,1,bring exit wires to exit#1,0
+SRE,wall,1,ERS,Assembly,3,ewbers1w,2,bring power wires for continious row,0.1
+SRE,wall,1,ERS,Assembly,3,ewbers1w,3,plug 3x pc252 connectors for continius row wires,0
+SRE,wall,1,ERS,Assembly,3,ewbers1w,4,plug power cord 3 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,wall,2,ERS,Assembly,3,ewbers2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2,ERS,Assembly,3,ewbers2w,2,bring power wires for continious row,0
+Complete Section,wall,2,ERS,Assembly,3,ewbers2w,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,wall,2,ERS,Assembly,3,ewbers2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,wall,2,ERS,Assembly,3,ewbers2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2,ERS,Assembly,3,ewbers2w,2,bring power wires for continious row,0.1
+SR1,wall,2,ERS,Assembly,3,ewbers2w,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,wall,2,ERS,Assembly,3,ewbers2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,wall,2,ERS,Assembly,3,ewbers2w,1,bring exit wires to exit#1,0
+SRM,wall,2,ERS,Assembly,3,ewbers2w,2,bring power wires for continious row,0.2
+SRM,wall,2,ERS,Assembly,3,ewbers2w,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,wall,2,ERS,Assembly,3,ewbers2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,2,ERS,Assembly,3,ewbers2w,1,bring exit wires to exit#1,0
+SRE,wall,2,ERS,Assembly,3,ewbers2w,2,bring power wires for continious row,0.1
+SRE,wall,2,ERS,Assembly,3,ewbers2w,3,plug 4x pc252 connectors for continius row wires,0
+SRE,wall,2,ERS,Assembly,3,ewbers2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,wall,2A/B,ERS,Assembly,3,ewbers2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2A/B,ERS,Assembly,3,ewbers2w,2,bring power wires for continious row,0
+Complete Section,wall,2A/B,ERS,Assembly,3,ewbers2w,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,wall,2A/B,ERS,Assembly,3,ewbers2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SR1,wall,2A/B,ERS,Assembly,3,ewbers2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2A/B,ERS,Assembly,3,ewbers2w,2,bring power wires for continious row,0.1
+SR1,wall,2A/B,ERS,Assembly,3,ewbers2w,3,plug 4x pc252 connectors for continius row wires,0.24
+SR1,wall,2A/B,ERS,Assembly,3,ewbers2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,1.46
+SRM,wall,2A/B,ERS,Assembly,3,ewbers2w,1,bring exit wires to exit#1,0
+SRM,wall,2A/B,ERS,Assembly,3,ewbers2w,2,bring power wires for continious row,0.2
+SRM,wall,2A/B,ERS,Assembly,3,ewbers2w,3,plug 4x pc252 connectors for continius row wires,0.24
+SRM,wall,2A/B,ERS,Assembly,3,ewbers2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,2A/B,ERS,Assembly,3,ewbers2w,1,bring exit wires to exit#1,0
+SRE,wall,2A/B,ERS,Assembly,3,ewbers2w,2,bring power wires for continious row,0.1
+SRE,wall,2A/B,ERS,Assembly,3,ewbers2w,3,plug 4x pc252 connectors for continius row wires,0
+SRE,wall,2A/B,ERS,Assembly,3,ewbers2w,4,plug power cord 4 wires to exit wires & screw to housing with plastic clamp,0
+-,Grid,1,ERS,Assembly,3,ewbers1r,1,bring exit wires to exit#1,0.15
+-,Grid,1,ERS,Assembly,3,ewbers1r,2,bring power wires for continious row,0
+-,Grid,1,ERS,Assembly,3,ewbers1r,3,plug 3x pc252 connectors for continius row wires,0
+-,Grid,2,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0.15
+-,Grid,2,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0
+-,Grid,2,ERS,Assembly,3,ewbers2r,3,plug 4x pc252 connectors for continius row wires,0
+-,Grid,2A/B,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0.15
+-,Grid,2A/B,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0
+-,Grid,2A/B,ERS,Assembly,3,ewbers2r,3,plug 4x pc252 connectors for continius row wires,0
+-,Grid LED,1,ERS,Assembly,3,ewbers1r,1,bring exit wires to exit#1,0.15
+-,Grid LED,1,ERS,Assembly,3,ewbers1r,2,bring power wires for continious row,0
+-,Grid LED,1,ERS,Assembly,3,ewbers1r,3,plug 3x pc252 connectors for continius row wires,0
+-,Grid LED,2,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0.15
+-,Grid LED,2,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0
+-,Grid LED,2,ERS,Assembly,3,ewbers2r,3,plug 4x pc252 connectors for continius row wires,0
+-,Grid LED,2A/B,ERS,Assembly,3,ewbers2r,1,bring exit wires to exit#1,0.15
+-,Grid LED,2A/B,ERS,Assembly,3,ewbers2r,2,bring power wires for continious row,0
+-,Grid LED,2A/B,ERS,Assembly,3,ewbers2r,3,plug 4x pc252 connectors for continius row wires,0
+Complete Section,pendant,1,LT,Assembly,6,ewdlt1p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,1,LT,Assembly,6,ewdlt1p,2,bring power wires for continious row,0
+Complete Section,pendant,1,LT,Assembly,6,ewdlt1p,3,plug 6x pc252 connectors for continius row wires,0
+Complete Section,pendant,1,LT,Assembly,6,ewdlt1p,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+Complete Section,pendant,1,LT,Assembly,6,ewdlt1p,5,turn power cord,0.17
+SR1,pendant,1,LT,Assembly,6,ewdlt1p,1,bring exit wires to exit#1,0.15
+SR1,pendant,1,LT,Assembly,6,ewdlt1p,2,bring power wires for continious row,0.1
+SR1,pendant,1,LT,Assembly,6,ewdlt1p,3,plug 6x pc252 connectors for continius row wires,0.36
+SR1,pendant,1,LT,Assembly,6,ewdlt1p,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,pendant,1,LT,Assembly,6,ewdlt1p,5,turn power cord,0.17
+SRM,pendant,1,LT,Assembly,6,ewdlt1p,1,bring exit wires to exit#1,0
+SRM,pendant,1,LT,Assembly,6,ewdlt1p,2,bring power wires for continious row,0.2
+SRM,pendant,1,LT,Assembly,6,ewdlt1p,3,plug 6x pc252 connectors for continius row wires,0.36
+SRM,pendant,1,LT,Assembly,6,ewdlt1p,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,1,LT,Assembly,6,ewdlt1p,5,turn power cord,0
+SRE,pendant,1,LT,Assembly,6,ewdlt1p,1,bring exit wires to exit#1,0
+SRE,pendant,1,LT,Assembly,6,ewdlt1p,2,bring power wires for continious row,0.1
+SRE,pendant,1,LT,Assembly,6,ewdlt1p,3,plug 6x pc252 connectors for continius row wires,0
+SRE,pendant,1,LT,Assembly,6,ewdlt1p,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRE,pendant,1,LT,Assembly,6,ewdlt1p,5,turn power cord,0
+Complete Section,pendant,2,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0.15
+Complete Section,pendant,2,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0
+Complete Section,pendant,2,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,pendant,2,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,4.08
+Complete Section,pendant,2,LT,Assembly,6,ewdlt2p,6,turn power cords,0.34
+SR1,pendant,2,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0
+SR1,pendant,2,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.1
+SR1,pendant,2,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0.36
+SR1,pendant,2,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,pendant,2,LT,Assembly,6,ewdlt2p,6,turn power cords,0.17
+SRM,pendant,2,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0
+SRM,pendant,2,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0
+SRM,pendant,2,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.2
+SRM,pendant,2,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,pendant,2,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2,LT,Assembly,6,ewdlt2p,6,turn power cords,0
+SRE,pendant,2,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0
+SRE,pendant,2,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0.15
+SRE,pendant,2,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.1
+SRE,pendant,2,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0
+SRE,pendant,2,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRE,pendant,2,LT,Assembly,6,ewdlt2p,6,turn power cords,0.17
+Complete Section,pendant,2A/B,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2A/B,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0.15
+Complete Section,pendant,2A/B,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0
+Complete Section,pendant,2A/B,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,pendant,2A/B,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,4.08
+Complete Section,pendant,2A/B,LT,Assembly,6,ewdlt2p,6,turn power cords,0.34
+SR1,pendant,2A/B,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2A/B,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0
+SR1,pendant,2A/B,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.1
+SR1,pendant,2A/B,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0.36
+SR1,pendant,2A/B,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,pendant,2A/B,LT,Assembly,6,ewdlt2p,6,turn power cords,0.17
+SRM,pendant,2A/B,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0
+SRM,pendant,2A/B,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0
+SRM,pendant,2A/B,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.2
+SRM,pendant,2A/B,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,pendant,2A/B,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2A/B,LT,Assembly,6,ewdlt2p,6,turn power cords,0
+SRE,pendant,2A/B,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0
+SRE,pendant,2A/B,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0.15
+SRE,pendant,2A/B,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.1
+SRE,pendant,2A/B,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0
+SRE,pendant,2A/B,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRE,pendant,2A/B,LT,Assembly,6,ewdlt2p,6,turn power cords,0.17
+Complete Section,recessed,1,LT,Assembly,6,ewdlt1r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,1,LT,Assembly,6,ewdlt1r,2,bring power wires for continious row,0
+Complete Section,recessed,1,LT,Assembly,6,ewdlt1r,3,plug 6x pc252 connectors for continius row wires,0
+SR1,recessed,1,LT,Assembly,6,ewdlt1r,1,bring exit wires to exit#1,0.15
+SR1,recessed,1,LT,Assembly,6,ewdlt1r,2,bring power wires for continious row,0.1
+SR1,recessed,1,LT,Assembly,6,ewdlt1r,3,plug 6x pc252 connectors for continius row wires,0.36
+SRM,recessed,1,LT,Assembly,6,ewdlt1r,1,bring exit wires to exit#1,0
+SRM,recessed,1,LT,Assembly,6,ewdlt1r,2,bring power wires for continious row,0.2
+SRM,recessed,1,LT,Assembly,6,ewdlt1r,3,plug 6x pc252 connectors for continius row wires,0.36
+SRE,recessed,1,LT,Assembly,6,ewdlt1r,1,bring exit wires to exit#1,0
+SRE,recessed,1,LT,Assembly,6,ewdlt1r,2,bring power wires for continious row,0.1
+SRE,recessed,1,LT,Assembly,6,ewdlt1r,3,plug 6x pc252 connectors for continius row wires,0
+Complete Section,recessed,2,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+Complete Section,recessed,2,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0
+Complete Section,recessed,2,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+SR1,recessed,2,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0
+SR1,recessed,2,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.1
+SR1,recessed,2,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,recessed,2,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0
+SRM,recessed,2,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0
+SRM,recessed,2,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.2
+SRM,recessed,2,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0.36
+SRE,recessed,2,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0
+SRE,recessed,2,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+SRE,recessed,2,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.1
+SRE,recessed,2,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,recessed,2A/B,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2A/B,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+Complete Section,recessed,2A/B,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0
+Complete Section,recessed,2A/B,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+SR1,recessed,2A/B,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2A/B,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0
+SR1,recessed,2A/B,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.1
+SR1,recessed,2A/B,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,recessed,2A/B,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0
+SRM,recessed,2A/B,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0
+SRM,recessed,2A/B,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.2
+SRM,recessed,2A/B,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0.36
+SRE,recessed,2A/B,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0
+SRE,recessed,2A/B,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+SRE,recessed,2A/B,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.1
+SRE,recessed,2A/B,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+-,Grid,1,LT,Assembly,6,ewdlt1r,1,bring exit wires to exit#1,0.15
+-,Grid,1,LT,Assembly,6,ewdlt1r,2,bring power wires for continious row,0
+-,Grid,1,LT,Assembly,6,ewdlt1r,3,plug 6x pc252 connectors for continius row wires,0
+-,Grid,2,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+-,Grid,2,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+-,Grid,2,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0
+-,Grid,2,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+-,Grid,2A/B,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+-,Grid,2A/B,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+-,Grid,2A/B,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0
+-,Grid,2A/B,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+-,Grid LED,1,LT,Assembly,6,ewdlt1r,1,bring exit wires to exit#1,0.15
+-,Grid LED,1,LT,Assembly,6,ewdlt1r,2,bring power wires for continious row,0
+-,Grid LED,1,LT,Assembly,6,ewdlt1r,3,plug 6x pc252 connectors for continius row wires,0
+-,Grid LED,2,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+-,Grid LED,2,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+-,Grid LED,2,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0
+-,Grid LED,2,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+-,Grid LED,2A/B,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+-,Grid LED,2A/B,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+-,Grid LED,2A/B,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0
+-,Grid LED,2A/B,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,recessed,1,LT,Assembly,6,ewdlt1r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,1,LT,Assembly,6,ewdlt1r,2,bring power wires for continious row,0
+Complete Section,recessed,1,LT,Assembly,6,ewdlt1r,3,plug 6x pc252 connectors for continius row wires,0
+SR1,recessed,1,LT,Assembly,6,ewdlt1r,1,bring exit wires to exit#1,0.15
+SR1,recessed,1,LT,Assembly,6,ewdlt1r,2,bring power wires for continious row,0.1
+SR1,recessed,1,LT,Assembly,6,ewdlt1r,3,plug 6x pc252 connectors for continius row wires,0.36
+SRM,recessed,1,LT,Assembly,6,ewdlt1r,1,bring exit wires to exit#1,0
+SRM,recessed,1,LT,Assembly,6,ewdlt1r,2,bring power wires for continious row,0.2
+SRM,recessed,1,LT,Assembly,6,ewdlt1r,3,plug 6x pc252 connectors for continius row wires,0.36
+SRE,recessed,1,LT,Assembly,6,ewdlt1r,1,bring exit wires to exit#1,0
+SRE,recessed,1,LT,Assembly,6,ewdlt1r,2,bring power wires for continious row,0.1
+SRE,recessed,1,LT,Assembly,6,ewdlt1r,3,plug 6x pc252 connectors for continius row wires,0
+Complete Section,recessed,2,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+Complete Section,recessed,2,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0
+Complete Section,recessed,2,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+SR1,recessed,2,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0
+SR1,recessed,2,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.1
+SR1,recessed,2,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,recessed,2,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0
+SRM,recessed,2,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0
+SRM,recessed,2,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.2
+SRM,recessed,2,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0.36
+SRE,recessed,2,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0
+SRE,recessed,2,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+SRE,recessed,2,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.1
+SRE,recessed,2,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,recessed,2A/B,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2A/B,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+Complete Section,recessed,2A/B,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0
+Complete Section,recessed,2A/B,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+SR1,recessed,2A/B,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2A/B,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0
+SR1,recessed,2A/B,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.1
+SR1,recessed,2A/B,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,recessed,2A/B,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0
+SRM,recessed,2A/B,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0
+SRM,recessed,2A/B,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.2
+SRM,recessed,2A/B,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0.36
+SRE,recessed,2A/B,LT,Assembly,6,ewdlt2r,1,bring exit wires to exit#1,0
+SRE,recessed,2A/B,LT,Assembly,6,ewdlt2r,2,bring exit wires to exit#2,0.15
+SRE,recessed,2A/B,LT,Assembly,6,ewdlt2r,3,bring power wires for continious row,0.1
+SRE,recessed,2A/B,LT,Assembly,6,ewdlt2r,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,pendant,1,MD,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+Complete Section,pendant,1,MD,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0
+Complete Section,pendant,1,MD,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0
+Complete Section,pendant,1,MD,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+Complete Section,pendant,1,MD,Assembly,5,ewdd1p,5,turn power cord,0.17
+Complete Section,pendant,2,MD,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2,MD,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0.15
+Complete Section,pendant,2,MD,Assembly,5,ewdd2p,3,bring power wires for continious row,0
+Complete Section,pendant,2,MD,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,pendant,2,MD,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,3.5
+Complete Section,pendant,2,MD,Assembly,5,ewdd2p,6,turn power cords,0.34
+SR1,pendant,1,MD,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+SR1,pendant,1,MD,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0.15
+SR1,pendant,1,MD,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0.3
+SR1,pendant,1,MD,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,pendant,1,MD,Assembly,5,ewdd1p,5,turn power cord,0.17
+SR1,pendant,2,MD,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2,MD,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0
+SR1,pendant,2,MD,Assembly,5,ewdd2p,3,bring power wires for continious row,0.1
+SR1,pendant,2,MD,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,pendant,2,MD,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,pendant,2,MD,Assembly,5,ewdd2p,6,turn power cords,0.17
+SRE,pendant,1,MD,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+SRE,pendant,1,MD,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0
+SRE,pendant,1,MD,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0
+SRE,pendant,1,MD,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRE,pendant,1,MD,Assembly,5,ewdd1p,5,turn power cord,0
+SRE,pendant,2,MD,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0
+SRE,pendant,2,MD,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0.15
+SRE,pendant,2,MD,Assembly,5,ewdd2p,3,bring power wires for continious row,0.1
+SRE,pendant,2,MD,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0
+SRE,pendant,2,MD,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SRE,pendant,2,MD,Assembly,5,ewdd2p,6,turn power cords,0.17
+SRM,pendant,1,MD,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+SRM,pendant,1,MD,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0.15
+SRM,pendant,1,MD,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0.3
+SRM,pendant,1,MD,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,1,MD,Assembly,5,ewdd1p,5,turn power cord,0
+SRM,pendant,2,MD,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0
+SRM,pendant,2,MD,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0
+SRM,pendant,2,MD,Assembly,5,ewdd2p,3,bring power wires for continious row,0.2
+SRM,pendant,2,MD,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,pendant,2,MD,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2,MD,Assembly,5,ewdd2p,6,turn power cords,0
+-,Grid,1,DP,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0.15
+-,Grid,1,DP,Assembly,5,ewdd1r,2,bring power wires for continious row,0
+-,Grid,1,DP,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0
+-,Grid,2,DP,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+-,Grid,2,DP,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+-,Grid,2,DP,Assembly,5,ewdd2r,3,bring power wires for continious row,0
+-,Grid,2,DP,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+-,Grid LED,1,DP,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0.15
+-,Grid LED,1,DP,Assembly,5,ewdd1r,2,bring power wires for continious row,0
+-,Grid LED,1,DP,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0
+-,Grid LED,2,DP,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+-,Grid LED,2,DP,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+-,Grid LED,2,DP,Assembly,5,ewdd2r,3,bring power wires for continious row,0
+-,Grid LED,2,DP,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,pendant,1,DP,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+Complete Section,pendant,1,DP,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0
+Complete Section,pendant,1,DP,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0
+Complete Section,pendant,1,DP,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+Complete Section,pendant,1,DP,Assembly,5,ewdd1p,5,turn power cord,0.17
+Complete Section,pendant,2,DP,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0.15
+Complete Section,pendant,2,DP,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0.15
+Complete Section,pendant,2,DP,Assembly,5,ewdd2p,3,bring power wires for continious row,0
+Complete Section,pendant,2,DP,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,pendant,2,DP,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,3.5
+Complete Section,pendant,2,DP,Assembly,5,ewdd2p,6,turn power cords,0.34
+Complete Section,recessed,1,DP,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,1,DP,Assembly,5,ewdd1r,2,bring power wires for continious row,0
+Complete Section,recessed,1,DP,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0
+Complete Section,recessed,2,DP,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+Complete Section,recessed,2,DP,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+Complete Section,recessed,2,DP,Assembly,5,ewdd2r,3,bring power wires for continious row,0
+Complete Section,recessed,2,DP,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,surface,1,DP,Assembly,5,ewdd1s,1,bring exit wires to exit#1,0.1
+Complete Section,surface,1,DP,Assembly,5,ewdd1s,2,bring exit wires to exit#2,0
+Complete Section,surface,1,DP,Assembly,5,ewdd1s,3,plug 5x pc252 connectors to exit wires#2,0
+Complete Section,surface,1,DP,Assembly,5,ewdd1s,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+Complete Section,surface,1,DP,Assembly,6,ewdlt1s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,1,DP,Assembly,6,ewdlt1s,2,bring power wires for continious row,0
+Complete Section,surface,1,DP,Assembly,6,ewdlt1s,3,plug 6x pc252 connectors for continius row wires,0
+Complete Section,surface,1,DP,Assembly,6,ewdlt1s,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+Complete Section,surface,2,DP,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2,DP,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0.15
+Complete Section,surface,2,DP,Assembly,5,ewdd2s,3,bring power wires for continious row,0
+Complete Section,surface,2,DP,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,surface,2,DP,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,3.5
+Complete Section,surface,2,DP,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0.15
+Complete Section,surface,2,DP,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0.15
+Complete Section,surface,2,DP,Assembly,6,ewdlt2s,3,bring power wires for continious row,0
+Complete Section,surface,2,DP,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,surface,2,DP,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,4.08
+Complete Section,wall,1,DP,Assembly,5,ewdd1w,1,bring exit wires to exit#1,0.1
+Complete Section,wall,1,DP,Assembly,5,ewdd1w,2,bring exit wires to exit#2,0
+Complete Section,wall,1,DP,Assembly,5,ewdd1w,3,plug 5x pc252 connectors to exit wires#2,0
+Complete Section,wall,1,DP,Assembly,5,ewdd1w,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+Complete Section,wall,1,DP,Assembly,6,ewdlt1w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,1,DP,Assembly,6,ewdlt1w,2,bring power wires for continious row,0
+Complete Section,wall,1,DP,Assembly,6,ewdlt1w,3,plug 6x pc252 connectors for continius row wires,0
+Complete Section,wall,1,DP,Assembly,6,ewdlt1w,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+Complete Section,wall,2,DP,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2,DP,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0.15
+Complete Section,wall,2,DP,Assembly,5,ewdd2w,3,bring power wires for continious row,0
+Complete Section,wall,2,DP,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0
+Complete Section,wall,2,DP,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,3.5
+Complete Section,wall,2,DP,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2,DP,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0.15
+Complete Section,wall,2,DP,Assembly,6,ewdlt2w,3,bring power wires for continious row,0
+Complete Section,wall,2,DP,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,wall,2,DP,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,4.08
+SR1,pendant,1,DP,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+SR1,pendant,1,DP,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0.15
+SR1,pendant,1,DP,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0.3
+SR1,pendant,1,DP,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,pendant,1,DP,Assembly,5,ewdd1p,5,turn power cord,0.17
+SR1,pendant,2,DP,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0.15
+SR1,pendant,2,DP,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0
+SR1,pendant,2,DP,Assembly,5,ewdd2p,3,bring power wires for continious row,0.1
+SR1,pendant,2,DP,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,pendant,2,DP,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,pendant,2,DP,Assembly,5,ewdd2p,6,turn power cords,0.17
+SR1,recessed,1,DP,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0.15
+SR1,recessed,1,DP,Assembly,5,ewdd1r,2,bring power wires for continious row,0.1
+SR1,recessed,1,DP,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0.3
+SR1,recessed,2,DP,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0.15
+SR1,recessed,2,DP,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0
+SR1,recessed,2,DP,Assembly,5,ewdd2r,3,bring power wires for continious row,0.1
+SR1,recessed,2,DP,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,surface,1,DP,Assembly,5,ewdd1s,1,bring exit wires to exit#1,0.1
+SR1,surface,1,DP,Assembly,5,ewdd1s,2,bring exit wires to exit#2,0.15
+SR1,surface,1,DP,Assembly,5,ewdd1s,3,plug 5x pc252 connectors to exit wires#2,0.3
+SR1,surface,1,DP,Assembly,5,ewdd1s,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,surface,1,DP,Assembly,6,ewdlt1s,1,bring exit wires to exit#1,0.15
+SR1,surface,1,DP,Assembly,6,ewdlt1s,2,bring power wires for continious row,0.1
+SR1,surface,1,DP,Assembly,6,ewdlt1s,3,plug 6x pc252 connectors for continius row wires,0.36
+SR1,surface,1,DP,Assembly,6,ewdlt1s,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,surface,2,DP,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2,DP,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0
+SR1,surface,2,DP,Assembly,5,ewdd2s,3,bring power wires for continious row,0.1
+SR1,surface,2,DP,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,surface,2,DP,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,surface,2,DP,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0.15
+SR1,surface,2,DP,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0
+SR1,surface,2,DP,Assembly,6,ewdlt2s,3,bring power wires for continious row,0.1
+SR1,surface,2,DP,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0.36
+SR1,surface,2,DP,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,wall,1,DP,Assembly,5,ewdd1w,1,bring exit wires to exit#1,0.1
+SR1,wall,1,DP,Assembly,5,ewdd1w,2,bring exit wires to exit#2,0.15
+SR1,wall,1,DP,Assembly,5,ewdd1w,3,plug 5x pc252 connectors to exit wires#2,0.3
+SR1,wall,1,DP,Assembly,5,ewdd1w,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,wall,1,DP,Assembly,6,ewdlt1w,1,bring exit wires to exit#1,0.15
+SR1,wall,1,DP,Assembly,6,ewdlt1w,2,bring power wires for continious row,0.1
+SR1,wall,1,DP,Assembly,6,ewdlt1w,3,plug 6x pc252 connectors for continius row wires,0.36
+SR1,wall,1,DP,Assembly,6,ewdlt1w,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,wall,2,DP,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2,DP,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0
+SR1,wall,2,DP,Assembly,5,ewdd2w,3,bring power wires for continious row,0.1
+SR1,wall,2,DP,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0.3
+SR1,wall,2,DP,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SR1,wall,2,DP,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0.15
+SR1,wall,2,DP,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0
+SR1,wall,2,DP,Assembly,6,ewdlt2w,3,bring power wires for continious row,0.1
+SR1,wall,2,DP,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0.36
+SR1,wall,2,DP,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRE,pendant,1,DP,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+SRE,pendant,1,DP,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0
+SRE,pendant,1,DP,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0
+SRE,pendant,1,DP,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRE,pendant,1,DP,Assembly,5,ewdd1p,5,turn power cord,0
+SRE,pendant,2,DP,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0
+SRE,pendant,2,DP,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0.15
+SRE,pendant,2,DP,Assembly,5,ewdd2p,3,bring power wires for continious row,0.1
+SRE,pendant,2,DP,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0
+SRE,pendant,2,DP,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SRE,pendant,2,DP,Assembly,5,ewdd2p,6,turn power cords,0.17
+SRE,recessed,1,DP,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0
+SRE,recessed,1,DP,Assembly,5,ewdd1r,2,bring power wires for continious row,0.1
+SRE,recessed,1,DP,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0
+SRE,recessed,2,DP,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0
+SRE,recessed,2,DP,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0.15
+SRE,recessed,2,DP,Assembly,5,ewdd2r,3,bring power wires for continious row,0.1
+SRE,recessed,2,DP,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0
+SRE,surface,1,DP,Assembly,5,ewdd1s,1,bring exit wires to exit#1,0.1
+SRE,surface,1,DP,Assembly,5,ewdd1s,2,bring exit wires to exit#2,0
+SRE,surface,1,DP,Assembly,5,ewdd1s,3,plug 5x pc252 connectors to exit wires#2,0
+SRE,surface,1,DP,Assembly,5,ewdd1s,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,1,DP,Assembly,6,ewdlt1s,1,bring exit wires to exit#1,0
+SRE,surface,1,DP,Assembly,6,ewdlt1s,2,bring power wires for continious row,0.1
+SRE,surface,1,DP,Assembly,6,ewdlt1s,3,plug 6x pc252 connectors for continius row wires,0
+SRE,surface,1,DP,Assembly,6,ewdlt1s,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRE,surface,2,DP,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0
+SRE,surface,2,DP,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0.15
+SRE,surface,2,DP,Assembly,5,ewdd2s,3,bring power wires for continious row,0.1
+SRE,surface,2,DP,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0
+SRE,surface,2,DP,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SRE,surface,2,DP,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0
+SRE,surface,2,DP,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0.15
+SRE,surface,2,DP,Assembly,6,ewdlt2s,3,bring power wires for continious row,0.1
+SRE,surface,2,DP,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0
+SRE,surface,2,DP,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRE,wall,1,DP,Assembly,5,ewdd1w,1,bring exit wires to exit#1,0.1
+SRE,wall,1,DP,Assembly,5,ewdd1w,2,bring exit wires to exit#2,0
+SRE,wall,1,DP,Assembly,5,ewdd1w,3,plug 5x pc252 connectors to exit wires#2,0
+SRE,wall,1,DP,Assembly,5,ewdd1w,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,1,DP,Assembly,6,ewdlt1w,1,bring exit wires to exit#1,0
+SRE,wall,1,DP,Assembly,6,ewdlt1w,2,bring power wires for continious row,0.1
+SRE,wall,1,DP,Assembly,6,ewdlt1w,3,plug 6x pc252 connectors for continius row wires,0
+SRE,wall,1,DP,Assembly,6,ewdlt1w,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,2,DP,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0
+SRE,wall,2,DP,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0.15
+SRE,wall,2,DP,Assembly,5,ewdd2w,3,bring power wires for continious row,0.1
+SRE,wall,2,DP,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0
+SRE,wall,2,DP,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,1.75
+SRE,wall,2,DP,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0
+SRE,wall,2,DP,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0.15
+SRE,wall,2,DP,Assembly,6,ewdlt2w,3,bring power wires for continious row,0.1
+SRE,wall,2,DP,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0
+SRE,wall,2,DP,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRM,pendant,1,DP,Assembly,5,ewdd1p,1,bring exit wires to exit#1,0.1
+SRM,pendant,1,DP,Assembly,5,ewdd1p,2,bring exit wires to exit#2,0.15
+SRM,pendant,1,DP,Assembly,5,ewdd1p,3,plug 5x pc252 connectors to exit wires#2,0.3
+SRM,pendant,1,DP,Assembly,5,ewdd1p,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,1,DP,Assembly,5,ewdd1p,5,turn power cord,0
+SRM,pendant,2,DP,Assembly,5,ewdd2p,1,bring exit wires to exit#1,0
+SRM,pendant,2,DP,Assembly,5,ewdd2p,2,bring exit wires to exit#2,0
+SRM,pendant,2,DP,Assembly,5,ewdd2p,3,bring power wires for continious row,0.2
+SRM,pendant,2,DP,Assembly,5,ewdd2p,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,pendant,2,DP,Assembly,5,ewdd2p,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,pendant,2,DP,Assembly,5,ewdd2p,6,turn power cords,0
+SRM,recessed,1,DP,Assembly,5,ewdd1r,1,bring exit wires to exit#1,0
+SRM,recessed,1,DP,Assembly,5,ewdd1r,2,bring power wires for continious row,0.2
+SRM,recessed,1,DP,Assembly,5,ewdd1r,3,plug 5x pc252 connectors for continius row wires,0.3
+SRM,recessed,2,DP,Assembly,5,ewdd2r,1,bring exit wires to exit#1,0
+SRM,recessed,2,DP,Assembly,5,ewdd2r,2,bring exit wires to exit#2,0
+SRM,recessed,2,DP,Assembly,5,ewdd2r,3,bring power wires for continious row,0.2
+SRM,recessed,2,DP,Assembly,5,ewdd2r,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,surface,1,DP,Assembly,5,ewdd1s,1,bring exit wires to exit#1,0.1
+SRM,surface,1,DP,Assembly,5,ewdd1s,2,bring exit wires to exit#2,0.15
+SRM,surface,1,DP,Assembly,5,ewdd1s,3,plug 5x pc252 connectors to exit wires#2,0.3
+SRM,surface,1,DP,Assembly,5,ewdd1s,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,surface,1,DP,Assembly,6,ewdlt1s,1,bring exit wires to exit#1,0
+SRM,surface,1,DP,Assembly,6,ewdlt1s,2,bring power wires for continious row,0.2
+SRM,surface,1,DP,Assembly,6,ewdlt1s,3,plug 6x pc252 connectors for continius row wires,0.36
+SRM,surface,1,DP,Assembly,6,ewdlt1s,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,surface,2,DP,Assembly,5,ewdd2s,1,bring exit wires to exit#1,0
+SRM,surface,2,DP,Assembly,5,ewdd2s,2,bring exit wires to exit#2,0
+SRM,surface,2,DP,Assembly,5,ewdd2s,3,bring power wires for continious row,0.2
+SRM,surface,2,DP,Assembly,5,ewdd2s,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,surface,2,DP,Assembly,5,ewdd2s,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,surface,2,DP,Assembly,6,ewdlt2s,1,bring exit wires to exit#1,0
+SRM,surface,2,DP,Assembly,6,ewdlt2s,2,bring exit wires to exit#2,0
+SRM,surface,2,DP,Assembly,6,ewdlt2s,3,bring power wires for continious row,0.2
+SRM,surface,2,DP,Assembly,6,ewdlt2s,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,surface,2,DP,Assembly,6,ewdlt2s,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,wall,1,DP,Assembly,5,ewdd1w,1,bring exit wires to exit#1,0.1
+SRM,wall,1,DP,Assembly,5,ewdd1w,2,bring exit wires to exit#2,0.15
+SRM,wall,1,DP,Assembly,5,ewdd1w,3,plug 5x pc252 connectors to exit wires#2,0.3
+SRM,wall,1,DP,Assembly,5,ewdd1w,4,plug power cord 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,wall,1,DP,Assembly,6,ewdlt1w,1,bring exit wires to exit#1,0
+SRM,wall,1,DP,Assembly,6,ewdlt1w,2,bring power wires for continious row,0.2
+SRM,wall,1,DP,Assembly,6,ewdlt1w,3,plug 6x pc252 connectors for continius row wires,0.36
+SRM,wall,1,DP,Assembly,6,ewdlt1w,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,wall,2,DP,Assembly,5,ewdd2w,1,bring exit wires to exit#1,0
+SRM,wall,2,DP,Assembly,5,ewdd2w,2,bring exit wires to exit#2,0
+SRM,wall,2,DP,Assembly,5,ewdd2w,3,bring power wires for continious row,0.2
+SRM,wall,2,DP,Assembly,5,ewdd2w,4,plug 5x pc252 connectors for continius row wires,0.3
+SRM,wall,2,DP,Assembly,5,ewdd2w,5,plug power cords 5 wires to exit wires & screw to housing with plastic clamp,0
+SRM,wall,2,DP,Assembly,6,ewdlt2w,1,bring exit wires to exit#1,0
+SRM,wall,2,DP,Assembly,6,ewdlt2w,2,bring exit wires to exit#2,0
+SRM,wall,2,DP,Assembly,6,ewdlt2w,3,bring power wires for continious row,0.2
+SRM,wall,2,DP,Assembly,6,ewdlt2w,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,wall,2,DP,Assembly,6,ewdlt2w,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,0
+Complete Section,wall,1,LT,Assembly,6,ewdlt1p,1,bring exit wires to exit#1,0.15
+Complete Section,wall,1,LT,Assembly,6,ewdlt1p,2,bring power wires for continious row,0
+Complete Section,wall,1,LT,Assembly,6,ewdlt1p,3,plug 6x pc252 connectors for continius row wires,0
+Complete Section,wall,1,LT,Assembly,6,ewdlt1p,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+Complete Section,wall,1,LT,Assembly,6,ewdlt1p,5,turn power cord,0.17
+SR1,wall,1,LT,Assembly,6,ewdlt1p,1,bring exit wires to exit#1,0.15
+SR1,wall,1,LT,Assembly,6,ewdlt1p,2,bring power wires for continious row,0.1
+SR1,wall,1,LT,Assembly,6,ewdlt1p,3,plug 6x pc252 connectors for continius row wires,0.36
+SR1,wall,1,LT,Assembly,6,ewdlt1p,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,wall,1,LT,Assembly,6,ewdlt1p,5,turn power cord,0.17
+SRM,wall,1,LT,Assembly,6,ewdlt1p,1,bring exit wires to exit#1,0
+SRM,wall,1,LT,Assembly,6,ewdlt1p,2,bring power wires for continious row,0.2
+SRM,wall,1,LT,Assembly,6,ewdlt1p,3,plug 6x pc252 connectors for continius row wires,0.36
+SRM,wall,1,LT,Assembly,6,ewdlt1p,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,wall,1,LT,Assembly,6,ewdlt1p,5,turn power cord,0
+SRE,wall,1,LT,Assembly,6,ewdlt1p,1,bring exit wires to exit#1,0
+SRE,wall,1,LT,Assembly,6,ewdlt1p,2,bring power wires for continious row,0.1
+SRE,wall,1,LT,Assembly,6,ewdlt1p,3,plug 6x pc252 connectors for continius row wires,0
+SRE,wall,1,LT,Assembly,6,ewdlt1p,4,plug power cord 6 wires to exit wires & screw to housing with plastic clamp,0
+SRE,wall,1,LT,Assembly,6,ewdlt1p,5,turn power cord,0
+Complete Section,wall,2,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0.15
+Complete Section,wall,2,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0
+Complete Section,wall,2,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,wall,2,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,4.08
+Complete Section,wall,2,LT,Assembly,6,ewdlt2p,6,turn power cords,0.34
+SR1,wall,2,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0.15
+SR1,wall,2,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0
+SR1,wall,2,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.1
+SR1,wall,2,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0.36
+SR1,wall,2,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,wall,2,LT,Assembly,6,ewdlt2p,6,turn power cords,0.17
+SRM,wall,2,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0
+SRM,wall,2,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0
+SRM,wall,2,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.2
+SRM,wall,2,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,wall,2,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,wall,2,LT,Assembly,6,ewdlt2p,6,turn power cords,0
+SRE,wall,2,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0
+SRE,wall,2,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0.15
+SRE,wall,2,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.1
+SRE,wall,2,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0
+SRE,wall,2,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRE,wall,2,LT,Assembly,6,ewdlt2p,6,turn power cords,0.17
+Complete Section,wall,2A/B,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0.15
+Complete Section,wall,2A/B,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0.15
+Complete Section,wall,2A/B,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0
+Complete Section,wall,2A/B,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0
+Complete Section,wall,2A/B,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,4.08
+Complete Section,wall,2A/B,LT,Assembly,6,ewdlt2p,6,turn power cords,0.34
+SR1,wall,2A/B,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0.15
+SR1,wall,2A/B,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0
+SR1,wall,2A/B,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.1
+SR1,wall,2A/B,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0.36
+SR1,wall,2A/B,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SR1,wall,2A/B,LT,Assembly,6,ewdlt2p,6,turn power cords,0.17
+SRM,wall,2A/B,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0
+SRM,wall,2A/B,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0
+SRM,wall,2A/B,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.2
+SRM,wall,2A/B,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0.36
+SRM,wall,2A/B,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,0
+SRM,wall,2A/B,LT,Assembly,6,ewdlt2p,6,turn power cords,0
+SRE,wall,2A/B,LT,Assembly,6,ewdlt2p,1,bring exit wires to exit#1,0
+SRE,wall,2A/B,LT,Assembly,6,ewdlt2p,2,bring exit wires to exit#2,0.15
+SRE,wall,2A/B,LT,Assembly,6,ewdlt2p,3,bring power wires for continious row,0.1
+SRE,wall,2A/B,LT,Assembly,6,ewdlt2p,4,plug 6x pc252 connectors for continius row wires,0
+SRE,wall,2A/B,LT,Assembly,6,ewdlt2p,5,plug power cords 6 wires to exit wires & screw to housing with plastic clamp,2.04
+SRE,wall,2A/B,LT,Assembly,6,ewdlt2p,6,turn power cords,0.17

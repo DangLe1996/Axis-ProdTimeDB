@@ -39,26 +39,26 @@ namespace Axis_ProdTimeDB.InputClasses
             {
                 foreach (var row in newSort)
                 {
-                    var mouting = row.mounting;
-                    switch (mouting)
+                    var mounting = row.mounting;
+                    switch (mounting)
                     {
                         case "Spackle Flange":
-                            mouting = "DS";
+                            mounting = "DS";
                             break;
                         case "Flangeless":
-                            mouting = "D";
+                            mounting = "D";
                             break;
                         default:
-                            mouting = "-";
+                            mounting = "-";
                             break;
                     }
                     int length = Int32.Parse(row.length);
 
                     ProdTB.AddInstance(row.Product, row.workcenter);
                     OptionTB.AddInstance(optionName, row.Sum, length);
-                    ParametersTB.AddInstance("Mounting", mouting);
+                    ParametersTB.AddInstance("Mounting", mounting);
                     ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum, length);
-                    OptionTB.AddParam(optionName, row.Sum, "Mounting", mouting);
+                    OptionTB.AddParam(optionName, row.Sum, "Mounting", mounting);
 
 
                 }

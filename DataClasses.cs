@@ -347,20 +347,6 @@ namespace Axis_ProdTimeDB
         }
 
 
-        public static void addParam(string ParamName, string ParamValue)
-        {
-            using (var db = new TimeContext())
-            {
-                var paramindex = db.Params.Where(item => item.ParamName == ParamName && item.ParamValue == ParamValue).FirstOrDefault();
-                if (paramindex == null)
-                {
-                    db.Params.Add(new ParametersTB { ParamName = ParamName, ParamValue = ParamValue });
-                }
-
-                db.SaveChanges();
-            }
-
-        }
 
         public static void AddInstance(string ParamName, string ParamValue)
         {

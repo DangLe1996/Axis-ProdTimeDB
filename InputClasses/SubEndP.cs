@@ -29,38 +29,36 @@ namespace Axis_ProdTimeDB.InputClasses
                                workcenter = grp.Key.Workcenter,
                                Sum = grp.Sum(r => Double.Parse(r.Field<string>("Total Time (min)")))
                            }).ToList();
-            using (var db = new TimeContext())
+            foreach (var row in newSort)
             {
-                foreach (var row in newSort)
+                var mounting = row.mounting;
+                switch (mounting)
                 {
-                    var mouting = row.mounting;
-                    switch (mouting)
-                    {
-                        case "Spackle Flange":
-                            mouting = "DS";
-                            break;
-                        case "Flangeless":
-                            mouting = "D";
-                            break;
-                        default:
-                            mouting = "-";
-                            break;
-                    }
-
-
-                    ProdTB.AddInstance(row.Product, row.workcenter);
-                    
-                    OptionTB.AddInstance(optionName, row.Sum);
-                    ParametersTB.AddInstance("Mounting", mouting);
-
-                    ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
-
-                    OptionTB.AddParam(optionName, row.Sum, "Mounting", mouting);
-
-
+                    case "Spackle Flange":
+                        mounting = "DS";
+                        break;
+                    case "Flangeless":
+                        mounting = "D";
+                        break;
+                    default:
+                        mounting = "-";
+                        break;
                 }
 
+
+                ProdTB.AddInstance(row.Product, row.workcenter);
+
+                OptionTB.AddInstance(optionName, row.Sum);
+                ParametersTB.AddInstance("Mounting", mounting);
+
+                ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
+
+                OptionTB.AddParam(optionName, row.Sum, "Mounting", mounting);
+
+
             }
+
+            
 
 
 

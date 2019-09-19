@@ -19,18 +19,30 @@ namespace Axis_ProdTimeDB
     {
         static void Main(string[] args)
         {
+            string currentDir = Directory.GetCurrentDirectory();
+            string dataDir = currentDir + @"\Data\";
+            //MSTime MSTimeInput = new MSTime(dataDir + @"MSTime.csv");
+            //Driver ballastInput = new Driver(dataDir + @"BallastFix.csv");
+            //SubEndP subEndPInput = new SubEndP(dataDir + @"SubEndP.csv");
+            //Optic opticInput = new Optic(dataDir + @"Optic.csv");
+            //CartBoard cartBoardInput = new CartBoard(dataDir + @"CartridgeBoard.csv");
+            //Pack packInput = new Pack(dataDir + @"Pack.csv");
+            //ExitW exitInput = new ExitW(dataDir + @"ExitW.csv");
+            //PowerC powerCInput = new PowerC(dataDir + @"PowerC.csv");
+            //ScrewRef screwInput = new ScrewRef(dataDir + @"ScrewRef.csv");
+            //Housing housingInput = new Housing(dataDir + @"Housing.csv");
+            //Battery batteryInput = new Battery(dataDir + "Battery.csv");
+            //BackC backCInput = new BackC(dataDir + "BackC.csv");
+            //CB cBInput = new CB(dataDir + "CB.csv");
+            //ChicPle chicPleInput = new ChicPle(dataDir + "ChicPle.csv");
+            //CounterW counterInputer = new CounterW(dataDir + "CounterW.csv");
+            //Length lengthInput = new Length(dataDir + "Length.csv");
 
-            //MSTime MSTimeInput = new MSTime(@"C:\Users\dangl\source\repos\Axis-ProdTimeDB\Data\MSTime.csv");
-
-            //Ballast ballastInput = new Ballast(@"C:\Users\dangl\Source\repos\Axis-ProdTimeDB\Data\BallastFix.csv");
-            //SubEndP subEndPInput = new SubEndP(@"C:\Users\dangl\source\repos\Axis-ProdTimeDB\Data\SubEndP.csv");
-            //Optic opticInput = new Optic(@"C:\Users\dangl\source\repos\Axis-ProdTimeDB\Data\Optic.csv");
-            //CartBoard cartBoardInput = new CartBoard(@"C:\Users\dangl\Source\repos\Axis-ProdTimeDB\Data\CartridgeBoard.csv");
 
 
 
 
-            string input = "BBRLED-1000-80-35-FL-8'-CB315251-W-UNV-LT-1-TB15-B3-CP";
+            string input = "BBRLED-1000-80-35-FL-6'-CB315251-W-UNV-LT-1-TB15-B3-CP";
             ProductClass prod1 = new ProductClass(input);
 
 

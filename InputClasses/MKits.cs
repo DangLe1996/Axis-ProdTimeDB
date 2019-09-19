@@ -13,8 +13,8 @@ namespace Axis_ProdTimeDB.InputClasses
         public MKits(string paramFilePath)
         {
             string optionName = "MKits";
-
             var dt = ConvertCSVtoDataTable(paramFilePath);
+
             var newSort = (from row in dt.AsEnumerable()
 
                            group row by new
