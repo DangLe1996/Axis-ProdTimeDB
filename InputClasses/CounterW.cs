@@ -11,7 +11,7 @@ namespace Axis_ProdTimeDB.InputClasses
     {
         public CounterW(string paramFilePath)
         {
-            string optionName = "CounterW";
+            string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 

@@ -22,17 +22,17 @@ namespace Axis_ProdTimeDB
         public string OpDesc { get; set; }
         public string WorkCenter { get; set; }
 
-        public static void AddInstance(string prodCode, string workcenter)
+        public static void AddInstance(string FamCode, string workcenter)
         {
             
                 using (var db = new TimeContext())
                 {
-                    var prod = db.Prod.Where(item => item.ProdCode == prodCode && item.WorkCenter == workcenter).FirstOrDefault();
+                    var prod = db.ProdFam.Where(item => item.FamCode == FamCode && item.WorkCenter == workcenter).FirstOrDefault();
                     if (prod == null)
                     {
-                        db.Prod.Add(new ProdTB
+                        db.ProdFam.Add(new ProdFamTB
                         {
-                            ProdCode = prodCode,
+                            FamCode = FamCode,
                             WorkCenter = workcenter
                         });
                     }
@@ -62,6 +62,11 @@ namespace Axis_ProdTimeDB
             {
 
                 var prodfam = db.ProdFam.Where(item => item.FamCode == FamCode && item.WorkCenter == workcenter).FirstOrDefault();
+                if(prodfam == null)
+                {
+                    ProdFamTB.AddInstance(FamCode, workcenter);
+                }
+                prodfam = db.ProdFam.Where(item => item.FamCode == FamCode && item.WorkCenter == workcenter).FirstOrDefault();
                 var optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == prodTime
                 && item.sectionLength == SectionLength).FirstOrDefault();
 
@@ -201,6 +206,11 @@ namespace Axis_ProdTimeDB
             using (var db = new TimeContext())
             {
                 var fixture = db.Fixtures.Where(item => item.FxCode == fixtureID && item.WorkCenter == workcenter).FirstOrDefault();
+                if(fixture == null)
+                {
+                    FixtureTB.AddInstance(fixtureID, workcenter);
+                }
+                fixture = db.Fixtures.Where(item => item.FxCode == fixtureID && item.WorkCenter == workcenter).FirstOrDefault();
                 OptionTB optionindex = new OptionTB();
                 if (SectionLength == null)
                 {

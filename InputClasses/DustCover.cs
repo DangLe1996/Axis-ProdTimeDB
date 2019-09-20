@@ -15,7 +15,7 @@ namespace Axis_ProdTimeDB.InputClasses
     {
         public DustCover(string paramFilePath)
         {
-            string optionName = "DustCover";
+            string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 

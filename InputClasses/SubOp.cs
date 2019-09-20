@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Optic : Program
+    class SubOp : Program
     {
-        public Optic(string paramFilePath)
+        public SubOp(string paramFilePath)
         {
             string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
@@ -21,6 +21,7 @@ namespace Axis_ProdTimeDB.InputClasses
                                ID = row.Field<string>("Family Product"),
                                Optic = row.Field<string>("Optic"),
                                Length = row.Field<string>("Length"),
+                               section = row.Field<string>("Section"),
                                Workcenter = row.Field<string>("Work Center")
                            } into grp
                            select new
@@ -29,34 +30,37 @@ namespace Axis_ProdTimeDB.InputClasses
                                Optic = grp.Key.Optic,
                                Length = grp.Key.Length,
                                workcenter = grp.Key.Workcenter,
+                               section = grp.Key.section,
                                Sum = grp.Sum(r => Double.Parse(r.Field<string>("Time (min)")))
                            }).ToList();
 
-            using (var db = new TimeContext())
-            {
-                foreach (var row in newSort)
-                {
 
-                   ProdFamTB.AddInstance(row.ProdFam, row.workcenter);
+            //foreach (var row in newSort)
+            //{
 
-
-                    int length = Int32.Parse(row.Length);
-                    OptionTB.AddInstance(optionName, row.Sum, length);
-
-                    ParametersTB.AddInstance("Optic", row.Optic);
+            //    ProdFamTB.AddInstance(row.ProdFam, row.workcenter);
 
 
-                    OptionTB.AddParam(optionName, row.Sum, "Optic", row.Optic);
-                    ProdFamTB.AddOption(row.ProdFam, row.workcenter, optionName, row.Sum, length);
+               
+            //    OptionTB.AddInstance(optionName, row.Sum, row.Length);
 
-                    db.SaveChanges();
-                }
+            //    ParametersTB.AddInstance("Optic", row.Optic);
+            //    OptionTB.AddParam(optionName, row.Sum, "Optic", row.Optic,row.Length);
+
+            //    ParametersTB.AddInstance("SectionType", row.section);
+            //    OptionTB.AddParam(optionName, row.Sum, "SectionType", row.section,row.Length);
+
+                
+            //    ProdFamTB.AddOption(row.ProdFam, row.workcenter, optionName, row.Sum, row.Length);
+
+
+            //}
 
 
 
 
 
-            }
+            
         }
 
     }

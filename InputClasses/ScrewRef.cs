@@ -12,7 +12,7 @@ namespace Axis_ProdTimeDB.InputClasses
         public ScrewRef(string paramFilePath)
         {
 
-            string optionName = "ScrewRef";
+            string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 

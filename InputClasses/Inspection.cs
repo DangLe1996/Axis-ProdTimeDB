@@ -5,12 +5,11 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Driver : Program
+    class Inspection : Program
     {
-        public Driver(string paramFilePath)
+        public Inspection(string paramFilePath)
         {
             string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
@@ -19,30 +18,25 @@ namespace Axis_ProdTimeDB.InputClasses
                            group row by new
                            {
                                ID = row.Field<string>("Product ID"),
-
+                               Length = row.Field<string>("Length"),
                                Workcenter = row.Field<string>("Work Center")
                            } into grp
                            //orderby grp.Key
                            select new
                            {
                                Product = grp.Key.ID,
+                               length = Int32.Parse(grp.Key.Length),
                                workcenter = grp.Key.Workcenter,
-                               Sum = grp.Sum(r => Double.Parse(r.Field<string>("UNIT TIME (MIN)")))
+
+                               Sum = grp.Sum(r => Double.Parse(r.Field<string>("Total time (min)")))
                            }).ToList();
 
 
-            using (var db = new TimeContext())
+            foreach (var row in newSort)
             {
-                foreach (var row in newSort)
-                {
-
-                    ProdTB.AddInstance(row.Product, row.workcenter);
-                    OptionTB.AddInstance(optionName, row.Sum);
-                    ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
-                }
-
-
-
+                ProdTB.AddInstance(row.Product, row.workcenter);
+                OptionTB.AddInstance(optionName, row.Sum, row.length);
+                ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum, row.length);
 
 
             }

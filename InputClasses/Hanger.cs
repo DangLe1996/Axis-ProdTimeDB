@@ -8,46 +8,39 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Driver : Program
+    class Hanger:Program
     {
-        public Driver(string paramFilePath)
+
+        public Hanger(string paramFilePath)
         {
             string optionName = this.GetType().Name;
+            
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 
                            group row by new
                            {
                                ID = row.Field<string>("Product ID"),
-
+                               SectionType = row.Field<string>("Section Type"),
                                Workcenter = row.Field<string>("Work Center")
                            } into grp
                            //orderby grp.Key
                            select new
                            {
                                Product = grp.Key.ID,
+                               sectionType = grp.Key.SectionType,
                                workcenter = grp.Key.Workcenter,
-                               Sum = grp.Sum(r => Double.Parse(r.Field<string>("UNIT TIME (MIN)")))
+
+                               Sum = grp.Sum(r => Double.Parse(r.Field<string>("Total Time (min)")))
                            }).ToList();
-
-
-            using (var db = new TimeContext())
+            foreach (var row in newSort)
             {
-                foreach (var row in newSort)
-                {
-
-                    ProdTB.AddInstance(row.Product, row.workcenter);
-                    OptionTB.AddInstance(optionName, row.Sum);
-                    ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
-                }
-
-
-
-
-
+                OptionTB.AddInstance(optionName, row.Sum);
+                ProdTB.AddInstance(row.Product, row.workcenter);
+                ParametersTB.AddInstance("SectionType", row.sectionType);
+                ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
+                OptionTB.AddParam(optionName, row.Sum, "SectionType", row.sectionType);
             }
-
-
         }
     }
 }

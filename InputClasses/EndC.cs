@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Driver : Program
+    class EndC : Program
     {
-        public Driver(string paramFilePath)
+        public EndC(string paramFilePath)
         {
             string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
@@ -27,12 +27,11 @@ namespace Axis_ProdTimeDB.InputClasses
                            {
                                Product = grp.Key.ID,
                                workcenter = grp.Key.Workcenter,
-                               Sum = grp.Sum(r => Double.Parse(r.Field<string>("UNIT TIME (MIN)")))
+                               Sum = grp.Sum(r => Double.Parse(r.Field<string>("Time (min)")))
                            }).ToList();
 
 
-            using (var db = new TimeContext())
-            {
+           
                 foreach (var row in newSort)
                 {
 
@@ -45,7 +44,7 @@ namespace Axis_ProdTimeDB.InputClasses
 
 
 
-            }
+            
 
 
         }

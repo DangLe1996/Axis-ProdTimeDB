@@ -13,7 +13,7 @@ namespace Axis_ProdTimeDB.InputClasses
     {
         public ChicPle(string paramFilePath)
         {
-            string optionName = "ChicPle";
+            string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 

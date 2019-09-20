@@ -12,7 +12,7 @@ namespace Axis_ProdTimeDB.InputClasses
     {
         public Housing(string paramFilePath)
         {
-            string optionName = "Housing";
+            string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 

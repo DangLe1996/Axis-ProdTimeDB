@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Optic : Program
+    class LightC : Program
     {
-        public Optic(string paramFilePath)
+        public LightC(string paramFilePath)
         {
             string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
@@ -19,45 +19,45 @@ namespace Axis_ProdTimeDB.InputClasses
                            group row by new
                            {
                                ID = row.Field<string>("Family Product"),
-                               Optic = row.Field<string>("Optic"),
+                                citcuit = row.Field<string>("Nb Circuit"),
                                Length = row.Field<string>("Length"),
-                               Workcenter = row.Field<string>("Work Center")
+                               Workcenter = row.Field<string>("Work Center"),
+                               LampQty = row.Field<string>("Lamp/Cartridge Qty")
                            } into grp
                            select new
                            {
                                ProdFam = grp.Key.ID,
-                               Optic = grp.Key.Optic,
+                               circuit = grp.Key.citcuit,
                                Length = grp.Key.Length,
+                               LampQty = grp.Key.LampQty,
                                workcenter = grp.Key.Workcenter,
                                Sum = grp.Sum(r => Double.Parse(r.Field<string>("Time (min)")))
                            }).ToList();
 
-            using (var db = new TimeContext())
+
+            foreach (var row in newSort)
             {
-                foreach (var row in newSort)
-                {
 
-                   ProdFamTB.AddInstance(row.ProdFam, row.workcenter);
+                ProdFamTB.AddInstance(row.ProdFam, row.workcenter);
+                int length = Int32.Parse(row.Length);
+                OptionTB.AddInstance(optionName, row.Sum, length);
 
-
-                    int length = Int32.Parse(row.Length);
-                    OptionTB.AddInstance(optionName, row.Sum, length);
-
-                    ParametersTB.AddInstance("Optic", row.Optic);
+                
 
 
-                    OptionTB.AddParam(optionName, row.Sum, "Optic", row.Optic);
-                    ProdFamTB.AddOption(row.ProdFam, row.workcenter, optionName, row.Sum, length);
-
-                    db.SaveChanges();
-                }
-
-
-
-
+                OptionTB.AddParam(optionName, row.Sum, "LampQty", row.LampQty);
+                OptionTB.AddParam(optionName, row.Sum, "Circuit", row.circuit);
+                ProdFamTB.AddOption(row.ProdFam, row.workcenter, optionName, row.Sum, length);
 
             }
-        }
+                
+
+
+
+
+
+                //}
+            }
 
     }
 }

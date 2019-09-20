@@ -6,48 +6,41 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Driver : Program
+    class Emergency:Program
     {
-        public Driver(string paramFilePath)
+
+        public Emergency(string paramFilePath)
         {
             string optionName = this.GetType().Name;
+
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 
                            group row by new
                            {
-                               ID = row.Field<string>("Product ID"),
-
+                               ID = row.Field<string>("Fixture Type"),
+                              
                                Workcenter = row.Field<string>("Work Center")
                            } into grp
                            //orderby grp.Key
                            select new
                            {
-                               Product = grp.Key.ID,
+                               ID = grp.Key.ID,
+                             
                                workcenter = grp.Key.Workcenter,
-                               Sum = grp.Sum(r => Double.Parse(r.Field<string>("UNIT TIME (MIN)")))
+                               Sum = grp.Sum(r => Double.Parse(r.Field<string>("Time(min)")))
                            }).ToList();
-
-
-            using (var db = new TimeContext())
+            foreach (var row in newSort)
             {
-                foreach (var row in newSort)
-                {
-
-                    ProdTB.AddInstance(row.Product, row.workcenter);
-                    OptionTB.AddInstance(optionName, row.Sum);
-                    ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
-                }
-
-
-
+                FixtureTB.AddInstance(row.ID, row.workcenter);
+                OptionTB.AddInstance(optionName, row.Sum);
+                FixtureTB.AddOption(row.ID, row.workcenter, optionName, row.Sum);
 
 
             }
-
-
         }
     }
 }

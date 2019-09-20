@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class CB : Program
+    class EndFeed : Program
     {
-        public CB(string paramFilePath)
+        public EndFeed(string paramFilePath)
         {
             string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
@@ -23,13 +23,13 @@ namespace Axis_ProdTimeDB.InputClasses
                                ID = row.Field<string>("Fixture Type"),
                           
                                Workcenter = row.Field<string>("Work Center"),
-                               LampQty  = row.Field<string>("Lamp Qty")
+                           
                            } into grp
                            //orderby grp.Key
                            select new
                            {
                                ID = grp.Key.ID,
-                               LampQty = grp.Key.LampQty,
+                            
                                workcenter = grp.Key.Workcenter,
 
                                Sum = grp.Sum(r => Double.Parse(r.Field<string>("Time(min)")))
@@ -39,8 +39,7 @@ namespace Axis_ProdTimeDB.InputClasses
             {
                 FixtureTB.AddInstance(row.ID, row.workcenter);
                 OptionTB.AddInstance(optionName, row.Sum);
-                ParametersTB.AddInstance("LampQty", row.LampQty);
-                OptionTB.AddParam(optionName, row.Sum, "LampQty", row.LampQty);
+         
                 FixtureTB.AddOption(row.ID, row.workcenter, optionName, row.Sum);
 
 

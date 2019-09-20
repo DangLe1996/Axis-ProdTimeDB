@@ -12,7 +12,7 @@ namespace Axis_ProdTimeDB.InputClasses
 
         public PowerC(string paramFilePath)
         {
-            string optionName = "PowerC";
+            string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 

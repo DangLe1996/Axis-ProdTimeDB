@@ -13,7 +13,7 @@ namespace Axis_ProdTimeDB.InputClasses
         public ExitW(string paramFilePath)
         {
            
-            string optionName = "ExitW";
+            string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 

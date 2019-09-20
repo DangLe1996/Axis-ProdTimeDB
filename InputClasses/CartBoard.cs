@@ -19,7 +19,7 @@ namespace Axis_ProdTimeDB.InputClasses
         public static UD03Impl UD03BO = WCFServiceSupport.CreateImpl<UD03Impl>((Ice.Core.Session)epiSession, "Ice/BO/UD03");
         public CartBoard(string paramFilePath)
         {
-            string optionName = "CartBoard";
+            string optionName = this.GetType().Name;
 
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()

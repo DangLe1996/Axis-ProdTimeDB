@@ -13,7 +13,7 @@ namespace Axis_ProdTimeDB.InputClasses
 
         public Battery(string paramFilePath)
         {
-            string optionName = "Battery";
+            string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 

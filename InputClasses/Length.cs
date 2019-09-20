@@ -11,7 +11,7 @@ namespace Axis_ProdTimeDB.InputClasses
     {
         public Length(string paramFilePath)
         {
-            string optionName = "Length";
+            string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
 
 
