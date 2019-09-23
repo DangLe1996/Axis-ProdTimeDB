@@ -38,8 +38,8 @@ namespace Axis_ProdTimeDB.InputClasses
 
                 ProdTB.AddInstance(row.Product, row.workcenter);
                 OptionTB.AddInstance(optionName, row.Sum);
-                ParametersTB.AddInstance("SectionType", row.section);
-                OptionTB.AddParam(optionName, row.Sum, "SectionType", row.section);
+                ParametersTB.AddInstance("Section", row.section);
+                OptionTB.AddParam(optionName, row.Sum, "Section", row.section);
                 ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
             }
 

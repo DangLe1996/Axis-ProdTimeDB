@@ -11,7 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-
+using AXISAutomation;
 namespace Axis_ProdTimeDB
 {
 
@@ -53,13 +53,110 @@ namespace Axis_ProdTimeDB
             //PowerCord powerCordinput = new PowerCord("PowerCord.csv");
             //Remo remoInput = new Remo("Remo.csv");
             //SubEndC subEndCInput = new SubEndC("SubEndC.csv");
-            SubOp subOpInput = new SubOp("SubOp.csv");
+            //SubOp subOpInput = new SubOp("SubOp.csv");
+
+            //Dictionary<string, List<string>> MapParamValue = new Dictionary<string, List<string>>();
+            //Dictionary<string, List<string>> badParams = new Dictionary<string,List<string>>();
+
+            //Dictionary<string, List<string>> MapParamName = new Dictionary<string, List<string>>();
+            //List<string> badParamName = new List<string>();
+
+            //using (var db = new AxisCustom())
+            //{
+            //    var parameters = db.Parameters.ToList();
+            //    var category = db.CategoryTypes.ToList();
+
+            //    using (var customdb = new TimeContext())
+            //    {
+
+            //        foreach(var param in customdb.Params.ToList()){
+            //            var paramValue = db.Parameters.Where(r => r.Code == param.ParamValue).FirstOrDefault();
+            //            var paramName = db.CategoryTypes.Where(r => r.Description == param.ParamName).FirstOrDefault();
+            //            if (paramValue != null)
+            //            {
+            //                try
+            //                {
+            //                    MapParamValue[paramValue.Code.ToString()].Add(param.ParamValue.ToString());
+
+            //                }
+            //                catch
+            //                {
+            //                    MapParamValue[paramValue.Code.ToString()] = new List<string>();
+            //                    MapParamValue[paramValue.Code.ToString()].Add(param.ParamValue.ToString());
+
+            //                }
+            //            }
+            //            else
+            //            {
+            //                try
+            //                {
+            //                    badParams[param.ParamName.ToString()].Add(param.ParamValue.ToString());
+
+            //                }
+            //                catch
+            //                {
+            //                    badParams[param.ParamName.ToString()] = new List<string>();
+            //                    badParams[param.ParamName.ToString()].Add(param.ParamValue.ToString());
+
+            //                }
+            //            }
+
+
+
+            //            if (paramName != null)
+            //            {
+            //                try
+            //                {
+            //                    MapParamName[paramName.Description.ToString()].Add(param.ParamName);
+            //                }
+            //                catch
+            //                {
+            //                    MapParamName[paramName.Description.ToString()] = new List<string>();
+            //                    MapParamName[paramName.Description.ToString()].Add(param.ParamName);
+            //                }
+            //            }
+
+            //            else
+            //            {
+            //                badParamName.Add(param.ParamName.ToString());
+            //            }
 
 
 
 
-            //string input = "BBRLED-500-80-35-FL-20'-W-UNV-DP-1-TG9";
-            //ProductClass prod1 = new ProductClass(input);
+            //        }
+
+            //    }
+
+
+
+
+
+            //}
+            //using (var writer = new StreamWriter(currentDir + @"\badParams.csv"))
+            //{
+            //    foreach (var pair in badParams)
+            //        foreach(var value in pair.Value)
+            //        {
+            //            writer.WriteLine("{0},{1}", pair.Key, value);
+            //        }
+
+
+
+            //}
+
+            //WiresQty wiresInput = new WiresQty();
+
+            using (var db = new TimeContext())
+            {
+                var MSTime = db.Options.Where(r => r.OptionName == "MSTime").ToList();
+              
+
+            }
+
+
+            string input = "BBRLED-500-80-35-FL-55'-W-UNV-DP-1-TG9";
+            ProductClass prod1 = new ProductClass(input);
 
 
 

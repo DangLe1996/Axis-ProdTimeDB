@@ -68,6 +68,8 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Transactions" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -77,9 +79,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AxisAutomation\AxisCustom.cs" />
+    <Compile Include="AxisAutomation\Category.cs" />
+    <Compile Include="AxisAutomation\CategoryAtFixture.cs" />
+    <Compile Include="AxisAutomation\CategoryType.cs" />
     <Compile Include="DAL\ProductClass.cs" />
     <Compile Include="DAL\TimeContext.cs" />
     <Compile Include="DataClasses.cs" />
+    <Compile Include="AxisAutomation\Fixture.cs" />
     <Compile Include="InputClasses\SubOp.cs" />
     <Compile Include="InputClasses\SubEndC.cs" />
     <Compile Include="InputClasses\Remo.cs" />
@@ -115,6 +122,7 @@
     <Compile Include="InputClasses\PowerC.cs" />
     <Compile Include="InputClasses\ScrewRef.cs" />
     <Compile Include="InputClasses\SubEndP.cs" />
+    <Compile Include="InputClasses\WiresQty.cs" />
     <Compile Include="Migrations\201909161855553_init.cs" />
     <Compile Include="Migrations\201909161855553_init.Designer.cs">
       <DependentUpon>201909161855553_init.cs</DependentUpon>
@@ -147,7 +155,16 @@
     <Compile Include="Migrations\201909172030108_updatedbSept17.Designer.cs">
       <DependentUpon>201909172030108_updatedbSept17.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201909231455265_AddAxisAutomation.cs" />
+    <Compile Include="Migrations\201909231455265_AddAxisAutomation.Designer.cs">
+      <DependentUpon>201909231455265_AddAxisAutomation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="AxisAutomation\Parameter.cs" />
+    <Compile Include="AxisAutomation\ParameterAtCategoryAtFixture.cs" />
+    <Compile Include="AxisAutomation\ParameterCustomValueType.cs" />
+    <Compile Include="AxisAutomation\ParameterDescriptionOverrides___OLD.cs" />
+    <Compile Include="AxisAutomation\ParameterReturnValueOverride.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -179,6 +196,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201909172030108_updatedbSept17.resx">
       <DependentUpon>201909172030108_updatedbSept17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909231455265_AddAxisAutomation.resx">
+      <DependentUpon>201909231455265_AddAxisAutomation.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

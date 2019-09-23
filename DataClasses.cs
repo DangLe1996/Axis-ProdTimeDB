@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using AXISAutomation;
 namespace Axis_ProdTimeDB
 {
 
@@ -341,6 +341,10 @@ namespace Axis_ProdTimeDB
         public string ParamName { get; set; }
         public string ParamValue { get; set; }
 
+        public Parameter parameter { get; set; }
+
+        //public Category category { get; set; }
+
         private ICollection<OptionTB> _Options;
         public virtual ICollection<OptionTB> Options
         {
@@ -355,8 +359,6 @@ namespace Axis_ProdTimeDB
         {
             Options.Add(Option);
         }
-
-
 
         public static void AddInstance(string ParamName, string ParamValue)
         {

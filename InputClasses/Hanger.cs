@@ -37,9 +37,9 @@ namespace Axis_ProdTimeDB.InputClasses
             {
                 OptionTB.AddInstance(optionName, row.Sum);
                 ProdTB.AddInstance(row.Product, row.workcenter);
-                ParametersTB.AddInstance("SectionType", row.sectionType);
+                ParametersTB.AddInstance("Section", row.sectionType);
                 ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
-                OptionTB.AddParam(optionName, row.Sum, "SectionType", row.sectionType);
+                OptionTB.AddParam(optionName, row.Sum, "Section", row.sectionType);
             }
         }
     }
