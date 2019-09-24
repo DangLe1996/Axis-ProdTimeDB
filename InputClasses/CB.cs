@@ -37,11 +37,13 @@ namespace Axis_ProdTimeDB.InputClasses
 
             foreach (var row in newSort)
             {
-                FixtureTB.AddInstance(row.ID, row.workcenter);
+                //FixtureTB.AddInstance(row.ID, row.workcenter);
+                ProdTB.AddInstance(fixturetype, row.ID, row.workcenter);
+                ProdTB.AddOption(fixturetype, row.ID, row.workcenter, optionName, row.Sum);
                 OptionTB.AddInstance(optionName, row.Sum);
                 ParametersTB.AddInstance("LampQty", row.LampQty);
                 OptionTB.AddParam(optionName, row.Sum, "LampQty", row.LampQty);
-                FixtureTB.AddOption(row.ID, row.workcenter, optionName, row.Sum);
+               
 
 
             }

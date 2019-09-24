@@ -35,9 +35,9 @@ namespace Axis_ProdTimeDB.InputClasses
                 
                 using (var db = new TimeContext())
                 {
-                    foreach (var fixture in db.Fixtures.Where(r => r.WorkCenter == row.workcenter))
+                    foreach (var fixture in db.Prod.Where(r => r.WorkCenter == row.workcenter && r.Type == fixturetype))
                     {
-                        FixtureTB.AddOption(fixture.FxCode, row.workcenter, optionName, row.Sum);
+                        ProdTB.AddOption(fixturetype,fixture.Code, row.workcenter, optionName, row.Sum);
 
                     }
 

@@ -52,7 +52,7 @@ namespace Axis_ProdTimeDB.InputClasses
                 }
 
                 OptionTB.AddInstance(optionName, row.Sum, row.length);
-                ProdTB.AddInstance(row.Product, row.workcenter);
+                ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
                 Dictionary<string, string> parameters = new Dictionary<string, string>();
                 parameters.Add("Section", row.section);
                 parameters.Add("Mounting", mounting);
@@ -64,7 +64,7 @@ namespace Axis_ProdTimeDB.InputClasses
                 }
 
 
-                ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum, row.length);
+                ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum, row.length);
 
             }
         }

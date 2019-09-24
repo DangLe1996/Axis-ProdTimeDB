@@ -25,7 +25,7 @@ namespace Axis_ProdTimeDB.InputClasses
                            } into grp
                            select new
                            {
-                               ProdFam = grp.Key.ID,
+                               Product = grp.Key.ID,
                                Optic = grp.Key.Optic,
                                Length = grp.Key.Length,
                                workcenter = grp.Key.Workcenter,
@@ -37,7 +37,7 @@ namespace Axis_ProdTimeDB.InputClasses
                 foreach (var row in newSort)
                 {
 
-                   ProdFamTB.AddInstance(row.ProdFam, row.workcenter);
+              
 
 
                     int length = Int32.Parse(row.Length);
@@ -47,7 +47,11 @@ namespace Axis_ProdTimeDB.InputClasses
 
 
                     OptionTB.AddParam(optionName, row.Sum, "Optic", row.Optic);
-                    ProdFamTB.AddOption(row.ProdFam, row.workcenter, optionName, row.Sum, length);
+                    
+
+                    ProdTB.AddInstance(prodfamtype, row.Product, row.workcenter);
+                    ProdTB.AddOption(prodfamtype, row.Product, row.workcenter, optionName, row.Sum,length);
+
 
                     db.SaveChanges();
                 }

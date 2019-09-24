@@ -32,9 +32,9 @@ namespace Axis_ProdTimeDB.InputClasses
                            }).ToList();
             foreach (var row in newSort)
             {
-                ProdTB.AddInstance(row.Product, row.workcenter);
+                ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
                 OptionTB.AddInstance(optionName, row.Sum);
-                ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
+                ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum);
 
 
             }

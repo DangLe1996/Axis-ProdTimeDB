@@ -20,15 +20,49 @@ namespace Axis_ProdTimeDB
     {
         static string currentDir = Directory.GetCurrentDirectory();
         static string dataDir = currentDir + @"\Data\";
+        public static string prodtype = "ProdID";
+        public static string prodfamtype = "ProdFamID";
+        public static string fixturetype = "FixtureID";
         static void Main(string[] args)
         {
             int quotenum = 102229;
             int quoteline = 1;
             EpicorInteract.EpicorConnect testquote = new EpicorInteract.EpicorConnect();
-            //testquote.getQuote(quotenum, quoteline);
-            
+            testquote.getQuote(quotenum, quoteline);
 
 
+            //MSTime MSTimeInput = new MSTime(@"MSTime.csv");
+            //Driver ballastInput = new Driver(@"BallastFix.csv");
+            //SubEndP subEndPInput = new SubEndP(@"SubEndP.csv");
+            //Optic opticInput = new Optic(@"Optic.csv");
+            //CartBoard cartBoardInput = new CartBoard(@"CartridgeBoard.csv");
+            //Pack packInput = new Pack(@"Pack.csv");
+            //ExitW exitInput = new ExitW(@"ExitW.csv");
+            //PowerC powerCInput = new PowerC(@"PowerC.csv");
+            //ScrewRef screwInput = new ScrewRef(@"ScrewRef.csv");
+            //Housing housingInput = new Housing(@"Housing.csv");
+            //Battery batteryInput = new Battery("Battery.csv");
+            //BackC backCInput = new BackC("BackC.csv");
+            //CB cBInput = new CB("CB.csv");
+            //ChicPle chicPleInput = new ChicPle("ChicPle.csv");
+            //CounterW counterInputer = new CounterW("CounterW.csv");
+            //Length lengthInput = new Length("Length.csv");
+            //Emergency emergencyInput = new Emergency("Emergency.csv");
+            //EndC endCInput = new EndC("EndC.csv");
+            //EndFeed endFeedInput = new EndFeed("EndFeed.csv");
+            //EndP endPInput = new EndP("EndP.csv");
+            //Nightlight nightlightInput = new Nightlight("Nightlight.csv");
+            //FlexWhip flexWhipInput = new FlexWhip("FlexWhip.csv");
+            //Fuse fuseInput = new Fuse("Fuse.csv");
+            //Hanger hangerInput = new Hanger("Hanger.csv");
+            //Inspection inspectionInput = new Inspection("Inspection.csv");
+            //ITS iTSInput = new ITS("ITS.csv");
+            //LightC lightCInput = new LightC("LightC.csv");
+            //OpTest opTestInput = new OpTest("OpTest.csv");
+            //PowerCord powerCordinput = new PowerCord("PowerCord.csv");
+            //Remo remoInput = new Remo("Remo.csv");
+            //SubEndC subEndCInput = new SubEndC("SubEndC.csv");
+            //SubOp subOpInput = new SubOp("SubOp.csv");
 
 
 

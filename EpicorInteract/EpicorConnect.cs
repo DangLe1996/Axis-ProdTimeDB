@@ -39,10 +39,16 @@ namespace Axis_ProdTimeDB.EpicorInteract
             var quotetest =  quoteDtlSearchImpl.GetRows(whereClause, 0, 0, out morePage);
             decimal runQty = quotetest.QuoteDtl[0].OrderQty;
             
+            string estScrapType = this.QuoteDS.QuoteOpr[0].EstScrapType;
+            decimal qtyPer = this.QuoteDS.QuoteOpr[0].QtyPer;
+            int OperationsPerPart = this.QuoteDS.QuoteOpr[0].OpsPerPart;
+            decimal OperationEstScrap = this.QuoteDS.QuoteOpr[0].EstScrap;
+            decimal AssxEstScrap = this.QuoteDS.QuoteAsm[0].EstScrap;
             ProductClass product = new ProductClass(quotetest.QuoteDtl[0].LineDesc);
-            foreach (var time in product.ProdTime)
+
+            foreach (var time in product.ProdTime.Where(r => r.Value != 0).ToList())
             {
-                decimal value = Axis.Utilities.ProductionCalculation.GetEstimatedProductionLaborHours(runQty, "", 0.0m, 0.0m, 1.0m, (decimal)time.Value, "MP", 1);
+                decimal value = Axis.Utilities.ProductionCalculation.GetEstimatedProductionLaborHours(runQty, estScrapType, OperationEstScrap, 0.0m, qtyPer, (decimal)time.Value, "MP", OperationsPerPart);
                 this.UpdateTime(time.Key, value);
             }
             this.quoteAsmImpl.Update(QuoteDS);

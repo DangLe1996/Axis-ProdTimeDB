@@ -38,7 +38,7 @@ namespace Axis_ProdTimeDB.InputClasses
             foreach (var row in newSort)
             {
 
-                ProdFamTB.AddInstance(row.ProdFam, row.workcenter);
+                ProdTB.AddInstance(prodfamtype, row.ProdFam, row.workcenter);
                 int length = Int32.Parse(row.Length);
                 OptionTB.AddInstance(optionName, row.Sum, length);
 
@@ -46,9 +46,9 @@ namespace Axis_ProdTimeDB.InputClasses
 
 
                 OptionTB.AddParam(optionName, row.Sum, "LampQty", row.LampQty);
-                OptionTB.AddParam(optionName, row.Sum, "Circuit", row.circuit);
-                ProdFamTB.AddOption(row.ProdFam, row.workcenter, optionName, row.Sum, length);
-
+                OptionTB.AddParam(optionName, row.Sum, "Circuits", row.circuit);
+                
+                ProdTB.AddOption(prodfamtype, row.ProdFam, row.workcenter, optionName, row.Sum, length);
             }
                 
 

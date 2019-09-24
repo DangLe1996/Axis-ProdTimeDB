@@ -54,10 +54,10 @@ namespace Axis_ProdTimeDB.InputClasses
                     }
                     int length = Int32.Parse(row.length);
 
-                    ProdTB.AddInstance(row.Product, row.workcenter);
+                    ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
                     OptionTB.AddInstance(optionName, row.Sum, length);
                     ParametersTB.AddInstance("Mounting", mounting);
-                    ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum, length);
+                    ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum, length);
                     OptionTB.AddParam(optionName, row.Sum, "Mounting", mounting);
 
 

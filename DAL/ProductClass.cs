@@ -15,7 +15,7 @@ using System.Text.RegularExpressions;
 namespace Axis_ProdTimeDB.DAL
 {
 
-    class ProductClass
+    class ProductClass:Program
     {
         private AXISAutomation.Solvers.BOM._BOM BOM { get; set; }
 
@@ -112,27 +112,11 @@ namespace Axis_ProdTimeDB.DAL
             using (var db = new TimeContext())
             {
 
-                List<FixtureTB> fixture = db.Fixtures.Where(item => item.FxCode == this.fixtureCode).ToList();
-                List<ProdTB> product = db.Prod.Where(item => item.ProdCode == this.productCode).ToList();
-                List<ProdFamTB> prodfam = db.ProdFam.Where(item => item.FamCode == this.ProdFamCode).ToList();
 
-
-
-                foreach (var workcenter in product)
+                List<string> workcenters = db.Prod.Select(m => m.WorkCenter).Distinct().ToList();
+                foreach (var workcenter in workcenters)
                 {
-                   
-                    ProdTime[workcenter.WorkCenter.ToString()] = 0;
-
-                }
-                foreach (var workcenter in fixture)
-                {
-                    ProdTime[workcenter.WorkCenter.ToString()] = 0;
-
-                }
-                foreach (var workcenter in prodfam)
-                {
-                    ProdTime[workcenter.WorkCenter.ToString()] = 0;
-
+                    ProdTime[workcenter] = 0;
                 }
 
             }
@@ -158,7 +142,7 @@ namespace Axis_ProdTimeDB.DAL
                     using (var db = new TimeContext())
                     {
 
-                        List<ProdTB> product = db.Prod.Where(item => item.ProdCode == this.productCode).ToList();
+                        List<ProdTB> product = db.Prod.Where(item => item.Type == prodtype && item.Code == this.productCode).ToList();
 
                         this.ParamNames = db.Params.Select(m => m.ParamName).Distinct().ToList();
 
@@ -210,8 +194,8 @@ namespace Axis_ProdTimeDB.DAL
             {
 
                 
-                List<ProdFamTB> prodfam = db.ProdFam.Where(item => item.FamCode == this.ProdFamCode).ToList();
-
+                //List<ProdFamTB> prodfam = db.ProdFam.Where(item => item.FamCode == this.ProdFamCode).ToList();
+                List<ProdTB> prodfam = db.Prod.Where(item => item.Type == prodfamtype && item.Code == this.ProdFamCode).ToList();
                 foreach (var workcenter in prodfam)
                 {
 
@@ -260,7 +244,8 @@ namespace Axis_ProdTimeDB.DAL
             using (var db = new TimeContext())
             {
                 this.ParamInput["Section"] = "Complete Section";
-                List<FixtureTB> fixture = db.Fixtures.Where(item => item.FxCode == this.fixtureCode).ToList();
+                //List<FixtureTB> fixture = db.Fixtures.Where(item => item.FxCode == this.fixtureCode).ToList();
+                List<ProdTB> fixture = db.Prod.Where(item => item.Code == this.fixtureCode && item.Type == fixturetype).ToList();
                 foreach (var workcenter in fixture)
                 {
                     List<string> usedOption = new List<string>();
@@ -281,7 +266,11 @@ namespace Axis_ProdTimeDB.DAL
                         List<string> ParamValues = new List<string>();
                         foreach (var row in ParamNameList)
                         {
-                            ParamValues.Add(this.ParamInput[row]);
+                            
+                                ParamValues.Add(this.ParamInput[row]);
+                            
+                            
+                            
                         }
 
 

@@ -42,11 +42,11 @@ namespace Axis_ProdTimeDB.InputClasses
             {
                 Dictionary<string, string> parameters = new Dictionary<string, string>();
                 parameters.Add("Section", row.Section);
-                parameters.Add("Circuit", row.Circtuit);
-                parameters.Add("Ballast", row.Ballast);
+                parameters.Add("Circuits", row.Circtuit);
+                parameters.Add("Driver", row.Ballast);
 
 
-                FixtureTB.AddInstance(row.fixture, row.workcenter);
+                ProdTB.AddInstance(fixturetype,row.fixture, row.workcenter);
                 OptionTB.AddInstance(optionName, row.Sum);
 
 
@@ -57,7 +57,7 @@ namespace Axis_ProdTimeDB.InputClasses
                     OptionTB.AddParam(optionName, row.Sum, instace.Key, instace.Value);
                 }
 
-                FixtureTB.AddOption(row.fixture, row.workcenter, optionName, row.Sum);
+                ProdTB.AddOption(fixturetype,row.fixture, row.workcenter, optionName, row.Sum);
 
 
 

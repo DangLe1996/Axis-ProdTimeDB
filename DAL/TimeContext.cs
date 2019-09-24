@@ -9,12 +9,12 @@ namespace Axis_ProdTimeDB.DAL
 {
     class TimeContext: DbContext
     {
-        public DbSet<ProdFamTB> ProdFam { get; set; }
+        //public DbSet<ProdFamTB> ProdFam { get; set; }
         public DbSet<ProdTB> Prod { get; set; }
         public DbSet<OptionTB> Options { get; set; }
         public DbSet<ParametersTB> Params { get; set; }
 
-        public DbSet<FixtureTB> Fixtures { get; set; }
+        //public DbSet<FixtureTB> Fixtures { get; set; }
 
     }
 }

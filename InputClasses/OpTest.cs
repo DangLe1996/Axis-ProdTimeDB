@@ -43,9 +43,9 @@ namespace Axis_ProdTimeDB.InputClasses
             foreach (var row in newSort)
             {
                 Dictionary<string, string> parameters = new Dictionary<string, string>();
-                FixtureTB.AddInstance(row.Fixture, row.workcenter);
+                ProdTB.AddInstance(fixturetype,row.Fixture, row.workcenter);
                 OptionTB.AddInstance(optionName, row.Sum, row.length);
-                parameters.Add("Circuit", row.circuit);
+                parameters.Add("Circuits", row.circuit);
                 parameters.Add("LampQty", row.lampQty);
                 parameters.Add("Light", row.light);
                 foreach(var value in parameters)
@@ -54,7 +54,7 @@ namespace Axis_ProdTimeDB.InputClasses
                     OptionTB.AddParam(optionName, row.Sum, value.Key, value.Value, row.length);
                 }
                
-                FixtureTB.AddOption(row.Fixture, row.workcenter, optionName, row.Sum);
+                ProdTB.AddOption(fixturetype,row.Fixture, row.workcenter, optionName, row.Sum);
 
 
             }

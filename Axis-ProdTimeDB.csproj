@@ -182,6 +182,14 @@
     <Compile Include="Migrations\201909241355137_removeopdesc.Designer.cs">
       <DependentUpon>201909241355137_removeopdesc.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201909241731573_singledb.cs" />
+    <Compile Include="Migrations\201909241731573_singledb.Designer.cs">
+      <DependentUpon>201909241731573_singledb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909241812497_singledbupdate.cs" />
+    <Compile Include="Migrations\201909241812497_singledbupdate.Designer.cs">
+      <DependentUpon>201909241812497_singledbupdate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="AxisAutomation\Parameter.cs" />
     <Compile Include="AxisAutomation\ParameterAtCategoryAtFixture.cs" />
@@ -225,6 +233,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201909241355137_removeopdesc.resx">
       <DependentUpon>201909241355137_removeopdesc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909241731573_singledb.resx">
+      <DependentUpon>201909241731573_singledb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909241812497_singledbupdate.resx">
+      <DependentUpon>201909241812497_singledbupdate.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

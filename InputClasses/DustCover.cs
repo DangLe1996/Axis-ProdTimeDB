@@ -40,9 +40,9 @@ namespace Axis_ProdTimeDB.InputClasses
                 OptionTB.AddInstance(optionName, row.Sum,row.length);
                 using (var db = new TimeContext())
                 {
-                    foreach (var fixture in db.Fixtures)
+                    foreach (var fixture in db.Prod.Where(r => r.Type == fixturetype).ToList())
                     {
-                        FixtureTB.AddOption(fixture.FxCode, row.workcenter, optionName, row.Sum, row.length);
+                        ProdTB.AddOption(fixturetype, fixture.Code, row.workcenter, optionName, row.Sum, row.length);
 
                     }
 

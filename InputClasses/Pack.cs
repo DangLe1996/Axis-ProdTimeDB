@@ -52,11 +52,11 @@ namespace Axis_ProdTimeDB.InputClasses
                             break;
                     }
 
-                    ProdTB.AddInstance(row.Product, row.workcenter);
+                    ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
                     
                     OptionTB.AddInstance(optionName, row.Sum, length);
                     ParametersTB.AddInstance("Mounting", mounting);
-                    ProdTB.AddOption(row.Product, row.workcenter, optionName, row.Sum);
+                    ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum);
                     OptionTB.AddParam(optionName, row.Sum, "Mounting", mounting, length);
                 }
             }

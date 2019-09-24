@@ -38,8 +38,8 @@ namespace Axis_ProdTimeDB.InputClasses
             {
                 Dictionary<string, string> parameters = new Dictionary<string, string>();
                 parameters.Add("Section", row.Section);
-                parameters.Add("Circuit", row.Circtuit);
-                parameters.Add("Ballast", row.Ballast);
+                parameters.Add("Circuits", row.Circtuit);
+                parameters.Add("Driver", row.Ballast);
                 int length = Int32.Parse(row.length);
                
                 OptionTB.AddInstance(optionName, row.Sum, length);
@@ -52,9 +52,9 @@ namespace Axis_ProdTimeDB.InputClasses
                 }
                 using (var db = new TimeContext())
                 {
-                    foreach (var fixture in db.Fixtures.Where(r => r.WorkCenter == row.workcenter))
+                    foreach (var fixture in db.Prod.Where(r => r.WorkCenter == row.workcenter && r.Code == fixturetype))
                     {
-                        FixtureTB.AddOption(fixture.FxCode, row.workcenter, optionName, row.Sum, length);
+                        ProdTB.AddOption(fixturetype, fixture.Code, row.workcenter, optionName, row.Sum, length);
 
                     }
 

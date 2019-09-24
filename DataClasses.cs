@@ -11,81 +11,16 @@ using AXISAutomation;
 namespace Axis_ProdTimeDB
 {
 
-    public class ProdFamTB
-    {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int ID { get; set; }
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
-        public string FamCode { get; set; }
-        public string OpCode { get; set; }
-        public string WorkCenter { get; set; }
-
-        public static void AddInstance(string FamCode, string workcenter)
-        {
-            
-                using (var db = new TimeContext())
-                {
-                    var prod = db.ProdFam.Where(item => item.FamCode == FamCode && item.WorkCenter == workcenter).FirstOrDefault();
-                    if (prod == null)
-                    {
-                        db.ProdFam.Add(new ProdFamTB
-                        {
-                            FamCode = FamCode,
-                            WorkCenter = workcenter
-                        });
-                    }
-                    db.SaveChanges();
-                }
-            
-        }
-
-        private ICollection<OptionTB> _Options;
-        public virtual ICollection<OptionTB> Options
-        {
-            get
-            {
-                return _Options ?? (_Options = new Collection<OptionTB>());
-            }
-
-            set { _Options = value; }
-        }
-        public void AddOption(OptionTB option)
-        {
-            Options.Add(option);
-        }
-
-        public static void AddOption(string FamCode, string workcenter, string optionName, double prodTime, int? SectionLength = null)
-        {
-            using (var db = new TimeContext())
-            {
-
-                var prodfam = db.ProdFam.Where(item => item.FamCode == FamCode && item.WorkCenter == workcenter).FirstOrDefault();
-                if(prodfam == null)
-                {
-                    ProdFamTB.AddInstance(FamCode, workcenter);
-                }
-                prodfam = db.ProdFam.Where(item => item.FamCode == FamCode && item.WorkCenter == workcenter).FirstOrDefault();
-                var optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == prodTime
-                && item.sectionLength == SectionLength).FirstOrDefault();
-
-                if (!prodfam.Options.Contains(optionindex))
-                    prodfam.Options.Add(optionindex);
-
-                db.SaveChanges();
-
-            }
-        }
-    }
-
-
     public class ProdTB
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { get; set; }
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
+        public string Type { get; set; }
+        public string Code { get; set; }
         public string ProdCode { get; set; }
+
         public string OpCode { get; set; }
         public string WorkCenter { get; set; }
 
@@ -104,29 +39,19 @@ namespace Axis_ProdTimeDB
         {
             Options.Add(option);
         }
-        public static void AddInstance(string prodCode, string workCenter)
+       
+        public static void AddOption(string type, string ID, string workcenter, string optionName, double prodTime, int? SectionLength = null)
         {
             using (var db = new TimeContext())
             {
-                var prod = db.Prod.Where(item => item.ProdCode == prodCode && item.WorkCenter == workCenter).FirstOrDefault();
-                if (prod == null)
+
+                var prod = db.Prod.Where(item => item.Code == ID && item.Type == type && item.WorkCenter == workcenter).FirstOrDefault();
+
+                if(prod == null)
                 {
-                    db.Prod.Add(new ProdTB
-                    {
-                        ProdCode = prodCode,
-                        WorkCenter = workCenter
-                    });
+                    ProdTB.AddInstance(type, ID, workcenter);
                 }
-                db.SaveChanges();
-            }
-        }
-            public static void AddOption(string product, string workcenter, string optionName, double prodTime, int? SectionLength = null)
-        {
-            using (var db = new TimeContext())
-            {
-
-                var prod = db.Prod.Where(item => item.ProdCode == product && item.WorkCenter == workcenter).FirstOrDefault();
-
+                prod = db.Prod.Where(item => item.Code == ID && item.Type == type && item.WorkCenter == workcenter).FirstOrDefault();
 
                 OptionTB optionindex = new OptionTB();
                 if (SectionLength == null)
@@ -150,88 +75,28 @@ namespace Axis_ProdTimeDB
 
             }
         }
-
-    }
-    public class FixtureTB
-    {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int ID { get; set; }
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
-        public string FxCode { get; set; }
-        public string OpCode { get; set; }
-        public string WorkCenter { get; set; }
-
-        public static void AddInstance(string FixtureCode, string WorkCenter)
+        public static void AddInstance(string type, string ID, string workCenter)
         {
             using (var db = new TimeContext())
             {
-
-                var fixture = db.Fixtures.Where(item => item.FxCode == FixtureCode && item.WorkCenter == WorkCenter).FirstOrDefault();
-                if (fixture == null)
+                var prod = db.Prod.Where(item => item.Code == ID && item.Type == type && item.WorkCenter == workCenter).FirstOrDefault();
+                if (prod == null)
                 {
-                    db.Fixtures.Add(new FixtureTB
+                    db.Prod.Add(new ProdTB
                     {
-                        FxCode = FixtureCode,
-                        WorkCenter = WorkCenter
+                        Code = ID,
+                        Type = type,
+                        WorkCenter = workCenter
                     });
                 }
-
                 db.SaveChanges();
             }
-
         }
 
 
-        private ICollection<OptionTB> _Options;
-        public virtual ICollection<OptionTB> Options
-        {
-            get
-            {
-                return _Options ?? (_Options = new Collection<OptionTB>());
-            }
-
-            set { _Options = value; }
-        }
-        public void AddOption(OptionTB option)
-        {
-            Options.Add(option);
-        }
-
-        public static void AddOption(string fixtureID, string workcenter, string optionName, double prodTime, int? SectionLength = null)
-        {
-            using (var db = new TimeContext())
-            {
-                var fixture = db.Fixtures.Where(item => item.FxCode == fixtureID && item.WorkCenter == workcenter).FirstOrDefault();
-                if(fixture == null)
-                {
-                    FixtureTB.AddInstance(fixtureID, workcenter);
-                }
-                fixture = db.Fixtures.Where(item => item.FxCode == fixtureID && item.WorkCenter == workcenter).FirstOrDefault();
-                OptionTB optionindex = new OptionTB();
-                if (SectionLength == null)
-                {
-
-                    optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == prodTime).FirstOrDefault();
-
-
-                }
-                else
-                {
-                    optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == prodTime && item.sectionLength == SectionLength).FirstOrDefault();
-
-                }
-
-
-                if (!fixture.Options.Contains(optionindex))
-                    fixture.Options.Add(optionindex);
-
-                db.SaveChanges();
-
-            }
-        }
+    
     }
-
+    
 
     public class OptionTB
     {
@@ -242,7 +107,6 @@ namespace Axis_ProdTimeDB
         public int OptionID { get; set; }
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public string OptionName { get; set; }
-        //public string? sectionType { get; set; }
         public int? sectionLength { get; set; }
         public double ProdTime { get; set; }
 
@@ -267,24 +131,23 @@ namespace Axis_ProdTimeDB
 
 
         public virtual ICollection<ProdTB> Prods { get; set; }
-        public virtual ICollection<FixtureTB> Fxs { get; set; }
-
-        public virtual ICollection<ProdFamTB> ProdFam { get; set; }
+        
 
         public static void AddParam(string optionName, double prodTime, string ParamName, string ParamValue, int? SectionLength = null)
         {
             using (var db = new TimeContext())
             {
                 OptionTB optionindex = new OptionTB();
-                if (SectionLength == null) {
+                if (SectionLength == null)
+                {
 
-                     optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == prodTime ).FirstOrDefault();
+                    optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == prodTime).FirstOrDefault();
 
 
                 }
                 else
                 {
-                     optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == prodTime && item.sectionLength == SectionLength).FirstOrDefault();
+                    optionindex = db.Options.Where(item => item.OptionName == optionName && item.ProdTime == prodTime && item.sectionLength == SectionLength).FirstOrDefault();
 
                 }
                 var paramindex = db.Params.Where(item => item.ParamName == ParamName && item.ParamValue == ParamValue).FirstOrDefault();
@@ -340,8 +203,7 @@ namespace Axis_ProdTimeDB
 
         public Parameter parameter { get; set; }
 
-        //public Category category { get; set; }
-
+    
         private ICollection<OptionTB> _Options;
         public virtual ICollection<OptionTB> Options
         {
@@ -375,6 +237,6 @@ namespace Axis_ProdTimeDB
 
     }
 
-
-
 }
+
+
