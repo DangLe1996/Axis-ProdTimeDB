@@ -41,63 +41,68 @@ namespace Axis_ProdTimeDB.DAL
 
             var DriveWorkdb = new AXISAutomation.Tools.DBConnection.AXIS_AutomationEntities();
             this.BOM = new _BOM(ProductCode, DriveWorkdb);
-            bool morepage;
-            var BO = UD30BO.GetRows(string.Format("Key1 = 'PRODUCTID' and key2 = '{0}'", this.BOM.GetselectedproductID_Category), "", 0, 0, out morepage);
 
-            ParamInput.Add("circuits", this.BOM.GetSelectedCircuits_Category.ToString());
-            ParamInput.Add("Driver", this.BOM.GetSelectedDriver_Category.ToString());
-            ParamInput.Add("Mounting", this.BOM.GetSelectedMounting_Category.ToString());
 
-            WiresQty["3"] = new List<string>
+            
+
+                bool morepage;
+                var BO = UD30BO.GetRows(string.Format("Key1 = 'PRODUCTID' and key2 = '{0}'", this.BOM.GetselectedproductID_Category), "", 0, 0, out morepage);
+
+                ParamInput.Add("circuits", this.BOM.GetSelectedCircuits_Category.ToString());
+                ParamInput.Add("Driver", this.BOM.GetSelectedDriver_Category.ToString());
+                ParamInput.Add("Mounting", this.BOM.GetSelectedMounting_Category.ToString());
+
+                WiresQty["3"] = new List<string>
             {
-                "E", 
+                "E",
                 "ERS"
             };
-            WiresQty["4"] = new List<string>
+                WiresQty["4"] = new List<string>
             {
                 "BI"
             };
-            WiresQty["5"] = new List<string>
+                WiresQty["5"] = new List<string>
             {
-                "D", 
+                "D",
                 "DP",
                 "MD"
 
             };
-            WiresQty["6"] = new List<string>
+                WiresQty["6"] = new List<string>
             {
                 "LT"
             };
 
-            foreach(var row in WiresQty)
-            {
-                if (row.Value.Contains(ParamInput["Driver"]))
+                foreach (var row in WiresQty)
                 {
-                    ParamInput.Add("WiresQty", row.Key);
-                    break;
+                    if (row.Value.Contains(ParamInput["Driver"]))
+                    {
+                        ParamInput.Add("WiresQty", row.Key);
+                        break;
+                    }
                 }
-            }
 
-            this.ParamInput["LampQty"] = "1";
-
-
-            if(this.BOM.GetSelectedOpticsDirect_Category != null) ParamInput.Add("Optics", this.BOM.GetSelectedOpticsDirect_Category.ToString());
-            else if (this.BOM.GetSelectedOpticsIndirect_Category != null) ParamInput.Add("Optics", this.BOM.GetSelectedOpticsIndirect_Category.ToString());
-
-            if(this.BOM.GetselectedproductID_Category.Contains("LED")) ParamInput.Add("Light","led");
-            else ParamInput.Add("Light", "fluorescent");
+                this.ParamInput["LampQty"] = "1";
 
 
+                if (this.BOM.GetSelectedOpticsDirect_Category != null) ParamInput.Add("Optics", this.BOM.GetSelectedOpticsDirect_Category.ToString());
+                else if (this.BOM.GetSelectedOpticsIndirect_Category != null) ParamInput.Add("Optics", this.BOM.GetSelectedOpticsIndirect_Category.ToString());
 
-            this.productCode = BO.UD03[0]["Key2"].ToString();
-            this.fixtureCode = BO.UD03[0]["Character03"].ToString();
-            this.ProdFamCode = BO.UD03[0]["Key3"].ToString();
+                if (this.BOM.GetselectedproductID_Category.Contains("LED")) ParamInput.Add("Light", "led");
+                else ParamInput.Add("Light", "fluorescent");
 
-          
-            this.Initial();
-            this.ProductTime();
-            this.FixtureTime();
-            this.ProdFamTime();
+
+
+                this.productCode = BO.UD03[0]["Key2"].ToString();
+                this.fixtureCode = BO.UD03[0]["Character03"].ToString();
+                this.ProdFamCode = BO.UD03[0]["Key3"].ToString();
+
+
+                this.Initial();
+                this.ProductTime();
+                this.FixtureTime();
+                this.ProdFamTime();
+            
         }
 
 
@@ -115,6 +120,7 @@ namespace Axis_ProdTimeDB.DAL
 
                 foreach (var workcenter in product)
                 {
+                   
                     ProdTime[workcenter.WorkCenter.ToString()] = 0;
 
                 }
@@ -253,7 +259,7 @@ namespace Axis_ProdTimeDB.DAL
         {
             using (var db = new TimeContext())
             {
-
+                this.ParamInput["Section"] = "Complete Section";
                 List<FixtureTB> fixture = db.Fixtures.Where(item => item.FxCode == this.fixtureCode).ToList();
                 foreach (var workcenter in fixture)
                 {

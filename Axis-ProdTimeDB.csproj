@@ -35,6 +35,9 @@
     <LangVersion>preview</LangVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Axis.Utilities">
+      <HintPath>..\..\..\Documents\BPMCustomCode\Utilities\bin\Debug\Axis.Utilities.dll</HintPath>
+    </Reference>
     <Reference Include="AXISAutomation">
       <HintPath>..\..\..\..\..\Epicor\ERP10.1Client\Client\AXISAutomation.dll</HintPath>
     </Reference>
@@ -52,6 +55,21 @@
     </Reference>
     <Reference Include="Epicor.ServiceModel">
       <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Epicor.ServiceModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Erp.Contracts.BO.QuoteAsm">
+      <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Erp.Contracts.BO.QuoteAsm.dll</HintPath>
+    </Reference>
+    <Reference Include="Erp.Contracts.BO.QuoteDtlSearch">
+      <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Erp.Contracts.BO.QuoteDtlSearch.dll</HintPath>
+    </Reference>
+    <Reference Include="Erp.Services.BO.OpMaster">
+      <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Erp.Services.BO.OpMaster.dll</HintPath>
+    </Reference>
+    <Reference Include="Erp.Services.BO.QuoteAsm">
+      <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Erp.Services.BO.QuoteAsm.dll</HintPath>
+    </Reference>
+    <Reference Include="Erp.Services.BO.QuoteDtlSearch">
+      <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Erp.Services.BO.QuoteDtlSearch.dll</HintPath>
     </Reference>
     <Reference Include="Ice.Contracts.BO.UD03">
       <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Ice.Contracts.BO.UD03.dll</HintPath>
@@ -87,6 +105,7 @@
     <Compile Include="DAL\TimeContext.cs" />
     <Compile Include="DataClasses.cs" />
     <Compile Include="AxisAutomation\Fixture.cs" />
+    <Compile Include="EpicorInteract\EpicorConnect.cs" />
     <Compile Include="InputClasses\SubOp.cs" />
     <Compile Include="InputClasses\SubEndC.cs" />
     <Compile Include="InputClasses\Remo.cs" />
@@ -159,6 +178,10 @@
     <Compile Include="Migrations\201909231455265_AddAxisAutomation.Designer.cs">
       <DependentUpon>201909231455265_AddAxisAutomation.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201909241355137_removeopdesc.cs" />
+    <Compile Include="Migrations\201909241355137_removeopdesc.Designer.cs">
+      <DependentUpon>201909241355137_removeopdesc.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="AxisAutomation\Parameter.cs" />
     <Compile Include="AxisAutomation\ParameterAtCategoryAtFixture.cs" />
@@ -200,6 +223,12 @@
     <EmbeddedResource Include="Migrations\201909231455265_AddAxisAutomation.resx">
       <DependentUpon>201909231455265_AddAxisAutomation.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909241355137_removeopdesc.resx">
+      <DependentUpon>201909241355137_removeopdesc.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="OldCode.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

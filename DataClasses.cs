@@ -19,7 +19,6 @@ namespace Axis_ProdTimeDB
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public string FamCode { get; set; }
         public string OpCode { get; set; }
-        public string OpDesc { get; set; }
         public string WorkCenter { get; set; }
 
         public static void AddInstance(string FamCode, string workcenter)
@@ -88,7 +87,6 @@ namespace Axis_ProdTimeDB
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public string ProdCode { get; set; }
         public string OpCode { get; set; }
-        public string OpDesc { get; set; }
         public string WorkCenter { get; set; }
 
 
@@ -162,7 +160,6 @@ namespace Axis_ProdTimeDB
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public string FxCode { get; set; }
         public string OpCode { get; set; }
-        public string OpDesc { get; set; }
         public string WorkCenter { get; set; }
 
         public static void AddInstance(string FixtureCode, string WorkCenter)
