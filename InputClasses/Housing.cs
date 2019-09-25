@@ -47,7 +47,7 @@ namespace Axis_ProdTimeDB.InputClasses
                         mounting = "D";
                         break;
                     default:
-                        mounting = "-";
+                        mounting = null;
                         break;
                 }
 
@@ -55,7 +55,8 @@ namespace Axis_ProdTimeDB.InputClasses
                 ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
                 Dictionary<string, string> parameters = new Dictionary<string, string>();
                 parameters.Add("Section", row.section);
-                parameters.Add("Mounting", mounting);
+                if(mounting != null) parameters.Add("Mounting", mounting);
+
 
                 foreach (var instace in parameters)
                 {

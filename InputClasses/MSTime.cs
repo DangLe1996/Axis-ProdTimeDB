@@ -49,17 +49,20 @@ namespace Axis_ProdTimeDB.InputClasses
                             mounting = "D";
                             break;
                         default:
-                            mounting = "-";
+                            mounting = null;
                             break;
                     }
                     int length = Int32.Parse(row.length);
 
                     ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
                     OptionTB.AddInstance(optionName, row.Sum, length);
-                    ParametersTB.AddInstance("Mounting", mounting);
+                    
                     ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum, length);
-                    OptionTB.AddParam(optionName, row.Sum, "Mounting", mounting);
-
+                    if (mounting != null)
+                    {
+                        ParametersTB.AddInstance("Mounting", mounting);
+                        OptionTB.AddParam(optionName, row.Sum, "Mounting", mounting);
+                    }
 
                 }
 

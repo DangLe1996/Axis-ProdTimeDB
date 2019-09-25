@@ -19,8 +19,18 @@ namespace Axis_ProdTimeDB
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public string Type { get; set; }
         public string Code { get; set; }
-        public string ProdCode { get; set; }
+       
+        public ProdTB GetProd(string ID, string type, string workcenter)
+        {
+            using (var db = new TimeContext())
+            {
 
+                ProdTB prod = db.Prod.Where(item => item.Code == ID && item.Type == type && item.WorkCenter == workcenter).FirstOrDefault();
+                return prod;
+            }
+
+                
+        }
         public string OpCode { get; set; }
         public string WorkCenter { get; set; }
 
@@ -201,9 +211,13 @@ namespace Axis_ProdTimeDB
         public string ParamName { get; set; }
         public string ParamValue { get; set; }
 
-        public Parameter parameter { get; set; }
+
+        //public virtual Parameter ParameterRef { get; set; }
+
 
     
+
+
         private ICollection<OptionTB> _Options;
         public virtual ICollection<OptionTB> Options
         {

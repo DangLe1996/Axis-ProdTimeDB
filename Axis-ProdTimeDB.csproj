@@ -34,15 +34,21 @@
     <WarningLevel>4</WarningLevel>
     <LangVersion>preview</LangVersion>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Axis.Utilities">
       <HintPath>..\..\..\Documents\BPMCustomCode\Utilities\bin\Debug\Axis.Utilities.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="AXISAutomation">
       <HintPath>..\..\..\..\..\Epicor\ERP10.1Client\Client\AXISAutomation.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DBConnection">
       <HintPath>..\..\..\..\..\Epicor\ERP10.1Client\Client\DBConnection.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
@@ -52,27 +58,35 @@
     </Reference>
     <Reference Include="Epicor.Ice">
       <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Epicor.Ice.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Epicor.ServiceModel">
       <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Epicor.ServiceModel.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Erp.Contracts.BO.QuoteAsm">
       <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Erp.Contracts.BO.QuoteAsm.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Erp.Contracts.BO.QuoteDtlSearch">
       <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Erp.Contracts.BO.QuoteDtlSearch.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Erp.Services.BO.OpMaster">
       <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Erp.Services.BO.OpMaster.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Erp.Services.BO.QuoteAsm">
       <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Erp.Services.BO.QuoteAsm.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Erp.Services.BO.QuoteDtlSearch">
       <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Erp.Services.BO.QuoteDtlSearch.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Ice.Contracts.BO.UD03">
       <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Ice.Contracts.BO.UD03.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Ice.Core.Session">
       <HintPath>..\..\..\..\..\Epicor\ERP10.1Client\Client\Ice.Core.Session.dll</HintPath>
@@ -97,15 +111,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AxisAutomation\AxisCustom.cs" />
-    <Compile Include="AxisAutomation\Category.cs" />
-    <Compile Include="AxisAutomation\CategoryAtFixture.cs" />
-    <Compile Include="AxisAutomation\CategoryType.cs" />
+    <Compile Include="CategoryType.cs" />
     <Compile Include="DAL\ProductClass.cs" />
     <Compile Include="DAL\TimeContext.cs" />
     <Compile Include="DataClasses.cs" />
-    <Compile Include="AxisAutomation\Fixture.cs" />
-    <Compile Include="EpicorInteract\EpicorConnect.cs" />
+    <Compile Include="EpicorInteract\Axis-ProdStdCalculator.cs" />
+    <Compile Include="Fixture.cs" />
     <Compile Include="InputClasses\SubOp.cs" />
     <Compile Include="InputClasses\SubEndC.cs" />
     <Compile Include="InputClasses\Remo.cs" />
@@ -142,60 +153,25 @@
     <Compile Include="InputClasses\ScrewRef.cs" />
     <Compile Include="InputClasses\SubEndP.cs" />
     <Compile Include="InputClasses\WiresQty.cs" />
-    <Compile Include="Migrations\201909161855553_init.cs" />
-    <Compile Include="Migrations\201909161855553_init.Designer.cs">
-      <DependentUpon>201909161855553_init.cs</DependentUpon>
+    <Compile Include="Migrations\201909251437199_Inititit2.cs" />
+    <Compile Include="Migrations\201909251437199_Inititit2.Designer.cs">
+      <DependentUpon>201909251437199_Inititit2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201909161913234_addFx.cs" />
-    <Compile Include="Migrations\201909161913234_addFx.Designer.cs">
-      <DependentUpon>201909161913234_addFx.cs</DependentUpon>
+    <Compile Include="Migrations\201909251441060_Inititit5.cs" />
+    <Compile Include="Migrations\201909251441060_Inititit5.Designer.cs">
+      <DependentUpon>201909251441060_Inititit5.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201909171525232_addRls.cs" />
-    <Compile Include="Migrations\201909171525232_addRls.Designer.cs">
-      <DependentUpon>201909171525232_addRls.cs</DependentUpon>
+    <Compile Include="Migrations\201909251446023_addparamref.cs" />
+    <Compile Include="Migrations\201909251446023_addparamref.Designer.cs">
+      <DependentUpon>201909251446023_addparamref.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201909171617105_ProdFam.cs" />
-    <Compile Include="Migrations\201909171617105_ProdFam.Designer.cs">
-      <DependentUpon>201909171617105_ProdFam.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201909171620034_RemoveProdFam.cs" />
-    <Compile Include="Migrations\201909171620034_RemoveProdFam.Designer.cs">
-      <DependentUpon>201909171620034_RemoveProdFam.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201909171623389_AddProdFamTB.cs" />
-    <Compile Include="Migrations\201909171623389_AddProdFamTB.Designer.cs">
-      <DependentUpon>201909171623389_AddProdFamTB.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201909171954077_removepr.cs" />
-    <Compile Include="Migrations\201909171954077_removepr.Designer.cs">
-      <DependentUpon>201909171954077_removepr.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201909172030108_updatedbSept17.cs" />
-    <Compile Include="Migrations\201909172030108_updatedbSept17.Designer.cs">
-      <DependentUpon>201909172030108_updatedbSept17.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201909231455265_AddAxisAutomation.cs" />
-    <Compile Include="Migrations\201909231455265_AddAxisAutomation.Designer.cs">
-      <DependentUpon>201909231455265_AddAxisAutomation.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201909241355137_removeopdesc.cs" />
-    <Compile Include="Migrations\201909241355137_removeopdesc.Designer.cs">
-      <DependentUpon>201909241355137_removeopdesc.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201909241731573_singledb.cs" />
-    <Compile Include="Migrations\201909241731573_singledb.Designer.cs">
-      <DependentUpon>201909241731573_singledb.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201909241812497_singledbupdate.cs" />
-    <Compile Include="Migrations\201909241812497_singledbupdate.Designer.cs">
-      <DependentUpon>201909241812497_singledbupdate.cs</DependentUpon>
+    <Compile Include="Migrations\201909251452159_dropparamref.cs" />
+    <Compile Include="Migrations\201909251452159_dropparamref.Designer.cs">
+      <DependentUpon>201909251452159_dropparamref.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="AxisAutomation\Parameter.cs" />
-    <Compile Include="AxisAutomation\ParameterAtCategoryAtFixture.cs" />
-    <Compile Include="AxisAutomation\ParameterCustomValueType.cs" />
-    <Compile Include="AxisAutomation\ParameterDescriptionOverrides___OLD.cs" />
-    <Compile Include="AxisAutomation\ParameterReturnValueOverride.cs" />
+    <Compile Include="ParamContext.cs" />
+    <Compile Include="Parameter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -204,45 +180,21 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201909161855553_init.resx">
-      <DependentUpon>201909161855553_init.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201909161913234_addFx.resx">
-      <DependentUpon>201909161913234_addFx.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201909171525232_addRls.resx">
-      <DependentUpon>201909171525232_addRls.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201909171617105_ProdFam.resx">
-      <DependentUpon>201909171617105_ProdFam.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201909171620034_RemoveProdFam.resx">
-      <DependentUpon>201909171620034_RemoveProdFam.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201909171623389_AddProdFamTB.resx">
-      <DependentUpon>201909171623389_AddProdFamTB.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201909171954077_removepr.resx">
-      <DependentUpon>201909171954077_removepr.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201909172030108_updatedbSept17.resx">
-      <DependentUpon>201909172030108_updatedbSept17.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201909231455265_AddAxisAutomation.resx">
-      <DependentUpon>201909231455265_AddAxisAutomation.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201909241355137_removeopdesc.resx">
-      <DependentUpon>201909241355137_removeopdesc.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201909241731573_singledb.resx">
-      <DependentUpon>201909241731573_singledb.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201909241812497_singledbupdate.resx">
-      <DependentUpon>201909241812497_singledbupdate.cs</DependentUpon>
-    </EmbeddedResource>
+    <Content Include="OldCode.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="OldCode.txt" />
+    <EmbeddedResource Include="Migrations\201909251437199_Inititit2.resx">
+      <DependentUpon>201909251437199_Inititit2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909251441060_Inititit5.resx">
+      <DependentUpon>201909251441060_Inititit5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909251446023_addparamref.resx">
+      <DependentUpon>201909251446023_addparamref.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909251452159_dropparamref.resx">
+      <DependentUpon>201909251452159_dropparamref.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

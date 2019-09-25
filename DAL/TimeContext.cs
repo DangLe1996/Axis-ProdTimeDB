@@ -9,6 +9,10 @@ namespace Axis_ProdTimeDB.DAL
 {
     class TimeContext: DbContext
     {
+        public TimeContext()
+            : base("name=AxisProdTimeV2")
+        {
+        }
         //public DbSet<ProdFamTB> ProdFam { get; set; }
         public DbSet<ProdTB> Prod { get; set; }
         public DbSet<OptionTB> Options { get; set; }
