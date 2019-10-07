@@ -12,7 +12,7 @@ using System.Data;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class CartBoard : Program
+    class CartBoard :Utilities
     {
 
         public static Session epiSession = new Session("Dang", "Lebaodang96!", "net.tcp://EPICORERP/Epicor10Test", Session.LicenseType.Default, @"C:\Epicor\ERP10.1Client\Client\Config\Epicor10Test.sysconfig");

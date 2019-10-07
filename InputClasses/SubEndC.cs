@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class SubEndC : Program
+    class SubEndC :Utilities
     {
         public SubEndC(string paramFilePath)
         {

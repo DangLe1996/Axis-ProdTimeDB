@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Battery:Program
+    class Battery:Utilities
     {
 
         public Battery(string paramFilePath)

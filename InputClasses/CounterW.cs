@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class CounterW:Program
+    class CounterW:Utilities
     {
         public CounterW(string paramFilePath)
         {

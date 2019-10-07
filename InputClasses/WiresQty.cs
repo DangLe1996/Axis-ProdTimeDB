@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class WiresQty:Program
+    class WiresQty:Utilities
     {
         public WiresQty()
         {

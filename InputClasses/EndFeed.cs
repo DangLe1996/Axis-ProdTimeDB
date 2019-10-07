@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class EndFeed : Program
+    class EndFeed :Utilities
     {
         public EndFeed(string paramFilePath)
         {

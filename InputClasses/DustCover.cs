@@ -11,7 +11,7 @@ using System.Linq;
 using System.Text;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class DustCover:Program
+    class DustCover:Utilities
     {
         public DustCover(string paramFilePath)
         {

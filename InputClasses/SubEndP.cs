@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Axis_ProdTimeDB.DAL;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class SubEndP : Program
+    class SubEndP :Utilities
     {
         public SubEndP(string paramFilePath)
         {
@@ -41,7 +41,7 @@ namespace Axis_ProdTimeDB.InputClasses
                         mounting = "D";
                         break;
                     default:
-                        mounting = null;
+                        mounting = "-";
                         break;
                 }
 
@@ -52,11 +52,10 @@ namespace Axis_ProdTimeDB.InputClasses
                 
 
                 ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum);
-                if (mounting != null)
-                {
+               
                     ParametersTB.AddInstance("Mounting", mounting);
                     OptionTB.AddParam(optionName, row.Sum, "Mounting", mounting);
-                }
+                
 
             }
 

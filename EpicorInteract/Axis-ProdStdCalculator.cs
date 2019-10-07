@@ -9,7 +9,7 @@ using Erp.BO;
 
 namespace Axis_ProdTimeDB.EpicorInteract
 {
-    class AxisProdStdCalculator
+     class AxisProdStdCalculator
     {
 
         public static Session epiSession = new Session("Dang", "Lebaodang96!", "net.tcp://EPICORERP/Epicor10Test", Session.LicenseType.Default, @"C:\Epicor\ERP10.1Client\Client\Config\Epicor10Test.sysconfig");

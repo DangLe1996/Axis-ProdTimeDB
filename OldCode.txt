@@ -110,3 +110,76 @@
 
 
 
+			   //initializer();
+            //using (var tdb = new TimeContext())
+            //{
+            //    foreach (var row in tdb.Params.ToList())
+            //    {
+            //        int i = 2;
+
+            //    }
+            //}
+
+            //using (var db = new ParamContext())
+            //{
+            //    var list = db.Parameters.ToList();
+            //    using (var tdb = new TimeContext())
+            //    {
+            //        foreach (var row in tdb.Params.ToList())
+            //        {
+            //            var paramref = db.Parameters.Where(r => r.Code == row.ParamValue).FirstOrDefault();
+            //            if (paramref != null)
+            //            {
+            //                int i = 1;
+            //                row.ParameterRef = paramref;
+            //                try
+            //                {
+            //                    tdb.SaveChanges();
+            //                }
+            //                catch (DbEntityValidationException dbEx)
+            //                {
+            //                    // Iterate over the errors and write the trace information to make it a little easier to debug
+            //                    // We coudl also wrap this up with our RuleException for any modeldb issues that we don't catch with our 
+            //                    // domain rules.
+            //                    foreach (var validationErrors in dbEx.EntityValidationErrors)
+            //                    {
+            //                        foreach (var validationError in validationErrors.ValidationErrors)
+            //                        {
+            //                            Trace.TraceInformation("Property: {0}, Error: {1}", validationError.PropertyName, validationError.ErrorMessage);
+            //                        }
+            //                    }
+
+            //                    throw;
+            //                }
+
+            //            }
+            //        }
+            //    }
+
+            //}
+
+            //using (var db = new AxisCustom())
+            //{
+            //    var parameters = db.Parameters.ToList();
+            //    var category = db.CategoryTypes.ToList();
+
+            //    using (var customdb = new TimeContext())
+            //    {
+
+            //    }
+            //}
+            //using (var customdb = new TimeContext())
+            //{
+            //    foreach (ParametersTB row in customdb.Params)
+            //    {
+            //        using (var db = new AxisCustom())
+            //        {
+            //            var paramindex = db.Parameters.Where(r => r.Code == row.ParamValue).FirstOrDefault();
+
+
+            //        }
+            //        customdb.SaveChanges();
+            //    }
+
+
+            //}

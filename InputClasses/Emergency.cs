@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Emergency:Program
+    class Emergency:Utilities
     {
 
         public Emergency(string paramFilePath)

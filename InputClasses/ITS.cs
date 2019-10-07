@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class ITS : Program
+    class ITS :Utilities
     {
         public ITS(string paramFilePath)
         {

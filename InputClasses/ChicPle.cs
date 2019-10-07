@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class ChicPle:Program
+    class ChicPle:Utilities
     {
         public ChicPle(string paramFilePath)
         {

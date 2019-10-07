@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Driver : Program
+    class Driver :Utilities
     {
         public Driver(string paramFilePath)
         {

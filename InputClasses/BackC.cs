@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class BackC : Program
+    class BackC :Utilities
     {
         public BackC(string paramFilePath)
         {

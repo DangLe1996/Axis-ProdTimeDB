@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class EndP : Program
+    class EndP :Utilities
     {
         public EndP(string paramFilePath)
         {

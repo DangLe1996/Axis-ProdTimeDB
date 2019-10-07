@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Hanger:Program
+    class Hanger:Utilities
     {
 
         public Hanger(string paramFilePath)

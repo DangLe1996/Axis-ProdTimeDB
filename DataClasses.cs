@@ -1,13 +1,9 @@
 ﻿using Axis_ProdTimeDB.DAL;
-using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using AXISAutomation;
 namespace Axis_ProdTimeDB
 {
 
@@ -131,12 +127,7 @@ namespace Axis_ProdTimeDB
 
             set { _Params = value; }
         }
-        public void AddParams(ParametersTB param)
-        {
-            param.AddOptions(this);
-            Params.Add(param);
-
-        }
+   
 
 
 

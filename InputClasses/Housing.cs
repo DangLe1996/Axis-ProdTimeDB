@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Housing : Program
+    class Housing :Utilities
     {
         public Housing(string paramFilePath)
         {
@@ -47,7 +47,7 @@ namespace Axis_ProdTimeDB.InputClasses
                         mounting = "D";
                         break;
                     default:
-                        mounting = null;
+                        mounting = "-";
                         break;
                 }
 
@@ -55,7 +55,7 @@ namespace Axis_ProdTimeDB.InputClasses
                 ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
                 Dictionary<string, string> parameters = new Dictionary<string, string>();
                 parameters.Add("Section", row.section);
-                if(mounting != null) parameters.Add("Mounting", mounting);
+                 parameters.Add("Mounting", mounting);
 
 
                 foreach (var instace in parameters)

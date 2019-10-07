@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class LightC : Program
+    class LightC :Utilities
     {
         public LightC(string paramFilePath)
         {

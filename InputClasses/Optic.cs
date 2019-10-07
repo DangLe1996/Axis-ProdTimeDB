@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Optic : Program
+    class Optic :Utilities
     {
         public Optic(string paramFilePath)
         {
@@ -43,10 +43,10 @@ namespace Axis_ProdTimeDB.InputClasses
                     int length = Int32.Parse(row.Length);
                     OptionTB.AddInstance(optionName, row.Sum, length);
 
-                    ParametersTB.AddInstance("Optic", row.Optic);
+                    ParametersTB.AddInstance("Optics", row.Optic);
 
 
-                    OptionTB.AddParam(optionName, row.Sum, "Optic", row.Optic);
+                    OptionTB.AddParam(optionName, row.Sum, "Optics", row.Optic);
                     
 
                     ProdTB.AddInstance(prodfamtype, row.Product, row.workcenter);

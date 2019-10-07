@@ -9,7 +9,7 @@ using System.Transactions;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class MSTime : Program
+    class MSTime :Utilities
     {
         public MSTime(string paramFilePath)
         {
@@ -49,7 +49,7 @@ namespace Axis_ProdTimeDB.InputClasses
                             mounting = "D";
                             break;
                         default:
-                            mounting = null;
+                            mounting = "-";
                             break;
                     }
                     int length = Int32.Parse(row.length);
@@ -58,11 +58,10 @@ namespace Axis_ProdTimeDB.InputClasses
                     OptionTB.AddInstance(optionName, row.Sum, length);
                     
                     ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum, length);
-                    if (mounting != null)
-                    {
+                 
                         ParametersTB.AddInstance("Mounting", mounting);
                         OptionTB.AddParam(optionName, row.Sum, "Mounting", mounting);
-                    }
+                    
 
                 }
 

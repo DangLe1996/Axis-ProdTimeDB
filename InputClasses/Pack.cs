@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Pack : Program
+    class Pack :Utilities
     {
         public Pack(string paramFilePath)
         {
@@ -48,18 +48,17 @@ namespace Axis_ProdTimeDB.InputClasses
                             mounting = "D";
                             break;
                         default:
-                            mounting = null;
+                            mounting = "-";
                             break;
                     }
 
                     ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
                     
                     OptionTB.AddInstance(optionName, row.Sum, length);
-                    if (mounting != null)
-                    {
+                 
                         ParametersTB.AddInstance("Mounting", mounting);
                         OptionTB.AddParam(optionName, row.Sum, "Mounting", mounting, length);
-                    }
+                    
                     ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum);
                    
                 }

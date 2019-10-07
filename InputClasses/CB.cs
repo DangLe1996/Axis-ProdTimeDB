@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class CB : Program
+    class CB :Utilities
     {
         public CB(string paramFilePath)
         {

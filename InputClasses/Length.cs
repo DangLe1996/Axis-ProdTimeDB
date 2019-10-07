@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Length:Program
+    class Length:Utilities
     {
         public Length(string paramFilePath)
         {

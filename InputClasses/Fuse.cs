@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Fuse : Program
+    class Fuse :Utilities
     {
         public Fuse(string paramFilePath)
         {

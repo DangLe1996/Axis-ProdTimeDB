@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class FlexWhip : Program
+    class FlexWhip :Utilities
     {
         public FlexWhip(string paramFilePath)
         {

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Nightlight : Program
+    class Nightlight :Utilities
     {
         public Nightlight(string paramFilePath)
         {

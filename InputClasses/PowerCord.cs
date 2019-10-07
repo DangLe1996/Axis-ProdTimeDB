@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class PowerCord : Program
+    class PowerCord :Utilities
     {
         public PowerCord(string paramFilePath)
         {

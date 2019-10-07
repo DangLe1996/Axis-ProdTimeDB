@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class PowerC:Program
+    class PowerC:Utilities
     {
 
         public PowerC(string paramFilePath)

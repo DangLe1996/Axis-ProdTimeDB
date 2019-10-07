@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Remo:Program
+    class Remo:Utilities
     {
 
         public Remo(string paramFilePath)

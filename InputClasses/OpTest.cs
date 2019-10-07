@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class OpTest : Program
+    class OpTest :Utilities
     {
         public OpTest(string paramFilePath)
         {

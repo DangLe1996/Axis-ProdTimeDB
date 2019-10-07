@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class MKits : Program
+    class MKits :Utilities
     {
         public MKits(string paramFilePath)
         {

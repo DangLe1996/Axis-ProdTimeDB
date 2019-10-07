@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class ExitW : Program
+    class ExitW :Utilities
     {
         public ExitW(string paramFilePath)
         {
