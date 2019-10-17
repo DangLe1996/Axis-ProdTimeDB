@@ -1,14 +1,11 @@
 ﻿using Axis_ProdTimeDB.DAL;
 using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Pack :Utilities
+    class Pack : Utilities
     {
         public Pack(string paramFilePath)
         {
@@ -52,15 +49,15 @@ namespace Axis_ProdTimeDB.InputClasses
                             break;
                     }
 
-                    ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
-                    
+                    ProdTB.AddInstance(prodtype, row.Product, row.workcenter);
+
                     OptionTB.AddInstance(optionName, row.Sum, length);
-                 
-                        ParametersTB.AddInstance("Mounting", mounting);
-                        OptionTB.AddParam(optionName, row.Sum, "Mounting", mounting, length);
-                    
-                    ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum);
-                   
+
+                    ParametersTB.AddInstance("Mounting", mounting);
+                    OptionTB.AddParam(optionName, row.Sum, "Mounting", mounting, length);
+
+                    ProdTB.AddOption(prodtype, row.Product, row.workcenter, optionName, row.Sum);
+
                 }
             }
         }

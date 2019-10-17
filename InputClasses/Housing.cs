@@ -1,14 +1,11 @@
-﻿using Axis_ProdTimeDB.DAL;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Housing :Utilities
+    class Housing : Utilities
     {
         public Housing(string paramFilePath)
         {
@@ -52,10 +49,10 @@ namespace Axis_ProdTimeDB.InputClasses
                 }
 
                 OptionTB.AddInstance(optionName, row.Sum, row.length);
-                ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
+                ProdTB.AddInstance(prodtype, row.Product, row.workcenter);
                 Dictionary<string, string> parameters = new Dictionary<string, string>();
                 parameters.Add("Section", row.section);
-                 parameters.Add("Mounting", mounting);
+                parameters.Add("Mounting", mounting);
 
 
                 foreach (var instace in parameters)
@@ -65,7 +62,7 @@ namespace Axis_ProdTimeDB.InputClasses
                 }
 
 
-                ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum, row.length);
+                ProdTB.AddOption(prodtype, row.Product, row.workcenter, optionName, row.Sum, row.length);
 
             }
         }

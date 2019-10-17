@@ -1,16 +1,12 @@
-﻿using Axis_ProdTimeDB.DAL;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class CB :Utilities
+    class CB : Utilities
     {
         public CB(string paramFilePath)
         {
@@ -21,9 +17,9 @@ namespace Axis_ProdTimeDB.InputClasses
                            group row by new
                            {
                                ID = row.Field<string>("Fixture Type"),
-                          
+
                                Workcenter = row.Field<string>("Work Center"),
-                               LampQty  = row.Field<string>("Lamp Qty")
+                               LampQty = row.Field<string>("Lamp Qty")
                            } into grp
                            //orderby grp.Key
                            select new
@@ -43,7 +39,7 @@ namespace Axis_ProdTimeDB.InputClasses
                 OptionTB.AddInstance(optionName, row.Sum);
                 ParametersTB.AddInstance("LampQty", row.LampQty);
                 OptionTB.AddParam(optionName, row.Sum, "LampQty", row.LampQty);
-               
+
 
 
             }

@@ -1,20 +1,16 @@
-﻿using Axis_ProdTimeDB.DAL;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Hanger:Utilities
+    class Hanger : Utilities
     {
 
         public Hanger(string paramFilePath)
         {
             string optionName = this.GetType().Name;
-            
+
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
 
@@ -36,7 +32,7 @@ namespace Axis_ProdTimeDB.InputClasses
             foreach (var row in newSort)
             {
                 OptionTB.AddInstance(optionName, row.Sum);
-                ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
+                ProdTB.AddInstance(prodtype, row.Product, row.workcenter);
                 ProdTB.AddOption(prodtype, row.Product, row.workcenter, optionName, row.Sum);
                 ParametersTB.AddInstance("Section", row.sectionType);
                 OptionTB.AddParam(optionName, row.Sum, "Section", row.sectionType);

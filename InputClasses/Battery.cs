@@ -1,14 +1,10 @@
-﻿using Axis_ProdTimeDB.DAL;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Battery:Utilities
+    class Battery : Utilities
     {
 
         public Battery(string paramFilePath)
@@ -35,7 +31,7 @@ namespace Axis_ProdTimeDB.InputClasses
             foreach (var row in newSort)
             {
                 OptionTB.AddInstance(optionName, row.Sum);
-                ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
+                ProdTB.AddInstance(prodtype, row.Product, row.workcenter);
                 ProdTB.AddOption(prodtype, row.Product, row.workcenter, optionName, row.Sum);
             }
         }

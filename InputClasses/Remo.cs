@@ -1,13 +1,10 @@
 ﻿using Axis_ProdTimeDB.DAL;
 using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Remo:Utilities
+    class Remo : Utilities
     {
 
         public Remo(string paramFilePath)
@@ -18,26 +15,26 @@ namespace Axis_ProdTimeDB.InputClasses
 
                            group row by new
                            {
-                             
+
                                Workcenter = row.Field<string>("Work Center")
                            } into grp
                            select new
                            {
 
-                              
+
                                workcenter = grp.Key.Workcenter,
-                               
+
                                Sum = grp.Sum(r => Double.Parse(r.Field<string>("Time(min)")))
                            }).ToList();
             foreach (var row in newSort)
             {
-               
-                
+
+
                 using (var db = new TimeContext())
                 {
                     foreach (var fixture in db.Prod.Where(r => r.WorkCenter == row.workcenter && r.Type == fixturetype))
                     {
-                        ProdTB.AddOption(fixturetype,fixture.Code, row.workcenter, optionName, row.Sum);
+                        ProdTB.AddOption(fixturetype, fixture.Code, row.workcenter, optionName, row.Sum);
 
                     }
 

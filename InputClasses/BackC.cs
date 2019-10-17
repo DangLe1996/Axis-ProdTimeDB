@@ -1,13 +1,9 @@
-﻿using Axis_ProdTimeDB.DAL;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class BackC :Utilities
+    class BackC : Utilities
     {
         public BackC(string paramFilePath)
         {
@@ -35,7 +31,7 @@ namespace Axis_ProdTimeDB.InputClasses
             foreach (var row in newSort)
             {
                 ProdTB.AddInstance(prodtype, row.Product, row.workcenter);
-                OptionTB.AddInstance(optionName, row.Sum,row.length);
+                OptionTB.AddInstance(optionName, row.Sum, row.length);
                 ProdTB.AddOption(prodtype, row.Product, row.workcenter, optionName, row.Sum, row.length);
 
 

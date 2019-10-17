@@ -3,11 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class PowerC:Utilities
+    class PowerC : Utilities
     {
 
         public PowerC(string paramFilePath)
@@ -41,14 +39,14 @@ namespace Axis_ProdTimeDB.InputClasses
                 parameters.Add("Circuits", row.Circtuit);
                 parameters.Add("Driver", row.Ballast);
                 int length = Int32.Parse(row.length);
-               
+
                 OptionTB.AddInstance(optionName, row.Sum, length);
 
 
                 foreach (var instace in parameters)
                 {
                     ParametersTB.AddInstance(instace.Key, instace.Value);
-                    OptionTB.AddParam(optionName, row.Sum, instace.Key, instace.Value,length);
+                    OptionTB.AddParam(optionName, row.Sum, instace.Key, instace.Value, length);
                 }
                 using (var db = new TimeContext())
                 {

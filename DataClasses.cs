@@ -15,7 +15,7 @@ namespace Axis_ProdTimeDB
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public string Type { get; set; }
         public string Code { get; set; }
-       
+
         public ProdTB GetProd(string ID, string type, string workcenter)
         {
             using (var db = new TimeContext())
@@ -25,7 +25,7 @@ namespace Axis_ProdTimeDB
                 return prod;
             }
 
-                
+
         }
         public string OpCode { get; set; }
         public string WorkCenter { get; set; }
@@ -45,7 +45,7 @@ namespace Axis_ProdTimeDB
         {
             Options.Add(option);
         }
-       
+
         public static void AddOption(string type, string ID, string workcenter, string optionName, double prodTime, int? SectionLength = null)
         {
             using (var db = new TimeContext())
@@ -53,7 +53,7 @@ namespace Axis_ProdTimeDB
 
                 var prod = db.Prod.Where(item => item.Code == ID && item.Type == type && item.WorkCenter == workcenter).FirstOrDefault();
 
-                if(prod == null)
+                if (prod == null)
                 {
                     ProdTB.AddInstance(type, ID, workcenter);
                 }
@@ -100,9 +100,9 @@ namespace Axis_ProdTimeDB
         }
 
 
-    
+
     }
-    
+
 
     public class OptionTB
     {
@@ -127,12 +127,12 @@ namespace Axis_ProdTimeDB
 
             set { _Params = value; }
         }
-   
+
 
 
 
         public virtual ICollection<ProdTB> Prods { get; set; }
-        
+
 
         public static void AddParam(string optionName, double prodTime, string ParamName, string ParamValue, int? SectionLength = null)
         {
@@ -206,7 +206,7 @@ namespace Axis_ProdTimeDB
         //public virtual Parameter ParameterRef { get; set; }
 
 
-    
+
 
 
         private ICollection<OptionTB> _Options;

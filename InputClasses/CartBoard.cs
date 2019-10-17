@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Axis_ProdTimeDB.DAL;
-using System;
-using Ice.Proxy.BO;
+﻿using Axis_ProdTimeDB.DAL;
 using Ice.Core;
 using Ice.Lib.Framework;
+using Ice.Proxy.BO;
+using System;
 using System.Data;
+using System.Linq;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class CartBoard :Utilities
+    class CartBoard : Utilities
     {
 
         public static Session epiSession = new Session("Dang", "Lebaodang96!", "net.tcp://EPICORERP/Epicor10Test", Session.LicenseType.Default, @"C:\Epicor\ERP10.1Client\Client\Config\Epicor10Test.sysconfig");
@@ -59,7 +55,7 @@ namespace Axis_ProdTimeDB.InputClasses
 
 
 
-                        ProdTB.AddInstance(prodtype,prod, row.workcenter);
+                        ProdTB.AddInstance(prodtype, prod, row.workcenter);
                         OptionTB.AddInstance(optionName, row.Sum);
                         ParametersTB.AddInstance("Type", row.type);
                         ProdTB.AddOption(prodtype, prod, row.workcenter, optionName, row.Sum);

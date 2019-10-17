@@ -1,18 +1,15 @@
-﻿using Axis_ProdTimeDB.DAL;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class ExitW :Utilities
+    class ExitW : Utilities
     {
         public ExitW(string paramFilePath)
         {
-           
+
             string optionName = this.GetType().Name;
             var dt = ConvertCSVtoDataTable(paramFilePath);
             var newSort = (from row in dt.AsEnumerable()
@@ -23,7 +20,7 @@ namespace Axis_ProdTimeDB.InputClasses
                                Section = row.Field<string>("Section"),
                                Circtuit = row.Field<string>("Circuit"),
                                Ballast = row.Field<string>("Kind Of Ballast/Driver"),
-                       
+
                                Workcenter = row.Field<string>("Work Center")
                            } into grp
                            select new
@@ -33,11 +30,11 @@ namespace Axis_ProdTimeDB.InputClasses
                                Circtuit = grp.Key.Circtuit,
                                workcenter = grp.Key.Workcenter,
                                Ballast = grp.Key.Ballast,
-                              
+
                                Sum = grp.Sum(r => Double.Parse(r.Field<string>("Time (min)")))
                            }).ToList();
 
-           
+
             foreach (var row in newSort)
             {
                 Dictionary<string, string> parameters = new Dictionary<string, string>();
@@ -46,18 +43,18 @@ namespace Axis_ProdTimeDB.InputClasses
                 parameters.Add("Driver", row.Ballast);
 
 
-                ProdTB.AddInstance(fixturetype,row.fixture, row.workcenter);
+                ProdTB.AddInstance(fixturetype, row.fixture, row.workcenter);
                 OptionTB.AddInstance(optionName, row.Sum);
 
 
-                
+
                 foreach (var instace in parameters)
                 {
                     ParametersTB.AddInstance(instace.Key, instace.Value);
                     OptionTB.AddParam(optionName, row.Sum, instace.Key, instace.Value);
                 }
 
-                ProdTB.AddOption(fixturetype,row.fixture, row.workcenter, optionName, row.Sum);
+                ProdTB.AddOption(fixturetype, row.fixture, row.workcenter, optionName, row.Sum);
 
 
 
@@ -71,5 +68,5 @@ namespace Axis_ProdTimeDB.InputClasses
 
         }
     }
-    
+
 }

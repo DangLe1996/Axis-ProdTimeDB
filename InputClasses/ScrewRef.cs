@@ -1,13 +1,9 @@
-﻿using Axis_ProdTimeDB.DAL;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class ScrewRef :Utilities
+    class ScrewRef : Utilities
     {
         public ScrewRef(string paramFilePath)
         {
@@ -26,17 +22,17 @@ namespace Axis_ProdTimeDB.InputClasses
                            select new
                            {
                                Product = grp.Key.ID,
-                               length = Int32.Parse( grp.Key.Length),
+                               length = Int32.Parse(grp.Key.Length),
                                workcenter = grp.Key.Workcenter,
                                Sum = grp.Sum(r => Double.Parse(r.Field<string>("Time (min)")))
                            }).ToList();
 
             foreach (var row in newSort)
             {
-               
+
                 OptionTB.AddInstance(optionName, row.Sum, row.length);
-                ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
-                ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum, row.length);
+                ProdTB.AddInstance(prodtype, row.Product, row.workcenter);
+                ProdTB.AddOption(prodtype, row.Product, row.workcenter, optionName, row.Sum, row.length);
 
             }
         }

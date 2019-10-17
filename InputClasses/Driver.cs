@@ -1,14 +1,11 @@
 ﻿using Axis_ProdTimeDB.DAL;
 using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Driver :Utilities
+    class Driver : Utilities
     {
         public Driver(string paramFilePath)
         {
@@ -36,9 +33,9 @@ namespace Axis_ProdTimeDB.InputClasses
                 foreach (var row in newSort)
                 {
 
-                    ProdTB.AddInstance(prodtype,row.Product, row.workcenter);
+                    ProdTB.AddInstance(prodtype, row.Product, row.workcenter);
                     OptionTB.AddInstance(optionName, row.Sum);
-                    ProdTB.AddOption(prodtype,row.Product, row.workcenter, optionName, row.Sum);
+                    ProdTB.AddOption(prodtype, row.Product, row.workcenter, optionName, row.Sum);
                 }
 
 

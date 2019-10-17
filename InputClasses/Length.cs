@@ -1,13 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Length:Utilities
+    class Length : Utilities
     {
         public Length(string paramFilePath)
         {
@@ -17,16 +14,16 @@ namespace Axis_ProdTimeDB.InputClasses
 
             Dictionary<string, List<string>> SectionParam = new Dictionary<string, List<string>>();
 
-            
 
-            
+
+
 
 
             foreach (DataRow row in dt.Rows)
             {
                 SectionParam["SR1"] = new List<string>
             {
-                
+
                 row["SR1"].ToString(),
                 row["Cartridge 1 SR1"].ToString(),
                 row["Cartridge 2 SR1"].ToString(),
@@ -34,7 +31,7 @@ namespace Axis_ProdTimeDB.InputClasses
             };
                 SectionParam["SRM"] = new List<string>
             {
-                
+
                 row["SRM"].ToString(),
                 row["Cartridge 1 SRM"].ToString(),
                 row["Cartridge 2 SRM"].ToString(),
@@ -52,9 +49,9 @@ namespace Axis_ProdTimeDB.InputClasses
                 int length = Int32.Parse(row["Length (feet)"].ToString());
                 OptionTB.AddInstance(optionName, 0.0, length);
 
-                foreach(KeyValuePair<string, List<string>> section in SectionParam)
+                foreach (KeyValuePair<string, List<string>> section in SectionParam)
                 {
-                    foreach(var x in section.Value)
+                    foreach (var x in section.Value)
                     {
                         if (!string.IsNullOrEmpty(x))
                         {

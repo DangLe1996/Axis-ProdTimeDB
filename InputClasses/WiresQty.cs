@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Axis_ProdTimeDB.InputClasses
+﻿namespace Axis_ProdTimeDB.InputClasses
 {
-    class WiresQty:Utilities
+    class WiresQty : Utilities
     {
         public WiresQty()
         {
@@ -24,7 +18,7 @@ namespace Axis_ProdTimeDB.InputClasses
             OptionTB.AddInstance("WiresQty", 6);
             OptionTB.AddParam("wiresQty", 6, "Driver", "LT");
 
-            
+
         }
     }
 }

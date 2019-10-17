@@ -1,14 +1,11 @@
 ﻿using Axis_ProdTimeDB.DAL;
 using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Optic :Utilities
+    class Optic : Utilities
     {
         public Optic(string paramFilePath)
         {
@@ -37,7 +34,7 @@ namespace Axis_ProdTimeDB.InputClasses
                 foreach (var row in newSort)
                 {
 
-              
+
 
 
                     int length = Int32.Parse(row.Length);
@@ -47,10 +44,10 @@ namespace Axis_ProdTimeDB.InputClasses
 
 
                     OptionTB.AddParam(optionName, row.Sum, "Optics", row.Optic);
-                    
+
 
                     ProdTB.AddInstance(prodfamtype, row.Product, row.workcenter);
-                    ProdTB.AddOption(prodfamtype, row.Product, row.workcenter, optionName, row.Sum,length);
+                    ProdTB.AddOption(prodfamtype, row.Product, row.workcenter, optionName, row.Sum, length);
 
 
                     db.SaveChanges();

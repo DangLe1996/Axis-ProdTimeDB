@@ -1,14 +1,10 @@
-﻿using Axis_ProdTimeDB.DAL;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class SubOp :Utilities
+    class SubOp : Utilities
     {
         public SubOp(string paramFilePath)
         {
@@ -41,7 +37,7 @@ namespace Axis_ProdTimeDB.InputClasses
             //    ProdFamTB.AddInstance(row.ProdFam, row.workcenter);
 
 
-               
+
             //    OptionTB.AddInstance(optionName, row.Sum, row.Length);
 
             //    ParametersTB.AddInstance("Optic", row.Optic);
@@ -50,7 +46,7 @@ namespace Axis_ProdTimeDB.InputClasses
             //    ParametersTB.AddInstance("SectionType", row.section);
             //    OptionTB.AddParam(optionName, row.Sum, "SectionType", row.section,row.Length);
 
-                
+
             //    ProdFamTB.AddOption(row.ProdFam, row.workcenter, optionName, row.Sum, row.Length);
 
 
@@ -60,7 +56,7 @@ namespace Axis_ProdTimeDB.InputClasses
 
 
 
-            
+
         }
 
     }

@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class Emergency:Utilities
+    class Emergency : Utilities
     {
 
         public Emergency(string paramFilePath)
@@ -18,22 +18,22 @@ namespace Axis_ProdTimeDB.InputClasses
                            group row by new
                            {
                                ID = row.Field<string>("Fixture Type"),
-                              
+
                                Workcenter = row.Field<string>("Work Center")
                            } into grp
                            //orderby grp.Key
                            select new
                            {
                                ID = grp.Key.ID,
-                             
+
                                workcenter = grp.Key.Workcenter,
                                Sum = grp.Sum(r => Double.Parse(r.Field<string>("Time(min)")))
                            }).ToList();
             foreach (var row in newSort)
             {
-                ProdTB.AddInstance(fixturetype,row.ID, row.workcenter);
+                ProdTB.AddInstance(fixturetype, row.ID, row.workcenter);
                 OptionTB.AddInstance(optionName, row.Sum);
-                ProdTB.AddOption(fixturetype,row.ID, row.workcenter, optionName, row.Sum);
+                ProdTB.AddOption(fixturetype, row.ID, row.workcenter, optionName, row.Sum);
 
 
             }

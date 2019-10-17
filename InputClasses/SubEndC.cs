@@ -1,14 +1,10 @@
-﻿using Axis_ProdTimeDB.DAL;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Axis_ProdTimeDB.InputClasses
 {
-    class SubEndC :Utilities
+    class SubEndC : Utilities
     {
         public SubEndC(string paramFilePath)
         {
@@ -41,7 +37,7 @@ namespace Axis_ProdTimeDB.InputClasses
                 OptionTB.AddInstance(optionName, row.Sum);
                 ParametersTB.AddInstance("Section", row.section);
                 OptionTB.AddParam(optionName, row.Sum, "Section", row.section);
-                
+
             }
 
 
