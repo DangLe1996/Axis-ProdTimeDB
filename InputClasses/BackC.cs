@@ -27,13 +27,11 @@ namespace Axis_ProdTimeDB.InputClasses
                                Sum = grp.Sum(r => Double.Parse(r.Field<string>("Time (min)")))
                            }).ToList();
 
-
             foreach (var row in newSort)
             {
                 ProdTB.AddInstance(prodtype, row.Product, row.workcenter);
                 OptionTB.AddInstance(optionName, row.Sum, row.length);
                 ProdTB.AddOption(prodtype, row.Product, row.workcenter, optionName, row.Sum, row.length);
-
 
             }
 

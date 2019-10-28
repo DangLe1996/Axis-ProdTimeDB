@@ -11,7 +11,6 @@ namespace Axis_ProdTimeDB.DAL
             : base(@"Data Source = EPICORSSRS\MSSQLAPPS;Initial Catalog = ProdTime; User ID = epicoradmin; Password=Ep1c0r4Life!;Connect Timeout = 30; Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False")
 
 
-
         {
         }
         //public DbSet<ProdFamTB> ProdFam { get; set; }

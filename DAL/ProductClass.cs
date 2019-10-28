@@ -1,4 +1,4 @@
-﻿using AXISAutomation.Solvers.BOM;
+﻿using AXISAutomation.FixtureConfiguration;
 using Erp.BO;
 using Erp.Proxy.BO;
 using Ice.Core;
@@ -14,39 +14,51 @@ namespace Axis_ProdTimeDB.DAL
 
     public class ProductClass : Utilities
     {
-        private AXISAutomation.Solvers.BOM._BOM BOM { get; set; }
-
+  
+        private AXISAutomation.FixtureConfiguration._Fixture _FxConfig { get; set; }
         public static Session epiSession = new Session("Dang", "Lebaodang96!", "net.tcp://EPICORERP/Epicor10Test", Session.LicenseType.Default, @"C:\Epicor\ERP10.1Client\Client\Config\Epicor10Test.sysconfig");
         private UD03Impl UD30BO = WCFServiceSupport.CreateImpl<UD03Impl>((Ice.Core.Session)epiSession, "Ice/BO/UD03");
+        private QuoteAsmImpl quoteAsmImpl = WCFServiceSupport.CreateImpl<QuoteAsmImpl>((Ice.Core.Session)epiSession, Erp.Proxy.BO.QuoteAsmImpl.UriPath);
+        private QuoteImpl quoteImpl = WCFServiceSupport.CreateImpl<QuoteImpl>((Ice.Core.Session)epiSession, Erp.Proxy.BO.QuoteImpl.UriPath);
+        private QuoteAsmDataSet QuoteDS = new QuoteAsmDataSet();
+
 
         public Dictionary<string, double> ProdTime = new Dictionary<string, double>();
         public Dictionary<string, double> ProdTimeERP = new Dictionary<string, double>();
-        private List<string> ParamNames = new List<string>();
-        private List<string> ParamValue = new List<string>();
-        private int lengthParam;
-        private QuoteAsmImpl quoteAsmImpl = WCFServiceSupport.CreateImpl<QuoteAsmImpl>((Ice.Core.Session)epiSession, Erp.Proxy.BO.QuoteAsmImpl.UriPath);
-        private QuoteAsmDataSet QuoteDS = new QuoteAsmDataSet();
-        private int sectionNum;
+
+
         private Dictionary<string, string> ParamInput = new Dictionary<string, string>();
         public List<string> usedOptionGlobal = new List<string>();
         private Dictionary<string, List<string>> WiresQty = new Dictionary<string, List<string>>();
 
-        public Dictionary<string, double> OH = new Dictionary<string, double>();
+        public Dictionary<string, double> OperationHour = new Dictionary<string, double>();
         private string fixtureCode;
         private string productCode;
         private string ProdFamCode;
 
-        public ProductClass(_BOM _BOM, int quoteNum = 0, int quoteLine = 0, int sectionNum = 0)
+
+
+
+
+
+
+
+
+
+
+
+        public ProductClass(_Fixture FxConfig, int quoteNum = 0, int quoteLine = 0, int sectionNum = 0)
         {
-            this.sectionNum = sectionNum;
+ 
             bool morepage;
-            this.BOM = _BOM;
-            if (this.BOM.GetselectedproductID_Category == null)
+            this._FxConfig = FxConfig;
+            string productID = this._FxConfig.Selection.ProductID.SelectionBaseValue;
+            if (productID == null)
             {
                 throw new System.Exception("This product cannot be configured");
 
             }
-            var BO = UD30BO.GetRows(string.Format("Key1 = 'PRODUCTID' and key2 = '{0}'", this.BOM.GetselectedproductID_Category), "", 0, 0, out morepage);
+            var BO = UD30BO.GetRows(string.Format("Key1 = 'PRODUCTID' and key2 = '{0}'", productID), "", 0, 0, out morepage);
 
             this.productCode = BO.UD03[0]["Key2"].ToString();
             this.fixtureCode = BO.UD03[0]["Character03"].ToString();
@@ -55,7 +67,7 @@ namespace Axis_ProdTimeDB.DAL
 
             try
             {
-                ParamInput.Add("Circuits", this.BOM.FixtureConfiguration.Selection.Circuits.SelectionBaseValue);
+                ParamInput.Add("Circuits", this._FxConfig.Selection.Circuits.SelectionBaseValue);
             }
             catch (NullReferenceException)
             {
@@ -63,7 +75,7 @@ namespace Axis_ProdTimeDB.DAL
             }
             try
             {
-                ParamInput.Add("Driver", this.BOM.FixtureConfiguration.Selection.Driver.SelectionBaseValue);
+                ParamInput.Add("Driver",this._FxConfig.Selection.Driver.SelectionBaseValue);
             }
             catch (NullReferenceException)
             {
@@ -76,8 +88,8 @@ namespace Axis_ProdTimeDB.DAL
                     "D",
                     "DS"
                 });
-                if (recess_mounting.Contains(this.BOM.FixtureConfiguration.Selection.Mounting.SelectionBaseValue) && this.fixtureCode == "Recessed")
-                    ParamInput.Add("Mounting", this.BOM.FixtureConfiguration.Selection.Mounting.SelectionBaseValue);
+                if (recess_mounting.Contains(this._FxConfig.Selection.Mounting.SelectionBaseValue) && this.fixtureCode.ToLower() == "recessed")
+                    ParamInput.Add("Mounting",this._FxConfig.Selection.Mounting.SelectionBaseValue);
                 else ParamInput.Add("Mounting", "-");
             }
             catch (NullReferenceException)
@@ -115,13 +127,13 @@ namespace Axis_ProdTimeDB.DAL
                 }
             }
             if (!ParamInput.ContainsKey("WiresQty")) ParamInput.Add("WiresQty", "3");
-            this.lengthParam = ((int)((double)this.BOM.FixtureConfiguration.Selection.RequestedLengthNormalizedToDecimalInch * 0.0833333));
+        
             this.ParamInput["LampQty"] = "1";
 
             try
             {
-                if (this.BOM.GetSelectedOpticsDirect_Category != null) ParamInput.Add("Optics", this.BOM.GetSelectedOpticsDirect_Category.ToString());
-                else ParamInput.Add("Optics", this.BOM.GetSelectedOpticsIndirect_Category.ToString());
+                if (this._FxConfig.Selection.OpticsDirect.SelectionBaseValue != null) ParamInput.Add("Optics", this._FxConfig.Selection.OpticsDirect.SelectionBaseValue);
+                else ParamInput.Add("Optics", this._FxConfig.Selection.OpticsIndirect.SelectionBaseValue);
             }
             catch (NullReferenceException)
             {
@@ -131,7 +143,7 @@ namespace Axis_ProdTimeDB.DAL
 
             try
             {
-                if (this.BOM.GetselectedproductID_Category.Contains("LED")) ParamInput.Add("Light", "led");
+                if (productID.Contains("LED")) ParamInput.Add("Light", "led");
                 else ParamInput.Add("Light", "fluorescent");
             }
             catch (NullReferenceException)
@@ -140,16 +152,8 @@ namespace Axis_ProdTimeDB.DAL
             }
 
             this.Initial();
-            try
-            {
-                if (this.BOM.BOM_Exist == true)
-                    this.ProductTime();
-                else this.ProductTimeManual();
-            }
-            catch (NullReferenceException)
-            {
-                this.ProductTimeManual();
-            }
+            this.ProductTime();
+            
             this.ProdFamTime();
             this.FixtureTime();
 
@@ -179,8 +183,11 @@ namespace Axis_ProdTimeDB.DAL
             var quotetest = quoteDtlSearchImpl.GetRows(whereClause, 0, 0, out morePage);
             //decimal runQty = quotetest.QuoteDtl[0].OrderQty;
 
-
-
+            QuoteDataSet quoteHed = this.quoteImpl.GetByID(quotenum);
+            bool closequote = false;
+            if (quoteHed.QuoteHed[0].QuoteClosed == true)
+                closequote = true;
+                this.quoteImpl.OpenCloseQuote(quotenum, false);
 
             foreach (var time in this.ProdTimeERP.Where(r => r.Value != 0).ToList())
             {
@@ -193,10 +200,13 @@ namespace Axis_ProdTimeDB.DAL
                 decimal OperationEstScrap = quote.EstScrap;
                 decimal AssxEstScrap = quote.EstScrap;
                 decimal value = 1 / Axis.Utilities.ProductionCalculation.GetEstimatedProductionLaborHours(runQty, estScrapType, OperationEstScrap, 0.0m, qtyPer, (decimal)time.Value, "MP", OperationsPerPart);
-                OH.Add(time.Key, (double)value);
+                OperationHour.Add(time.Key, (double)value);
                 this.UpdateTime(time.Key, value);
             }
-            //this.quoteAsmImpl.Update(QuoteDS);
+
+            if (closequote == true)
+                this.quoteImpl.OpenCloseQuote(quotenum, true);
+            
         }
 
 
@@ -244,26 +254,20 @@ namespace Axis_ProdTimeDB.DAL
         private void ProductTime()
         {
 
-            foreach (var section in this.BOM.BOM_Sections)
+            foreach (var section in this._FxConfig.Sections.Items)
             {
-
-                int length = (int)Math.Ceiling((double)section.Length / 40) * 4;
-                if (length > 12) length = 12;
-                if (this.BOM.BOM_Sections.Count() == 1)
-                {
-                    length = Int32.Parse(this.BOM.GetSelectedLength_Category);
-                    this.ParamInput["Section"] = "Complete Section";
-                }
+                int length = (int)section.CutLength / 12;
+                if (this._FxConfig.Sections.Count == 1) this.ParamInput["Section"] = "Complete Section";
                 else if (section.IsAtStart == true) this.ParamInput["Section"] = "SR1";
-                else if (section.IsAtMiddle == true) this.ParamInput["Section"] = "SRM";
                 else if (section.IsAtEnd == true) this.ParamInput["Section"] = "SRE";
-
+                else this.ParamInput["Section"] = "SRM";
+                
                 using (var db = new TimeContext())
                 {
 
                     List<ProdTB> product = db.Prod.Where(item => item.Type == prodtype && item.Code == this.productCode).ToList();
 
-                    this.ParamNames = db.Params.Select(m => m.ParamName).Distinct().ToList();
+                    //this.ParamNames = db.Params.Select(m => m.ParamName).Distinct().ToList();
 
                     foreach (var productindex in product)
                     {
@@ -284,74 +288,7 @@ namespace Axis_ProdTimeDB.DAL
 
             }
         }
-        private void ProductTimeManual()
-        {
-            if (this.sectionNum == 1)
-            {
-                this.ParamInput["Section"] = "Complete Section";
-                using (var db = new TimeContext())
-                {
-                    int length = 12;
-                    List<ProdTB> product = db.Prod.Where(item => item.Type == prodtype && item.Code == this.productCode).ToList();
-
-                    this.ParamNames = db.Params.Select(m => m.ParamName).Distinct().ToList();
-
-                    foreach (var productindex in product)
-                    {
-                        List<string> usedOption = new List<string>();
-
-                        foreach (var item in productindex.Options.Where(item => !usedOption.Contains(item.OptionName)
-                        && item.sectionLength == length))
-                        {
-
-                            this.addTime(item, ref usedOption, productindex);
-
-                        }
-                    }
-
-
-                }
-                return;
-            }
-            else
-            {
-
-                int sectionLength = this.lengthParam / this.sectionNum;
-                sectionLength = (sectionLength > 12) ? 12 : (sectionLength > 8) ? 8 : 4;
-                for (int i = 1; i <= this.sectionNum; i++)
-                {
-
-
-                    this.ParamInput["Section"] = (i == 1) ? "SR1" : (i == this.sectionNum) ? "SRE" : "SRM";
-                    using (var db = new TimeContext())
-                    {
-
-                        List<ProdTB> product = db.Prod.Where(item => item.Type == prodtype && item.Code == this.productCode).ToList();
-
-                        this.ParamNames = db.Params.Select(m => m.ParamName).Distinct().ToList();
-
-                        foreach (var productindex in product)
-                        {
-                            List<string> usedOption = new List<string>();
-
-                            foreach (var item in productindex.Options.Where(item => !usedOption.Contains(item.OptionName)
-                            && item.sectionLength == sectionLength))
-                            {
-
-                                this.addTime(item, ref usedOption, productindex);
-
-                            }
-                        }
-
-
-                    }
-
-
-                }
-
-            }
-        }
-
+     
         private void ProdFamTime()
         {
             using (var db = new TimeContext())
@@ -363,17 +300,12 @@ namespace Axis_ProdTimeDB.DAL
                 foreach (var product in prodfam)
                 {
 
-
                     List<string> usedOption = new List<string>();
 
                     foreach (var item in product.Options.Where(item => !usedOption.Contains(item.OptionName)))
 
                     {
-
-
                         this.addTime(item, ref usedOption, product);
-
-
 
                     }
 
@@ -420,7 +352,7 @@ namespace Axis_ProdTimeDB.DAL
                 //List<FixtureTB> fixture = db.Fixtures.Where(item => item.FxCode == this.fixtureCode).ToList();
                 try
                 {
-                    this.ParamInput["Mounting"] = this.BOM.GetSelectedMounting_Category;
+                    this.ParamInput["Mounting"] = this._FxConfig.Selection.Mounting.SelectionBaseValue;
                 }
                 catch (NullReferenceException)
                 {
