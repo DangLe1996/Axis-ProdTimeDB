@@ -10,7 +10,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{EA56E336-68A6-4584-A597-E18898245932}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>Exe</OutputType>
     <RootNamespace>Axis_ProdTimeDB</RootNamespace>
     <AssemblyName>Axis-ProdTimeDB</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -70,12 +70,11 @@
     </Reference>
     <Reference Include="AXISAutomation, Version=1.0.0.3, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Epicor\ERP10.1Client\Client\AXISAutomation.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>\\fs\data\RESEARCH + DEVELOPMENT\6 DW\Dev\BOM DLLs for Epicor\Local Release 0.16.2\AXISAutomation.dll</HintPath>
     </Reference>
-    <Reference Include="DBConnection">
-      <HintPath>..\..\..\..\..\Epicor\ERP10.1Client\Client\DBConnection.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="DBConnection, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>\\fs\data\RESEARCH + DEVELOPMENT\6 DW\Dev\BOM DLLs for Epicor\Local Release 0.16.2\DBConnection.dll</HintPath>
     </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
@@ -90,6 +89,10 @@
     <Reference Include="Epicor.ServiceModel">
       <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Epicor.ServiceModel.dll</HintPath>
       <Private>True</Private>
+    </Reference>
+    <Reference Include="Erp.Contracts.BO.OpMaster, Version=10.1.400.0, Culture=neutral, PublicKeyToken=5d3fa3c7105d7992, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>\\epicorerp\Epicor10Testserver\Assemblies\Erp.Contracts.BO.OpMaster.dll</HintPath>
     </Reference>
     <Reference Include="Erp.Contracts.BO.Quote, Version=10.1.400.0, Culture=neutral, PublicKeyToken=5d3fa3c7105d7992, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
